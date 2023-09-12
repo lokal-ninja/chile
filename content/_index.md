@@ -1,0 +1,1 @@
+Chile, oficialmente República de Chile,​ es un país soberano ubicado en el extremo sur de América del Sur. Adopta la forma de gobierno republicana, democrática, unitaria y presidencialista.​ Su capital, y ciudad más poblada, es Santiago. (Wikipedia)
