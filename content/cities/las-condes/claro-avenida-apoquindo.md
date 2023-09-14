@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /las-condes/claro/
+url: /las-condes/claro-avenida-apoquindo/
 shop: teléfono móvil
 ---

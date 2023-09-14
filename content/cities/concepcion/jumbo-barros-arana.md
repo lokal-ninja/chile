@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
-url: /concepcion/jumbo/
+url: /concepcion/jumbo-barros-arana/
 shop: supermercado
 ---

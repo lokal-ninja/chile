@@ -1,5 +1,5 @@
 ---
 title: "aCuenta"
-url: /valdivia/acuenta/
+url: /valdivia/acuenta-avenida-ramon-picarte/
 shop: supermercado
 ---

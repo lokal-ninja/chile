@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
-url: /talagante/tottus/
+url: /talagante/tottus-los-aromos/
 shop: supermercado
 ---

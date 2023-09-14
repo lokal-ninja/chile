@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /penalolen/almacen/
+url: /penalolen/almacen-el-parque/
 shop: comodidad
 ---

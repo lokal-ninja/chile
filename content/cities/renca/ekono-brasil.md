@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
-url: /renca/ekono/
+url: /renca/ekono-brasil/
 shop: supermercado
 ---

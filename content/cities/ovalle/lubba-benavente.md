@@ -1,5 +1,5 @@
 ---
 title: "Lubba"
-url: /ovalle/lubba/
+url: /ovalle/lubba-benavente/
 shop: mayorista
 ---

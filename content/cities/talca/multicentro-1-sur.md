@@ -1,5 +1,5 @@
 ---
 title: "Multicentro"
-url: /talca/multicentro/
+url: /talca/multicentro-1-sur/
 shop: grandes almacenes
 ---

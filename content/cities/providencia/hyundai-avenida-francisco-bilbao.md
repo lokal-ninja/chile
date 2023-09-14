@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
-url: /providencia/hyundai/
+url: /providencia/hyundai-avenida-francisco-bilbao/
 shop: coche
 ---

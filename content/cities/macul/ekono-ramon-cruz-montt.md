@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
-url: /macul/ekono/
+url: /macul/ekono-ramon-cruz-montt/
 shop: supermercado
 ---

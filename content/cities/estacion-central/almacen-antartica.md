@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /estacion-central/almacen/
+url: /estacion-central/almacen-antartica/
 shop: comodidad
 ---

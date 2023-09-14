@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /el-bosque/almacen/
+url: /el-bosque/almacen-las-moras/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
-url: /providencia/mitsubishi/
+url: /providencia/mitsubishi-el-aguilucho/
 shop: coche
 ---

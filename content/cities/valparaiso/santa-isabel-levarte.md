@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
-url: /valparaiso/santa-isabel/
+url: /valparaiso/santa-isabel-levarte/
 shop: supermercado
 ---

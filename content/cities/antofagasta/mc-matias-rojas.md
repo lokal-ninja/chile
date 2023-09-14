@@ -1,5 +1,5 @@
 ---
 title: "Mc"
-url: /antofagasta/mc/
+url: /antofagasta/mc-matias-rojas/
 shop: comodidad
 ---

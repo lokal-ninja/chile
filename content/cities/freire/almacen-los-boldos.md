@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /freire/almacen/
+url: /freire/almacen-los-boldos/
 shop: comodidad
 ---

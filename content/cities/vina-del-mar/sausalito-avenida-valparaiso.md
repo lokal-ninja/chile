@@ -1,5 +1,5 @@
 ---
 title: "Sausalito"
-url: /vina-del-mar/sausalito/
+url: /vina-del-mar/sausalito-avenida-valparaiso/
 shop: panadería
 ---

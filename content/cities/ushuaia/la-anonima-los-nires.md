@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
-url: /ushuaia/la-anonima/
+url: /ushuaia/la-anonima-los-nires/
 shop: supermercado
 ---

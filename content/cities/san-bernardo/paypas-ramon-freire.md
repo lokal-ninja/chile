@@ -1,5 +1,5 @@
 ---
 title: "Paypas"
-url: /san-bernardo/paypas/
+url: /san-bernardo/paypas-ramon-freire/
 shop: panadería
 ---

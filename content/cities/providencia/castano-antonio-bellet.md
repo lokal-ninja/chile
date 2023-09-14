@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
-url: /providencia/castano/
+url: /providencia/castano-antonio-bellet/
 shop: panadería
 ---

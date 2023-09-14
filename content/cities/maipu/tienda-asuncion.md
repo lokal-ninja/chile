@@ -1,5 +1,5 @@
 ---
 title: "tienda"
-url: /maipu/tienda/
+url: /maipu/tienda-asuncion/
 shop: general
 ---

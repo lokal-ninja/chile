@@ -1,5 +1,5 @@
 ---
 title: "Honda"
-url: /nunoa/honda/
+url: /nunoa/honda-avenida-ossa/
 shop: motocicleta
 ---

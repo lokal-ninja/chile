@@ -1,5 +1,5 @@
 ---
 title: "Tromed"
-url: /quilpue/tromed/
+url: /quilpue/tromed-vicuna-mackenna/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Erbi"
-url: /santiago/erbi/
+url: /santiago/erbi-san-diego/
 shop: comodidad
 ---

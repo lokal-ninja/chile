@@ -1,5 +1,5 @@
 ---
 title: "Botillería"
-url: /nunoa/botilleria/
+url: /nunoa/botilleria-avenida-grecia/
 shop: alcohol
 ---

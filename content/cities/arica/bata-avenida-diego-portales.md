@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /arica/bata/
+url: /arica/bata-avenida-diego-portales/
 shop: zapatos
 ---

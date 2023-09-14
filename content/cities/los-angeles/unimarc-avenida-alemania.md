@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /los-angeles/unimarc/
+url: /los-angeles/unimarc-avenida-alemania/
 shop: supermercado
 ---

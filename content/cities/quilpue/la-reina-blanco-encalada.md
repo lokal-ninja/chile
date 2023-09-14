@@ -1,5 +1,5 @@
 ---
 title: "La Reina"
-url: /quilpue/la-reina/
+url: /quilpue/la-reina-blanco-encalada/
 shop: zapatos
 ---

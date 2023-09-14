@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
-url: /freire/almacen/
+url: /freire/almacen-robinson-crusoe/
 shop: comodidad
 ---

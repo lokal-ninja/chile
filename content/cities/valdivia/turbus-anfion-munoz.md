@@ -1,5 +1,5 @@
 ---
 title: "Turbus"
-url: /valdivia/turbus/
+url: /valdivia/turbus-anfion-munoz/
 shop: entradas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
-url: /nunoa/peluqueria/
+url: /nunoa/peluqueria-avenida-jose-pedro-alessandri/
 shop: peluquería
 ---

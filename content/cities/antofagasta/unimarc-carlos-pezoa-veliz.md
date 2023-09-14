@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /antofagasta/unimarc/
+url: /antofagasta/unimarc-carlos-pezoa-veliz/
 shop: supermercado
 ---

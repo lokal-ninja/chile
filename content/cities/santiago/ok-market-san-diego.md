@@ -1,5 +1,5 @@
 ---
 title: "OK Market"
-url: /santiago/ok-market/
+url: /santiago/ok-market-san-diego/
 shop: comodidad
 ---

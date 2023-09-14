@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
-url: /pucon/oasis/
+url: /pucon/oasis-lincoyan/
 shop: lavandería
 ---

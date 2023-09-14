@@ -1,5 +1,5 @@
 ---
 title: "Lider"
-url: /antofagasta/lider/
+url: /antofagasta/lider-caparrosa/
 shop: supermercado
 ---

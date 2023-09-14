@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
-url: /temuco/falabella/
+url: /temuco/falabella-claro-solar/
 shop: grandes almacenes
 ---

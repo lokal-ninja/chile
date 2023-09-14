@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
-url: /valdivia/minimarket/
+url: /valdivia/minimarket-donald-canter/
 shop: comodidad
 ---

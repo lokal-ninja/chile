@@ -1,5 +1,5 @@
 ---
 title: "Olfos"
-url: /villa-alemana/olfos/
+url: /villa-alemana/olfos-2/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Upa!"
-url: /huechuraba/upa/
+url: /huechuraba/upa-santa-marta-de-huechuraba/
 shop: comodidad
 ---

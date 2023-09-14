@@ -1,5 +1,5 @@
 ---
 title: "Patuelli"
-url: /san-bernardo/patuelli/
+url: /san-bernardo/patuelli-eyzaguirre/
 shop: zapatos
 ---

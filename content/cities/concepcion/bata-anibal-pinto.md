@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /concepcion/bata/
+url: /concepcion/bata-anibal-pinto/
 shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central"
-url: /quilpue/central/
+url: /quilpue/central-claudio-vicuna/
 shop: panadería
 ---

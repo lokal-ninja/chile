@@ -1,5 +1,5 @@
 ---
 title: "Don Pancho"
-url: /quilpue/don-pancho/
+url: /quilpue/don-pancho-constitucion/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delicatessen"
-url: /puerto-varas/delicatessen/
+url: /puerto-varas/delicatessen-avenida-colon/
 shop: panadería
 ---

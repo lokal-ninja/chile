@@ -1,5 +1,5 @@
 ---
 title: "Miami"
-url: /quilpue/miami/
+url: /quilpue/miami-caupolican/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OK Market"
-url: /las-condes/ok-market/
+url: /las-condes/ok-market-martin-de-zamora/
 shop: comodidad
 ---

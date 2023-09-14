@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
-url: /valdivia/minimarket/
+url: /valdivia/minimarket-baltazar-mejias/
 shop: comodidad
 ---

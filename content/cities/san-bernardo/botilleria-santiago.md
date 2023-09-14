@@ -1,5 +1,5 @@
 ---
 title: "Botilleria"
-url: /san-bernardo/botilleria/
+url: /san-bernardo/botilleria-santiago/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /calama/unimarc/
+url: /calama/unimarc-aconcagua/
 shop: supermercado
 ---

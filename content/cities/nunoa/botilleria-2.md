@@ -1,5 +1,5 @@
 ---
 title: "Botilleria"
-url: /nunoa/botilleria/
+url: /nunoa/botilleria-2/
 shop: alcohol
 ---

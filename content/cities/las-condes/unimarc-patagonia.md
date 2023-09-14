@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /las-condes/unimarc/
+url: /las-condes/unimarc-patagonia/
 shop: supermercado
 ---

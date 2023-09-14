@@ -1,5 +1,5 @@
 ---
 title: "Botillería"
-url: /nunoa/botilleria/
+url: /nunoa/botilleria-simon-bolivar/
 shop: general
 ---

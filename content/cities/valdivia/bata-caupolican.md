@@ -1,5 +1,5 @@
 ---
 title: "Bata"
-url: /valdivia/bata/
+url: /valdivia/bata-caupolican/
 shop: zapatos
 ---

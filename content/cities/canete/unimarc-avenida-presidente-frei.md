@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /canete/unimarc/
+url: /canete/unimarc-avenida-presidente-frei/
 shop: supermercado
 ---

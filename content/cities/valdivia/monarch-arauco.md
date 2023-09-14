@@ -1,5 +1,5 @@
 ---
 title: "Monarch"
-url: /valdivia/monarch/
+url: /valdivia/monarch-arauco/
 shop: ropa
 ---

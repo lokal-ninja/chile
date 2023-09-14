@@ -1,5 +1,5 @@
 ---
 title: "Upa!"
-url: /vitacura/upa/
+url: /vitacura/upa-las-hualtatas/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /osorno/unimarc/
+url: /osorno/unimarc-patricio-lynch/
 shop: supermercado
 ---

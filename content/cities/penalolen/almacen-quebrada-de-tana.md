@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /penalolen/almacen/
+url: /penalolen/almacen-quebrada-de-tana/
 shop: comodidad
 ---

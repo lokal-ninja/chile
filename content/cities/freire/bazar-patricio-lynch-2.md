@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
-url: /freire/bazar/
+url: /freire/bazar-patricio-lynch-2/
 shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coseche"
-url: /vitacura/coseche/
+url: /vitacura/coseche-avenida-vitacura/
 shop: coche
 ---

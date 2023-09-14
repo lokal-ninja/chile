@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /vitacura/oxxo/
+url: /vitacura/oxxo-avenida-vitacura/
 shop: comodidad
 ---

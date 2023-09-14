@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
-url: /freire/bazar/
+url: /freire/bazar-avenida-juan-schleyer/
 shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
-url: /penalolen/almacen/
+url: /penalolen/almacen-las-vertientes/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mery's"
-url: /quilpue/merys/
+url: /quilpue/merys-avenida-ramon-freire/
 shop: panadería
 ---

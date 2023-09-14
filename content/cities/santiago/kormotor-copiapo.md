@@ -1,5 +1,5 @@
 ---
 title: "Kormotor"
-url: /santiago/kormotor/
+url: /santiago/kormotor-copiapo/
 shop: reparación de automóviles
 ---

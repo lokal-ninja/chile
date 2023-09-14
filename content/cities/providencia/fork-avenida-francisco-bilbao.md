@@ -1,5 +1,5 @@
 ---
 title: "Fork"
-url: /providencia/fork/
+url: /providencia/fork-avenida-francisco-bilbao/
 shop: alimentación sana
 ---

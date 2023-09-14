@@ -1,5 +1,5 @@
 ---
 title: "OK Market"
-url: /nunoa/ok-market/
+url: /nunoa/ok-market-avenida-tobalaba/
 shop: comodidad
 ---

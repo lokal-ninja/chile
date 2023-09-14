@@ -1,5 +1,5 @@
 ---
 title: "Botilleria San Sebastian"
-url: /valdivia/botilleria-san-sebastian/
+url: /valdivia/botilleria-san-sebastian-las-heras/
 shop: alcohol
 ---

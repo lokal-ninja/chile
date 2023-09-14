@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /las-condes/oxxo/
+url: /las-condes/oxxo-isidora-goyenechea/
 shop: comodidad
 ---

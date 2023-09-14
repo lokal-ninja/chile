@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
-url: /colina/tottus/
+url: /colina/tottus-avenida-del-valle/
 shop: supermercado
 ---

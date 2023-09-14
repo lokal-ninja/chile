@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /el-bosque/almacen/
+url: /el-bosque/almacen-los-cisnes-2/
 shop: comodidad
 ---

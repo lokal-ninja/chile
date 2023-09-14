@@ -1,5 +1,5 @@
 ---
 title: "Botilleria"
-url: /maipu/botilleria/
+url: /maipu/botilleria-asuncion/
 shop: alcohol
 ---

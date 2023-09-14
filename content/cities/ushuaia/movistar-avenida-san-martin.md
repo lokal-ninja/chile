@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /ushuaia/movistar/
+url: /ushuaia/movistar-avenida-san-martin/
 shop: teléfono móvil
 ---

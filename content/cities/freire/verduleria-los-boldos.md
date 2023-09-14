@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
-url: /freire/verduleria/
+url: /freire/verduleria-los-boldos/
 shop: frutería
 ---

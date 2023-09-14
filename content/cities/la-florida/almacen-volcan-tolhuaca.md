@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
-url: /la-florida/almacen/
+url: /la-florida/almacen-volcan-tolhuaca/
 shop: comodidad
 ---

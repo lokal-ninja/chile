@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
-url: /puerto-montt/santa-isabel/
+url: /puerto-montt/santa-isabel-avenida-austral/
 shop: supermercado
 ---

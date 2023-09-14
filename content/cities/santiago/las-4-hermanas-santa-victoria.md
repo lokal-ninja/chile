@@ -1,5 +1,5 @@
 ---
 title: "Las 4 Hermanas"
-url: /santiago/las-4-hermanas/
+url: /santiago/las-4-hermanas-santa-victoria/
 shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lider"
-url: /puerto-montt/lider/
+url: /puerto-montt/lider-avenida-ferrocarril/
 shop: supermercado
 ---

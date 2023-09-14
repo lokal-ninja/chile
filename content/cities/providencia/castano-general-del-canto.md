@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
-url: /providencia/castano/
+url: /providencia/castano-general-del-canto/
 shop: panadería
 ---

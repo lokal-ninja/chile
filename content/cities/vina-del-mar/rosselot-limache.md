@@ -1,5 +1,5 @@
 ---
 title: "Rosselot"
-url: /vina-del-mar/rosselot/
+url: /vina-del-mar/rosselot-limache/
 shop: coche
 ---

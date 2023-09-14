@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
-url: /castro/lippi/
+url: /castro/lippi-eleuterio-ramirez/
 shop: exterior
 ---

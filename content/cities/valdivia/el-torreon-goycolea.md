@@ -1,5 +1,5 @@
 ---
 title: "El Torreón"
-url: /valdivia/el-torreon/
+url: /valdivia/el-torreon-goycolea/
 shop: panadería
 ---

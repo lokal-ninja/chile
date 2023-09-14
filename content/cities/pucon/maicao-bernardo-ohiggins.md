@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
-url: /pucon/maicao/
+url: /pucon/maicao-bernardo-ohiggins/
 shop: cosméticos
 ---

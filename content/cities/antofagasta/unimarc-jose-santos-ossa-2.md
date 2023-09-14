@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /antofagasta/unimarc/
+url: /antofagasta/unimarc-jose-santos-ossa-2/
 shop: supermercado
 ---

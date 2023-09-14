@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
-url: /providencia/lider-express/
+url: /providencia/lider-express-avenida-tobalaba/
 shop: supermercado
 ---

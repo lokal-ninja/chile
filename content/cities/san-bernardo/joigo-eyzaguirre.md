@@ -1,5 +1,5 @@
 ---
 title: "Joigo"
-url: /san-bernardo/joigo/
+url: /san-bernardo/joigo-eyzaguirre/
 shop: electrónica
 ---

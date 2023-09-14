@@ -1,5 +1,5 @@
 ---
 title: "Kuna"
-url: /vitacura/kuna/
+url: /vitacura/kuna-alonso-de-cordova/
 shop: ropa
 ---

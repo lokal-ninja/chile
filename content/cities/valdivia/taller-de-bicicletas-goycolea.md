@@ -1,5 +1,5 @@
 ---
 title: "Taller de Bicicletas"
-url: /valdivia/taller-de-bicicletas/
+url: /valdivia/taller-de-bicicletas-goycolea/
 shop: bicicleta
 ---

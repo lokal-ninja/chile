@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
-url: /copiapo/unimarc/
+url: /copiapo/unimarc-chacabuco/
 shop: supermercado
 ---

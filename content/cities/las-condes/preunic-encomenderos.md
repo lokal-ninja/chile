@@ -1,5 +1,5 @@
 ---
 title: "PreUnic"
-url: /las-condes/preunic/
+url: /las-condes/preunic-encomenderos/
 shop: comodidad
 ---

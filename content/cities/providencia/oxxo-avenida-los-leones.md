@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
-url: /providencia/oxxo/
+url: /providencia/oxxo-avenida-los-leones/
 shop: comodidad
 ---

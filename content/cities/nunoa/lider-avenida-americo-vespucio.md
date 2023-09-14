@@ -1,5 +1,5 @@
 ---
 title: "Lider"
-url: /nunoa/lider/
+url: /nunoa/lider-avenida-americo-vespucio/
 shop: supermercado
 ---

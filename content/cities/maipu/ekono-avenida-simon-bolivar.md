@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
-url: /maipu/ekono/
+url: /maipu/ekono-avenida-simon-bolivar/
 shop: supermercado
 ---
