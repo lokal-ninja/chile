@@ -1,6 +1,6 @@
 ---
 title: Pucón
 url: /pucon/
-latitude: -39.284
-longitude: -71.95
+latitude: -39.28
+longitude: -71.977
 ---
