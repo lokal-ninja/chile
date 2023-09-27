@@ -1,6 +1,6 @@
 ---
 title: Talagante
 url: /talagante/
-latitude: -33.664
-longitude: -70.928
+latitude: -33.663
+longitude: -70.926
 ---
