@@ -1,5 +1,5 @@
 ---
 title: "El Coloso"
 url: /puerto-montt/el-coloso/
-shop: juguetes
+shop: exterior
 ---
