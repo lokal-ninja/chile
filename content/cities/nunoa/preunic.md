@@ -1,5 +1,5 @@
 ---
-title: "PreUnic"
+title: "Preunic"
 url: /nunoa/preunic/
-shop: general
+shop: farmacia
 ---

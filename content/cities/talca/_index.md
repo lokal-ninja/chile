@@ -1,6 +1,6 @@
 ---
 title: Talca
 url: /talca/
-latitude: -35.418
-longitude: -71.658
+latitude: -35.46
+longitude: -71.673
 ---
