@@ -1,6 +1,6 @@
 ---
 title: Labranza
 url: /labranza/
-latitude: -38.768
-longitude: -72.77
+latitude: -38.767
+longitude: -72.768
 ---
