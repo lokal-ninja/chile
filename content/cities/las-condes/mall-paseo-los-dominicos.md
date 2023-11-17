@@ -1,5 +1,5 @@
 ---
-title: "MALL PASEO LOS DOMINICOS"
+title: "Mall Paseo Los Dominicos"
 url: /las-condes/mall-paseo-los-dominicos/
 shop: centro comercial
 ---
