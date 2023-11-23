@@ -1,5 +1,5 @@
 ---
 title: "Fuchs"
-url: /las-condes/fuchs-2/
+url: /las-condes/fuchs-callao/
 shop: panadería
 ---

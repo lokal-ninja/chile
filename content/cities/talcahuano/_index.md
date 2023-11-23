@@ -1,6 +1,6 @@
 ---
 title: Talcahuano
 url: /talcahuano/
-latitude: -36.713
-longitude: -73.115
+latitude: -36.791
+longitude: -73.069
 ---
