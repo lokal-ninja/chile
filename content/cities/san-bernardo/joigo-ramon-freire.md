@@ -1,5 +1,5 @@
 ---
 title: "Joigo"
-url: /san-bernardo/joigo-eyzaguirre/
+url: /san-bernardo/joigo-ramon-freire/
 shop: electrónica
 ---
