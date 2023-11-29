@@ -1,6 +1,6 @@
 ---
 title: Antofagasta
 url: /antofagasta/
-latitude: -23.584
-longitude: -70.381
+latitude: -23.637
+longitude: -70.396
 ---
