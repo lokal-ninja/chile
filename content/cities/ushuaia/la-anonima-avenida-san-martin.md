@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
-url: /ushuaia/la-anonima-gobernador-felix-paz/
+url: /ushuaia/la-anonima-avenida-san-martin/
 shop: supermercado
 ---
