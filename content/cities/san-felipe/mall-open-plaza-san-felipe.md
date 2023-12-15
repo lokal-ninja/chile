@@ -1,5 +1,5 @@
 ---
-title: "MALL OPEN PLAZA SAN FELIPE"
+title: "MALL OPEN PLAZA San FELIPE"
 url: /san-felipe/mall-open-plaza-san-felipe/
 shop: centro comercial
 ---
