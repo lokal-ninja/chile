@@ -1,5 +1,5 @@
 ---
-title: "DIVAS"
+title: "Divas"
 url: /valdivia/divas/
 shop: ropa
 ---
