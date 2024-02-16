@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria Maderas Chiloe"
+title: "Ferreteria Maderas Chiloé"
 url: /ancud/ferreteria-maderas-chiloe/
 shop: hágalo usted mismo
 ---
