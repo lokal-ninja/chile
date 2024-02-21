@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
-url: /valdivia/minimarket-donald-canter/
+url: /valdivia/minimarket-los-aguiluchos/
 shop: comodidad
 ---

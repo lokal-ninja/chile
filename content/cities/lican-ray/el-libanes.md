@@ -1,5 +1,5 @@
 ---
-title: "El Libanes"
+title: "El Libanés"
 url: /lican-ray/el-libanes/
 shop: supermercado
 ---
