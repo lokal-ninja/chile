@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
-url: /valdivia/minimarket-alonso-ocho/
+url: /valdivia/minimarket-los-aguiluchos/
 shop: comodidad
 ---
