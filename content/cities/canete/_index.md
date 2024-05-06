@@ -1,6 +1,6 @@
 ---
-title: cañete
+title: Cañete
 url: /canete/
-latitude: -37.776
-longitude: -73.377
+latitude: -37.801
+longitude: -73.399
 ---
