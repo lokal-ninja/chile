@@ -1,5 +1,5 @@
 ---
 title: "GMO"
-url: /santiago/gmo-2/
+url: /santiago/gmo-moneda/
 shop: general
 ---
