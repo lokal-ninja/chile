@@ -1,5 +1,5 @@
 ---
-title: "mi bicio"
+title: "Mi Bicio"
 url: /providencia/mi-bicio/
 shop: bicicleta
 ---
