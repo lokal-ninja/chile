@@ -1,5 +1,5 @@
 ---
-title: "Líder"
+title: "Lider"
 url: /concepcion/lider/
 shop: supermercado
 ---

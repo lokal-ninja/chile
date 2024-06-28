@@ -1,5 +1,5 @@
 ---
-title: "San Andres"
+title: "San Andrés"
 url: /concepcion/san-andres/
 shop: comodidad
 ---
