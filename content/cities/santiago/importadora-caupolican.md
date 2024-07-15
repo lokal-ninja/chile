@@ -1,5 +1,5 @@
 ---
-title: "Importadora Caupolican"
+title: "Importadora Caupolicán"
 url: /santiago/importadora-caupolican/
 shop: bicicleta
 ---

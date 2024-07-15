@@ -1,5 +1,5 @@
 ---
 title: "Liquimax"
 url: /nunoa/liquimax/
-shop: general
+shop: farmacia
 ---
