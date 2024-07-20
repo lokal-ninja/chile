@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
-url: /pudahuel/ekono-avenida-san-pablo/
+url: /pudahuel/ekono-san-pablo/
 shop: supermercado
 ---
