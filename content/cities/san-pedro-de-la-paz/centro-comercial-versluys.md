@@ -1,5 +1,5 @@
 ---
-title: "CENTRO COMERCIAL VERSLUYS"
+title: "Centro Comercial Versluys"
 url: /san-pedro-de-la-paz/centro-comercial-versluys/
 shop: general
 ---

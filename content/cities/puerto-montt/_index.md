@@ -1,6 +1,6 @@
 ---
 title: Puerto Montt
 url: /puerto-montt/
-latitude: -41.469
-longitude: -72.932
+latitude: -41.454
+longitude: -72.924
 ---
