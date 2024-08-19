@@ -1,6 +1,6 @@
 ---
 title: Recoleta
 url: /recoleta/
-latitude: -33.422
-longitude: -70.644
+latitude: -33.402
+longitude: -70.643
 ---
