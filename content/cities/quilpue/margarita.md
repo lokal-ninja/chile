@@ -1,5 +1,5 @@
 ---
 title: "Margarita"
 url: /quilpue/margarita/
-shop: panadería
+shop: Bäckerei
 ---

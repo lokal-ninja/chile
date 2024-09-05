@@ -1,5 +1,5 @@
 ---
 title: "Casa Chocolate"
 url: /san-jose-de-maipo/casa-chocolate/
-shop: café
+shop: Kaffee
 ---

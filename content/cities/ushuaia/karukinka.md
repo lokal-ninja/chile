@@ -1,5 +1,5 @@
 ---
 title: "Karukinka"
 url: /ushuaia/karukinka/
-shop: libros
+shop: Bücher
 ---

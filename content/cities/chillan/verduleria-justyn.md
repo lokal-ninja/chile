@@ -1,5 +1,5 @@
 ---
 title: "Verduleria Justyn"
 url: /chillan/verduleria-justyn/
-shop: frutería
+shop: Gemüse & Obst
 ---

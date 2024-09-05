@@ -1,5 +1,5 @@
 ---
 title: "Botillería San Juan"
 url: /antofagasta/botilleria-san-juan/
-shop: alcohol
+shop: Spirituosen
 ---

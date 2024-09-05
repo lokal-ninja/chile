@@ -1,5 +1,5 @@
 ---
 title: "La Anónima"
 url: /rio-turbio/la-anonima/
-shop: supermercado
+shop: Supermarkt
 ---

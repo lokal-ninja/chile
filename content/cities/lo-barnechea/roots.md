@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /lo-barnechea/roots/
-shop: general
+shop: Allgemein
 ---

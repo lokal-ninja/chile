@@ -1,5 +1,5 @@
 ---
 title: "Winko"
 url: /vitacura/winko/
-shop: decoración interior
+shop: Raumausstattung
 ---

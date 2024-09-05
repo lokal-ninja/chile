@@ -1,5 +1,5 @@
 ---
 title: "Varsoviene"
 url: /quilpue/varsoviene/
-shop: chocolate
+shop: Schokolade
 ---

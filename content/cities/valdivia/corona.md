@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /valdivia/corona/
-shop: ropa
+shop: Kleidung
 ---

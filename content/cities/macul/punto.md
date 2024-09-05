@@ -1,5 +1,5 @@
 ---
 title: "Punto"
 url: /macul/punto/
-shop: comodidad
+shop: Lebensmittel
 ---

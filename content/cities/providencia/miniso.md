@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /providencia/miniso/
-shop: tienda de variedades
+shop: Kramladen
 ---

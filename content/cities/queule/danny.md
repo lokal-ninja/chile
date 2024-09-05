@@ -1,5 +1,5 @@
 ---
 title: "Danny"
 url: /queule/danny/
-shop: supermercado
+shop: Supermarkt
 ---

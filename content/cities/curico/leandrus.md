@@ -1,5 +1,5 @@
 ---
 title: "Leandrus"
 url: /curico/leandrus/
-shop: comodidad
+shop: Lebensmittel
 ---

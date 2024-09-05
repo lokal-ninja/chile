@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /curico/tottus/
-shop: supermercado
+shop: Supermarkt
 ---

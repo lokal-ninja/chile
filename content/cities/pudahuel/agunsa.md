@@ -1,5 +1,5 @@
 ---
 title: "Agunsa"
 url: /pudahuel/agunsa/
-shop: alquiler
+shop: Mieten
 ---

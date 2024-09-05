@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /castro/head/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

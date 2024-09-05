@@ -1,5 +1,5 @@
 ---
 title: "Montalva"
 url: /quilpue/montalva/
-shop: panadería
+shop: Bäckerei
 ---

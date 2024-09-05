@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
 url: /pucon/lippi/
-shop: ropa
+shop: Kleidung
 ---

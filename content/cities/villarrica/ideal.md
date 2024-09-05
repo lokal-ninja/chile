@@ -1,5 +1,5 @@
 ---
 title: "Ideal"
 url: /villarrica/ideal/
-shop: supermercado
+shop: Supermarkt
 ---

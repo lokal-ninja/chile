@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /villa-alemana/sarita/
-shop: peluquería
+shop: Friseur
 ---

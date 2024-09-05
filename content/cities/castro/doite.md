@@ -1,5 +1,5 @@
 ---
 title: "Doite"
 url: /castro/doite/
-shop: ropa
+shop: Kleidung
 ---

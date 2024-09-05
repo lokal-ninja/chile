@@ -1,5 +1,5 @@
 ---
 title: "La Caserita"
 url: /quilpue/la-caserita/
-shop: frutería
+shop: Gemüse & Obst
 ---

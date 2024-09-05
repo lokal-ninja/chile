@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /talagante/bata/
-shop: zapatos
+shop: Schuhe
 ---

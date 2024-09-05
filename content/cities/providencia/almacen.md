@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /providencia/almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

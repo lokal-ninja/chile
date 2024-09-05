@@ -1,5 +1,5 @@
 ---
 title: "Arafer"
 url: /quilpue/arafer/
-shop: mascotas
+shop: Tiere
 ---

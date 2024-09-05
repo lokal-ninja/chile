@@ -1,5 +1,5 @@
 ---
 title: "Rukapet"
 url: /la-reina/rukapet/
-shop: mascotas
+shop: Tiere
 ---

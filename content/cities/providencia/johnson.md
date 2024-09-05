@@ -1,5 +1,5 @@
 ---
 title: "Johnson"
 url: /providencia/johnson/
-shop: ropa
+shop: Kleidung
 ---

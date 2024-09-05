@@ -1,5 +1,5 @@
 ---
 title: "Discount House"
 url: /la-serena/discount-house/
-shop: ropa
+shop: Kleidung
 ---

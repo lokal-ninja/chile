@@ -1,5 +1,5 @@
 ---
 title: "Diamantino"
 url: /la-reina/diamantino/
-shop: cosméticos
+shop: Kosmetik
 ---

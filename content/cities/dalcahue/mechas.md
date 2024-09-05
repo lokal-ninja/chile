@@ -1,5 +1,5 @@
 ---
 title: "Mechas"
 url: /dalcahue/mechas/
-shop: peluquería
+shop: Friseur
 ---

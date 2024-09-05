@@ -1,5 +1,5 @@
 ---
 title: "MiniMarket Eduardo"
 url: /lo-espejo/minimarket-eduardo/
-shop: comodidad
+shop: Lebensmittel
 ---

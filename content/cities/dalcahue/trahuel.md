@@ -1,5 +1,5 @@
 ---
 title: "Trahuel"
 url: /dalcahue/trahuel/
-shop: supermercado
+shop: Supermarkt
 ---

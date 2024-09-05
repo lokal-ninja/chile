@@ -1,5 +1,5 @@
 ---
 title: "Sohel Nazar"
 url: /quinta-normal/sohel-nazar/
-shop: general
+shop: Allgemein
 ---

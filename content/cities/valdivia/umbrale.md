@@ -1,5 +1,5 @@
 ---
 title: "Umbrale"
 url: /valdivia/umbrale/
-shop: ropa
+shop: Kleidung
 ---

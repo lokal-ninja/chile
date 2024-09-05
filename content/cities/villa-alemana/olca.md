@@ -1,5 +1,5 @@
 ---
 title: "Olca"
 url: /villa-alemana/olca/
-shop: panadería
+shop: Bäckerei
 ---

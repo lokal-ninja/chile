@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
 url: /osorno/lippi/
-shop: exterior
+shop: Outdoor
 ---

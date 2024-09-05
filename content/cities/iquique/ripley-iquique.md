@@ -1,5 +1,5 @@
 ---
 title: "Ripley Iquique"
 url: /iquique/ripley-iquique/
-shop: grandes almacenes
+shop: Warenhaus
 ---

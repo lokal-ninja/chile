@@ -1,5 +1,5 @@
 ---
 title: "Cugat"
 url: /osorno/cugat/
-shop: supermercado
+shop: Supermarkt
 ---

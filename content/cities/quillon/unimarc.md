@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /quillon/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

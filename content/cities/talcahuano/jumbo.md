@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /talcahuano/jumbo/
-shop: supermercado
+shop: Supermarkt
 ---

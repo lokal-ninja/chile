@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /las-condes/luna/
-shop: comodidad
+shop: Lebensmittel
 ---

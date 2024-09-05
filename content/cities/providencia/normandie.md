@@ -1,5 +1,5 @@
 ---
 title: "Normandie"
 url: /providencia/normandie/
-shop: general
+shop: Allgemein
 ---

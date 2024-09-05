@@ -1,5 +1,5 @@
 ---
 title: "Screen Graf"
 url: /santiago/screen-graf/
-shop: general
+shop: Allgemein
 ---

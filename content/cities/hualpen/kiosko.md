@@ -1,5 +1,5 @@
 ---
 title: "Kiosko"
 url: /hualpen/kiosko/
-shop: quiosco
+shop: Kiosk
 ---

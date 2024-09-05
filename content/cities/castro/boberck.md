@@ -1,5 +1,5 @@
 ---
 title: "Boberck"
 url: /castro/boberck/
-shop: ropa
+shop: Kleidung
 ---

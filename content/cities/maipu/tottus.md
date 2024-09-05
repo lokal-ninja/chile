@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /maipu/tottus/
-shop: supermercado
+shop: Supermarkt
 ---

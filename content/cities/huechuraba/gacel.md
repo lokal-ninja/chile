@@ -1,5 +1,5 @@
 ---
 title: "Gacel"
 url: /huechuraba/gacel/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majen"
 url: /pucon/majen/
-shop: cosméticos
+shop: Kosmetik
 ---

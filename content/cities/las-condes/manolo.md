@@ -1,5 +1,5 @@
 ---
 title: "Manolo"
 url: /las-condes/manolo/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lebron"
 url: /quilpue/lebron/
-shop: comodidad
+shop: Lebensmittel
 ---

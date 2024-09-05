@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /san-pedro-de-la-paz/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eva"
 url: /santiago/eva/
-shop: alcohol
+shop: Spirituosen
 ---

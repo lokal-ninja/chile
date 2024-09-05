@@ -1,5 +1,5 @@
 ---
 title: "Saxoline"
 url: /valdivia/saxoline/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

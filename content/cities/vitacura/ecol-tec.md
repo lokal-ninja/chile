@@ -1,5 +1,5 @@
 ---
 title: "Ecol Tec"
 url: /vitacura/ecol-tec/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Churrolandia"
 url: /antofagasta/churrolandia/
-shop: pastelería
+shop: Konditorei
 ---

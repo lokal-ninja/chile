@@ -1,5 +1,5 @@
 ---
 title: "Shea"
 url: /nacimiento/shea/
-shop: alcohol
+shop: Spirituosen
 ---

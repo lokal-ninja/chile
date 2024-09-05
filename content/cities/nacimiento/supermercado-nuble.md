@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Ñuble"
 url: /nacimiento/supermercado-nuble/
-shop: supermercado
+shop: Supermarkt
 ---

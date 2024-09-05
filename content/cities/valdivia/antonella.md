@@ -1,5 +1,5 @@
 ---
 title: "Antonella"
 url: /valdivia/antonella/
-shop: peluquería
+shop: Friseur
 ---

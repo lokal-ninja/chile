@@ -1,5 +1,5 @@
 ---
 title: "Lanalhue"
 url: /penalolen/lanalhue/
-shop: alcohol
+shop: Spirituosen
 ---

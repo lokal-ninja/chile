@@ -1,5 +1,5 @@
 ---
 title: "Líquidos.cl"
 url: /providencia/liquidos-cl-avenida-francisco-bilbao/
-shop: alcohol
+shop: Spirituosen
 ---

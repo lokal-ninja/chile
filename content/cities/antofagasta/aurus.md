@@ -1,5 +1,5 @@
 ---
 title: "Aurus"
 url: /antofagasta/aurus/
-shop: joyería
+shop: Schmuck
 ---

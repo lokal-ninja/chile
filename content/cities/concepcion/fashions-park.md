@@ -1,5 +1,5 @@
 ---
 title: "Fashion's Park"
 url: /concepcion/fashions-park/
-shop: ropa
+shop: Kleidung
 ---

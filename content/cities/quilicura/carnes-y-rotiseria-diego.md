@@ -1,5 +1,5 @@
 ---
 title: "Carnes y Rotisería Diego"
 url: /quilicura/carnes-y-rotiseria-diego/
-shop: carnicero
+shop: Metzgerei
 ---

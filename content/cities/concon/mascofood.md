@@ -1,5 +1,5 @@
 ---
 title: "Mascofood"
 url: /concon/mascofood/
-shop: mascotas
+shop: Tiere
 ---

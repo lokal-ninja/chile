@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /providencia/lider/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /santiago/paris/
-shop: grandes almacenes
+shop: Warenhaus
 ---

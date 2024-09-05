@@ -1,5 +1,5 @@
 ---
 title: "Entre Playa"
 url: /niebla/entre-playa/
-shop: alcohol
+shop: Spirituosen
 ---

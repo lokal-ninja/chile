@@ -1,5 +1,5 @@
 ---
 title: "Librería Gayoso"
 url: /pitrufquen/libreria-gayoso/
-shop: libros
+shop: Bücher
 ---

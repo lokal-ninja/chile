@@ -1,5 +1,5 @@
 ---
 title: "Pronto Matic"
 url: /la-reina/pronto-matic/
-shop: lavandería
+shop: Wäscherei
 ---

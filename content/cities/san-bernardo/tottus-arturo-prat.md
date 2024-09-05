@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /san-bernardo/tottus-arturo-prat/
-shop: supermercado
+shop: Supermarkt
 ---

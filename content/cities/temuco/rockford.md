@@ -1,5 +1,5 @@
 ---
 title: "Rockford"
 url: /temuco/rockford/
-shop: ropa
+shop: Kleidung
 ---

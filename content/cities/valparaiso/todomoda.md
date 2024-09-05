@@ -1,5 +1,5 @@
 ---
 title: "TodoModa"
 url: /valparaiso/todomoda/
-shop: ropa
+shop: Kleidung
 ---

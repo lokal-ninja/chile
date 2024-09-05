@@ -1,5 +1,5 @@
 ---
 title: "Frutería"
 url: /freire/fruteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

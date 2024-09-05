@@ -1,5 +1,5 @@
 ---
 title: "Ochocerito"
 url: /puerto-varas/ochocerito/
-shop: comodidad
+shop: Lebensmittel
 ---

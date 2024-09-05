@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /ushuaia/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

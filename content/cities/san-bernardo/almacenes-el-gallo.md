@@ -1,5 +1,5 @@
 ---
 title: "Almacenes El Gallo"
 url: /san-bernardo/almacenes-el-gallo/
-shop: zapatos
+shop: Schuhe
 ---

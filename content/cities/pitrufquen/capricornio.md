@@ -1,5 +1,5 @@
 ---
 title: "Capricornio"
 url: /pitrufquen/capricornio/
-shop: tienda de variedades
+shop: Kramladen
 ---

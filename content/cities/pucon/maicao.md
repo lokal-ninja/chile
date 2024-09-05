@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /pucon/maicao/
-shop: cosméticos
+shop: Kosmetik
 ---

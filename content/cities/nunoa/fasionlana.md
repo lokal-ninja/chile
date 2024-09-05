@@ -1,5 +1,5 @@
 ---
 title: "Fasionlana"
 url: /nunoa/fasionlana/
-shop: ropa
+shop: Kleidung
 ---

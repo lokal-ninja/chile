@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /las-condes/opel/
-shop: coche
+shop: Autohaus
 ---

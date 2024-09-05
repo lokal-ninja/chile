@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /concepcion/lider/
-shop: supermercado
+shop: Supermarkt
 ---

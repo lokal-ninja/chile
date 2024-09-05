@@ -1,5 +1,5 @@
 ---
 title: "Prosalud artículos ortopédicos"
 url: /castro/prosalud-articulos-ortopedicos/
-shop: ropa
+shop: Kleidung
 ---

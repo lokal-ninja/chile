@@ -1,5 +1,5 @@
 ---
 title: "Doris"
 url: /santiago/doris/
-shop: comodidad
+shop: Lebensmittel
 ---

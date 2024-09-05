@@ -1,5 +1,5 @@
 ---
 title: "Hicar"
 url: /temuco/hicar/
-shop: carnicero
+shop: Metzgerei
 ---

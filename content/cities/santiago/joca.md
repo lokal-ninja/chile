@@ -1,5 +1,5 @@
 ---
 title: "Joca"
 url: /santiago/joca/
-shop: pastelería
+shop: Konditorei
 ---

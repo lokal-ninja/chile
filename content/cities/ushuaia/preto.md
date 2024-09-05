@@ -1,5 +1,5 @@
 ---
 title: "Preto"
 url: /ushuaia/preto/
-shop: motocicleta
+shop: Motorrad
 ---

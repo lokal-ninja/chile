@@ -1,5 +1,5 @@
 ---
 title: "Feltrex"
 url: /vitacura/feltrex/
-shop: tela
+shop: Textil
 ---

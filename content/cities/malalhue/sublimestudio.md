@@ -1,5 +1,5 @@
 ---
 title: "sublimestudio"
 url: /malalhue/sublimestudio/
-shop: foto
+shop: Foto
 ---

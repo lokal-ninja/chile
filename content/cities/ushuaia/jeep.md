@@ -1,5 +1,5 @@
 ---
 title: "Jeep"
 url: /ushuaia/jeep/
-shop: coche
+shop: Autohaus
 ---

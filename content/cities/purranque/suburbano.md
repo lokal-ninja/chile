@@ -1,5 +1,5 @@
 ---
 title: "Suburbano"
 url: /purranque/suburbano/
-shop: tela
+shop: Textil
 ---

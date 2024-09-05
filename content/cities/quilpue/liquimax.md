@@ -1,5 +1,5 @@
 ---
 title: "Liquimax"
 url: /quilpue/liquimax/
-shop: farmacia
+shop: Drogerie
 ---

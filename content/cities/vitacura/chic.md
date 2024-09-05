@@ -1,5 +1,5 @@
 ---
 title: "Chic"
 url: /vitacura/chic/
-shop: cosméticos
+shop: Kosmetik
 ---

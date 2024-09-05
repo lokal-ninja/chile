@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /temuco/lider/
-shop: supermercado
+shop: Supermarkt
 ---

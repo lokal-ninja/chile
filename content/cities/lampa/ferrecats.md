@@ -1,5 +1,5 @@
 ---
 title: "Ferrecat's"
 url: /lampa/ferrecats/
-shop: hardware
+shop: Eisenwaren
 ---

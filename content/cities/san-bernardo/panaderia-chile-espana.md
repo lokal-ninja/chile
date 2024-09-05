@@ -1,5 +1,5 @@
 ---
 title: "Panadería Chile-España"
 url: /san-bernardo/panaderia-chile-espana/
-shop: panadería
+shop: Bäckerei
 ---

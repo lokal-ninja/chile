@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /coquimbo/minimarket/
-shop: comodidad
+shop: Lebensmittel
 ---

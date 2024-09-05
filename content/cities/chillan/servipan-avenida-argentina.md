@@ -1,5 +1,5 @@
 ---
 title: "Servipan"
 url: /chillan/servipan-avenida-argentina/
-shop: panadería
+shop: Bäckerei
 ---

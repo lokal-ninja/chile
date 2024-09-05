@@ -1,5 +1,5 @@
 ---
 title: "Kamadi"
 url: /concepcion/kamadi/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panpas"
 url: /puente-alto/panpas/
-shop: pastelería
+shop: Konditorei
 ---

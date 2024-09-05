@@ -1,5 +1,5 @@
 ---
 title: "Minimarket La Central"
 url: /castro/minimarket-la-central/
-shop: supermercado
+shop: Supermarkt
 ---

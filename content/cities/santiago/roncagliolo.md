@@ -1,5 +1,5 @@
 ---
 title: "Roncagliolo"
 url: /santiago/roncagliolo/
-shop: alcohol
+shop: Spirituosen
 ---

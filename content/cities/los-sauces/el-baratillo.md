@@ -1,5 +1,5 @@
 ---
 title: "El Baratillo"
 url: /los-sauces/el-baratillo/
-shop: comodidad
+shop: Lebensmittel
 ---

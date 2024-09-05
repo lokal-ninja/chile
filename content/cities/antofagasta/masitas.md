@@ -1,5 +1,5 @@
 ---
 title: "Masitas"
 url: /antofagasta/masitas/
-shop: pastelería
+shop: Konditorei
 ---

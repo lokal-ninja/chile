@@ -1,5 +1,5 @@
 ---
 title: "Farhen"
 url: /providencia/farhen/
-shop: bicicleta
+shop: Fahrrad
 ---

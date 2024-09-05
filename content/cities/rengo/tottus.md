@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /rengo/tottus/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Strip Center Puerto Quilicura"
 url: /quilicura/strip-center-puerto-quilicura/
-shop: general
+shop: Allgemein
 ---

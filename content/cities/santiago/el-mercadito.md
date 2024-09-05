@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito"
 url: /santiago/el-mercadito/
-shop: frutería
+shop: Gemüse & Obst
 ---

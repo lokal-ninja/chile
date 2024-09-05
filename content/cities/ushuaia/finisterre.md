@@ -1,5 +1,5 @@
 ---
 title: "Finisterre"
 url: /ushuaia/finisterre/
-shop: ropa
+shop: Kleidung
 ---

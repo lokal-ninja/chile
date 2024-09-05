@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /penalolen/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

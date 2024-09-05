@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /coyhaique/gmo/
-shop: óptico
+shop: Optiker
 ---

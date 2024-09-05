@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /vitacura/loccitane/
-shop: cosméticos
+shop: Kosmetik
 ---

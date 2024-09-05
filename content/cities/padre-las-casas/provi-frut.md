@@ -1,5 +1,5 @@
 ---
 title: "Provi-Frut"
 url: /padre-las-casas/provi-frut/
-shop: comodidad
+shop: Lebensmittel
 ---

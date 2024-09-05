@@ -1,5 +1,5 @@
 ---
 title: "Tylo"
 url: /vitacura/tylo/
-shop: general
+shop: Allgemein
 ---

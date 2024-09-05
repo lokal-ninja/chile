@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /la-serena/lider-guillermo-ulriksen/
-shop: supermercado
+shop: Supermarkt
 ---

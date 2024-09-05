@@ -1,5 +1,5 @@
 ---
 title: "PreUnic"
 url: /villarrica/preunic/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kilimanjaro Outdoor"
 url: /puerto-varas/kilimanjaro-outdoor/
-shop: ropa
+shop: Kleidung
 ---

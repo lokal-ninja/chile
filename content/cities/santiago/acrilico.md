@@ -1,5 +1,5 @@
 ---
 title: "Acrilico"
 url: /santiago/acrilico/
-shop: general
+shop: Allgemein
 ---

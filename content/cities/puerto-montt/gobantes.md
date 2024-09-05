@@ -1,5 +1,5 @@
 ---
 title: "Gobantes"
 url: /puerto-montt/gobantes/
-shop: eléctrico
+shop: Elektrisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzados Peter John"
 url: /quillota/calzados-peter-john/
-shop: zapatos
+shop: Schuhe
 ---

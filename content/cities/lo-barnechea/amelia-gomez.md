@@ -1,5 +1,5 @@
 ---
 title: "Amelia Gomez"
 url: /lo-barnechea/amelia-gomez/
-shop: ropa
+shop: Kleidung
 ---

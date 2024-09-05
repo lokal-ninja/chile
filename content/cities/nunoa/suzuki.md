@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /nunoa/suzuki/
-shop: motocicleta
+shop: Motorrad
 ---

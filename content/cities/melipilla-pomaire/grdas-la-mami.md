@@ -1,5 +1,5 @@
 ---
 title: "Grdas la Mami"
 url: /melipilla-pomaire/grdas-la-mami/
-shop: cerámica
+shop: Töpferei
 ---

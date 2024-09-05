@@ -1,5 +1,5 @@
 ---
 title: "Maxus"
 url: /vitacura/maxus/
-shop: coche
+shop: Autohaus
 ---

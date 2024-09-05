@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Basarela"
 url: /capitan-pastene/panaderia-basarela/
-shop: panadería
+shop: Bäckerei
 ---

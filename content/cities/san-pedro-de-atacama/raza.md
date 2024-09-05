@@ -1,5 +1,5 @@
 ---
 title: "Raza"
 url: /san-pedro-de-atacama/raza/
-shop: ropa
+shop: Kleidung
 ---

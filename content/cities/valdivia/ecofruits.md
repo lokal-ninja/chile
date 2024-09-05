@@ -1,5 +1,5 @@
 ---
 title: "EcoFruits"
 url: /valdivia/ecofruits/
-shop: frutería
+shop: Gemüse & Obst
 ---

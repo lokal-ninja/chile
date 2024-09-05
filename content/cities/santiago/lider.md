@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /santiago/lider/
-shop: supermercado
+shop: Supermarkt
 ---

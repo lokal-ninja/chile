@@ -1,5 +1,5 @@
 ---
 title: "Matthew"
 url: /santiago/matthew/
-shop: general
+shop: Allgemein
 ---

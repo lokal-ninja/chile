@@ -1,5 +1,5 @@
 ---
 title: "Eliana"
 url: /santiago/eliana/
-shop: comodidad
+shop: Lebensmittel
 ---

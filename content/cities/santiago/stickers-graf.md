@@ -1,5 +1,5 @@
 ---
 title: "Stickers Graf"
 url: /santiago/stickers-graf/
-shop: general
+shop: Allgemein
 ---

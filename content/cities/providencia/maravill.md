@@ -1,5 +1,5 @@
 ---
 title: "Maravill"
 url: /providencia/maravill/
-shop: suministros médicos
+shop: Sanitätshaus
 ---

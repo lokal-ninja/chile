@@ -1,5 +1,5 @@
 ---
 title: "Bendita Belleza"
 url: /puerto-varas/bendita-belleza/
-shop: peluquería
+shop: Friseur
 ---

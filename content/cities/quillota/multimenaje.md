@@ -1,5 +1,5 @@
 ---
 title: "Multimenaje"
 url: /quillota/multimenaje/
-shop: general
+shop: Allgemein
 ---

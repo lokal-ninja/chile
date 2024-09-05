@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /cabrero/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

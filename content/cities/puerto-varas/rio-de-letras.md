@@ -1,5 +1,5 @@
 ---
 title: "Río de Letras"
 url: /puerto-varas/rio-de-letras/
-shop: libros
+shop: Bücher
 ---

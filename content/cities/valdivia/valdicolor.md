@@ -1,5 +1,5 @@
 ---
 title: "Valdicolor"
 url: /valdivia/valdicolor/
-shop: pintura
+shop: Farben
 ---

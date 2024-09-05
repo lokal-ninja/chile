@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /pucon/oasis/
-shop: panadería
+shop: Bäckerei
 ---

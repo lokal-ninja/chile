@@ -1,5 +1,5 @@
 ---
 title: "Kia Motors"
 url: /vitacura/kia-motors/
-shop: coche
+shop: Autohaus
 ---

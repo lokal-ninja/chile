@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /machali/tottus/
-shop: supermercado
+shop: Supermarkt
 ---

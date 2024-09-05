@@ -1,5 +1,5 @@
 ---
 title: "Suelería Lautaro"
 url: /quilpue/sueleria-lautaro/
-shop: deportes
+shop: Sport
 ---

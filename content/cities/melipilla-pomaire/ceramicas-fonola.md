@@ -1,5 +1,5 @@
 ---
 title: "Ceramicas Fonola"
 url: /melipilla-pomaire/ceramicas-fonola/
-shop: cerámica
+shop: Töpferei
 ---

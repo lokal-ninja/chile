@@ -1,5 +1,5 @@
 ---
 title: "NeumAmerica"
 url: /la-reina/neumamerica/
-shop: neumáticos
+shop: Reifen
 ---

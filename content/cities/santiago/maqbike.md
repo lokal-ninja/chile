@@ -1,5 +1,5 @@
 ---
 title: "Maqbike"
 url: /santiago/maqbike/
-shop: bicicleta
+shop: Fahrrad
 ---

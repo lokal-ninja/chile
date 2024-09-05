@@ -1,5 +1,5 @@
 ---
 title: "Boberick"
 url: /providencia/boberick/
-shop: ropa
+shop: Kleidung
 ---

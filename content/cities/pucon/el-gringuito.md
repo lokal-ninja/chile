@@ -1,5 +1,5 @@
 ---
 title: "El Gringuito"
 url: /pucon/el-gringuito/
-shop: comodidad
+shop: Lebensmittel
 ---

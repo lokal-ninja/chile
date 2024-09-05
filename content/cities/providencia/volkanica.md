@@ -1,5 +1,5 @@
 ---
 title: "Volkanica"
 url: /providencia/volkanica/
-shop: deportes
+shop: Sport
 ---

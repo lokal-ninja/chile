@@ -1,5 +1,5 @@
 ---
 title: "Verdulería"
 url: /freire/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

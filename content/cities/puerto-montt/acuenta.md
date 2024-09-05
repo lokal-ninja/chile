@@ -1,5 +1,5 @@
 ---
 title: "Acuenta"
 url: /puerto-montt/acuenta/
-shop: supermercado
+shop: Supermarkt
 ---

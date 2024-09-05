@@ -1,5 +1,5 @@
 ---
 title: "RuedaMas"
 url: /coyhaique/ruedamas/
-shop: neumáticos
+shop: Reifen
 ---

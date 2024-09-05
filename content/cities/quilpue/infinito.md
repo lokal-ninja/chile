@@ -1,5 +1,5 @@
 ---
 title: "Infinito"
 url: /quilpue/infinito/
-shop: eléctrico
+shop: Elektrisch
 ---

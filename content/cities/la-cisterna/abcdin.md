@@ -1,5 +1,5 @@
 ---
 title: "Abcdin"
 url: /la-cisterna/abcdin/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zmart"
 url: /valdivia/zmart/
-shop: videojuegos
+shop: Videospiele
 ---

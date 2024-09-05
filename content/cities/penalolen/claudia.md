@@ -1,5 +1,5 @@
 ---
 title: "Claudia"
 url: /penalolen/claudia/
-shop: comodidad
+shop: Lebensmittel
 ---

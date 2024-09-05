@@ -1,5 +1,5 @@
 ---
 title: "FOS"
 url: /san-bernardo/fos/
-shop: ropa
+shop: Kleidung
 ---

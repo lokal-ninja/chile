@@ -1,5 +1,5 @@
 ---
 title: "Arata"
 url: /quilpue/arata/
-shop: muebles
+shop: Möbel
 ---

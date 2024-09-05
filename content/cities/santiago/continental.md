@@ -1,5 +1,5 @@
 ---
 title: "Continental"
 url: /santiago/continental/
-shop: neumáticos
+shop: Reifen
 ---

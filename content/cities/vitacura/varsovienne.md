@@ -1,5 +1,5 @@
 ---
 title: "Varsovienne"
 url: /vitacura/varsovienne/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bikeventura"
 url: /quilpue/bikeventura/
-shop: bicicleta
+shop: Fahrrad
 ---

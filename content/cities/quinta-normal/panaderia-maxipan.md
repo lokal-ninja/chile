@@ -1,5 +1,5 @@
 ---
 title: "Panaderia MaxiPan"
 url: /quinta-normal/panaderia-maxipan/
-shop: panadería
+shop: Bäckerei
 ---

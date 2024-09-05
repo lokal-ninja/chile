@@ -1,5 +1,5 @@
 ---
 title: "Artesanias"
 url: /valdivia/artesanias/
-shop: artesanía
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motoaventura"
 url: /osorno/motoaventura/
-shop: motocicleta
+shop: Motorrad
 ---

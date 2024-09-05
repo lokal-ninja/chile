@@ -1,5 +1,5 @@
 ---
 title: "Rockford"
 url: /castro/rockford/
-shop: ropa
+shop: Kleidung
 ---

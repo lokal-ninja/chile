@@ -1,5 +1,5 @@
 ---
 title: "One Nutrition"
 url: /santiago/one-nutrition/
-shop: deportes
+shop: Sport
 ---

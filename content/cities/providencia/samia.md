@@ -1,5 +1,5 @@
 ---
 title: "Samia"
 url: /providencia/samia/
-shop: general
+shop: Allgemein
 ---

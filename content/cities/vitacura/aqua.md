@@ -1,5 +1,5 @@
 ---
 title: "Aqua"
 url: /vitacura/aqua/
-shop: marisco
+shop: Fisch
 ---

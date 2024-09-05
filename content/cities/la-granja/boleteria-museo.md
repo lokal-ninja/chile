@@ -1,5 +1,5 @@
 ---
 title: "Boletería Museo"
 url: /la-granja/boleteria-museo/
-shop: entradas
+shop: Tickets
 ---

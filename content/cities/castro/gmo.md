@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /castro/gmo/
-shop: óptico
+shop: Optiker
 ---

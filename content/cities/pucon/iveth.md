@@ -1,5 +1,5 @@
 ---
 title: "Iveth"
 url: /pucon/iveth/
-shop: ropa
+shop: Kleidung
 ---

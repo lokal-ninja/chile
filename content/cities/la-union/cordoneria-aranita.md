@@ -1,5 +1,5 @@
 ---
 title: "Cordonería Arañita"
 url: /la-union/cordoneria-aranita/
-shop: tela
+shop: Textil
 ---

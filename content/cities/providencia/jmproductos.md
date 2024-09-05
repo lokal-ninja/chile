@@ -1,5 +1,5 @@
 ---
 title: "JMProductos"
 url: /providencia/jmproductos/
-shop: teléfono móvil
+shop: Handy
 ---

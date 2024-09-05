@@ -1,5 +1,5 @@
 ---
 title: "Vitacura"
 url: /vitacura/vitacura/
-shop: comodidad
+shop: Lebensmittel
 ---

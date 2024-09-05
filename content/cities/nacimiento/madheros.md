@@ -1,5 +1,5 @@
 ---
 title: "Madheros"
 url: /nacimiento/madheros/
-shop: hardware
+shop: Eisenwaren
 ---

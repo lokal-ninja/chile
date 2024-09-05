@@ -1,5 +1,5 @@
 ---
 title: "Eric Kayser"
 url: /las-condes/eric-kayser/
-shop: panadería
+shop: Bäckerei
 ---

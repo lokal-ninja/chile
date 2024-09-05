@@ -1,5 +1,5 @@
 ---
 title: "Revor"
 url: /macul/revor/
-shop: pintura
+shop: Farben
 ---

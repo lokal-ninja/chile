@@ -1,5 +1,5 @@
 ---
 title: "Norvak"
 url: /vitacura/norvak/
-shop: cortina
+shop: Gardinen
 ---

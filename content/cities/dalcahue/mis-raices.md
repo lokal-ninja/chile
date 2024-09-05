@@ -1,5 +1,5 @@
 ---
 title: "Mis Raíces"
 url: /dalcahue/mis-raices/
-shop: frutería
+shop: Gemüse & Obst
 ---

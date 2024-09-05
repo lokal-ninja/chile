@@ -1,5 +1,5 @@
 ---
 title: "Katalinko"
 url: /quilpue/katalinko/
-shop: pastelería
+shop: Konditorei
 ---

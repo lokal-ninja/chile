@@ -1,5 +1,5 @@
 ---
 title: "Mazapán"
 url: /quilpue/mazapan/
-shop: pastelería
+shop: Konditorei
 ---

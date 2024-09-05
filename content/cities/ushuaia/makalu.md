@@ -1,5 +1,5 @@
 ---
 title: "Makalu"
 url: /ushuaia/makalu/
-shop: ropa
+shop: Kleidung
 ---

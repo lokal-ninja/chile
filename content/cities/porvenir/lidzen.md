@@ -1,5 +1,5 @@
 ---
 title: "LIDZEN"
 url: /porvenir/lidzen/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nostalgic"
 url: /santiago/nostalgic/
-shop: ropa
+shop: Kleidung
 ---

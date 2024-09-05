@@ -1,5 +1,5 @@
 ---
 title: "Pacífica"
 url: /pucon/pacifica/
-shop: ropa
+shop: Kleidung
 ---

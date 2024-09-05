@@ -1,5 +1,5 @@
 ---
 title: "Frutas y Verduras Frescas"
 url: /valdivia/frutas-y-verduras-frescas/
-shop: frutería
+shop: Gemüse & Obst
 ---

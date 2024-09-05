@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
 url: /providencia/lippi/
-shop: exterior
+shop: Outdoor
 ---

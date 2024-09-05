@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Ruca"
 url: /villarrica/la-nueva-ruca/
-shop: comodidad
+shop: Lebensmittel
 ---

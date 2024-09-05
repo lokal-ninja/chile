@@ -1,5 +1,5 @@
 ---
 title: "Figaro"
 url: /quilpue/figaro/
-shop: peluquería
+shop: Friseur
 ---

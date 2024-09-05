@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /valparaiso/ekono/
-shop: supermercado
+shop: Supermarkt
 ---

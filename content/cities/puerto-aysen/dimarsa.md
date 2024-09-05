@@ -1,5 +1,5 @@
 ---
 title: "Dimarsa"
 url: /puerto-aysen/dimarsa/
-shop: ropa
+shop: Kleidung
 ---

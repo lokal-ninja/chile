@@ -1,5 +1,5 @@
 ---
 title: "Fribarri"
 url: /providencia/fribarri/
-shop: marisco
+shop: Fisch
 ---

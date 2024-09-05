@@ -1,5 +1,5 @@
 ---
 title: "Joyería Nelly"
 url: /nacimiento/joyeria-nelly/
-shop: joyería
+shop: Schmuck
 ---

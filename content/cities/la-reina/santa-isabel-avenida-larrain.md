@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /la-reina/santa-isabel-avenida-larrain/
-shop: supermercado
+shop: Supermarkt
 ---

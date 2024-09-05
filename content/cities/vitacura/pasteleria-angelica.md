@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Angélica"
 url: /vitacura/pasteleria-angelica/
-shop: pastelería
+shop: Konditorei
 ---

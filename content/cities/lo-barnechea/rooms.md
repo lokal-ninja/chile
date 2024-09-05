@@ -1,5 +1,5 @@
 ---
 title: "Rooms"
 url: /lo-barnechea/rooms/
-shop: muebles
+shop: Möbel
 ---

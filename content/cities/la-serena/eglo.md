@@ -1,5 +1,5 @@
 ---
 title: "Eglo"
 url: /la-serena/eglo/
-shop: lámparas
+shop: Lampen
 ---

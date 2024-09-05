@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /ovalle/lider/
-shop: supermercado
+shop: Supermarkt
 ---

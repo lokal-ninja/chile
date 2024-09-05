@@ -1,5 +1,5 @@
 ---
 title: "Maher"
 url: /nancul/maher/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spaexperience"
 url: /antofagasta/spaexperience/
-shop: cosméticos
+shop: Kosmetik
 ---

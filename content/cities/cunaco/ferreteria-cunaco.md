@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Cunaco"
 url: /cunaco/ferreteria-cunaco/
-shop: hardware
+shop: Eisenwaren
 ---

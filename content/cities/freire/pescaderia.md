@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia"
 url: /freire/pescaderia/
-shop: marisco
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Outlet de la Bicicleta"
 url: /santiago/el-outlet-de-la-bicicleta/
-shop: bicicleta
+shop: Fahrrad
 ---

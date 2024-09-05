@@ -1,5 +1,5 @@
 ---
 title: "Cannon"
 url: /concepcion/cannon/
-shop: cama
+shop: Betten
 ---

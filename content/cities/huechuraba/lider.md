@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /huechuraba/lider/
-shop: supermercado
+shop: Supermarkt
 ---

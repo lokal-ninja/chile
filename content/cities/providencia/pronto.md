@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
 url: /providencia/pronto/
-shop: comodidad
+shop: Lebensmittel
 ---

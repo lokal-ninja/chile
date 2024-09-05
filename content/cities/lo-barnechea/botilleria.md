@@ -1,5 +1,5 @@
 ---
 title: "Botillería"
 url: /lo-barnechea/botilleria/
-shop: alcohol
+shop: Spirituosen
 ---

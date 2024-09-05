@@ -1,5 +1,5 @@
 ---
 title: "Jack the Juicer"
 url: /providencia/jack-the-juicer/
-shop: bebidas
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Mendocell"
 url: /punta-arenas/electronica-mendocell/
-shop: electrónica
+shop: Elektronik
 ---

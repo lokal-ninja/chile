@@ -1,5 +1,5 @@
 ---
 title: "Leo Color"
 url: /san-bernardo/leo-color/
-shop: pintura
+shop: Farben
 ---

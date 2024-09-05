@@ -1,5 +1,5 @@
 ---
 title: "Newtree"
 url: /huechuraba/newtree/
-shop: decoración interior
+shop: Raumausstattung
 ---

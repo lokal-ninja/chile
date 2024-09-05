@@ -1,5 +1,5 @@
 ---
 title: "LyndoLook"
 url: /santiago/lyndolook/
-shop: peluquería
+shop: Friseur
 ---

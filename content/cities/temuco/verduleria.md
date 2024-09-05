@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
 url: /temuco/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

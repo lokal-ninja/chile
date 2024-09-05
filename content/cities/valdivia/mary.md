@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /valdivia/mary/
-shop: pastelería
+shop: Konditorei
 ---

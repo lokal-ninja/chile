@@ -1,5 +1,5 @@
 ---
 title: "Amigas"
 url: /quilpue/amigas/
-shop: arte
+shop: Kunst
 ---

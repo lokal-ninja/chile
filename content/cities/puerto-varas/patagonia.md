@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /puerto-varas/patagonia/
-shop: ropa
+shop: Kleidung
 ---

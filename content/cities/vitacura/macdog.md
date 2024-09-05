@@ -1,5 +1,5 @@
 ---
 title: "Macdog"
 url: /vitacura/macdog/
-shop: mascotas
+shop: Tiere
 ---

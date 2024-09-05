@@ -1,5 +1,5 @@
 ---
 title: "Botilleria Padre Hurtado"
 url: /las-condes/botilleria-padre-hurtado/
-shop: alcohol
+shop: Spirituosen
 ---

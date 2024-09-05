@@ -1,5 +1,5 @@
 ---
 title: "Fachy"
 url: /linares/fachy/
-shop: supermercado
+shop: Supermarkt
 ---

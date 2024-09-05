@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /villarrica/tricot/
-shop: grandes almacenes
+shop: Warenhaus
 ---

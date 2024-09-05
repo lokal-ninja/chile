@@ -1,5 +1,5 @@
 ---
 title: "Kayser"
 url: /quilpue/kayser/
-shop: ropa
+shop: Kleidung
 ---

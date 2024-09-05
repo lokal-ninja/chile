@@ -1,5 +1,5 @@
 ---
 title: "Sarita"
 url: /quilpue/sarita/
-shop: frutería
+shop: Gemüse & Obst
 ---

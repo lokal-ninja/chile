@@ -1,5 +1,5 @@
 ---
 title: "Idini"
 url: /castro/idini/
-shop: hardware
+shop: Eisenwaren
 ---

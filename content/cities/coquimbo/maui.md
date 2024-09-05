@@ -1,5 +1,5 @@
 ---
 title: "Maui"
 url: /coquimbo/maui/
-shop: exterior
+shop: Outdoor
 ---

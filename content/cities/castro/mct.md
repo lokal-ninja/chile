@@ -1,5 +1,5 @@
 ---
 title: "MCT"
 url: /castro/mct/
-shop: hardware
+shop: Eisenwaren
 ---

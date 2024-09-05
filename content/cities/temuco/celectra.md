@@ -1,5 +1,5 @@
 ---
 title: "Celectra"
 url: /temuco/celectra/
-shop: electrónica
+shop: Elektronik
 ---

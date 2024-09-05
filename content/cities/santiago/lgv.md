@@ -1,5 +1,5 @@
 ---
 title: "Lgv"
 url: /santiago/lgv/
-shop: armas
+shop: Waffen
 ---

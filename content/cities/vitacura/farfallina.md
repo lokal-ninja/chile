@@ -1,5 +1,5 @@
 ---
 title: "Farfallina"
 url: /vitacura/farfallina/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Befoods"
 url: /villa-alemana/befoods/
-shop: mascotas
+shop: Tiere
 ---

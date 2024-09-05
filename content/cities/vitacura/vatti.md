@@ -1,5 +1,5 @@
 ---
 title: "Vatti"
 url: /vitacura/vatti/
-shop: general
+shop: Allgemein
 ---

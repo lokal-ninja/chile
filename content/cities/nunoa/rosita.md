@@ -1,5 +1,5 @@
 ---
 title: "Rosita"
 url: /nunoa/rosita/
-shop: frutería
+shop: Gemüse & Obst
 ---

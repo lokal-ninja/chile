@@ -1,5 +1,5 @@
 ---
 title: "Importadora Euroamericana"
 url: /antofagasta/importadora-euroamericana/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chalito"
 url: /santiago/chalito/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alonza"
 url: /pucon/alonza/
-shop: ropa
+shop: Kleidung
 ---

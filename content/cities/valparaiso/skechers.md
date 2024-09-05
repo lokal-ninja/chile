@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /valparaiso/skechers/
-shop: zapatos
+shop: Schuhe
 ---

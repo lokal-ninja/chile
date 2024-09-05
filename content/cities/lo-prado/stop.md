@@ -1,5 +1,5 @@
 ---
 title: "Stop"
 url: /lo-prado/stop/
-shop: comodidad
+shop: Lebensmittel
 ---

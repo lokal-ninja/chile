@@ -1,5 +1,5 @@
 ---
 title: "Simple"
 url: /vitacura/simple/
-shop: regalo
+shop: Andenken
 ---

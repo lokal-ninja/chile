@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /santiago/ekono/
-shop: supermercado
+shop: Supermarkt
 ---

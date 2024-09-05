@@ -1,5 +1,5 @@
 ---
 title: "Frutería Don Alex"
 url: /valdivia/fruteria-don-alex/
-shop: frutería
+shop: Gemüse & Obst
 ---

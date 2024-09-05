@@ -1,5 +1,5 @@
 ---
 title: "Barbaroja"
 url: /dalcahue/barbaroja/
-shop: alcohol
+shop: Spirituosen
 ---

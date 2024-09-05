@@ -1,5 +1,5 @@
 ---
 title: "Romy"
 url: /valdivia/romy/
-shop: frutería
+shop: Gemüse & Obst
 ---

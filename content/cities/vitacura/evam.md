@@ -1,5 +1,5 @@
 ---
 title: "Evam"
 url: /vitacura/evam/
-shop: ropa
+shop: Kleidung
 ---

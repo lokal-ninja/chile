@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /freire/almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

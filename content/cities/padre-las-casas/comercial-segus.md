@@ -1,5 +1,5 @@
 ---
 title: "Comercial SEGUS"
 url: /padre-las-casas/comercial-segus/
-shop: comodidad
+shop: Lebensmittel
 ---

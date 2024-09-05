@@ -1,5 +1,5 @@
 ---
 title: "Coyote"
 url: /chillan/coyote/
-shop: comodidad
+shop: Lebensmittel
 ---

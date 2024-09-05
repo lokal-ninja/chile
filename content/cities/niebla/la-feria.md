@@ -1,5 +1,5 @@
 ---
 title: "La Feria"
 url: /niebla/la-feria/
-shop: frutería
+shop: Gemüse & Obst
 ---

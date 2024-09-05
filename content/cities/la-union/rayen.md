@@ -1,5 +1,5 @@
 ---
 title: "Rayen"
 url: /la-union/rayen/
-shop: floristería
+shop: Blumen
 ---

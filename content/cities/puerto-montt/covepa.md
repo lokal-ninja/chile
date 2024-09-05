@@ -1,5 +1,5 @@
 ---
 title: "Covepa"
 url: /puerto-montt/covepa/
-shop: hardware
+shop: Eisenwaren
 ---

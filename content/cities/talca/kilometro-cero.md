@@ -1,5 +1,5 @@
 ---
 title: "Kilometro Cero"
 url: /talca/kilometro-cero/
-shop: bicicleta
+shop: Fahrrad
 ---

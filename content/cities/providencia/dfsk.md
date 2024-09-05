@@ -1,5 +1,5 @@
 ---
 title: "DFSK"
 url: /providencia/dfsk/
-shop: coche
+shop: Autohaus
 ---

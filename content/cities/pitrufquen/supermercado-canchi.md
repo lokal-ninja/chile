@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Canchi"
 url: /pitrufquen/supermercado-canchi/
-shop: supermercado
+shop: Supermarkt
 ---

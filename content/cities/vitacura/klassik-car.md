@@ -1,5 +1,5 @@
 ---
 title: "Klassik Car"
 url: /vitacura/klassik-car/
-shop: coche
+shop: Autohaus
 ---

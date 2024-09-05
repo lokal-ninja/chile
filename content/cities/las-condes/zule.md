@@ -1,5 +1,5 @@
 ---
 title: "Zule"
 url: /las-condes/zule/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /valdivia/gmo/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Alondra"
 url: /chillan/pasteleria-alondra/
-shop: pastelería
+shop: Konditorei
 ---

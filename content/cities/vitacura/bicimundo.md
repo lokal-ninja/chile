@@ -1,5 +1,5 @@
 ---
 title: "Bicimundo"
 url: /vitacura/bicimundo/
-shop: general
+shop: Allgemein
 ---

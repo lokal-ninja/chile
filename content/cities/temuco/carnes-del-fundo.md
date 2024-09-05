@@ -1,5 +1,5 @@
 ---
 title: "Carnes del Fundo"
 url: /temuco/carnes-del-fundo/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dr. Fish"
 url: /la-reina/dr-fish/
-shop: mascotas
+shop: Tiere
 ---

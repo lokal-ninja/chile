@@ -1,5 +1,5 @@
 ---
 title: "Boris"
 url: /mafil/boris/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /vitacura/ekono/
-shop: comodidad
+shop: Lebensmittel
 ---

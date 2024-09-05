@@ -1,5 +1,5 @@
 ---
 title: "Celyfam"
 url: /quilpue/celyfam/
-shop: farmacia
+shop: Drogerie
 ---

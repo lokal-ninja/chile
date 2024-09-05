@@ -1,5 +1,5 @@
 ---
 title: "Sillas Sillas"
 url: /providencia/sillas-sillas/
-shop: general
+shop: Allgemein
 ---

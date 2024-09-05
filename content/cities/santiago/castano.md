@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /santiago/castano/
-shop: panadería
+shop: Bäckerei
 ---

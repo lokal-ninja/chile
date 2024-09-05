@@ -1,5 +1,5 @@
 ---
 title: "Benissimo"
 url: /concepcion/benissimo/
-shop: panadería
+shop: Bäckerei
 ---

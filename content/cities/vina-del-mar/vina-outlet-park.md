@@ -1,5 +1,5 @@
 ---
 title: "Viña Outlet Park"
 url: /vina-del-mar/vina-outlet-park/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

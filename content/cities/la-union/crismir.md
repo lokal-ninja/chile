@@ -1,5 +1,5 @@
 ---
 title: "Crismir"
 url: /la-union/crismir/
-shop: ropa
+shop: Kleidung
 ---

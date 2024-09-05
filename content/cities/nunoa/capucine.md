@@ -1,5 +1,5 @@
 ---
 title: "Capucine"
 url: /nunoa/capucine/
-shop: panadería
+shop: Bäckerei
 ---

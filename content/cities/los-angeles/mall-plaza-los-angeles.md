@@ -1,5 +1,5 @@
 ---
 title: "Mall Plaza Los Ángeles"
 url: /los-angeles/mall-plaza-los-angeles/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

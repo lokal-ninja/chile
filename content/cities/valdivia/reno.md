@@ -1,5 +1,5 @@
 ---
 title: "Reno"
 url: /valdivia/reno/
-shop: zapatos
+shop: Schuhe
 ---

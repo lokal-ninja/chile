@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Alvi"
 url: /puerto-montt/supermercado-alvi/
-shop: mayorista
+shop: Großhandel
 ---

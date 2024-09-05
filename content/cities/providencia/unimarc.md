@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /providencia/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

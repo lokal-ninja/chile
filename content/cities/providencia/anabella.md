@@ -1,5 +1,5 @@
 ---
 title: "Anabella"
 url: /providencia/anabella/
-shop: general
+shop: Allgemein
 ---

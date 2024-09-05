@@ -1,5 +1,5 @@
 ---
 title: "Don Esteban"
 url: /villa-alemana/don-esteban/
-shop: alcohol
+shop: Spirituosen
 ---

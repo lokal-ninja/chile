@@ -1,5 +1,5 @@
 ---
 title: "Kamanda"
 url: /talcahuano/kamanda/
-shop: comodidad
+shop: Lebensmittel
 ---

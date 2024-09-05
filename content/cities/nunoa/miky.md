@@ -1,5 +1,5 @@
 ---
 title: "Miky"
 url: /nunoa/miky/
-shop: copyshop
+shop: Kopieren
 ---

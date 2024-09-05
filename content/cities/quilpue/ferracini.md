@@ -1,5 +1,5 @@
 ---
 title: "Ferracini"
 url: /quilpue/ferracini/
-shop: zapatos
+shop: Schuhe
 ---

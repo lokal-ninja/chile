@@ -1,5 +1,5 @@
 ---
 title: "Copec"
 url: /manihuales/copec/
-shop: general
+shop: Allgemein
 ---

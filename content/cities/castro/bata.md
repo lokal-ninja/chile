@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /castro/bata/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acuenta"
 url: /los-andes/acuenta/
-shop: supermercado
+shop: Supermarkt
 ---

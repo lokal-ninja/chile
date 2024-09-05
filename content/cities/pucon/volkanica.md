@@ -1,5 +1,5 @@
 ---
 title: "Volkanica"
 url: /pucon/volkanica/
-shop: exterior
+shop: Outdoor
 ---

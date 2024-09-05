@@ -1,5 +1,5 @@
 ---
 title: "Italinnea"
 url: /vitacura/italinnea/
-shop: general
+shop: Allgemein
 ---

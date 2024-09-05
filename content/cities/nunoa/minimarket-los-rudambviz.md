@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Los Rudambviz"
 url: /nunoa/minimarket-los-rudambviz/
-shop: comodidad
+shop: Lebensmittel
 ---

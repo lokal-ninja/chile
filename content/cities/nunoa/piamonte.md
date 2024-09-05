@@ -1,5 +1,5 @@
 ---
 title: "Piamonte"
 url: /nunoa/piamonte/
-shop: coche
+shop: Autohaus
 ---

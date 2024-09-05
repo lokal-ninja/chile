@@ -1,5 +1,5 @@
 ---
 title: "Electrofoto"
 url: /quilicura/electrofoto/
-shop: foto
+shop: Foto
 ---

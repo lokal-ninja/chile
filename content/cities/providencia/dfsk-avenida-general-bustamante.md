@@ -1,5 +1,5 @@
 ---
 title: "DFSK"
 url: /providencia/dfsk-avenida-general-bustamante/
-shop: coche
+shop: Autohaus
 ---

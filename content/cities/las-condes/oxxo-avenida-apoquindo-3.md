@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /las-condes/oxxo-avenida-apoquindo-3/
-shop: comodidad
+shop: Lebensmittel
 ---

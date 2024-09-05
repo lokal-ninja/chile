@@ -1,5 +1,5 @@
 ---
 title: "Terrabike"
 url: /santiago/terrabike/
-shop: bicicleta
+shop: Fahrrad
 ---

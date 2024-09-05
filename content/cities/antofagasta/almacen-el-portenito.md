@@ -1,5 +1,5 @@
 ---
 title: "Almacén El Porteñito"
 url: /antofagasta/almacen-el-portenito/
-shop: comodidad
+shop: Lebensmittel
 ---

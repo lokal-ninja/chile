@@ -1,5 +1,5 @@
 ---
 title: "Esquina de la Fruta"
 url: /valdivia/esquina-de-la-fruta/
-shop: frutería
+shop: Gemüse & Obst
 ---

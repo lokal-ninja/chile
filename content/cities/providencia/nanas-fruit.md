@@ -1,5 +1,5 @@
 ---
 title: "Nana's Fruit"
 url: /providencia/nanas-fruit/
-shop: café
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /quillota/maicao/
-shop: cosméticos
+shop: Kosmetik
 ---

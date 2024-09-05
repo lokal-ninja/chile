@@ -1,5 +1,5 @@
 ---
 title: "Ecoparaiso"
 url: /valparaiso/ecoparaiso/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caramba"
 url: /vitacura/caramba/
-shop: juguetes
+shop: Spielzeug
 ---

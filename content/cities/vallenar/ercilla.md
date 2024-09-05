@@ -1,5 +1,5 @@
 ---
 title: "Ercilla"
 url: /vallenar/ercilla/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turismo Bajo 0"
 url: /pucon/turismo-bajo-0/
-shop: agencia de viajes
+shop: Reisebüro
 ---

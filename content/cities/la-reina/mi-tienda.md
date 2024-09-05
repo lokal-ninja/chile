@@ -1,5 +1,5 @@
 ---
 title: "Mi Tienda"
 url: /la-reina/mi-tienda/
-shop: general
+shop: Allgemein
 ---

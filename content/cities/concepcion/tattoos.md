@@ -1,5 +1,5 @@
 ---
 title: "Tattoos"
 url: /concepcion/tattoos/
-shop: tatuaje
+shop: Tattoo
 ---

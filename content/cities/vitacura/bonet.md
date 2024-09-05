@@ -1,5 +1,5 @@
 ---
 title: "Bonet"
 url: /vitacura/bonet/
-shop: peluquería
+shop: Friseur
 ---

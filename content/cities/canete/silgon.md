@@ -1,5 +1,5 @@
 ---
 title: "Silgon"
 url: /canete/silgon/
-shop: hardware
+shop: Eisenwaren
 ---

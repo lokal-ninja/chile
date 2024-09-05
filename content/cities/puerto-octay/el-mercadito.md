@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito"
 url: /puerto-octay/el-mercadito/
-shop: frutería
+shop: Gemüse & Obst
 ---

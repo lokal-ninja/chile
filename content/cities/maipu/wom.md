@@ -1,5 +1,5 @@
 ---
 title: "Wom"
 url: /maipu/wom/
-shop: teléfono móvil
+shop: Handy
 ---

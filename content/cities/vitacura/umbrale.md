@@ -1,5 +1,5 @@
 ---
 title: "Umbrale"
 url: /vitacura/umbrale/
-shop: ropa
+shop: Kleidung
 ---

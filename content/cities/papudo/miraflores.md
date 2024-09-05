@@ -1,5 +1,5 @@
 ---
 title: "Miraflores"
 url: /papudo/miraflores/
-shop: supermercado
+shop: Supermarkt
 ---

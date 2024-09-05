@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /renca/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

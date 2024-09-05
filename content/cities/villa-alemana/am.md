@@ -1,5 +1,5 @@
 ---
 title: "AM"
 url: /villa-alemana/am/
-shop: cosméticos
+shop: Kosmetik
 ---

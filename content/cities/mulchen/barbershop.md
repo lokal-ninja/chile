@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /mulchen/barbershop/
-shop: peluquería
+shop: Friseur
 ---

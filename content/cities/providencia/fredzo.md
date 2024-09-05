@@ -1,5 +1,5 @@
 ---
 title: "Fredzo"
 url: /providencia/fredzo/
-shop: general
+shop: Allgemein
 ---

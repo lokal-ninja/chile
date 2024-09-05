@@ -1,5 +1,5 @@
 ---
 title: "Merrel"
 url: /puerto-varas/merrel/
-shop: ropa
+shop: Kleidung
 ---

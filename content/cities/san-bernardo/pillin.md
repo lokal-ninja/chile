@@ -1,5 +1,5 @@
 ---
 title: "Pillin"
 url: /san-bernardo/pillin/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rica Carne"
 url: /rancagua/rica-carne/
-shop: supermercado
+shop: Supermarkt
 ---

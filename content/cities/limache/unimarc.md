@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /limache/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

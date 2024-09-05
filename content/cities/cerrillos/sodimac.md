@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /cerrillos/sodimac/
-shop: hágalo usted mismo
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abastible"
 url: /nunoa/abastible/
-shop: gas
+shop: Gasflaschen
 ---

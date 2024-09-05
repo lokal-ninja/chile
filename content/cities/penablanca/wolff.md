@@ -1,5 +1,5 @@
 ---
 title: "Wolff"
 url: /penablanca/wolff/
-shop: tabaco
+shop: Tabak
 ---

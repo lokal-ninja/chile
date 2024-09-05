@@ -1,5 +1,5 @@
 ---
 title: "Pabel"
 url: /antofagasta/pabel/
-shop: farmacia
+shop: Drogerie
 ---

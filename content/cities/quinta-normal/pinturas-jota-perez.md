@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Jota Perez"
 url: /quinta-normal/pinturas-jota-perez/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vista Hermosa"
 url: /ancud/vista-hermosa/
-shop: general
+shop: Allgemein
 ---

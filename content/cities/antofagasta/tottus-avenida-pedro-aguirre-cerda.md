@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /antofagasta/tottus-avenida-pedro-aguirre-cerda/
-shop: supermercado
+shop: Supermarkt
 ---

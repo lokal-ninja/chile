@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
 url: /nunoa/peluqueria/
-shop: peluquería
+shop: Friseur
 ---

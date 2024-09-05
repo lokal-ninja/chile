@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /vitacura/samsonite/
-shop: bolsas y maletas
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería Carlitos"
 url: /freire/fruteria-carlitos/
-shop: frutería
+shop: Gemüse & Obst
 ---

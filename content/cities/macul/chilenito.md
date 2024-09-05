@@ -1,5 +1,5 @@
 ---
 title: "Chilenito"
 url: /macul/chilenito/
-shop: carnicero
+shop: Metzgerei
 ---

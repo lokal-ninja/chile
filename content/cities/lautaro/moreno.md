@@ -1,5 +1,5 @@
 ---
 title: "Moreno"
 url: /lautaro/moreno/
-shop: general
+shop: Allgemein
 ---

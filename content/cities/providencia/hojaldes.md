@@ -1,5 +1,5 @@
 ---
 title: "Hojaldes"
 url: /providencia/hojaldes/
-shop: panadería
+shop: Bäckerei
 ---

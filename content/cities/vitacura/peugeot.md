@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /vitacura/peugeot/
-shop: coche
+shop: Autohaus
 ---

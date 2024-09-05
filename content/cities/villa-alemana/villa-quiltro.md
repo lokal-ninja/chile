@@ -1,5 +1,5 @@
 ---
 title: "Villa Quiltro"
 url: /villa-alemana/villa-quiltro/
-shop: mascotas
+shop: Tiere
 ---

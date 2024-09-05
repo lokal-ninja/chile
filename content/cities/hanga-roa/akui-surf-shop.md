@@ -1,5 +1,5 @@
 ---
 title: "Akui Surf Shop"
 url: /hanga-roa/akui-surf-shop/
-shop: ropa
+shop: Kleidung
 ---

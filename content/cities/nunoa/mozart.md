@@ -1,5 +1,5 @@
 ---
 title: "Mozart"
 url: /nunoa/mozart/
-shop: panadería
+shop: Bäckerei
 ---

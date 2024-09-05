@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia"
 url: /coyhaique/lavanderia/
-shop: lavandería
+shop: Wäscherei
 ---

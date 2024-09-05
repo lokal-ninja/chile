@@ -1,5 +1,5 @@
 ---
 title: "ClaudyCar"
 url: /portezuelo/claudycar/
-shop: supermercado
+shop: Supermarkt
 ---

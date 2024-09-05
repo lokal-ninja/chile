@@ -1,5 +1,5 @@
 ---
 title: "Calma"
 url: /concon/calma/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fashion´s Park"
 url: /linares/fashion-s-park/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paredes"
 url: /chinquihue/paredes/
-shop: general
+shop: Allgemein
 ---

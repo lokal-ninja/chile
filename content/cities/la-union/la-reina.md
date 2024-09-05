@@ -1,5 +1,5 @@
 ---
 title: "La Reina"
 url: /la-union/la-reina/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Mela"
 url: /villa-alemana/la-mela/
-shop: confitería
+shop: Süßwaren
 ---

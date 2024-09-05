@@ -1,5 +1,5 @@
 ---
 title: "LyM"
 url: /valdivia/lym/
-shop: supermercado
+shop: Supermarkt
 ---

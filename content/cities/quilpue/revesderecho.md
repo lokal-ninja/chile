@@ -1,5 +1,5 @@
 ---
 title: "Revesderecho"
 url: /quilpue/revesderecho/
-shop: general
+shop: Allgemein
 ---

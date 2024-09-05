@@ -1,5 +1,5 @@
 ---
 title: "Clepsidra"
 url: /nunoa/clepsidra/
-shop: libros
+shop: Bücher
 ---

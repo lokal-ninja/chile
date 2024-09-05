@@ -1,5 +1,5 @@
 ---
 title: "Pianono"
 url: /macul/pianono/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jaufbike"
 url: /macul/jaufbike/
-shop: bicicleta
+shop: Fahrrad
 ---

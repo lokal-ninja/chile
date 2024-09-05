@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /providencia/aldo/
-shop: zapatos
+shop: Schuhe
 ---

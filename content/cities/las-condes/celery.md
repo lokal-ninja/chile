@@ -1,5 +1,5 @@
 ---
 title: "Celery"
 url: /las-condes/celery/
-shop: peluquería
+shop: Friseur
 ---

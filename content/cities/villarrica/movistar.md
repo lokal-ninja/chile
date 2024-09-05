@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /villarrica/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

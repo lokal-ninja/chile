@@ -1,5 +1,5 @@
 ---
 title: "Flamante"
 url: /nunoa/flamante/
-shop: ropa
+shop: Kleidung
 ---

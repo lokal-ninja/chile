@@ -1,5 +1,5 @@
 ---
 title: "Panwi"
 url: /osorno/panwi/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newman"
 url: /lo-barnechea/newman/
-shop: ropa
+shop: Kleidung
 ---

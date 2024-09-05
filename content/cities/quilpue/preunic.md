@@ -1,5 +1,5 @@
 ---
 title: "Preunic"
 url: /quilpue/preunic/
-shop: farmacia
+shop: Drogerie
 ---

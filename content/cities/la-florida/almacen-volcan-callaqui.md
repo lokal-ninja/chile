@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /la-florida/almacen-volcan-callaqui/
-shop: comodidad
+shop: Lebensmittel
 ---

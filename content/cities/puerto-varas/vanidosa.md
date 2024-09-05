@@ -1,5 +1,5 @@
 ---
 title: "Vanidosa"
 url: /puerto-varas/vanidosa/
-shop: peluquería
+shop: Friseur
 ---

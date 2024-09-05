@@ -1,5 +1,5 @@
 ---
 title: "Polo"
 url: /vitacura/polo/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Todito"
 url: /nunoa/dtodito/
-shop: comodidad
+shop: Lebensmittel
 ---

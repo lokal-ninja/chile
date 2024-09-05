@@ -1,5 +1,5 @@
 ---
 title: "Everlast"
 url: /huechuraba/everlast/
-shop: ropa
+shop: Kleidung
 ---

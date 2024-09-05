@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /iquique/jumbo/
-shop: supermercado
+shop: Supermarkt
 ---

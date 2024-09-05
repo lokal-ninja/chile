@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /la-union/kiosco/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bodeguita"
 url: /santiago/la-bodeguita/
-shop: general
+shop: Allgemein
 ---

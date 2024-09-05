@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /quilpue/metro/
-shop: cortina
+shop: Gardinen
 ---

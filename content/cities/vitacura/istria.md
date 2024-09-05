@@ -1,5 +1,5 @@
 ---
 title: "Istria"
 url: /vitacura/istria/
-shop: general
+shop: Allgemein
 ---

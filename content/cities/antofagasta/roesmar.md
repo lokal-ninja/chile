@@ -1,5 +1,5 @@
 ---
 title: "Roesmar"
 url: /antofagasta/roesmar/
-shop: alimentos congelados
+shop: Tiefkühl
 ---

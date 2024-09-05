@@ -1,5 +1,5 @@
 ---
 title: "Garmin"
 url: /vina-del-mar/garmin/
-shop: electrónica
+shop: Elektronik
 ---

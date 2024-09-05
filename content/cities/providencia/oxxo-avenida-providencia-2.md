@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /providencia/oxxo-avenida-providencia-2/
-shop: comodidad
+shop: Lebensmittel
 ---

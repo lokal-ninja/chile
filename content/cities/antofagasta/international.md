@@ -1,5 +1,5 @@
 ---
 title: "International"
 url: /antofagasta/international/
-shop: panadería
+shop: Bäckerei
 ---

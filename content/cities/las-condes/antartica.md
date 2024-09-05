@@ -1,5 +1,5 @@
 ---
 title: "Antártica"
 url: /las-condes/antartica/
-shop: libros
+shop: Bücher
 ---

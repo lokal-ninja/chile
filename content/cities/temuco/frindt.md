@@ -1,5 +1,5 @@
 ---
 title: "Frindt"
 url: /temuco/frindt/
-shop: hardware
+shop: Eisenwaren
 ---

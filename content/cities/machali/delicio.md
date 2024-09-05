@@ -1,5 +1,5 @@
 ---
 title: "Delicio"
 url: /machali/delicio/
-shop: pastelería
+shop: Konditorei
 ---

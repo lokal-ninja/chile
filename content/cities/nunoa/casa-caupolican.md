@@ -1,5 +1,5 @@
 ---
 title: "Casa Caupolicán"
 url: /nunoa/casa-caupolican/
-shop: general
+shop: Allgemein
 ---

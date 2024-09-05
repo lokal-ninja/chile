@@ -1,5 +1,5 @@
 ---
 title: "Diana"
 url: /valdivia/diana/
-shop: panadería
+shop: Bäckerei
 ---

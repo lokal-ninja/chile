@@ -1,5 +1,5 @@
 ---
 title: "Roggendorf"
 url: /concepcion/roggendorf/
-shop: confitería
+shop: Süßwaren
 ---

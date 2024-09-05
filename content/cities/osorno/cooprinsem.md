@@ -1,5 +1,5 @@
 ---
 title: "COOPRINSEM"
 url: /osorno/cooprinsem/
-shop: hardware
+shop: Eisenwaren
 ---

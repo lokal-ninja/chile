@@ -1,5 +1,5 @@
 ---
 title: "Palomita"
 url: /el-blanco/palomita/
-shop: comodidad
+shop: Lebensmittel
 ---

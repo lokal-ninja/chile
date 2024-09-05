@@ -1,5 +1,5 @@
 ---
 title: "Piamonte"
 url: /vitacura/piamonte/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /nunoa/lider-avenida-irarrazaval/
-shop: supermercado
+shop: Supermarkt
 ---

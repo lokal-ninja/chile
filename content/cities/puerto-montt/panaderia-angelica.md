@@ -1,5 +1,5 @@
 ---
 title: "Panadería angelica"
 url: /puerto-montt/panaderia-angelica/
-shop: panadería
+shop: Bäckerei
 ---

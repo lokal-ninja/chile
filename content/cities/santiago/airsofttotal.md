@@ -1,5 +1,5 @@
 ---
 title: "Airsofttotal"
 url: /santiago/airsofttotal/
-shop: deportes
+shop: Sport
 ---

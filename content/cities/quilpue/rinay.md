@@ -1,5 +1,5 @@
 ---
 title: "Rinay"
 url: /quilpue/rinay/
-shop: regalo
+shop: Andenken
 ---

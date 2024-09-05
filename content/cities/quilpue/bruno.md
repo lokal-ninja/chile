@@ -1,5 +1,5 @@
 ---
 title: "Bruno"
 url: /quilpue/bruno/
-shop: comodidad
+shop: Lebensmittel
 ---

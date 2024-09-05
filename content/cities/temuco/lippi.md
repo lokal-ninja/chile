@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
 url: /temuco/lippi/
-shop: ropa
+shop: Kleidung
 ---

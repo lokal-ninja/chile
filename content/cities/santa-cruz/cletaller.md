@@ -1,5 +1,5 @@
 ---
 title: "Cletaller"
 url: /santa-cruz/cletaller/
-shop: general
+shop: Allgemein
 ---

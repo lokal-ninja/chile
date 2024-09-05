@@ -1,5 +1,5 @@
 ---
 title: "Via Uno"
 url: /coquimbo/via-uno/
-shop: ropa
+shop: Kleidung
 ---

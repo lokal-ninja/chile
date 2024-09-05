@@ -1,5 +1,5 @@
 ---
 title: "Sanjeevinis"
 url: /providencia/sanjeevinis/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frada Studio"
 url: /antofagasta/frada-studio/
-shop: cosméticos
+shop: Kosmetik
 ---

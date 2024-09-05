@@ -1,5 +1,5 @@
 ---
 title: "Panetta"
 url: /lo-barnechea/panetta/
-shop: panadería
+shop: Bäckerei
 ---

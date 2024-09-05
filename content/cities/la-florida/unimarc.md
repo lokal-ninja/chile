@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /la-florida/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

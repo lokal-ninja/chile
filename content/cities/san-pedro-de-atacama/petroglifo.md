@@ -1,5 +1,5 @@
 ---
 title: "Petroglifo"
 url: /san-pedro-de-atacama/petroglifo/
-shop: regalo
+shop: Andenken
 ---

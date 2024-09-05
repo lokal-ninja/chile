@@ -1,5 +1,5 @@
 ---
 title: "Melendez"
 url: /san-carlos/melendez/
-shop: comodidad
+shop: Lebensmittel
 ---

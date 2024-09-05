@@ -1,5 +1,5 @@
 ---
 title: "Italstore"
 url: /temuco/italstore/
-shop: ropa
+shop: Kleidung
 ---

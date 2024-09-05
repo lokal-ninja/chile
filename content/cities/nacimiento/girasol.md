@@ -1,5 +1,5 @@
 ---
 title: "Girasol"
 url: /nacimiento/girasol/
-shop: frutería
+shop: Gemüse & Obst
 ---

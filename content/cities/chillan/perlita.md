@@ -1,5 +1,5 @@
 ---
 title: "Perlita"
 url: /chillan/perlita/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial"
 url: /vitacura/comercial/
-shop: general
+shop: Allgemein
 ---

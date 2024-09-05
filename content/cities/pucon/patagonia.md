@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /pucon/patagonia/
-shop: ropa
+shop: Kleidung
 ---

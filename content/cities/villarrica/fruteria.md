@@ -1,5 +1,5 @@
 ---
 title: "Frutería"
 url: /villarrica/fruteria/
-shop: frutería
+shop: Gemüse & Obst
 ---

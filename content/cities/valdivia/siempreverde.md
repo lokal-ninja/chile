@@ -1,5 +1,5 @@
 ---
 title: "SiempreVerde"
 url: /valdivia/siempreverde/
-shop: centro de jardinería
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snow"
 url: /vina-del-mar/snow/
-shop: copyshop
+shop: Kopieren
 ---

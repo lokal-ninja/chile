@@ -1,5 +1,5 @@
 ---
 title: "Italstore"
 url: /coquimbo/italstore/
-shop: ropa
+shop: Kleidung
 ---

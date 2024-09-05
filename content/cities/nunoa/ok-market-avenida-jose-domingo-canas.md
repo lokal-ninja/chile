@@ -1,5 +1,5 @@
 ---
 title: "OK Market"
 url: /nunoa/ok-market-avenida-jose-domingo-canas/
-shop: comodidad
+shop: Lebensmittel
 ---

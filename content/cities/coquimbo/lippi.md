@@ -1,5 +1,5 @@
 ---
 title: "Lippi"
 url: /coquimbo/lippi/
-shop: exterior
+shop: Outdoor
 ---

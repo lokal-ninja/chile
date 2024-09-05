@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /nunoa/ekono/
-shop: supermercado
+shop: Supermarkt
 ---

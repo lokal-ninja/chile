@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Los Fundadores"
 url: /valdivia/minimarket-los-fundadores/
-shop: comodidad
+shop: Lebensmittel
 ---

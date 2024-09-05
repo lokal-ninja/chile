@@ -1,5 +1,5 @@
 ---
 title: "Galería San Martín"
 url: /buin/galeria-san-martin/
-shop: general
+shop: Allgemein
 ---

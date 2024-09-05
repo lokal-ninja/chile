@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /providencia/patagonia/
-shop: ropa
+shop: Kleidung
 ---

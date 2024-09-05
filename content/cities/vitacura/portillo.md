@@ -1,5 +1,5 @@
 ---
 title: "Portillo"
 url: /vitacura/portillo/
-shop: coche
+shop: Autohaus
 ---

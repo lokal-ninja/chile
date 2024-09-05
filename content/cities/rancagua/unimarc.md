@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /rancagua/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /coquimbo/adidas/
-shop: deportes
+shop: Sport
 ---

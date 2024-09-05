@@ -1,5 +1,5 @@
 ---
 title: "Froens"
 url: /las-condes/froens/
-shop: ropa
+shop: Kleidung
 ---

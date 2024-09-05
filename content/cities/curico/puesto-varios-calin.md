@@ -1,5 +1,5 @@
 ---
 title: "Puesto Varios Calin"
 url: /curico/puesto-varios-calin/
-shop: comodidad
+shop: Lebensmittel
 ---

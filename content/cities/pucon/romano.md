@@ -1,5 +1,5 @@
 ---
 title: "Romano"
 url: /pucon/romano/
-shop: ropa
+shop: Kleidung
 ---

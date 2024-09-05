@@ -1,5 +1,5 @@
 ---
 title: "Go Botillería"
 url: /la-reina/go-botilleria/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verónica"
 url: /quilpue/veronica/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C-Fastpack"
 url: /quilpue/c-fastpack/
-shop: general
+shop: Allgemein
 ---

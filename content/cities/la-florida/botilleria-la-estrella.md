@@ -1,5 +1,5 @@
 ---
 title: "Botilleria La Estrella"
 url: /la-florida/botilleria-la-estrella/
-shop: alcohol
+shop: Spirituosen
 ---

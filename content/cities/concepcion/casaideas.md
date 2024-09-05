@@ -1,5 +1,5 @@
 ---
 title: "Casaideas"
 url: /concepcion/casaideas/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

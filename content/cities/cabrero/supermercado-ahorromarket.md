@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Ahorromarket"
 url: /cabrero/supermercado-ahorromarket/
-shop: supermercado
+shop: Supermarkt
 ---

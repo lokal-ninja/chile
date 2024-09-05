@@ -1,5 +1,5 @@
 ---
 title: "Cronus"
 url: /santiago/cronus/
-shop: bicicleta
+shop: Fahrrad
 ---

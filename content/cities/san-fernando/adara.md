@@ -1,5 +1,5 @@
 ---
 title: "Adara"
 url: /san-fernando/adara/
-shop: ropa
+shop: Kleidung
 ---

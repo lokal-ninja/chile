@@ -1,5 +1,5 @@
 ---
 title: "Scanavini"
 url: /vitacura/scanavini/
-shop: mayorista
+shop: Großhandel
 ---

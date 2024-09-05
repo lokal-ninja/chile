@@ -1,5 +1,5 @@
 ---
 title: "AWEI"
 url: /curacavi/awei/
-shop: tienda rural
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco"
 url: /vitacura/lavaseco/
-shop: lavandería
+shop: Wäscherei
 ---

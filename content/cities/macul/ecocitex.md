@@ -1,5 +1,5 @@
 ---
 title: "Ecocitex"
 url: /macul/ecocitex/
-shop: coser
+shop: Nähzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NETCO"
 url: /providencia/netco/
-shop: ordenador
+shop: Computer
 ---

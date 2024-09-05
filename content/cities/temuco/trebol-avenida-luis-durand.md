@@ -1,5 +1,5 @@
 ---
 title: "Trébol"
 url: /temuco/trebol-avenida-luis-durand/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ficcus"
 url: /las-condes/ficcus/
-shop: ropa
+shop: Kleidung
 ---

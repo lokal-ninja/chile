@@ -1,5 +1,5 @@
 ---
 title: "Genovesa"
 url: /quilpue/genovesa/
-shop: carnicero
+shop: Metzgerei
 ---

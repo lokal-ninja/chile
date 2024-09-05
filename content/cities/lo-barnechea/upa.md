@@ -1,5 +1,5 @@
 ---
 title: "Upa!"
 url: /lo-barnechea/upa/
-shop: comodidad
+shop: Lebensmittel
 ---

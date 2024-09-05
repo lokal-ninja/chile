@@ -1,5 +1,5 @@
 ---
 title: "Minicentro"
 url: /valdivia/minicentro/
-shop: electrónica
+shop: Elektronik
 ---

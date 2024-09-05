@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /providencia/lacoste/
-shop: ropa
+shop: Kleidung
 ---

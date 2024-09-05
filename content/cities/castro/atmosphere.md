@@ -1,5 +1,5 @@
 ---
 title: "Atmosphere"
 url: /castro/atmosphere/
-shop: cosméticos
+shop: Kosmetik
 ---

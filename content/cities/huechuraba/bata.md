@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /huechuraba/bata/
-shop: zapatos
+shop: Schuhe
 ---

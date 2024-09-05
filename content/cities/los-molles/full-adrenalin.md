@@ -1,5 +1,5 @@
 ---
 title: "Full Adrenalin"
 url: /los-molles/full-adrenalin/
-shop: buceo
+shop: Tauchen
 ---

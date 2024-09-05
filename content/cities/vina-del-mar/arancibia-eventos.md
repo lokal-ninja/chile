@@ -1,5 +1,5 @@
 ---
 title: "Arancibia Eventos"
 url: /vina-del-mar/arancibia-eventos/
-shop: general
+shop: Allgemein
 ---

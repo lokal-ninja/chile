@@ -1,5 +1,5 @@
 ---
 title: "Minimarket La Reina"
 url: /pitrufquen/minimarket-la-reina/
-shop: supermercado
+shop: Supermarkt
 ---

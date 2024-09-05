@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Qulq'asa"
 url: /arica/minimarket-qulqasa/
-shop: supermercado
+shop: Supermarkt
 ---

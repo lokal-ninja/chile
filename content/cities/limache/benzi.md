@@ -1,5 +1,5 @@
 ---
 title: "Benzi"
 url: /limache/benzi/
-shop: general
+shop: Allgemein
 ---

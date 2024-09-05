@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
 url: /providencia/kiehls/
-shop: cosméticos
+shop: Kosmetik
 ---

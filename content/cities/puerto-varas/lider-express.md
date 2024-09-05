@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /puerto-varas/lider-express/
-shop: supermercado
+shop: Supermarkt
 ---

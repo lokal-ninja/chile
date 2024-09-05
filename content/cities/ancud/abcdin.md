@@ -1,5 +1,5 @@
 ---
 title: "ABCDin"
 url: /ancud/abcdin/
-shop: grandes almacenes
+shop: Warenhaus
 ---

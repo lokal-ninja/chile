@@ -1,5 +1,5 @@
 ---
 title: "Levis"
 url: /valdivia/levis/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Martin"
 url: /buin/tienda-san-martin/
-shop: general
+shop: Allgemein
 ---

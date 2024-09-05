@@ -1,5 +1,5 @@
 ---
 title: "Dulce Tentación"
 url: /olivar/dulce-tentacion/
-shop: panadería
+shop: Bäckerei
 ---

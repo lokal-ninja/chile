@@ -1,5 +1,5 @@
 ---
 title: "la biciclete"
 url: /vina-del-mar/la-biciclete/
-shop: panadería
+shop: Bäckerei
 ---

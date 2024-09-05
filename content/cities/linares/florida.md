@@ -1,5 +1,5 @@
 ---
 title: "Florida"
 url: /linares/florida/
-shop: ropa
+shop: Kleidung
 ---

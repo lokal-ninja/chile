@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /la-serena/lider-regimiento-arica/
-shop: supermercado
+shop: Supermarkt
 ---

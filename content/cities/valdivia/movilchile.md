@@ -1,5 +1,5 @@
 ---
 title: "MovilChile"
 url: /valdivia/movilchile/
-shop: ropa
+shop: Kleidung
 ---

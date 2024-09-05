@@ -1,5 +1,5 @@
 ---
 title: "Miele"
 url: /vitacura/miele/
-shop: electrónica
+shop: Elektronik
 ---

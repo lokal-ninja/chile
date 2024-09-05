@@ -1,5 +1,5 @@
 ---
 title: "Loden Haus"
 url: /vitacura/loden-haus/
-shop: ropa
+shop: Kleidung
 ---

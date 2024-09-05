@@ -1,5 +1,5 @@
 ---
 title: "Fulldeportes"
 url: /talagante/fulldeportes/
-shop: deportes
+shop: Sport
 ---

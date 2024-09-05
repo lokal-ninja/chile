@@ -1,5 +1,5 @@
 ---
 title: "La Josefa"
 url: /chanaral/la-josefa/
-shop: frutería
+shop: Gemüse & Obst
 ---

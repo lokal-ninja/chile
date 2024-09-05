@@ -1,5 +1,5 @@
 ---
 title: "Dulceria Frutillar"
 url: /las-condes/dulceria-frutillar/
-shop: panadería
+shop: Bäckerei
 ---

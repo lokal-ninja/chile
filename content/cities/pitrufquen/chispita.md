@@ -1,5 +1,5 @@
 ---
 title: "Chispita"
 url: /pitrufquen/chispita/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multioferte"
 url: /penalolen/multioferte/
-shop: comodidad
+shop: Lebensmittel
 ---

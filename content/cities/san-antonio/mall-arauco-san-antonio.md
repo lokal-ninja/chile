@@ -1,5 +1,5 @@
 ---
 title: "Mall Arauco San Antonio"
 url: /san-antonio/mall-arauco-san-antonio/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

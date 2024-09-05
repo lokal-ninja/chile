@@ -1,5 +1,5 @@
 ---
 title: "Montemarano"
 url: /las-condes/montemarano/
-shop: ropa
+shop: Kleidung
 ---

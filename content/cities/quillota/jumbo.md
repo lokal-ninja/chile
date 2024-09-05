@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /quillota/jumbo/
-shop: supermercado
+shop: Supermarkt
 ---

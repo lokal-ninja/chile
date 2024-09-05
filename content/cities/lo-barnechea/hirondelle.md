@@ -1,5 +1,5 @@
 ---
 title: "Hirondelle"
 url: /lo-barnechea/hirondelle/
-shop: pastelería
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlos"
 url: /quilpue/carlos/
-shop: peluquería
+shop: Friseur
 ---

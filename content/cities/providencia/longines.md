@@ -1,5 +1,5 @@
 ---
 title: "Longines"
 url: /providencia/longines/
-shop: relojes
+shop: Uhren
 ---

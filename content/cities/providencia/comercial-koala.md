@@ -1,5 +1,5 @@
 ---
 title: "Comercial Koala"
 url: /providencia/comercial-koala/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wet's"
 url: /las-condes/wets/
-shop: lavandería
+shop: Wäscherei
 ---

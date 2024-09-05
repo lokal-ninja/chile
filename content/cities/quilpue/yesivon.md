@@ -1,5 +1,5 @@
 ---
 title: "Yesivon"
 url: /quilpue/yesivon/
-shop: peluquería
+shop: Friseur
 ---

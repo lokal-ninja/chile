@@ -1,5 +1,5 @@
 ---
 title: "Ricardo"
 url: /valdivia/ricardo/
-shop: peluquería
+shop: Friseur
 ---

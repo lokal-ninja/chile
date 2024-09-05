@@ -1,5 +1,5 @@
 ---
 title: "Vesty"
 url: /machali/vesty/
-shop: ropa
+shop: Kleidung
 ---

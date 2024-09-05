@@ -1,5 +1,5 @@
 ---
 title: "Barrys"
 url: /providencia/barrys/
-shop: comodidad
+shop: Lebensmittel
 ---

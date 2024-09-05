@@ -1,5 +1,5 @@
 ---
 title: "Almacén Carlos"
 url: /lo-prado/almacen-carlos/
-shop: comodidad
+shop: Lebensmittel
 ---

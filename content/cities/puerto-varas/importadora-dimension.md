@@ -1,5 +1,5 @@
 ---
 title: "Importadora Dimensión"
 url: /puerto-varas/importadora-dimension/
-shop: ropa
+shop: Kleidung
 ---

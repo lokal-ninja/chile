@@ -1,5 +1,5 @@
 ---
 title: "Travel Market"
 url: /pudahuel/travel-market-armando-cortinez-norte/
-shop: comodidad
+shop: Lebensmittel
 ---

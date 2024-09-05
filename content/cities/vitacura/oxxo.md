@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /vitacura/oxxo/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santiago"
 url: /providencia/santiago/
-shop: peluquería
+shop: Friseur
 ---

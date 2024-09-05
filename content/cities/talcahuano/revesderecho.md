@@ -1,5 +1,5 @@
 ---
 title: "Revesderecho"
 url: /talcahuano/revesderecho/
-shop: artesanía
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inalco Chevrolet"
 url: /las-condes/inalco-chevrolet/
-shop: coche
+shop: Autohaus
 ---

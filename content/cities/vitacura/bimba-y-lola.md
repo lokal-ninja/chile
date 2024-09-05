@@ -1,5 +1,5 @@
 ---
 title: "Bimba y Lola"
 url: /vitacura/bimba-y-lola/
-shop: ropa
+shop: Kleidung
 ---

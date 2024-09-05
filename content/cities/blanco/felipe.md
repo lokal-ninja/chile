@@ -1,5 +1,5 @@
 ---
 title: "Felipe"
 url: /blanco/felipe/
-shop: comodidad
+shop: Lebensmittel
 ---

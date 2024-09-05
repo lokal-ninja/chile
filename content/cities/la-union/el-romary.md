@@ -1,5 +1,5 @@
 ---
 title: "El Romary"
 url: /la-union/el-romary/
-shop: alcohol
+shop: Spirituosen
 ---

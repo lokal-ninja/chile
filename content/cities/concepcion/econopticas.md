@@ -1,5 +1,5 @@
 ---
 title: "Econópticas"
 url: /concepcion/econopticas/
-shop: óptico
+shop: Optiker
 ---

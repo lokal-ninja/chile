@@ -1,5 +1,5 @@
 ---
 title: "Licorería Brindis"
 url: /san-bernardo/licoreria-brindis/
-shop: alcohol
+shop: Spirituosen
 ---

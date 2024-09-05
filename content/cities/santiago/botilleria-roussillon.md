@@ -1,5 +1,5 @@
 ---
 title: "Botilleria Roussillon"
 url: /santiago/botilleria-roussillon/
-shop: alcohol
+shop: Spirituosen
 ---

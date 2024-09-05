@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /rancagua/toyota/
-shop: coche
+shop: Autohaus
 ---

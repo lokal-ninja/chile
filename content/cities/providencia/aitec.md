@@ -1,5 +1,5 @@
 ---
 title: "Aitec"
 url: /providencia/aitec/
-shop: comercio
+shop: Baustoffe
 ---

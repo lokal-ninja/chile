@@ -1,5 +1,5 @@
 ---
 title: "Pucón"
 url: /quilpue/pucon/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Io"
 url: /coquimbo/io/
-shop: ropa
+shop: Kleidung
 ---

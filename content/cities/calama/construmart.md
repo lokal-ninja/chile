@@ -1,5 +1,5 @@
 ---
 title: "ConstruMart"
 url: /calama/construmart/
-shop: hardware
+shop: Eisenwaren
 ---

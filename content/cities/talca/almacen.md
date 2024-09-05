@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /talca/almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

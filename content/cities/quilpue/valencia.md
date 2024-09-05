@@ -1,5 +1,5 @@
 ---
 title: "Valencia"
 url: /quilpue/valencia/
-shop: panadería
+shop: Bäckerei
 ---

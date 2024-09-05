@@ -1,5 +1,5 @@
 ---
 title: "Kiessan"
 url: /puyehue/kiessan/
-shop: supermercado
+shop: Supermarkt
 ---

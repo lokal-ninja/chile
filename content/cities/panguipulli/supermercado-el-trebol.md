@@ -1,5 +1,5 @@
 ---
 title: "Supermercado El Trébol"
 url: /panguipulli/supermercado-el-trebol/
-shop: supermercado
+shop: Supermarkt
 ---

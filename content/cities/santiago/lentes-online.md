@@ -1,5 +1,5 @@
 ---
 title: "Lentes Online"
 url: /santiago/lentes-online/
-shop: óptico
+shop: Optiker
 ---

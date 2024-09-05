@@ -1,5 +1,5 @@
 ---
 title: "Nostalgic"
 url: /providencia/nostalgic/
-shop: ropa
+shop: Kleidung
 ---

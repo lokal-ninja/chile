@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
 url: /san-bernardo/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

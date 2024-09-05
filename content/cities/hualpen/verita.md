@@ -1,5 +1,5 @@
 ---
 title: "Verita"
 url: /hualpen/verita/
-shop: hardware
+shop: Eisenwaren
 ---

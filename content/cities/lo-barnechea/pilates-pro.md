@@ -1,5 +1,5 @@
 ---
 title: "Pilates Pro"
 url: /lo-barnechea/pilates-pro/
-shop: general
+shop: Allgemein
 ---

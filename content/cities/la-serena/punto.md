@@ -1,5 +1,5 @@
 ---
 title: "Punto"
 url: /la-serena/punto/
-shop: comodidad
+shop: Lebensmittel
 ---

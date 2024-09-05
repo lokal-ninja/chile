@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /san-bernardo/almacen-avenida-america-2/
-shop: comodidad
+shop: Lebensmittel
 ---

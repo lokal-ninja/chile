@@ -1,5 +1,5 @@
 ---
 title: "GranFería de Artesania"
 url: /padre-hurtado/granferia-de-artesania/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamara"
 url: /futaleufu/yamara/
-shop: supermercado
+shop: Supermarkt
 ---

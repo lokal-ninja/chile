@@ -1,5 +1,5 @@
 ---
 title: "Máximo"
 url: /ancud/maximo/
-shop: supermercado
+shop: Supermarkt
 ---

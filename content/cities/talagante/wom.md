@@ -1,5 +1,5 @@
 ---
 title: "WOM"
 url: /talagante/wom/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén Digital"
 url: /punta-arenas/almacen-digital/
-shop: comodidad
+shop: Lebensmittel
 ---

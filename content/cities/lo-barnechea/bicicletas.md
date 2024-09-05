@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas"
 url: /lo-barnechea/bicicletas/
-shop: bicicleta
+shop: Fahrrad
 ---

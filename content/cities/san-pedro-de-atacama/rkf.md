@@ -1,5 +1,5 @@
 ---
 title: "RKF"
 url: /san-pedro-de-atacama/rkf/
-shop: ropa
+shop: Kleidung
 ---

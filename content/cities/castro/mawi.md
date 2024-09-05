@@ -1,5 +1,5 @@
 ---
 title: "Mawi"
 url: /castro/mawi/
-shop: ropa
+shop: Kleidung
 ---

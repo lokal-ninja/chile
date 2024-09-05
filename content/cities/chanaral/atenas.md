@@ -1,5 +1,5 @@
 ---
 title: "Atenas"
 url: /chanaral/atenas/
-shop: ropa
+shop: Kleidung
 ---

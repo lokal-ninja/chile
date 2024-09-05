@@ -1,5 +1,5 @@
 ---
 title: "Wados"
 url: /huechuraba/wados/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial Orcoplas"
 url: /puerto-montt/comercial-orcoplas/
-shop: general
+shop: Allgemein
 ---

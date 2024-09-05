@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria San Miguel"
 url: /santiago/ferreteria-san-miguel/
-shop: hardware
+shop: Eisenwaren
 ---

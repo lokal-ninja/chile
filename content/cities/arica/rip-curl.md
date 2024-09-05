@@ -1,5 +1,5 @@
 ---
 title: "Rip Curl"
 url: /arica/rip-curl/
-shop: ropa
+shop: Kleidung
 ---

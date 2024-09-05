@@ -1,5 +1,5 @@
 ---
 title: "Mono Chancho"
 url: /valparaiso/mono-chancho/
-shop: alcohol
+shop: Spirituosen
 ---

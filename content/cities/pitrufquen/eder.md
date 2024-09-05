@@ -1,5 +1,5 @@
 ---
 title: "Eder"
 url: /pitrufquen/eder/
-shop: frutería
+shop: Gemüse & Obst
 ---

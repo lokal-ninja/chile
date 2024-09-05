@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /valdivia/unimarc/
-shop: supermercado
+shop: Supermarkt
 ---

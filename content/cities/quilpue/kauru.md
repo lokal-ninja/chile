@@ -1,5 +1,5 @@
 ---
 title: "Kauru"
 url: /quilpue/kauru/
-shop: centro de jardinería
+shop: Garten-Center
 ---

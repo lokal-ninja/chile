@@ -1,5 +1,5 @@
 ---
 title: "Acosfrut"
 url: /quilpue/acosfrut/
-shop: frutería
+shop: Gemüse & Obst
 ---

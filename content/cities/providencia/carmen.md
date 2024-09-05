@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /providencia/carmen/
-shop: peluquería
+shop: Friseur
 ---

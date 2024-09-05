@@ -1,5 +1,5 @@
 ---
 title: "Camila"
 url: /valdivia/camila/
-shop: alcohol
+shop: Spirituosen
 ---

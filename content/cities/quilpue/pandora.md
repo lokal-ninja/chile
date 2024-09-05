@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /quilpue/pandora/
-shop: joyería
+shop: Schmuck
 ---

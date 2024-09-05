@@ -1,5 +1,5 @@
 ---
 title: "Blanca"
 url: /quilpue/blanca/
-shop: peluquería
+shop: Friseur
 ---

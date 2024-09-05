@@ -1,5 +1,5 @@
 ---
 title: "Mouton"
 url: /santiago/mouton/
-shop: cuero
+shop: Leder
 ---

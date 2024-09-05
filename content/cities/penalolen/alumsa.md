@@ -1,5 +1,5 @@
 ---
 title: "Alumsa"
 url: /penalolen/alumsa/
-shop: hardware
+shop: Eisenwaren
 ---

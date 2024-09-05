@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /macul/ekono/
-shop: supermercado
+shop: Supermarkt
 ---

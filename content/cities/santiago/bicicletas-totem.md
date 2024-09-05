@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Totem"
 url: /santiago/bicicletas-totem/
-shop: bicicleta
+shop: Fahrrad
 ---

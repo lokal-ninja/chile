@@ -1,5 +1,5 @@
 ---
 title: "Cidef"
 url: /providencia/cidef/
-shop: coche
+shop: Autohaus
 ---

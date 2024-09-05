@@ -1,5 +1,5 @@
 ---
 title: "Churro Manía"
 url: /santiago/churro-mania/
-shop: pastelería
+shop: Konditorei
 ---

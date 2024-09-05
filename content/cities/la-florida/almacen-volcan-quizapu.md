@@ -1,5 +1,5 @@
 ---
 title: "almacen"
 url: /la-florida/almacen-volcan-quizapu/
-shop: comodidad
+shop: Lebensmittel
 ---

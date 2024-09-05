@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
 url: /santiago/fotocopias/
-shop: copyshop
+shop: Kopieren
 ---

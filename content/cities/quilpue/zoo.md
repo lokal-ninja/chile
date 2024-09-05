@@ -1,5 +1,5 @@
 ---
 title: "Zoo"
 url: /quilpue/zoo/
-shop: comodidad
+shop: Lebensmittel
 ---

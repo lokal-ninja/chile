@@ -1,5 +1,5 @@
 ---
 title: "Pollini"
 url: /providencia/pollini/
-shop: zapatos
+shop: Schuhe
 ---

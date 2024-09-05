@@ -1,5 +1,5 @@
 ---
 title: "Todopiel"
 url: /valdivia/todopiel/
-shop: ropa
+shop: Kleidung
 ---

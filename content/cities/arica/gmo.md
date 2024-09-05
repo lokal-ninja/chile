@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /arica/gmo/
-shop: óptico
+shop: Optiker
 ---

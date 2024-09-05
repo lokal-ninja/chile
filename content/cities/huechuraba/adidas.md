@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /huechuraba/adidas/
-shop: deportes
+shop: Sport
 ---

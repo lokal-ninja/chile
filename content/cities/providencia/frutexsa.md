@@ -1,5 +1,5 @@
 ---
 title: "Frutexsa"
 url: /providencia/frutexsa/
-shop: frutería
+shop: Gemüse & Obst
 ---

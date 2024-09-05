@@ -1,5 +1,5 @@
 ---
 title: "Selvaggio"
 url: /santiago/selvaggio/
-shop: panadería
+shop: Bäckerei
 ---

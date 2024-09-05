@@ -1,5 +1,5 @@
 ---
 title: "Limonada"
 url: /valdivia/limonada/
-shop: ropa
+shop: Kleidung
 ---

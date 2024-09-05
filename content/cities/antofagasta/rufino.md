@@ -1,5 +1,5 @@
 ---
 title: "Rufino"
 url: /antofagasta/rufino/
-shop: café
+shop: Kaffee
 ---

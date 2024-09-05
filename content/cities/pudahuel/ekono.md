@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /pudahuel/ekono/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mireya"
 url: /chillan/mireya/
-shop: panadería
+shop: Bäckerei
 ---

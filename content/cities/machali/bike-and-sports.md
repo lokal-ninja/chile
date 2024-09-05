@@ -1,5 +1,5 @@
 ---
 title: "Bike And Sports"
 url: /machali/bike-and-sports/
-shop: bicicleta
+shop: Fahrrad
 ---

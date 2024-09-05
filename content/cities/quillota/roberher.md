@@ -1,5 +1,5 @@
 ---
 title: "Roberher"
 url: /quillota/roberher/
-shop: general
+shop: Allgemein
 ---

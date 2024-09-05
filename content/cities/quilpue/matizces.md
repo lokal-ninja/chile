@@ -1,5 +1,5 @@
 ---
 title: "Matizces"
 url: /quilpue/matizces/
-shop: peluquería
+shop: Friseur
 ---

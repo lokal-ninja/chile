@@ -1,5 +1,5 @@
 ---
 title: "Acuenta"
 url: /cerrillos/acuenta/
-shop: supermercado
+shop: Supermarkt
 ---

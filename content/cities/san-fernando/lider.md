@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /san-fernando/lider/
-shop: supermercado
+shop: Supermarkt
 ---

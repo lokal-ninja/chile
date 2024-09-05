@@ -1,5 +1,5 @@
 ---
 title: "Ambrosia"
 url: /penalolen/ambrosia/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ProCycles"
 url: /temuco/procycles/
-shop: bicicleta
+shop: Fahrrad
 ---

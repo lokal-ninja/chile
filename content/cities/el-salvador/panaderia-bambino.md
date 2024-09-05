@@ -1,5 +1,5 @@
 ---
 title: "Panadería Bambino"
 url: /el-salvador/panaderia-bambino/
-shop: panadería
+shop: Bäckerei
 ---

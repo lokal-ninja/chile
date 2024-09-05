@@ -1,5 +1,5 @@
 ---
 title: "Chocolate"
 url: /providencia/chocolate/
-shop: confitería
+shop: Süßwaren
 ---

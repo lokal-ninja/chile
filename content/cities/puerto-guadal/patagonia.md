@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /puerto-guadal/patagonia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baklava"
 url: /antofagasta/baklava/
-shop: pastelería
+shop: Konditorei
 ---

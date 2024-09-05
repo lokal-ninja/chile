@@ -1,5 +1,5 @@
 ---
 title: "Vea Óptica"
 url: /valdivia/vea-optica/
-shop: óptico
+shop: Optiker
 ---

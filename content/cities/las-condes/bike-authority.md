@@ -1,5 +1,5 @@
 ---
 title: "Bike Authority"
 url: /las-condes/bike-authority/
-shop: bicicleta
+shop: Fahrrad
 ---

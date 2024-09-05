@@ -1,5 +1,5 @@
 ---
 title: "Covepa"
 url: /valdivia/covepa/
-shop: agraria
+shop: Landwirtschaftlich
 ---

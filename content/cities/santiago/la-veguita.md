@@ -1,5 +1,5 @@
 ---
 title: "La Veguita"
 url: /santiago/la-veguita/
-shop: frutería
+shop: Gemüse & Obst
 ---

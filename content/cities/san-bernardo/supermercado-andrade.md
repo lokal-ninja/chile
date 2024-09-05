@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Andrade"
 url: /san-bernardo/supermercado-andrade/
-shop: supermercado
+shop: Supermarkt
 ---

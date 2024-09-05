@@ -1,5 +1,5 @@
 ---
 title: "Panadería Almacén"
 url: /el-bosque/panaderia-almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

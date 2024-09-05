@@ -1,5 +1,5 @@
 ---
 title: "Las Rosas Chicas"
 url: /vitacura/las-rosas-chicas/
-shop: panadería
+shop: Bäckerei
 ---

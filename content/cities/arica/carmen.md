@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
 url: /arica/carmen/
-shop: peluquería
+shop: Friseur
 ---

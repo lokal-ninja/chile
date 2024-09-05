@@ -1,5 +1,5 @@
 ---
 title: "María Luisa"
 url: /melipilla-pomaire/maria-luisa/
-shop: cerámica
+shop: Töpferei
 ---

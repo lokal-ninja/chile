@@ -1,5 +1,5 @@
 ---
 title: "Perruquería Muñequita"
 url: /villa-alemana/perruqueria-munequita/
-shop: peluquería
+shop: Friseur
 ---

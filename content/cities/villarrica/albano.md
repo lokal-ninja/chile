@@ -1,5 +1,5 @@
 ---
 title: "Albano"
 url: /villarrica/albano/
-shop: zapatos
+shop: Schuhe
 ---

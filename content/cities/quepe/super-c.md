@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /quepe/super-c/
-shop: supermercado
+shop: Supermarkt
 ---

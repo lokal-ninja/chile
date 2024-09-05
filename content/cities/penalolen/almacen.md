@@ -1,5 +1,5 @@
 ---
-title: "Almacén"
+title: "Almacen"
 url: /penalolen/almacen/
-shop: comodidad
+shop: Lebensmittel
 ---

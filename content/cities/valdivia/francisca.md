@@ -1,5 +1,5 @@
 ---
 title: "Francisca"
 url: /valdivia/francisca/
-shop: frutería
+shop: Gemüse & Obst
 ---

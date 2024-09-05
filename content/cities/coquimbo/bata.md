@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /coquimbo/bata/
-shop: zapatos
+shop: Schuhe
 ---

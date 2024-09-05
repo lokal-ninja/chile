@@ -1,5 +1,5 @@
 ---
 title: "Estilos"
 url: /quilpue/estilos/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apisur"
 url: /puerto-varas/apisur/
-shop: frutería
+shop: Gemüse & Obst
 ---

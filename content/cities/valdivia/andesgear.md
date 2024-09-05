@@ -1,5 +1,5 @@
 ---
 title: "Andesgear"
 url: /valdivia/andesgear/
-shop: ropa
+shop: Kleidung
 ---

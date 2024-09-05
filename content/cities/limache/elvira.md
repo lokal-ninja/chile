@@ -1,5 +1,5 @@
 ---
 title: "Elvira"
 url: /limache/elvira/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casio"
 url: /temuco/casio/
-shop: electrónica
+shop: Elektronik
 ---

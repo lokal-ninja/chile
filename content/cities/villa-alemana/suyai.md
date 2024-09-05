@@ -1,5 +1,5 @@
 ---
 title: "Suyai"
 url: /villa-alemana/suyai/
-shop: general
+shop: Allgemein
 ---

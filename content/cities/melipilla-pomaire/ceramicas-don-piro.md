@@ -1,5 +1,5 @@
 ---
 title: "Ceramicas don Piro"
 url: /melipilla-pomaire/ceramicas-don-piro/
-shop: cerámica
+shop: Töpferei
 ---

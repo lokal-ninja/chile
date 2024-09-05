@@ -1,5 +1,5 @@
 ---
 title: "OK Market"
 url: /las-condes/ok-market-avenida-cristobal-colon-2/
-shop: comodidad
+shop: Lebensmittel
 ---

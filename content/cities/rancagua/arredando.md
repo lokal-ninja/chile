@@ -1,5 +1,5 @@
 ---
 title: "Arredando"
 url: /rancagua/arredando/
-shop: muebles
+shop: Möbel
 ---

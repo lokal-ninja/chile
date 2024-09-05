@@ -1,5 +1,5 @@
 ---
 title: "Bebitos"
 url: /valdivia/bebitos/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Arte Del Mueble"
 url: /las-condes/el-arte-del-mueble/
-shop: muebles
+shop: Möbel
 ---

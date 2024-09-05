@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /san-bernardo/entel/
-shop: teléfono móvil
+shop: Handy
 ---

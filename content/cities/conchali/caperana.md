@@ -1,5 +1,5 @@
 ---
 title: "Caperana"
 url: /conchali/caperana/
-shop: alcohol
+shop: Spirituosen
 ---

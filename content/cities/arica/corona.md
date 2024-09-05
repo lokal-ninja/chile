@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /arica/corona/
-shop: ropa
+shop: Kleidung
 ---

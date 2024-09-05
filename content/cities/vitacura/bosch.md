@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
 url: /vitacura/bosch/
-shop: electrónica
+shop: Elektronik
 ---

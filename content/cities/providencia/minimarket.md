@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /providencia/minimarket/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado San Jorge"
 url: /cauquenes/supermercado-san-jorge/
-shop: supermercado
+shop: Supermarkt
 ---

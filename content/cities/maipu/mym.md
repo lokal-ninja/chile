@@ -1,5 +1,5 @@
 ---
 title: "MyM"
 url: /maipu/mym/
-shop: alcohol
+shop: Spirituosen
 ---

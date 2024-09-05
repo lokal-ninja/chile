@@ -1,5 +1,5 @@
 ---
 title: "Sportika"
 url: /providencia/sportika/
-shop: general
+shop: Allgemein
 ---

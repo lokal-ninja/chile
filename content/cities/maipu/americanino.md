@@ -1,5 +1,5 @@
 ---
 title: "Americanino"
 url: /maipu/americanino/
-shop: ropa
+shop: Kleidung
 ---

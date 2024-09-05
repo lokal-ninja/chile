@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /maipu/adidas/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corvi"
 url: /la-union/corvi/
-shop: supermercado
+shop: Supermarkt
 ---

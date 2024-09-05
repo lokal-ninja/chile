@@ -1,5 +1,5 @@
 ---
 title: "Pimpinela"
 url: /san-antonio/pimpinela/
-shop: joyería
+shop: Schmuck
 ---

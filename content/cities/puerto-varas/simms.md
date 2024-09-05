@@ -1,5 +1,5 @@
 ---
 title: "Simms"
 url: /puerto-varas/simms/
-shop: ropa
+shop: Kleidung
 ---

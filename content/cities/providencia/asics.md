@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /providencia/asics/
-shop: zapatos
+shop: Schuhe
 ---
