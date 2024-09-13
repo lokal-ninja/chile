@@ -1,5 +1,5 @@
 ---
 title: "Centro Artesanal"
 url: /frutillar/centro-artesanal/
-shop: Andenken
+shop: regalo
 ---

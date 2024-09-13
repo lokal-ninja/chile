@@ -1,5 +1,5 @@
 ---
 title: "Minghan"
 url: /quilpue/minghan/
-shop: Kramladen
+shop: tienda de variedades
 ---

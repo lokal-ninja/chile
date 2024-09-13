@@ -1,5 +1,5 @@
 ---
 title: "Lotte Mart"
 url: /recoleta/lotte-mart/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sparta"
 url: /temuco/sparta/
-shop: Kleidung
+shop: ropa
 ---

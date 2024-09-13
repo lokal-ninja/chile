@@ -1,5 +1,5 @@
 ---
 title: "Surgrafic"
 url: /talca/surgrafic/
-shop: Schreibwaren
+shop: material de oficina
 ---

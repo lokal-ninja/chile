@@ -1,5 +1,5 @@
 ---
 title: "Rimak Ltda."
 url: /vitacura/rimak-ltda/
-shop: Allgemein
+shop: general
 ---

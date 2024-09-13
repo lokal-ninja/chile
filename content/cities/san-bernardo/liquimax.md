@@ -1,5 +1,5 @@
 ---
 title: "Liquimax"
 url: /san-bernardo/liquimax/
-shop: Drogerie
+shop: farmacia
 ---

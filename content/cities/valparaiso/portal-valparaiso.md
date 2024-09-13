@@ -1,5 +1,5 @@
 ---
 title: "Portal Valparaíso"
 url: /valparaiso/portal-valparaiso/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

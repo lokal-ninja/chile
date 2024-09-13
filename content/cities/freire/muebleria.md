@@ -1,5 +1,5 @@
 ---
 title: "Mueblería"
 url: /freire/muebleria/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

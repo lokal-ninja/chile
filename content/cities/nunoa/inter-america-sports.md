@@ -1,5 +1,5 @@
 ---
 title: "Inter América Sports"
 url: /nunoa/inter-america-sports/
-shop: Sport
+shop: deportes
 ---

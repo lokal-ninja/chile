@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas"
 url: /valdivia/bicicletas/
-shop: Fahrrad
+shop: bicicleta
 ---

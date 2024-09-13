@@ -1,5 +1,5 @@
 ---
 title: "MyM"
 url: /monte-patria/mym/
-shop: Bäckerei
+shop: panadería
 ---

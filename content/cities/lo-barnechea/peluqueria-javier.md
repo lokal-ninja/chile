@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Javier"
 url: /lo-barnechea/peluqueria-javier/
-shop: Friseur
+shop: peluquería
 ---

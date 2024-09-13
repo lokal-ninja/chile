@@ -1,5 +1,5 @@
 ---
 title: "El Sol"
 url: /pichidangui/el-sol-avenida-costanera/
-shop: Supermarkt
+shop: supermercado
 ---

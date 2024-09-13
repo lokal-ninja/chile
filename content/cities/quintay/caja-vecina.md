@@ -1,5 +1,5 @@
 ---
 title: "Caja Vecina"
 url: /quintay/caja-vecina/
-shop: Allgemein
+shop: general
 ---

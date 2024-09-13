@@ -1,5 +1,5 @@
 ---
 title: "Divos"
 url: /valdivia/divos/
-shop: Spirituosen
+shop: alcohol
 ---

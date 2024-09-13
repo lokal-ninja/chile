@@ -1,5 +1,5 @@
 ---
 title: "Mototal"
 url: /talca/mototal/
-shop: Motorrad
+shop: motocicleta
 ---

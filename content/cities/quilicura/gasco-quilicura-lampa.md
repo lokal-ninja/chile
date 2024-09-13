@@ -1,5 +1,5 @@
 ---
 title: "Gasco Quilicura Lampa"
 url: /quilicura/gasco-quilicura-lampa/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /rancagua/citroen/
-shop: Autohaus
+shop: coche
 ---

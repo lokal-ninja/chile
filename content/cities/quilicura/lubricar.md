@@ -1,5 +1,5 @@
 ---
 title: "Lubricar"
 url: /quilicura/lubricar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

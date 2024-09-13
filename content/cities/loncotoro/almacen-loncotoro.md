@@ -1,5 +1,5 @@
 ---
 title: "Almacén Loncotoro"
 url: /loncotoro/almacen-loncotoro/
-shop: Lebensmittel
+shop: comodidad
 ---

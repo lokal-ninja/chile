@@ -1,5 +1,5 @@
 ---
 title: "TecnoPicada"
 url: /santiago/tecnopicada/
-shop: Computer
+shop: ordenador
 ---

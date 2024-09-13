@@ -1,5 +1,5 @@
 ---
 title: "Protours"
 url: /puerto-varas/protours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

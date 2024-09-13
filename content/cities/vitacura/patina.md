@@ -1,5 +1,5 @@
 ---
 title: "Patina"
 url: /vitacura/patina/
-shop: Antiquitäten
+shop: antigüedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino"
 url: /penalolen/mall-chino/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

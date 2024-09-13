@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /las-condes/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /huechuraba/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

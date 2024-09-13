@@ -1,5 +1,5 @@
 ---
 title: "Florería Shalom"
 url: /freire/floreria-shalom/
-shop: Blumen
+shop: floristería
 ---

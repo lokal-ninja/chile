@@ -1,5 +1,5 @@
 ---
 title: "Agrosole"
 url: /las-condes/agrosole/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camotor"
 url: /quilpue/camotor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

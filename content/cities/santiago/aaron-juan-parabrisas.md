@@ -1,5 +1,5 @@
 ---
 title: "Aaron Juan Parabrisas"
 url: /santiago/aaron-juan-parabrisas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

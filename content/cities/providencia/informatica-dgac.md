@@ -1,5 +1,5 @@
 ---
 title: "Informática DGAC"
 url: /providencia/informatica-dgac/
-shop: Software
+shop: software
 ---

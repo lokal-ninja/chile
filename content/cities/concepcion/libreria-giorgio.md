@@ -1,5 +1,5 @@
 ---
 title: "Librería Giorgio"
 url: /concepcion/libreria-giorgio/
-shop: Schreibwaren
+shop: material de oficina
 ---

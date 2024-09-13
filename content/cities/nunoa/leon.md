@@ -1,5 +1,5 @@
 ---
 title: "León"
 url: /nunoa/leon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

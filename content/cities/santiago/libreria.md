@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /santiago/libreria/
-shop: Kramladen
+shop: tienda de variedades
 ---

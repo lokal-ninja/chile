@@ -1,5 +1,5 @@
 ---
 title: "Automotora Central"
 url: /quilpue/automotora-central/
-shop: Autohaus
+shop: coche
 ---

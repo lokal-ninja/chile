@@ -1,5 +1,5 @@
 ---
 title: "Vicky"
 url: /quilpue/vicky/
-shop: Friseur
+shop: peluquería
 ---

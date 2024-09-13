@@ -1,5 +1,5 @@
 ---
 title: "Hiper Lider"
 url: /linares/hiper-lider/
-shop: Supermarkt
+shop: supermercado
 ---

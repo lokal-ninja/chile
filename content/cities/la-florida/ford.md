@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /la-florida/ford/
-shop: Autohaus
+shop: coche
 ---

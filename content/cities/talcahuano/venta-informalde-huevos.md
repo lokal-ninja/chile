@@ -1,5 +1,5 @@
 ---
 title: "venta informalde huevos"
 url: /talcahuano/venta-informalde-huevos/
-shop: Bioladen
+shop: alimentación sana
 ---

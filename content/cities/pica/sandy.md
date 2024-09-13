@@ -1,5 +1,5 @@
 ---
 title: "Sandy"
 url: /pica/sandy/
-shop: Kiosk
+shop: quiosco
 ---

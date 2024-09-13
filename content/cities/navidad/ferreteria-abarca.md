@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Abarca"
 url: /navidad/ferreteria-abarca/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Armonie Hogar"
 url: /canete/armonie-hogar/
-shop: Allgemein
+shop: general
 ---

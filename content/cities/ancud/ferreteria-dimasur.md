@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Dimasur"
 url: /ancud/ferreteria-dimasur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

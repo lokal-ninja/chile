@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /quilicura/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

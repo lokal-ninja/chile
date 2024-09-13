@@ -1,5 +1,5 @@
 ---
 title: "La Polar"
 url: /el-bosque/la-polar/
-shop: Raumausstattung
+shop: decoración interior
 ---

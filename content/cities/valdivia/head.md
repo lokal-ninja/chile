@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /valdivia/head/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

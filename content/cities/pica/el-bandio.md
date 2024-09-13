@@ -1,5 +1,5 @@
 ---
 title: "El Bandio"
 url: /pica/el-bandio/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portugal"
 url: /hualpen/portugal/
-shop: Bäckerei
+shop: panadería
 ---

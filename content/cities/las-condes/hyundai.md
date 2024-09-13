@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /las-condes/hyundai/
-shop: Autohaus
+shop: coche
 ---

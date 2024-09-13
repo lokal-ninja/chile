@@ -1,5 +1,5 @@
 ---
 title: "Superbodega A Cuenta"
 url: /nueva-imperial/superbodega-a-cuenta/
-shop: Supermarkt
+shop: supermercado
 ---

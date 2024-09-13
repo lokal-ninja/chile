@@ -1,5 +1,5 @@
 ---
 title: "Cat"
 url: /las-condes/cat/
-shop: Kleidung
+shop: ropa
 ---

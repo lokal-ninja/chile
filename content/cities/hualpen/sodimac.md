@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /hualpen/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

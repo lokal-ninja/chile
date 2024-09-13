@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Ramos"
 url: /santiago/ferreteria-ramos/
-shop: Eisenwaren
+shop: hardware
 ---

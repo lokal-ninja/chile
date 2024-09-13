@@ -1,5 +1,5 @@
 ---
 title: "SuperZoo"
 url: /la-reina/superzoo/
-shop: Tiere
+shop: mascotas
 ---

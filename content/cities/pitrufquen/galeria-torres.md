@@ -1,5 +1,5 @@
 ---
 title: "Galería torres"
 url: /pitrufquen/galeria-torres/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

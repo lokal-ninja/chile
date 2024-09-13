@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /chillan/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

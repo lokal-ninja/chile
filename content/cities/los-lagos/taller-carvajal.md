@@ -1,5 +1,5 @@
 ---
 title: "Taller Carvajal"
 url: /los-lagos/taller-carvajal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

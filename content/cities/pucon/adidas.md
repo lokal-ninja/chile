@@ -1,5 +1,5 @@
 ---
 title: "adidas"
 url: /pucon/adidas/
-shop: Kleidung
+shop: ropa
 ---

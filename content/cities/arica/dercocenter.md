@@ -1,5 +1,5 @@
 ---
 title: "Dercocenter"
 url: /arica/dercocenter/
-shop: Autohaus
+shop: coche
 ---

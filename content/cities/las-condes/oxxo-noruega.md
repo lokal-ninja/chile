@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /las-condes/oxxo-noruega/
-shop: Lebensmittel
+shop: comodidad
 ---

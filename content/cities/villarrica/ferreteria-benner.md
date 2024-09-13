@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Benner"
 url: /villarrica/ferreteria-benner/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

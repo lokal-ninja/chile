@@ -1,5 +1,5 @@
 ---
 title: "Kandor"
 url: /providencia/kandor/
-shop: Baustoffe
+shop: comercio
 ---

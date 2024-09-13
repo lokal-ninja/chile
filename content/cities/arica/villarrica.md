@@ -1,5 +1,5 @@
 ---
 title: "Villarrica"
 url: /arica/villarrica/
-shop: Autohaus
+shop: coche
 ---

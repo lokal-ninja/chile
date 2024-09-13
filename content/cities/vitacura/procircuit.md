@@ -1,5 +1,5 @@
 ---
 title: "Procircuit"
 url: /vitacura/procircuit/
-shop: Motorrad
+shop: motocicleta
 ---

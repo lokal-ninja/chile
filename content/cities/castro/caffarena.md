@@ -1,5 +1,5 @@
 ---
 title: "Caffarena"
 url: /castro/caffarena/
-shop: Kleidung
+shop: ropa
 ---

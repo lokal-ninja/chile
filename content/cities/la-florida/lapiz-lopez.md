@@ -1,5 +1,5 @@
 ---
 title: "Lapiz Lopez"
 url: /la-florida/lapiz-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

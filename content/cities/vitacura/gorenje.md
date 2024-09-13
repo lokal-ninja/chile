@@ -1,5 +1,5 @@
 ---
 title: "Gorenje"
 url: /vitacura/gorenje/
-shop: Haushaltsgeräte
+shop: aparato
 ---

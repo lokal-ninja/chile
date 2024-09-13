@@ -1,5 +1,5 @@
 ---
 title: "Provimarket"
 url: /quilpue/provimarket/
-shop: Supermarkt
+shop: supermercado
 ---

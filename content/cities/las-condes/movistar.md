@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /las-condes/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

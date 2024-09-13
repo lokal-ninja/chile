@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /vallenar/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

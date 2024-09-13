@@ -1,5 +1,5 @@
 ---
 title: "Comercial Echaurren"
 url: /limache/comercial-echaurren/
-shop: Autoteile
+shop: piezas de automóviles
 ---

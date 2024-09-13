@@ -1,5 +1,5 @@
 ---
 title: "Ruyi"
 url: /santiago/ruyi/
-shop: Kramladen
+shop: tienda de variedades
 ---

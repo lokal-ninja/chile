@@ -1,5 +1,5 @@
 ---
 title: "fardos"
 url: /temuco/fardos/
-shop: Kleidung
+shop: ropa
 ---

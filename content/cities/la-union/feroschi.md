@@ -1,5 +1,5 @@
 ---
 title: "Feroschi"
 url: /la-union/feroschi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

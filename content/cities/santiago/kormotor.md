@@ -1,5 +1,5 @@
 ---
 title: "Kormotor"
 url: /santiago/kormotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

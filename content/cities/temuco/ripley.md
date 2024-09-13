@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /temuco/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

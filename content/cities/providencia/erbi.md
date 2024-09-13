@@ -1,5 +1,5 @@
 ---
 title: "Erbi"
 url: /providencia/erbi/
-shop: Supermarkt
+shop: supermercado
 ---

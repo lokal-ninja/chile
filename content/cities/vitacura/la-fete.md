@@ -1,5 +1,5 @@
 ---
 title: "La Fête"
 url: /vitacura/la-fete/
-shop: Schokolade
+shop: chocolate
 ---

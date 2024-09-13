@@ -1,5 +1,5 @@
 ---
 title: "Amasandería Andy"
 url: /la-pintana/amasanderia-andy/
-shop: Lebensmittel
+shop: comodidad
 ---

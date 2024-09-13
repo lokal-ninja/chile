@@ -1,5 +1,5 @@
 ---
 title: "Suzi Santiago"
 url: /providencia/suzi-santiago/
-shop: Reisebüro
+shop: agencia de viajes
 ---

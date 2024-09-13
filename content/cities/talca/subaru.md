@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /talca/subaru/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teletrack"
 url: /villarrica/teletrack/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Canina Urbanpet La Cruz"
 url: /la-cruz/peluqueria-canina-urbanpet-la-cruz/
-shop: Tiersalon
+shop: peluquería canina
 ---

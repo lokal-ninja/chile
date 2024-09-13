@@ -1,5 +1,5 @@
 ---
 title: "Capitan nene"
 url: /temuco/capitan-nene/
-shop: Fisch
+shop: marisco
 ---

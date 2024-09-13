@@ -1,5 +1,5 @@
 ---
 title: "Rincón Mágico"
 url: /nacimiento/rincon-magico/
-shop: Kramladen
+shop: tienda de variedades
 ---

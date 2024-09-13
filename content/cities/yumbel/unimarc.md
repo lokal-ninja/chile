@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /yumbel/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BBCE"
 url: /vitacura/bbce/
-shop: Babysachen
+shop: artículos para bebés
 ---

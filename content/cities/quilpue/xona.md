@@ -1,5 +1,5 @@
 ---
 title: "Xona"
 url: /quilpue/xona/
-shop: Schreibwaren
+shop: material de oficina
 ---

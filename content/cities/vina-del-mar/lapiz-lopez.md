@@ -1,5 +1,5 @@
 ---
 title: "Lápiz López"
 url: /vina-del-mar/lapiz-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

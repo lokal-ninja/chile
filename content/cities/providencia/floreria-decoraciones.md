@@ -1,5 +1,5 @@
 ---
 title: "Florería Decoraciones"
 url: /providencia/floreria-decoraciones/
-shop: Blumen
+shop: floristería
 ---

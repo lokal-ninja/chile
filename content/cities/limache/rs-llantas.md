@@ -1,5 +1,5 @@
 ---
 title: "RS Llantas"
 url: /limache/rs-llantas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

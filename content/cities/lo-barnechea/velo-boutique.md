@@ -1,5 +1,5 @@
 ---
 title: "Veló Boutique"
 url: /lo-barnechea/velo-boutique/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Italia"
 url: /limache/supermercado-italia/
-shop: Supermarkt
+shop: supermercado
 ---

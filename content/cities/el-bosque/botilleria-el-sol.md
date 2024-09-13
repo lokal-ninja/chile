@@ -1,5 +1,5 @@
 ---
 title: "Botilleria El Sol"
 url: /el-bosque/botilleria-el-sol/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /vina-del-mar/movistar-avenida-libertad/
-shop: Handy
+shop: teléfono móvil
 ---

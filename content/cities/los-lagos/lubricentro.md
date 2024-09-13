@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /los-lagos/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

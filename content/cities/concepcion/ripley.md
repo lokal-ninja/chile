@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /concepcion/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

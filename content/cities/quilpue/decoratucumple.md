@@ -1,5 +1,5 @@
 ---
 title: "Decoratucumple"
 url: /quilpue/decoratucumple/
-shop: Schreibwaren
+shop: material de oficina
 ---

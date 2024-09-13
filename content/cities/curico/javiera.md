@@ -1,5 +1,5 @@
 ---
 title: "Javiera"
 url: /curico/javiera/
-shop: Lebensmittel
+shop: comodidad
 ---

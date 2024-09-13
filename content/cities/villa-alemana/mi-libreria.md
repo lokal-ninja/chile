@@ -1,5 +1,5 @@
 ---
 title: "Mi Librería"
 url: /villa-alemana/mi-libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

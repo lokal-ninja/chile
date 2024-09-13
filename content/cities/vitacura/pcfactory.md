@@ -1,5 +1,5 @@
 ---
 title: "PCFactory"
 url: /vitacura/pcfactory/
-shop: Computer
+shop: ordenador
 ---

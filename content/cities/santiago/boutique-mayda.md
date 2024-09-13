@@ -1,5 +1,5 @@
 ---
 title: "Boutique Mayda"
 url: /santiago/boutique-mayda/
-shop: Kleidung
+shop: ropa
 ---

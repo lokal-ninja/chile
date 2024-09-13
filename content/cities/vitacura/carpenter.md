@@ -1,5 +1,5 @@
 ---
 title: "Carpenter"
 url: /vitacura/carpenter/
-shop: Raumausstattung
+shop: decoración interior
 ---

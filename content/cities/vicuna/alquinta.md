@@ -1,5 +1,5 @@
 ---
 title: "Alquinta"
 url: /vicuna/alquinta/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Azul Ciruela"
 url: /puerto-varas/azul-ciruela/
-shop: Andenken
+shop: regalo
 ---

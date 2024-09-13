@@ -1,5 +1,5 @@
 ---
 title: "Teletrak"
 url: /quilpue/teletrak/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

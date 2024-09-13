@@ -1,5 +1,5 @@
 ---
 title: "La cermencita"
 url: /melipilla-pomaire/la-cermencita/
-shop: Töpferei
+shop: cerámica
 ---

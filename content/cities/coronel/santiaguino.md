@@ -1,5 +1,5 @@
 ---
 title: "Santiaguino"
 url: /coronel/santiaguino/
-shop: Spirituosen
+shop: alcohol
 ---

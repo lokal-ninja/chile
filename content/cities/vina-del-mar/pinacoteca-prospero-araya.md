@@ -1,5 +1,5 @@
 ---
 title: "Pinacoteca Prospero Araya"
 url: /vina-del-mar/pinacoteca-prospero-araya/
-shop: Basteln
+shop: artesanía
 ---

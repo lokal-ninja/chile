@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /la-reina/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroen Ardiles"
 url: /santiago/citroen-ardiles/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

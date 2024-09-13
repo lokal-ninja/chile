@@ -1,5 +1,5 @@
 ---
 title: "Lavandería"
 url: /villarrica/lavanderia/
-shop: Wäscherei
+shop: lavandería
 ---

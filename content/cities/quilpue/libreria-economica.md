@@ -1,5 +1,5 @@
 ---
 title: "Librería Económica"
 url: /quilpue/libreria-economica/
-shop: Schreibwaren
+shop: material de oficina
 ---

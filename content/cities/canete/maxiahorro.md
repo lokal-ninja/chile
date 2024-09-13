@@ -1,5 +1,5 @@
 ---
 title: "MaxiAhorro"
 url: /canete/maxiahorro/
-shop: Supermarkt
+shop: supermercado
 ---

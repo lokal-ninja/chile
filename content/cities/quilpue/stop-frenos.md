@@ -1,5 +1,5 @@
 ---
 title: "Stop Frenos"
 url: /quilpue/stop-frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

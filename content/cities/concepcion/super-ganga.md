@@ -1,5 +1,5 @@
 ---
 title: "Super GANGA"
 url: /concepcion/super-ganga/
-shop: Supermarkt
+shop: supermercado
 ---

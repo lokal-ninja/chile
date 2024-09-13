@@ -1,5 +1,5 @@
 ---
 title: "Carniceria"
 url: /el-bosque/carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

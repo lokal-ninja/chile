@@ -1,5 +1,5 @@
 ---
 title: "Giardini"
 url: /valdivia/giardini/
-shop: Schuhe
+shop: zapatos
 ---

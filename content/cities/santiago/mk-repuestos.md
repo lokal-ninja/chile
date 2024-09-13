@@ -1,5 +1,5 @@
 ---
 title: "MK Repuestos"
 url: /santiago/mk-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /la-ligua/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

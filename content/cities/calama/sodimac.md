@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /calama/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

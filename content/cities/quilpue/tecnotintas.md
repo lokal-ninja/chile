@@ -1,5 +1,5 @@
 ---
 title: "TecnoTintas"
 url: /quilpue/tecnotintas/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /san-bernardo/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

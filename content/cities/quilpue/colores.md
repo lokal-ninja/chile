@@ -1,5 +1,5 @@
 ---
 title: "Colores"
 url: /quilpue/colores/
-shop: Schreibwaren
+shop: material de oficina
 ---

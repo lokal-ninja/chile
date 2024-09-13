@@ -1,5 +1,5 @@
 ---
 title: "Rotisería"
 url: /providencia/rotiseria/
-shop: Spirituosen
+shop: alcohol
 ---

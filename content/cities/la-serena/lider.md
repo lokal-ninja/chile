@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /la-serena/lider/
-shop: Supermarkt
+shop: supermercado
 ---

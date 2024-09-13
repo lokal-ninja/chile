@@ -1,5 +1,5 @@
 ---
 title: "Almacén Yireh"
 url: /la-pintana/almacen-yireh/
-shop: Lebensmittel
+shop: comodidad
 ---

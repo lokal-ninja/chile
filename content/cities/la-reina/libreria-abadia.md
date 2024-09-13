@@ -1,5 +1,5 @@
 ---
 title: "Librería Abadía"
 url: /la-reina/libreria-abadia/
-shop: Schreibwaren
+shop: material de oficina
 ---

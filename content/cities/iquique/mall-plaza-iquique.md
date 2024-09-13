@@ -1,5 +1,5 @@
 ---
 title: "Mall Plaza Iquique"
 url: /iquique/mall-plaza-iquique/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

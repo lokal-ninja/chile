@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /santiago/lider-express-grajales/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacén San Damian"
 url: /chimbarongo/almacen-san-damian/
-shop: Kramladen
+shop: tienda de variedades
 ---

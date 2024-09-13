@@ -1,5 +1,5 @@
 ---
 title: "Mall Portal La Dehesa"
 url: /lo-barnechea/mall-portal-la-dehesa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

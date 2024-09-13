@@ -1,5 +1,5 @@
 ---
 title: "Laiel"
 url: /san-fernando/laiel-avenida-bernardo-ohiggins/
-shop: Handy
+shop: teléfono móvil
 ---

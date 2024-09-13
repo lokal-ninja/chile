@@ -1,5 +1,5 @@
 ---
 title: "Nacional"
 url: /valparaiso/nacional/
-shop: Schreibwaren
+shop: material de oficina
 ---

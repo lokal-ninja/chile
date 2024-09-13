@@ -1,5 +1,5 @@
 ---
 title: "Clorprint"
 url: /macul/clorprint/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotor"
 url: /buin/automotor/
-shop: Allgemein
+shop: general
 ---

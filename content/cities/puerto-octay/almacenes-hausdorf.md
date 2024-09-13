@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Hausdorf"
 url: /puerto-octay/almacenes-hausdorf/
-shop: Lebensmittel
+shop: comodidad
 ---

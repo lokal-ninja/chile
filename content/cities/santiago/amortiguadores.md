@@ -1,5 +1,5 @@
 ---
 title: "Amortiguadores"
 url: /santiago/amortiguadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

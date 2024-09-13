@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /puente-alto/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ian Marc"
 url: /santiago/ian-marc/
-shop: Autoteile
+shop: piezas de automóviles
 ---

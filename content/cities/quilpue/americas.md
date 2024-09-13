@@ -1,5 +1,5 @@
 ---
 title: "America's"
 url: /quilpue/americas/
-shop: Metzgerei
+shop: carnicero
 ---

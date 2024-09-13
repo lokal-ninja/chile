@@ -1,5 +1,5 @@
 ---
 title: "Ruyi"
 url: /quilpue/ruyi/
-shop: Kramladen
+shop: tienda de variedades
 ---

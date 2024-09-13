@@ -1,5 +1,5 @@
 ---
 title: "San Pablo Desarmaduria"
 url: /santiago/san-pablo-desarmaduria-aldunate/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PreUtil"
 url: /curico/preutil/
-shop: Lebensmittel
+shop: comodidad
 ---

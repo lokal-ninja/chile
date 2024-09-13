@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /casablanca/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

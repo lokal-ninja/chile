@@ -1,5 +1,5 @@
 ---
 title: "Rustic"
 url: /santiago/rustic/
-shop: Allgemein
+shop: general
 ---

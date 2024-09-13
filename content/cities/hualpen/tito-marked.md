@@ -1,5 +1,5 @@
 ---
 title: "Tito Marked"
 url: /hualpen/tito-marked/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /los-lagos/kiosco/
-shop: Kiosk
+shop: quiosco
 ---

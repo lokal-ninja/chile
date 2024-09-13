@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /san-bernardo/tricot/
-shop: Kleidung
+shop: ropa
 ---

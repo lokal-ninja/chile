@@ -1,5 +1,5 @@
 ---
 title: "Lápiz López"
 url: /la-serena/lapiz-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Oyarzún"
 url: /castro/panaderia-oyarzun/
-shop: Bäckerei
+shop: panadería
 ---

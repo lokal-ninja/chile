@@ -1,5 +1,5 @@
 ---
 title: "Jadid"
 url: /quilpue/jadid/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urbanik"
 url: /antofagasta/urbanik/
-shop: Kleidung
+shop: ropa
 ---

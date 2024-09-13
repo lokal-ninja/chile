@@ -1,5 +1,5 @@
 ---
 title: "Dm"
 url: /santiago/dm/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Goma"
 url: /quilpue/auto-goma/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Don Óscar"
 url: /puerto-cisnes/supermercado-don-oscar/
-shop: Lebensmittel
+shop: comodidad
 ---

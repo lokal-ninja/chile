@@ -1,5 +1,5 @@
 ---
 title: "Originales Alternativos"
 url: /santiago/originales-alternativos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

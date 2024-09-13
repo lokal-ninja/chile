@@ -1,5 +1,5 @@
 ---
 title: "Lenyes"
 url: /quilpue/lenyes/
-shop: Handy
+shop: teléfono móvil
 ---

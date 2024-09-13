@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /arica/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

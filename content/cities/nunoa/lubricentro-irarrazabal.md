@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Irarrazabal"
 url: /nunoa/lubricentro-irarrazabal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

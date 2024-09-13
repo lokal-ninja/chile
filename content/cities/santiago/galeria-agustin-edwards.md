@@ -1,5 +1,5 @@
 ---
 title: "Galería Agustín Edwards"
 url: /santiago/galeria-agustin-edwards/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

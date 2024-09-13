@@ -1,5 +1,5 @@
 ---
 title: "Afan"
 url: /monte-patria/afan/
-shop: Lebensmittel
+shop: comodidad
 ---

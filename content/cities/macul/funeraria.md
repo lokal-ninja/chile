@@ -1,5 +1,5 @@
 ---
 title: "Funeraria"
 url: /macul/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

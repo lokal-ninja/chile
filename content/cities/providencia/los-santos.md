@@ -1,5 +1,5 @@
 ---
 title: "Los Santos"
 url: /providencia/los-santos/
-shop: Bestattungen
+shop: directores de funerarias
 ---

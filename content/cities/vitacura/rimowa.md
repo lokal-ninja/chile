@@ -1,5 +1,5 @@
 ---
 title: "Rimowa"
 url: /vitacura/rimowa/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

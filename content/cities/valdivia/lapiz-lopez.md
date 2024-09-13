@@ -1,5 +1,5 @@
 ---
 title: "Lapiz Lopez"
 url: /valdivia/lapiz-lopez/
-shop: Allgemein
+shop: general
 ---

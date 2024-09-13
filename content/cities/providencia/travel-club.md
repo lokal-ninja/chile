@@ -1,5 +1,5 @@
 ---
 title: "Travel Club"
 url: /providencia/travel-club/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prodalam"
 url: /san-miguel/prodalam/
-shop: Allgemein
+shop: general
 ---

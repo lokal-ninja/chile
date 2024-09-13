@@ -1,5 +1,5 @@
 ---
 title: "Outlet Quilpué"
 url: /quilpue/outlet-quilpue/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABCDin"
 url: /san-antonio/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

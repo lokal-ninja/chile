@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /providencia/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

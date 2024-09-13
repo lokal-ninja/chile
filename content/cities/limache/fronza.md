@@ -1,5 +1,5 @@
 ---
 title: "Fronza"
 url: /limache/fronza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

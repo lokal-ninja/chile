@@ -1,5 +1,5 @@
 ---
 title: "Telefac"
 url: /vina-del-mar/telefac/
-shop: Handy
+shop: teléfono móvil
 ---

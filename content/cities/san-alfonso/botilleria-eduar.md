@@ -1,5 +1,5 @@
 ---
 title: "Botillería Eduar"
 url: /san-alfonso/botilleria-eduar/
-shop: Spirituosen
+shop: alcohol
 ---

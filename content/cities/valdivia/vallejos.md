@@ -1,5 +1,5 @@
 ---
 title: "Vallejos"
 url: /valdivia/vallejos/
-shop: Bestattungen
+shop: directores de funerarias
 ---

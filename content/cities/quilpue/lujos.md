@@ -1,5 +1,5 @@
 ---
 title: "Lujos"
 url: /quilpue/lujos/
-shop: Tiere
+shop: mascotas
 ---

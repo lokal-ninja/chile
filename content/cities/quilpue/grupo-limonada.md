@@ -1,5 +1,5 @@
 ---
 title: "Grupo Limonada"
 url: /quilpue/grupo-limonada/
-shop: Kleidung
+shop: ropa
 ---

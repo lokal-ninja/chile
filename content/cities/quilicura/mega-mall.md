@@ -1,5 +1,5 @@
 ---
 title: "Mega Mall"
 url: /quilicura/mega-mall/
-shop: Kramladen
+shop: tienda de variedades
 ---

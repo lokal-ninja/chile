@@ -1,5 +1,5 @@
 ---
 title: "Doite"
 url: /valdivia/doite/
-shop: Outdoor
+shop: exterior
 ---

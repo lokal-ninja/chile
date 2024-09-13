@@ -1,5 +1,5 @@
 ---
 title: "Turbo Fast"
 url: /lo-prado/turbo-fast/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

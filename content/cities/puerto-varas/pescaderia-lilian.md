@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia Lilian"
 url: /puerto-varas/pescaderia-lilian/
-shop: Fisch
+shop: marisco
 ---

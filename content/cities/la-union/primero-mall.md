@@ -1,5 +1,5 @@
 ---
 title: "Primero Mall"
 url: /la-union/primero-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

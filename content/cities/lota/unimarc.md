@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /lota/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

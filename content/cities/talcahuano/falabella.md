@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /talcahuano/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Sol"
 url: /quilpue/el-sol/
-shop: Eisenwaren
+shop: hardware
 ---

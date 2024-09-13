@@ -1,5 +1,5 @@
 ---
 title: "Cáliz de Cristo"
 url: /quilpue/caliz-de-cristo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimarket San Andrés"
 url: /puerto-varas/minimarket-san-andres/
-shop: Lebensmittel
+shop: comodidad
 ---

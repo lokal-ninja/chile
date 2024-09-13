@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /limache/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

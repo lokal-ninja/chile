@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /vitacura/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

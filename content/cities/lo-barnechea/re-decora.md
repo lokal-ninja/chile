@@ -1,5 +1,5 @@
 ---
 title: "Re Decora"
 url: /lo-barnechea/re-decora/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

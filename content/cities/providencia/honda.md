@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /providencia/honda/
-shop: Autohaus
+shop: coche
 ---

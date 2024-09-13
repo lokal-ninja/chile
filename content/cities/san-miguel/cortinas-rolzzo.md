@@ -1,5 +1,5 @@
 ---
 title: "Cortinas Rolzzo"
 url: /san-miguel/cortinas-rolzzo/
-shop: Gardinen
+shop: cortina
 ---

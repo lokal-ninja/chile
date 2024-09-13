@@ -1,5 +1,5 @@
 ---
 title: "Chubut"
 url: /puerto-montt/chubut/
-shop: Kramladen
+shop: tienda de variedades
 ---

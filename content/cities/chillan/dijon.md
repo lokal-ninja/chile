@@ -1,5 +1,5 @@
 ---
 title: "Dijon"
 url: /chillan/dijon/
-shop: Warenhaus
+shop: grandes almacenes
 ---

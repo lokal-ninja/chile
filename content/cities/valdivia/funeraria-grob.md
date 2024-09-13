@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Grob"
 url: /valdivia/funeraria-grob/
-shop: Bestattungen
+shop: directores de funerarias
 ---

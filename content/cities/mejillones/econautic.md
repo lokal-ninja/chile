@@ -1,5 +1,5 @@
 ---
 title: "Econautic"
 url: /mejillones/econautic/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rotiseria Mary"
 url: /valdivia/rotiseria-mary/
-shop: Lebensmittel
+shop: comodidad
 ---

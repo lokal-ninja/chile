@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Placacentro"
 url: /ancud/ferreteria-placacentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JPN"
 url: /vitacura/jpn/
-shop: Autohaus
+shop: coche
 ---

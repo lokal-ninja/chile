@@ -1,5 +1,5 @@
 ---
 title: "Exactus"
 url: /ushuaia/exactus/
-shop: Schmuck
+shop: joyería
 ---

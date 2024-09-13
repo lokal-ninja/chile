@@ -1,5 +1,5 @@
 ---
 title: "ABCDIN"
 url: /iquique/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

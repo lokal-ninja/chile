@@ -1,5 +1,5 @@
 ---
 title: "Innovación"
 url: /castro/innovacion/
-shop: Warenhaus
+shop: grandes almacenes
 ---

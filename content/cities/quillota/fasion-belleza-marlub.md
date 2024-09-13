@@ -1,5 +1,5 @@
 ---
 title: "Fasion Belleza Marlub"
 url: /quillota/fasion-belleza-marlub/
-shop: Kosmetik
+shop: cosméticos
 ---

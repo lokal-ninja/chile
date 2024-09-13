@@ -1,5 +1,5 @@
 ---
 title: "Del Sur"
 url: /santiago/del-sur/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Color Centro"
 url: /nunoa/color-centro/
-shop: Farben
+shop: pintura
 ---

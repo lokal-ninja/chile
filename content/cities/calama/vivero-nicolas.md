@@ -1,5 +1,5 @@
 ---
 title: "vivero nicolas"
 url: /calama/vivero-nicolas/
-shop: Garten-Center
+shop: centro de jardinería
 ---

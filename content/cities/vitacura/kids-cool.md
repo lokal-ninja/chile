@@ -1,5 +1,5 @@
 ---
 title: "Kids Cool"
 url: /vitacura/kids-cool/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libreria Merced"
 url: /quillota/libreria-merced/
-shop: Schreibwaren
+shop: material de oficina
 ---

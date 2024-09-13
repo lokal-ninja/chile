@@ -1,5 +1,5 @@
 ---
 title: "Coronado"
 url: /puerto-varas/coronado/
-shop: Kramladen
+shop: tienda de variedades
 ---

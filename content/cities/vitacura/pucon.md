@@ -1,5 +1,5 @@
 ---
 title: "Pucon"
 url: /vitacura/pucon/
-shop: Jalousien
+shop: persianas
 ---

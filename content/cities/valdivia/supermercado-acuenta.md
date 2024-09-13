@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Acuenta"
 url: /valdivia/supermercado-acuenta/
-shop: Supermarkt
+shop: supermercado
 ---

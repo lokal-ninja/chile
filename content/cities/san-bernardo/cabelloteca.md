@@ -1,5 +1,5 @@
 ---
 title: "Cabelloteca"
 url: /san-bernardo/cabelloteca/
-shop: Kosmetik
+shop: cosméticos
 ---

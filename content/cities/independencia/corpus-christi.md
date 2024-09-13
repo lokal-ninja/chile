@@ -1,5 +1,5 @@
 ---
 title: "Corpus Christi"
 url: /independencia/corpus-christi/
-shop: Bestattungen
+shop: directores de funerarias
 ---

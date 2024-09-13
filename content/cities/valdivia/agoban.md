@@ -1,5 +1,5 @@
 ---
 title: "Agoban"
 url: /valdivia/agoban/
-shop: Kramladen
+shop: tienda de variedades
 ---

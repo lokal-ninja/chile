@@ -1,5 +1,5 @@
 ---
 title: "Montserrat"
 url: /penalolen/montserrat/
-shop: Supermarkt
+shop: supermercado
 ---

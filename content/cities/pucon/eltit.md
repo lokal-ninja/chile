@@ -1,5 +1,5 @@
 ---
 title: "Eltit"
 url: /pucon/eltit/
-shop: Supermarkt
+shop: supermercado
 ---

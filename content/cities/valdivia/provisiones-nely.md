@@ -1,5 +1,5 @@
 ---
 title: "Provisiones Nely"
 url: /valdivia/provisiones-nely/
-shop: Kramladen
+shop: tienda de variedades
 ---

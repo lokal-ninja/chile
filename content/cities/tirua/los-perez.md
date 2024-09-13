@@ -1,5 +1,5 @@
 ---
 title: "Los Perez"
 url: /tirua/los-perez/
-shop: Supermarkt
+shop: supermercado
 ---

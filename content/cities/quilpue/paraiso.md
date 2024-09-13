@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
 url: /quilpue/paraiso/
-shop: Kramladen
+shop: tienda de variedades
 ---

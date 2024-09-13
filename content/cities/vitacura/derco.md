@@ -1,5 +1,5 @@
 ---
 title: "Derco"
 url: /vitacura/derco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

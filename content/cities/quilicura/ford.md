@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /quilicura/ford/
-shop: Autohaus
+shop: coche
 ---

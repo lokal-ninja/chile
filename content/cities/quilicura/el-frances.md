@@ -1,5 +1,5 @@
 ---
 title: "El Francés"
 url: /quilicura/el-frances/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /quilpue/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pelo's"
 url: /ushuaia/pelos/
-shop: Friseur
+shop: peluquería
 ---

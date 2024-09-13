@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /providencia/calzedonia/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABSA"
 url: /rio-bueno/absa/
-shop: Bücher
+shop: libros
 ---

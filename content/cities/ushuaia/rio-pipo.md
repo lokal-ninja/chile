@@ -1,5 +1,5 @@
 ---
 title: "Rio Pipo"
 url: /ushuaia/rio-pipo/
-shop: Allgemein
+shop: general
 ---

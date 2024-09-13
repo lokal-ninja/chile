@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /macul/castano/
-shop: Bäckerei
+shop: panadería
 ---

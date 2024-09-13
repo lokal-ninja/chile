@@ -1,5 +1,5 @@
 ---
 title: "JPClinic"
 url: /providencia/jpclinic/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

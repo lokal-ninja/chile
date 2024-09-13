@@ -1,5 +1,5 @@
 ---
 title: "Electrocar"
 url: /macul/electrocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

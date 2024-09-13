@@ -1,5 +1,5 @@
 ---
 title: "Carniceria RL"
 url: /la-florida/carniceria-rl/
-shop: Metzgerei
+shop: carnicero
 ---

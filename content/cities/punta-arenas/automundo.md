@@ -1,5 +1,5 @@
 ---
 title: "Automundo"
 url: /punta-arenas/automundo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

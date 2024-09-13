@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /santiago/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

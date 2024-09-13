@@ -1,5 +1,5 @@
 ---
 title: "Leo Loa"
 url: /copiapo/leo-loa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

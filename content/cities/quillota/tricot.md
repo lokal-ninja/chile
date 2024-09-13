@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /quillota/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

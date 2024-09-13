@@ -1,5 +1,5 @@
 ---
 title: "Full Auto"
 url: /santiago/full-auto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

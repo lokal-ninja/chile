@@ -1,5 +1,5 @@
 ---
 title: "Pesas Chile"
 url: /providencia/pesas-chile/
-shop: Sport
+shop: deportes
 ---

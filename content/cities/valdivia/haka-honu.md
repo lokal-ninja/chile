@@ -1,5 +1,5 @@
 ---
 title: "Haka Honu"
 url: /valdivia/haka-honu/
-shop: Kleidung
+shop: ropa
 ---

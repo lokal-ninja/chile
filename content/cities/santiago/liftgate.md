@@ -1,5 +1,5 @@
 ---
 title: "Liftgate"
 url: /santiago/liftgate/
-shop: Autoteile
+shop: piezas de automóviles
 ---

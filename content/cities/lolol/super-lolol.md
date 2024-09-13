@@ -1,5 +1,5 @@
 ---
 title: "Super Lolol"
 url: /lolol/super-lolol/
-shop: Supermarkt
+shop: supermercado
 ---

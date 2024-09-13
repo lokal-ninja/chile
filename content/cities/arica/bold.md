@@ -1,5 +1,5 @@
 ---
 title: "Bold"
 url: /arica/bold/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Out"
 url: /vina-del-mar/out/
-shop: Schädlingsbekämpfung
+shop: control de plagas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antonieta"
 url: /quilpue/antonieta/
-shop: Schneiderei
+shop: sastre
 ---

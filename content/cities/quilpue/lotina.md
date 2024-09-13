@@ -1,5 +1,5 @@
 ---
 title: "Lotina"
 url: /quilpue/lotina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

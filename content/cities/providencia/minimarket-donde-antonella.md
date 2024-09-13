@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Donde Antonella"
 url: /providencia/minimarket-donde-antonella/
-shop: Lebensmittel
+shop: comodidad
 ---

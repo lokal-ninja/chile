@@ -1,5 +1,5 @@
 ---
 title: "casa siegmund"
 url: /victoria/casa-siegmund/
-shop: Kleidung
+shop: ropa
 ---

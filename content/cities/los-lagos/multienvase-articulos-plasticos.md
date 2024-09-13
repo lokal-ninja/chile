@@ -1,5 +1,5 @@
 ---
 title: "Multienvase - Articulos Plasticos"
 url: /los-lagos/multienvase-articulos-plasticos/
-shop: Kramladen
+shop: tienda de variedades
 ---

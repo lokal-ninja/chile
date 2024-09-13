@@ -1,5 +1,5 @@
 ---
 title: "Galería Florencia"
 url: /cunco/galeria-florencia/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /teno/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

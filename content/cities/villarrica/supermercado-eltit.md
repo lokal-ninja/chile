@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Eltit"
 url: /villarrica/supermercado-eltit/
-shop: Supermarkt
+shop: supermercado
 ---

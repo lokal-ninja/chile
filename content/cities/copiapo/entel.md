@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /copiapo/entel/
-shop: Handy
+shop: teléfono móvil
 ---

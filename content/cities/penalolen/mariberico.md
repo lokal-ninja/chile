@@ -1,5 +1,5 @@
 ---
 title: "Mariberico"
 url: /penalolen/mariberico/
-shop: Fisch
+shop: marisco
 ---

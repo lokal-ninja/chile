@@ -1,5 +1,5 @@
 ---
 title: "WOM"
 url: /lautaro/wom/
-shop: Handy
+shop: teléfono móvil
 ---

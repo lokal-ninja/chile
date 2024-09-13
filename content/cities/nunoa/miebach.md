@@ -1,5 +1,5 @@
 ---
 title: "Miebach"
 url: /nunoa/miebach/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madt"
 url: /quilpue/madt/
-shop: Tabak
+shop: tabaco
 ---

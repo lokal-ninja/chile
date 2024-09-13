@@ -1,5 +1,5 @@
 ---
 title: "Kameleon"
 url: /providencia/kameleon/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Autovaras"
 url: /puerto-varas/lubricentro-autovaras/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

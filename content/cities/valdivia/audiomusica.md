@@ -1,5 +1,5 @@
 ---
 title: "Audiomusica"
 url: /valdivia/audiomusica/
-shop: Instrumente
+shop: instrumento musical
 ---

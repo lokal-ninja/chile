@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino"
 url: /limache/mall-chino/
-shop: Kramladen
+shop: tienda de variedades
 ---

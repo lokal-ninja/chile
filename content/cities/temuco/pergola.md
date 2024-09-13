@@ -1,5 +1,5 @@
 ---
 title: "pergola"
 url: /temuco/pergola/
-shop: Blumen
+shop: floristería
 ---

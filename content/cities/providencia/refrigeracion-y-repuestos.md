@@ -1,5 +1,5 @@
 ---
 title: "Refrigeración y Repuestos"
 url: /providencia/refrigeracion-y-repuestos/
-shop: Eisenwaren
+shop: hardware
 ---

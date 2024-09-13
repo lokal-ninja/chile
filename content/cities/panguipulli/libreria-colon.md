@@ -1,5 +1,5 @@
 ---
 title: "Librería Colón"
 url: /panguipulli/libreria-colon/
-shop: Bücher
+shop: libros
 ---

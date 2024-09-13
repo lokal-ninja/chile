@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /copiapo/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

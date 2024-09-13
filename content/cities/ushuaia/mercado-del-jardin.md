@@ -1,5 +1,5 @@
 ---
 title: "Mercado del Jardín"
 url: /ushuaia/mercado-del-jardin/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

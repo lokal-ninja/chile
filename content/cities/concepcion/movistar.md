@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /concepcion/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

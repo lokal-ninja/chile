@@ -1,5 +1,5 @@
 ---
 title: "Chilelift"
 url: /quilicura/chilelift/
-shop: Autoteile
+shop: piezas de automóviles
 ---

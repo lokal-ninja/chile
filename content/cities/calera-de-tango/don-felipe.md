@@ -1,5 +1,5 @@
 ---
 title: "Don Felipe"
 url: /calera-de-tango/don-felipe/
-shop: Konditorei
+shop: pastelería
 ---

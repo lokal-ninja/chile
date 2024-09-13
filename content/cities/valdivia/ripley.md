@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /valdivia/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

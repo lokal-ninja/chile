@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /providencia/castano-avenida-providencia-5/
-shop: Bäckerei
+shop: panadería
 ---

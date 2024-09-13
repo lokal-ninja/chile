@@ -1,5 +1,5 @@
 ---
 title: "Auto Plenitud"
 url: /santiago/auto-plenitud/
-shop: Autoteile
+shop: piezas de automóviles
 ---

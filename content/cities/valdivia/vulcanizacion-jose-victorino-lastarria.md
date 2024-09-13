@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /valdivia/vulcanizacion-jose-victorino-lastarria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

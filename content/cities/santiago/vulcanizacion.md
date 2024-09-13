@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizacion"
 url: /santiago/vulcanizacion/
-shop: Autoteile
+shop: piezas de automóviles
 ---

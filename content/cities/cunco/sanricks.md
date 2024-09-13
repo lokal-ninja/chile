@@ -1,5 +1,5 @@
 ---
 title: "Sanricks"
 url: /cunco/sanricks/
-shop: Spirituosen
+shop: alcohol
 ---

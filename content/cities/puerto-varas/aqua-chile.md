@@ -1,5 +1,5 @@
 ---
 title: "Aqua Chile"
 url: /puerto-varas/aqua-chile/
-shop: Fisch
+shop: marisco
 ---

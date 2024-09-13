@@ -1,5 +1,5 @@
 ---
 title: "EuroStylo"
 url: /providencia/eurostylo/
-shop: Kleidung
+shop: ropa
 ---

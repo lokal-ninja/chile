@@ -1,5 +1,5 @@
 ---
 title: "Puri"
 url: /antofagasta/puri/
-shop: Wasser
+shop: agua
 ---

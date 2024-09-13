@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /providencia/libreria-avenida-manuel-montt/
-shop: Schreibwaren
+shop: material de oficina
 ---

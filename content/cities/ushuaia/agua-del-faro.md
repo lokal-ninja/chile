@@ -1,5 +1,5 @@
 ---
 title: "Agua del Faro"
 url: /ushuaia/agua-del-faro/
-shop: Wasser
+shop: agua
 ---

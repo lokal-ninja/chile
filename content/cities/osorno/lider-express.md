@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /osorno/lider-express/
-shop: Supermarkt
+shop: supermercado
 ---

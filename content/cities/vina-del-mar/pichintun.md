@@ -1,5 +1,5 @@
 ---
 title: "Pichintun"
 url: /vina-del-mar/pichintun/
-shop: Kramladen
+shop: tienda de variedades
 ---

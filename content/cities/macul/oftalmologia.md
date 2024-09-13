@@ -1,5 +1,5 @@
 ---
 title: "Oftalmología"
 url: /macul/oftalmologia/
-shop: Optiker
+shop: óptico
 ---

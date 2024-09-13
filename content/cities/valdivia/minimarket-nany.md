@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Nany"
 url: /valdivia/minimarket-nany/
-shop: Lebensmittel
+shop: comodidad
 ---

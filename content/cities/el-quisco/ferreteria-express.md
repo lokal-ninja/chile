@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Express"
 url: /el-quisco/ferreteria-express/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

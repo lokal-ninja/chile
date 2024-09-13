@@ -1,5 +1,5 @@
 ---
 title: "Almacén de Cain"
 url: /santiago/almacen-de-cain/
-shop: Kramladen
+shop: tienda de variedades
 ---

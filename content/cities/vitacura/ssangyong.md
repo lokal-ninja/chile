@@ -1,5 +1,5 @@
 ---
 title: "SsangYong"
 url: /vitacura/ssangyong/
-shop: Autohaus
+shop: coche
 ---

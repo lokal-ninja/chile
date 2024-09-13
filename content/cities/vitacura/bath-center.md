@@ -1,5 +1,5 @@
 ---
 title: "Bath Center"
 url: /vitacura/bath-center/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

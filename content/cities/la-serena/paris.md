@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /la-serena/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

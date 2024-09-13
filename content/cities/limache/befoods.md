@@ -1,5 +1,5 @@
 ---
 title: "BeFoods"
 url: /limache/befoods/
-shop: Tiere
+shop: mascotas
 ---

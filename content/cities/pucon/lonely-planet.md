@@ -1,5 +1,5 @@
 ---
 title: "Lonely Planet"
 url: /pucon/lonely-planet/
-shop: Reisebüro
+shop: agencia de viajes
 ---

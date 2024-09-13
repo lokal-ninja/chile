@@ -1,5 +1,5 @@
 ---
 title: "CompuStore"
 url: /valdivia/compustore/
-shop: Computer
+shop: ordenador
 ---

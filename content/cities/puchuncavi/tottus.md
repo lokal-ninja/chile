@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /puchuncavi/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

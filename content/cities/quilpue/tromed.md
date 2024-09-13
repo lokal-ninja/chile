@@ -1,5 +1,5 @@
 ---
 title: "Tromed"
 url: /quilpue/tromed/
-shop: Friseur
+shop: peluquería
 ---

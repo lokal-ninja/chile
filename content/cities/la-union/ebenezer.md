@@ -1,5 +1,5 @@
 ---
 title: "Ebenezer"
 url: /la-union/ebenezer/
-shop: Kramladen
+shop: tienda de variedades
 ---

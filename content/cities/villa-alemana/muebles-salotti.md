@@ -1,5 +1,5 @@
 ---
 title: "Muebles Salotti"
 url: /villa-alemana/muebles-salotti/
-shop: Möbel
+shop: muebles
 ---

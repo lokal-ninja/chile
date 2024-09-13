@@ -1,5 +1,5 @@
 ---
 title: "Bazar Jiménez"
 url: /putre/bazar-jimenez/
-shop: Kramladen
+shop: tienda de variedades
 ---

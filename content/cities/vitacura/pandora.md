@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /vitacura/pandora/
-shop: Schmuck
+shop: joyería
 ---

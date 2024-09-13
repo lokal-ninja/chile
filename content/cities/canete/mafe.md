@@ -1,5 +1,5 @@
 ---
 title: "Mafe"
 url: /canete/mafe/
-shop: Schreibwaren
+shop: material de oficina
 ---

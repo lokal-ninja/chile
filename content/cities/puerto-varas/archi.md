@@ -1,5 +1,5 @@
 ---
 title: "Archi"
 url: /puerto-varas/archi/
-shop: Spirituosen
+shop: alcohol
 ---

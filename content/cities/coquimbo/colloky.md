@@ -1,5 +1,5 @@
 ---
 title: "Colloky"
 url: /coquimbo/colloky/
-shop: Babysachen
+shop: artículos para bebés
 ---

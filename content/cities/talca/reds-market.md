@@ -1,5 +1,5 @@
 ---
 title: "Red's Market"
 url: /talca/reds-market/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turismo Esquerré"
 url: /concepcion/turismo-esquerre/
-shop: Reisebüro
+shop: agencia de viajes
 ---

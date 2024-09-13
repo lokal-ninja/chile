@@ -1,5 +1,5 @@
 ---
 title: "Interdecor"
 url: /providencia/interdecor/
-shop: Raumausstattung
+shop: decoración interior
 ---

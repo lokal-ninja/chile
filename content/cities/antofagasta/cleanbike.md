@@ -1,5 +1,5 @@
 ---
 title: "Cleanbike"
 url: /antofagasta/cleanbike/
-shop: Fahrrad
+shop: bicicleta
 ---

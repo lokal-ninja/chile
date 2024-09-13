@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /providencia/castano/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Undurraga Motos"
 url: /quilpue/undurraga-motos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

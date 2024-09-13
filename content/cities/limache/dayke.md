@@ -1,5 +1,5 @@
 ---
 title: "Dayke"
 url: /limache/dayke/
-shop: Lebensmittel
+shop: comodidad
 ---

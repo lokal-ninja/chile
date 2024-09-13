@@ -1,5 +1,5 @@
 ---
 title: "Minimarkert Kitty"
 url: /puente-alto/minimarkert-kitty/
-shop: Kramladen
+shop: tienda de variedades
 ---

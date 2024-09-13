@@ -1,5 +1,5 @@
 ---
 title: "Rioli"
 url: /nunoa/rioli/
-shop: Lebensmittel
+shop: comodidad
 ---

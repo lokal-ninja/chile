@@ -1,5 +1,5 @@
 ---
 title: "Wom"
 url: /quilpue/wom/
-shop: Handy
+shop: teléfono móvil
 ---

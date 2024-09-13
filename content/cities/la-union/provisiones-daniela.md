@@ -1,5 +1,5 @@
 ---
 title: "Provisiones Daniela"
 url: /la-union/provisiones-daniela/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BiciRevolución"
 url: /nunoa/bicirevolucion/
-shop: Fahrrad
+shop: bicicleta
 ---

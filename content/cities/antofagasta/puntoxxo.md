@@ -1,5 +1,5 @@
 ---
 title: "PuntOxxo"
 url: /antofagasta/puntoxxo/
-shop: Lebensmittel
+shop: comodidad
 ---

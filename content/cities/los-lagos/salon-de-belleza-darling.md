@@ -1,5 +1,5 @@
 ---
 title: "Salon de Belleza Darling"
 url: /los-lagos/salon-de-belleza-darling/
-shop: Friseur
+shop: peluquería
 ---

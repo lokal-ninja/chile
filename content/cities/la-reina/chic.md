@@ -1,5 +1,5 @@
 ---
 title: "Chic"
 url: /la-reina/chic/
-shop: Allgemein
+shop: general
 ---

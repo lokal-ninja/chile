@@ -1,5 +1,5 @@
 ---
 title: "Labbé Vanguardia"
 url: /vina-del-mar/labbe-vanguardia/
-shop: Kosmetik
+shop: cosméticos
 ---

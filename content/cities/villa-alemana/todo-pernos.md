@@ -1,5 +1,5 @@
 ---
 title: "Todo Pernos"
 url: /villa-alemana/todo-pernos/
-shop: Eisenwaren
+shop: hardware
 ---

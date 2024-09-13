@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /chanaral/bata/
-shop: Schuhe
+shop: zapatos
 ---

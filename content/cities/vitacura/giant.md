@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /vitacura/giant/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /providencia/nissan/
-shop: Autohaus
+shop: coche
 ---

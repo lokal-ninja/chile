@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Urrutia"
 url: /limache/ferreteria-urrutia/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

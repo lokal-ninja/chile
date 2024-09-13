@@ -1,5 +1,5 @@
 ---
 title: "Jardinería Schublin"
 url: /valdivia/jardineria-schublin/
-shop: Garten-Center
+shop: centro de jardinería
 ---

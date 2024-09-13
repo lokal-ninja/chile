@@ -1,5 +1,5 @@
 ---
 title: "Veper"
 url: /la-union/veper/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

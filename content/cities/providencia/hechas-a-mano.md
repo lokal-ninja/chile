@@ -1,5 +1,5 @@
 ---
 title: "Hechas a Mano"
 url: /providencia/hechas-a-mano/
-shop: Kosmetik
+shop: cosméticos
 ---

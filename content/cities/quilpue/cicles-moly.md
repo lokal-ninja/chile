@@ -1,5 +1,5 @@
 ---
 title: "Cicles Moly"
 url: /quilpue/cicles-moly/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Ciro"
 url: /puyuhuapi/don-ciro/
-shop: Lebensmittel
+shop: comodidad
 ---

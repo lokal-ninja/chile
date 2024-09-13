@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino Yes Asia LTDA."
 url: /pedro-aguirre-cerda/mall-chino-yes-asia-ltda/
-shop: Kramladen
+shop: tienda de variedades
 ---

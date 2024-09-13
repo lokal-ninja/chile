@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /talcahuano/paris-avenida-colon/
-shop: Warenhaus
+shop: grandes almacenes
 ---

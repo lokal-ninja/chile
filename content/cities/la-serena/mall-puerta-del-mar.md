@@ -1,5 +1,5 @@
 ---
 title: "Mall Puerta del Mar"
 url: /la-serena/mall-puerta-del-mar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

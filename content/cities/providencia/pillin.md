@@ -1,5 +1,5 @@
 ---
 title: "Pillin"
 url: /providencia/pillin/
-shop: Kleidung
+shop: ropa
 ---

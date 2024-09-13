@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Dan Eli"
 url: /nunoa/autoservicio-dan-eli/
-shop: Lebensmittel
+shop: comodidad
 ---

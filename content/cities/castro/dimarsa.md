@@ -1,5 +1,5 @@
 ---
 title: "Dimarsa"
 url: /castro/dimarsa/
-shop: Warenhaus
+shop: grandes almacenes
 ---

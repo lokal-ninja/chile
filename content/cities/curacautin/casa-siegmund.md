@@ -1,5 +1,5 @@
 ---
 title: "Casa Siegmund"
 url: /curacautin/casa-siegmund/
-shop: Warenhaus
+shop: grandes almacenes
 ---

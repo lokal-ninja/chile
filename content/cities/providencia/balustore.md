@@ -1,5 +1,5 @@
 ---
 title: "BaluStore"
 url: /providencia/balustore/
-shop: Tiere
+shop: mascotas
 ---

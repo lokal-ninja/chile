@@ -1,5 +1,5 @@
 ---
 title: "Nuevelunas"
 url: /ushuaia/nuevelunas/
-shop: Kleidung
+shop: ropa
 ---

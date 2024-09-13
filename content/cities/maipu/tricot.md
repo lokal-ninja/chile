@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /maipu/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

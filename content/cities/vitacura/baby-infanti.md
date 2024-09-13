@@ -1,5 +1,5 @@
 ---
 title: "Baby Infanti"
 url: /vitacura/baby-infanti/
-shop: Babysachen
+shop: artículos para bebés
 ---

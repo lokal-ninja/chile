@@ -1,5 +1,5 @@
 ---
 title: "Neumateca"
 url: /quilpue/neumateca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

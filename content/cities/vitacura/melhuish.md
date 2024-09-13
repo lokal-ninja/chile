@@ -1,5 +1,5 @@
 ---
 title: "Melhuish"
 url: /vitacura/melhuish/
-shop: Autohaus
+shop: coche
 ---

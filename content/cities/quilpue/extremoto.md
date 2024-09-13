@@ -1,5 +1,5 @@
 ---
 title: "Extremoto"
 url: /quilpue/extremoto/
-shop: Motorrad
+shop: motocicleta
 ---

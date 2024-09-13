@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /concepcion/gmo/
-shop: Optiker
+shop: óptico
 ---

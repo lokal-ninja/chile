@@ -1,5 +1,5 @@
 ---
 title: "Abcdin"
 url: /san-carlos/abcdin/
-shop: Möbel
+shop: muebles
 ---

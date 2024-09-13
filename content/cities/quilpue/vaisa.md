@@ -1,5 +1,5 @@
 ---
 title: "Vaisa"
 url: /quilpue/vaisa/
-shop: Möbel
+shop: muebles
 ---

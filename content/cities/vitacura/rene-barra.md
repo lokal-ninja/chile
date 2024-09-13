@@ -1,5 +1,5 @@
 ---
 title: "Rene Barra"
 url: /vitacura/rene-barra/
-shop: Autohaus
+shop: coche
 ---

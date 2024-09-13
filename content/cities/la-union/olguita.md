@@ -1,5 +1,5 @@
 ---
 title: "Olguita"
 url: /la-union/olguita/
-shop: Kleidung
+shop: ropa
 ---

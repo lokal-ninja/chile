@@ -1,5 +1,5 @@
 ---
 title: "MALL ESPACIO URBANO LINARES"
 url: /linares/mall-espacio-urbano-linares/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

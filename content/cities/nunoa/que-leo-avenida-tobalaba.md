@@ -1,5 +1,5 @@
 ---
 title: "Qué Leo"
 url: /nunoa/que-leo-avenida-tobalaba/
-shop: Bücher
+shop: libros
 ---

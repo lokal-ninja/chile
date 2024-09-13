@@ -1,5 +1,5 @@
 ---
 title: "Autobueno"
 url: /arica/autobueno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Oferta"
 url: /temuco/super-oferta/
-shop: Supermarkt
+shop: supermercado
 ---

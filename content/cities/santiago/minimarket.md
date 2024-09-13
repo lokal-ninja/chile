@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /santiago/minimarket/
-shop: Allgemein
+shop: general
 ---

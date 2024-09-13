@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /parral/bata/
-shop: Schuhe
+shop: zapatos
 ---

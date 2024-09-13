@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /san-antonio/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

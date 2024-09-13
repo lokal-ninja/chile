@@ -1,5 +1,5 @@
 ---
 title: "Limonada"
 url: /castro/limonada/
-shop: Kleidung
+shop: ropa
 ---

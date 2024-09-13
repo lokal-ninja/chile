@@ -1,5 +1,5 @@
 ---
 title: "Nissan Marauto"
 url: /puerto-montt/nissan-marauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

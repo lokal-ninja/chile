@@ -1,5 +1,5 @@
 ---
 title: "Mapoli"
 url: /concepcion/mapoli/
-shop: Bäckerei
+shop: panadería
 ---

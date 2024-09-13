@@ -1,5 +1,5 @@
 ---
 title: "Koala"
 url: /puchuncavi/koala/
-shop: Lebensmittel
+shop: comodidad
 ---

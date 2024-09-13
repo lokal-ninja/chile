@@ -1,5 +1,5 @@
 ---
 title: "Revesderecho"
 url: /providencia/revesderecho/
-shop: Textil
+shop: tela
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taare"
 url: /penalolen/taare/
-shop: Friseur
+shop: peluquería
 ---

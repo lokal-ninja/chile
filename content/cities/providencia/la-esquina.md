@@ -1,5 +1,5 @@
 ---
 title: "La esquina"
 url: /providencia/la-esquina/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electromundo"
 url: /machali/electromundo/
-shop: Elektronik
+shop: electrónica
 ---

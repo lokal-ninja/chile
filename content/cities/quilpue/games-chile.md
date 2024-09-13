@@ -1,5 +1,5 @@
 ---
 title: "Games Chile"
 url: /quilpue/games-chile/
-shop: Videospiele
+shop: videojuegos
 ---

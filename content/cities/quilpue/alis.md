@@ -1,5 +1,5 @@
 ---
 title: "Ali's"
 url: /quilpue/alis/
-shop: Friseur
+shop: peluquería
 ---

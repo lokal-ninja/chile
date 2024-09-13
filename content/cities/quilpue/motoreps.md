@@ -1,5 +1,5 @@
 ---
 title: "Motoreps"
 url: /quilpue/motoreps/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

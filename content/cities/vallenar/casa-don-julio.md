@@ -1,5 +1,5 @@
 ---
 title: "Casa Don Julio"
 url: /vallenar/casa-don-julio/
-shop: Hifi
+shop: hifi
 ---

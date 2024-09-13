@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /maipu/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

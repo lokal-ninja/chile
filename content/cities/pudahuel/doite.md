@@ -1,5 +1,5 @@
 ---
 title: "Doite"
 url: /pudahuel/doite/
-shop: Outdoor
+shop: exterior
 ---

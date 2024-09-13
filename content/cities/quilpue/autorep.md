@@ -1,5 +1,5 @@
 ---
 title: "Autorep"
 url: /quilpue/autorep/
-shop: Autoteile
+shop: piezas de automóviles
 ---

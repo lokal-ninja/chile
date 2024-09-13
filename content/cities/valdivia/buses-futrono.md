@@ -1,5 +1,5 @@
 ---
 title: "Buses Futrono"
 url: /valdivia/buses-futrono/
-shop: Tickets
+shop: entradas
 ---

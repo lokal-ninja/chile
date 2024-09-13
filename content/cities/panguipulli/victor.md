@@ -1,5 +1,5 @@
 ---
 title: "Victor"
 url: /panguipulli/victor/
-shop: Bäckerei
+shop: panadería
 ---

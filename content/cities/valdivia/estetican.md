@@ -1,5 +1,5 @@
 ---
 title: "Estetican"
 url: /valdivia/estetican/
-shop: Tiere
+shop: mascotas
 ---

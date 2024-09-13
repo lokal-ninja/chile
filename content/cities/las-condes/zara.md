@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /las-condes/zara/
-shop: Kleidung
+shop: ropa
 ---

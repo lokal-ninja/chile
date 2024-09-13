@@ -1,5 +1,5 @@
 ---
 title: "Decovivo"
 url: /san-fernando/decovivo/
-shop: Raumausstattung
+shop: decoración interior
 ---

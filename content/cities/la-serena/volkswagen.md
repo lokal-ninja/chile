@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /la-serena/volkswagen/
-shop: Autohaus
+shop: coche
 ---

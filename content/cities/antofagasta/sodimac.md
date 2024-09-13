@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /antofagasta/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

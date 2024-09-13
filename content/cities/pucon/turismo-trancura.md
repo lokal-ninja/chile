@@ -1,5 +1,5 @@
 ---
 title: "Turísmo Trancura"
 url: /pucon/turismo-trancura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

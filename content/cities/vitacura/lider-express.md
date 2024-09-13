@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /vitacura/lider-express/
-shop: Supermarkt
+shop: supermercado
 ---

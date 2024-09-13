@@ -1,5 +1,5 @@
 ---
 title: "Atahualpa"
 url: /valparaiso/atahualpa/
-shop: Lebensmittel
+shop: comodidad
 ---

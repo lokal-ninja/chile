@@ -1,5 +1,5 @@
 ---
 title: "Vidaurre Bikes"
 url: /colina/vidaurre-bikes/
-shop: Fahrrad
+shop: bicicleta
 ---

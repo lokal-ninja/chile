@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Harcha"
 url: /los-lagos/ferreteria-harcha/
-shop: Eisenwaren
+shop: hardware
 ---

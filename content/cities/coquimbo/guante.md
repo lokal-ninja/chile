@@ -1,5 +1,5 @@
 ---
 title: "Guante"
 url: /coquimbo/guante/
-shop: Schuhe
+shop: zapatos
 ---

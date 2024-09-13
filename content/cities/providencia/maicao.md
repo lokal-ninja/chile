@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /providencia/maicao/
-shop: Kosmetik
+shop: cosméticos
 ---

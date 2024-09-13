@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Alecarval"
 url: /macul/repuestos-alecarval/
-shop: Autoteile
+shop: piezas de automóviles
 ---

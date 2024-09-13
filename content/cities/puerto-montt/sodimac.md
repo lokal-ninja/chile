@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /puerto-montt/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

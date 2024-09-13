@@ -1,5 +1,5 @@
 ---
 title: "Super Colon"
 url: /puerto-varas/super-colon/
-shop: Lebensmittel
+shop: comodidad
 ---

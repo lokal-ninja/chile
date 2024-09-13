@@ -1,5 +1,5 @@
 ---
 title: "Mall Plaza Norte"
 url: /santiago/mall-plaza-norte/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicar"
 url: /puerto-montt/servicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

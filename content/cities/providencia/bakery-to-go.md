@@ -1,5 +1,5 @@
 ---
 title: "Bakery to go"
 url: /providencia/bakery-to-go/
-shop: Bäckerei
+shop: panadería
 ---

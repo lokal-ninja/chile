@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /puerto-varas/kia/
-shop: Autohaus
+shop: coche
 ---

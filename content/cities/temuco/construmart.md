@@ -1,5 +1,5 @@
 ---
 title: "Construmart"
 url: /temuco/construmart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

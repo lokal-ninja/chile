@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /huechuraba/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

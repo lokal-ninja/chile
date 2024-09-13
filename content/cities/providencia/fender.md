@@ -1,5 +1,5 @@
 ---
 title: "Fender"
 url: /providencia/fender/
-shop: Allgemein
+shop: general
 ---

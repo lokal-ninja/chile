@@ -1,5 +1,5 @@
 ---
 title: "Strip Center Terrasol"
 url: /quilpue/strip-center-terrasol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

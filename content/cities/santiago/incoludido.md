@@ -1,5 +1,5 @@
 ---
 title: "Incoludido"
 url: /santiago/incoludido/
-shop: Allgemein
+shop: general
 ---

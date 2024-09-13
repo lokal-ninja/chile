@@ -1,5 +1,5 @@
 ---
 title: "Homocineticas"
 url: /santiago/homocineticas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abarrotes"
 url: /santiago/abarrotes/
-shop: Lebensmittel
+shop: comodidad
 ---

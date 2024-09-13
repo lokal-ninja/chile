@@ -1,5 +1,5 @@
 ---
 title: "El Pollo Huaso"
 url: /tome/el-pollo-huaso/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Florería"
 url: /penalolen/floreria/
-shop: Blumen
+shop: floristería
 ---

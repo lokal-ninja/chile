@@ -1,5 +1,5 @@
 ---
 title: "Etchegaray"
 url: /villa-alemana/etchegaray/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

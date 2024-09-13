@@ -1,5 +1,5 @@
 ---
 title: "Huellas"
 url: /penalolen/huellas/
-shop: Friseur
+shop: peluquería
 ---

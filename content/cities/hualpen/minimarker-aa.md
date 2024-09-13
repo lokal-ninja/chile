@@ -1,5 +1,5 @@
 ---
 title: "Minimarker AA"
 url: /hualpen/minimarker-aa/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /cartagena/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

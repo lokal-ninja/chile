@@ -1,5 +1,5 @@
 ---
 title: "Multihogar"
 url: /linares/multihogar/
-shop: Warenhaus
+shop: grandes almacenes
 ---

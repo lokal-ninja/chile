@@ -1,5 +1,5 @@
 ---
 title: "Importadors Dolphins"
 url: /antofagasta/importadors-dolphins/
-shop: Kramladen
+shop: tienda de variedades
 ---

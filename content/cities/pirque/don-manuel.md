@@ -1,5 +1,5 @@
 ---
 title: "Don Manuel"
 url: /pirque/don-manuel/
-shop: Kramladen
+shop: tienda de variedades
 ---

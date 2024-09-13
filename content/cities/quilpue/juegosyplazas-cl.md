@@ -1,5 +1,5 @@
 ---
 title: "JuegosyPlazas.cl"
 url: /quilpue/juegosyplazas-cl/
-shop: Allgemein
+shop: general
 ---

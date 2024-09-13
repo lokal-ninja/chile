@@ -1,5 +1,5 @@
 ---
 title: "Mc"
 url: /antofagasta/mc/
-shop: Schreibwaren
+shop: material de oficina
 ---

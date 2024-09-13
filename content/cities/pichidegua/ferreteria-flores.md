@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Flores"
 url: /pichidegua/ferreteria-flores/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

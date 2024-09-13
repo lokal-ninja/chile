@@ -1,5 +1,5 @@
 ---
 title: "Toyota Portillo"
 url: /la-reina/toyota-portillo/
-shop: Autohaus
+shop: coche
 ---

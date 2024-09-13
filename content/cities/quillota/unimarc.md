@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /quillota/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

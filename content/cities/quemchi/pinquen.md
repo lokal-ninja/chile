@@ -1,5 +1,5 @@
 ---
 title: "Pinquen"
 url: /quemchi/pinquen/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

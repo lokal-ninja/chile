@@ -1,5 +1,5 @@
 ---
 title: "casa orellana"
 url: /los-angeles/casa-orellana/
-shop: Foto
+shop: foto
 ---

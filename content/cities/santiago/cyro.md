@@ -1,5 +1,5 @@
 ---
 title: "Cyro"
 url: /santiago/cyro/
-shop: Wäscherei
+shop: lavandería
 ---

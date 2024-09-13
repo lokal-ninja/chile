@@ -1,5 +1,5 @@
 ---
 title: "Huerta San Pascual"
 url: /las-condes/huerta-san-pascual/
-shop: Garten-Center
+shop: centro de jardinería
 ---

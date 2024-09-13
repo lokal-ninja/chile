@@ -1,5 +1,5 @@
 ---
 title: "Velizwagen"
 url: /la-cisterna/velizwagen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "apfel"
 url: /pucon/apfel/
-shop: Kleidung
+shop: ropa
 ---

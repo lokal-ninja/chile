@@ -1,5 +1,5 @@
 ---
 title: "Neumarichy"
 url: /santiago/neumarichy/
-shop: Autoteile
+shop: piezas de automóviles
 ---

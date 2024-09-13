@@ -1,5 +1,5 @@
 ---
 title: "Delineare"
 url: /vitacura/delineare/
-shop: Allgemein
+shop: general
 ---

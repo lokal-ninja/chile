@@ -1,5 +1,5 @@
 ---
 title: "Regazza"
 url: /santiago/regazza/
-shop: Fahrrad
+shop: bicicleta
 ---

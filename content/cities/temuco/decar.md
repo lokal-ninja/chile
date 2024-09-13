@@ -1,5 +1,5 @@
 ---
 title: "Decar"
 url: /temuco/decar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

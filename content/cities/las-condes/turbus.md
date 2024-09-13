@@ -1,5 +1,5 @@
 ---
 title: "Turbus"
 url: /las-condes/turbus/
-shop: Tickets
+shop: entradas
 ---

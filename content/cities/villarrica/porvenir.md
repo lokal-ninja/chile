@@ -1,5 +1,5 @@
 ---
 title: "Porvenir"
 url: /villarrica/porvenir/
-shop: Autoteile
+shop: piezas de automóviles
 ---

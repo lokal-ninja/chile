@@ -1,5 +1,5 @@
 ---
 title: "Audiomúsica"
 url: /vina-del-mar/audiomusica/
-shop: Instrumente
+shop: instrumento musical
 ---

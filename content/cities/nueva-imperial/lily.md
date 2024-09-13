@@ -1,5 +1,5 @@
 ---
 title: "Lily"
 url: /nueva-imperial/lily/
-shop: Supermarkt
+shop: supermercado
 ---

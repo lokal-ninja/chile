@@ -1,5 +1,5 @@
 ---
 title: "Socoepa"
 url: /lanco/socoepa/
-shop: Dorfladen
+shop: tienda rural
 ---

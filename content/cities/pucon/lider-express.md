@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /pucon/lider-express/
-shop: Supermarkt
+shop: supermercado
 ---

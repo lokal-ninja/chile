@@ -1,5 +1,5 @@
 ---
 title: "Biocarnes"
 url: /hualpen/biocarnes/
-shop: Metzgerei
+shop: carnicero
 ---

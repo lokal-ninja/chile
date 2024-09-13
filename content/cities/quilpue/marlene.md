@@ -1,5 +1,5 @@
 ---
 title: "Marlene"
 url: /quilpue/marlene/
-shop: Hofladen
+shop: granja
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /vitacura/timberland/
-shop: Kleidung
+shop: ropa
 ---

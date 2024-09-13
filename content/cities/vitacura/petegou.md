@@ -1,5 +1,5 @@
 ---
 title: "Petegou"
 url: /vitacura/petegou/
-shop: Tiere
+shop: mascotas
 ---

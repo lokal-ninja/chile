@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /temuco/goodyear/
-shop: Autoteile
+shop: piezas de automóviles
 ---

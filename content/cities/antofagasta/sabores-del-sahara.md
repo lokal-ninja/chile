@@ -1,5 +1,5 @@
 ---
 title: "Sabores del Sahara"
 url: /antofagasta/sabores-del-sahara/
-shop: Kramladen
+shop: tienda de variedades
 ---

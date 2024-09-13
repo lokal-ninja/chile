@@ -1,5 +1,5 @@
 ---
 title: "Amasandería La Estrella"
 url: /la-union/amasanderia-la-estrella/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /las-condes/oxxo-rosario-norte/
-shop: Supermarkt
+shop: supermercado
 ---

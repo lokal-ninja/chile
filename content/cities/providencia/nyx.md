@@ -1,5 +1,5 @@
 ---
 title: "Nyx"
 url: /providencia/nyx/
-shop: Kosmetik
+shop: cosméticos
 ---

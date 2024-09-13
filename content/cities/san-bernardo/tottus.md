@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /san-bernardo/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

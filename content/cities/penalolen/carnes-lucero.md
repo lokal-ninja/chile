@@ -1,5 +1,5 @@
 ---
 title: "Carnes Lucero"
 url: /penalolen/carnes-lucero/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abobo"
 url: /machali/abobo/
-shop: Kleidung
+shop: ropa
 ---

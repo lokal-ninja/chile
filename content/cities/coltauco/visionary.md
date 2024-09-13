@@ -1,5 +1,5 @@
 ---
 title: "Visionary"
 url: /coltauco/visionary/
-shop: Friseur
+shop: peluquería
 ---

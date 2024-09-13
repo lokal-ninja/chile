@@ -1,5 +1,5 @@
 ---
 title: "Killstore"
 url: /providencia/killstore/
-shop: Foto
+shop: foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budnik"
 url: /vitacura/budnik/
-shop: Allgemein
+shop: general
 ---

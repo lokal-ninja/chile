@@ -1,5 +1,5 @@
 ---
 title: "Lo Saldes"
 url: /las-condes/lo-saldes/
-shop: Bäckerei
+shop: panadería
 ---

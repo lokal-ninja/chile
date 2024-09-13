@@ -1,5 +1,5 @@
 ---
 title: "Solo Expediciones"
 url: /punta-arenas/solo-expediciones/
-shop: Reisebüro
+shop: agencia de viajes
 ---

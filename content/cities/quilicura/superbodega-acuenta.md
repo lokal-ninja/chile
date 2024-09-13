@@ -1,5 +1,5 @@
 ---
 title: "SuperBodega aCuenta"
 url: /quilicura/superbodega-acuenta/
-shop: Supermarkt
+shop: supermercado
 ---

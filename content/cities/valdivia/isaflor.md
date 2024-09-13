@@ -1,5 +1,5 @@
 ---
 title: "IsaFlor"
 url: /valdivia/isaflor/
-shop: Fußböden
+shop: suelos
 ---

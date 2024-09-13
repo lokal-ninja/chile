@@ -1,5 +1,5 @@
 ---
 title: "Luther Garage Tech"
 url: /puente-alto/luther-garage-tech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

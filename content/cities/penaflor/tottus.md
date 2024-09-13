@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /penaflor/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gegman"
 url: /panguipulli/gegman/
-shop: Warenhaus
+shop: grandes almacenes
 ---

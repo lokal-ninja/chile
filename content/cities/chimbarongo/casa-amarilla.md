@@ -1,5 +1,5 @@
 ---
 title: "Casa Amarilla"
 url: /chimbarongo/casa-amarilla/
-shop: Supermarkt
+shop: supermercado
 ---

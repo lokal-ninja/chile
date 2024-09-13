@@ -1,5 +1,5 @@
 ---
 title: "TurisTour"
 url: /puerto-varas/turistour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

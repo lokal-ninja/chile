@@ -1,5 +1,5 @@
 ---
 title: "CelCenter"
 url: /lebu/celcenter/
-shop: Handy
+shop: teléfono móvil
 ---

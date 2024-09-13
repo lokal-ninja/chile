@@ -1,5 +1,5 @@
 ---
 title: "Polares"
 url: /quilpue/polares/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

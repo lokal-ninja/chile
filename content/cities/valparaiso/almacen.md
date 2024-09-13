@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /valparaiso/almacen/
-shop: Lebensmittel
+shop: comodidad
 ---

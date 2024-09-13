@@ -1,5 +1,5 @@
 ---
 title: "Supermercados El Trébol"
 url: /labranza/supermercados-el-trebol/
-shop: Supermarkt
+shop: supermercado
 ---

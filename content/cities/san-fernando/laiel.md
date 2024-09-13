@@ -1,5 +1,5 @@
 ---
 title: "Laíel"
 url: /san-fernando/laiel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San José"
 url: /dalcahue/san-jose/
-shop: Eisenwaren
+shop: hardware
 ---

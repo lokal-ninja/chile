@@ -1,5 +1,5 @@
 ---
 title: "Romeoviajes.cl"
 url: /vina-del-mar/romeoviajes-cl/
-shop: Reisebüro
+shop: agencia de viajes
 ---

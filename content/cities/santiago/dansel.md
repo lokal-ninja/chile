@@ -1,5 +1,5 @@
 ---
 title: "Dansel"
 url: /santiago/dansel/
-shop: Kleidung
+shop: ropa
 ---

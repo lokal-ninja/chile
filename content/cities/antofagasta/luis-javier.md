@@ -1,5 +1,5 @@
 ---
 title: "Luis Javier"
 url: /antofagasta/luis-javier/
-shop: Friseur
+shop: peluquería
 ---

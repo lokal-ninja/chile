@@ -1,5 +1,5 @@
 ---
 title: "Homecenter Sodimac"
 url: /linares/homecenter-sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

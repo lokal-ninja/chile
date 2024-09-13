@@ -1,5 +1,5 @@
 ---
 title: "Galeria Artesanias"
 url: /melipilla-pomaire/galeria-artesanias/
-shop: Basteln
+shop: artesanía
 ---

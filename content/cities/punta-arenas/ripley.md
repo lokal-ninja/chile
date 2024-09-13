@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /punta-arenas/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

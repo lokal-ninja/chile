@@ -1,5 +1,5 @@
 ---
 title: "Doremi"
 url: /las-condes/doremi/
-shop: Kramladen
+shop: tienda de variedades
 ---

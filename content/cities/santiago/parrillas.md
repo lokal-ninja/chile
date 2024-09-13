@@ -1,5 +1,5 @@
 ---
 title: "Parrillas"
 url: /santiago/parrillas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

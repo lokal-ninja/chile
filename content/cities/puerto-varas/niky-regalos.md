@@ -1,5 +1,5 @@
 ---
 title: "Niky Regalos"
 url: /puerto-varas/niky-regalos/
-shop: Andenken
+shop: regalo
 ---

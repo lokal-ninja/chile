@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /vitacura/jumbo/
-shop: Supermarkt
+shop: supermercado
 ---

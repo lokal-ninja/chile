@@ -1,5 +1,5 @@
 ---
 title: "Pompeyo Carrasco"
 url: /la-cisterna/pompeyo-carrasco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

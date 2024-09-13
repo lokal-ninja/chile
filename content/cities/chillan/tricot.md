@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /chillan/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

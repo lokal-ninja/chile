@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /linares/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

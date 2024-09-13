@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /las-condes/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

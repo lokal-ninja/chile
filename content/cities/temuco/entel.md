@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /temuco/entel/
-shop: Handy
+shop: teléfono móvil
 ---

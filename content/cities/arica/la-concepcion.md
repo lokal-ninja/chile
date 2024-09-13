@@ -1,5 +1,5 @@
 ---
 title: "La Concepción"
 url: /arica/la-concepcion/
-shop: Kramladen
+shop: tienda de variedades
 ---

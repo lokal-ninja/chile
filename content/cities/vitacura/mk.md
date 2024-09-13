@@ -1,5 +1,5 @@
 ---
 title: "Mk"
 url: /vitacura/mk/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

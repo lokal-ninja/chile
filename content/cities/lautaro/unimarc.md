@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /lautaro/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

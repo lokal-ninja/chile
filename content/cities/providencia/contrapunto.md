@@ -1,5 +1,5 @@
 ---
 title: "Contrapunto"
 url: /providencia/contrapunto/
-shop: Bücher
+shop: libros
 ---

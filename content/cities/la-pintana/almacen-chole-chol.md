@@ -1,5 +1,5 @@
 ---
 title: "Almacén Chole Chol"
 url: /la-pintana/almacen-chole-chol/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geolub"
 url: /macul/geolub/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

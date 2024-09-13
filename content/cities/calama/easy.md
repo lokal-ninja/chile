@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /calama/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

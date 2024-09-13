@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /hualqui/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lapiz Lopez"
 url: /nunoa/lapiz-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

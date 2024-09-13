@@ -1,5 +1,5 @@
 ---
 title: "Cesek"
 url: /lanco/cesek/
-shop: Supermarkt
+shop: supermercado
 ---

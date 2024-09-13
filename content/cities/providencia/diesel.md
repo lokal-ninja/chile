@@ -1,5 +1,5 @@
 ---
 title: "Diesel"
 url: /providencia/diesel/
-shop: Kleidung
+shop: ropa
 ---

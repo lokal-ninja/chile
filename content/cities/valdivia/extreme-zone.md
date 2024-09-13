@@ -1,5 +1,5 @@
 ---
 title: "Extreme Zone"
 url: /valdivia/extreme-zone/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kayser"
 url: /valdivia/kayser/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marcelo Teuber"
 url: /recoleta/marcelo-teuber/
-shop: Allgemein
+shop: general
 ---

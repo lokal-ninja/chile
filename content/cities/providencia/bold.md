@@ -1,5 +1,5 @@
 ---
 title: "BOLD"
 url: /providencia/bold/
-shop: Warenhaus
+shop: grandes almacenes
 ---

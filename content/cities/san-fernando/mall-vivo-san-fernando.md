@@ -1,5 +1,5 @@
 ---
 title: "Mall VIVO San Fernando"
 url: /san-fernando/mall-vivo-san-fernando/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

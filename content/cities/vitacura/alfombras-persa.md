@@ -1,5 +1,5 @@
 ---
 title: "Alfombras Persa"
 url: /vitacura/alfombras-persa/
-shop: Teppiche
+shop: alfombra
 ---

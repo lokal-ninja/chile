@@ -1,5 +1,5 @@
 ---
 title: "Provisiones"
 url: /labranza/provisiones/
-shop: Bäckerei
+shop: panadería
 ---

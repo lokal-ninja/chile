@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro HVR"
 url: /quilpue/lubricentro-hvr/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

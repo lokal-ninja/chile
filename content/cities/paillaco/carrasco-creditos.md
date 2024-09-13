@@ -1,5 +1,5 @@
 ---
 title: "Carrasco Créditos"
 url: /paillaco/carrasco-creditos/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecanitronic"
 url: /santiago/mecanitronic/
-shop: Autoteile
+shop: piezas de automóviles
 ---

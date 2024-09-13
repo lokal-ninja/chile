@@ -1,5 +1,5 @@
 ---
 title: "Los Parras"
 url: /villa-alemana/los-parras/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /providencia/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

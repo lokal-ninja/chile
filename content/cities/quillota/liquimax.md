@@ -1,5 +1,5 @@
 ---
 title: "Liquimax"
 url: /quillota/liquimax/
-shop: Drogerie
+shop: farmacia
 ---

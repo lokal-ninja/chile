@@ -1,5 +1,5 @@
 ---
 title: "WL Caro"
 url: /vitacura/wl-caro/
-shop: Autohaus
+shop: coche
 ---

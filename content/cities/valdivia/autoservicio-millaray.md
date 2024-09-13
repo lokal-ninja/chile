@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Millaray"
 url: /valdivia/autoservicio-millaray/
-shop: Lebensmittel
+shop: comodidad
 ---

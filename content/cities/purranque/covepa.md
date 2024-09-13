@@ -1,5 +1,5 @@
 ---
 title: "COVEPA"
 url: /purranque/covepa/
-shop: Eisenwaren
+shop: hardware
 ---

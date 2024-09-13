@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /talcahuano/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

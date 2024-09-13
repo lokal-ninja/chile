@@ -1,5 +1,5 @@
 ---
 title: "Pablo Atienzo"
 url: /quilpue/pablo-atienzo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

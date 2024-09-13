@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /valdivia/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

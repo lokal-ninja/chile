@@ -1,5 +1,5 @@
 ---
 title: "Automotriz del Sur"
 url: /macul/automotriz-del-sur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

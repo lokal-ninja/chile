@@ -1,5 +1,5 @@
 ---
 title: "Eltit"
 url: /valdivia/eltit/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicio Embry"
 url: /providencia/servicio-embry/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

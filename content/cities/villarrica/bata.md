@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /villarrica/bata/
-shop: Schuhe
+shop: zapatos
 ---

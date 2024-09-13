@@ -1,5 +1,5 @@
 ---
 title: "Frenos ZG"
 url: /vitacura/frenos-zg/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

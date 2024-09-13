@@ -1,5 +1,5 @@
 ---
 title: "Lighted"
 url: /vitacura/lighted/
-shop: Lampen
+shop: lámparas
 ---

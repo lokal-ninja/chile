@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /la-serena/unimarc-18-de-septiembre/
-shop: Supermarkt
+shop: supermercado
 ---

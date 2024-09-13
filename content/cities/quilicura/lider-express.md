@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /quilicura/lider-express/
-shop: Supermarkt
+shop: supermercado
 ---

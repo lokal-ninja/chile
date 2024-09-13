@@ -1,5 +1,5 @@
 ---
 title: "El Paratón"
 url: /santiago/el-paraton/
-shop: Allgemein
+shop: general
 ---

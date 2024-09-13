@@ -1,5 +1,5 @@
 ---
 title: "Llumar"
 url: /santiago/llumar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

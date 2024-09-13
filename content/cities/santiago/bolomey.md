@@ -1,5 +1,5 @@
 ---
 title: "Bolomey"
 url: /santiago/bolomey/
-shop: Autoteile
+shop: piezas de automóviles
 ---

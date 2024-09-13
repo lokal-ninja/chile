@@ -1,5 +1,5 @@
 ---
 title: "CBN"
 url: /vitacura/cbn/
-shop: Friseur
+shop: peluquería
 ---

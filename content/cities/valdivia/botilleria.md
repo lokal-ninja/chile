@@ -1,5 +1,5 @@
 ---
 title: "Botillería"
 url: /valdivia/botilleria/
-shop: Spirituosen
+shop: alcohol
 ---

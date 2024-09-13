@@ -1,5 +1,5 @@
 ---
 title: "Póngale Huevo"
 url: /quilpue/pongale-huevo/
-shop: Lebensmittel
+shop: comodidad
 ---

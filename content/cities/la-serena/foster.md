@@ -1,5 +1,5 @@
 ---
 title: "Foster"
 url: /la-serena/foster/
-shop: Kleidung
+shop: ropa
 ---

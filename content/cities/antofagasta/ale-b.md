@@ -1,5 +1,5 @@
 ---
 title: "Ale B"
 url: /antofagasta/ale-b/
-shop: Drogerie
+shop: farmacia
 ---

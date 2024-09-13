@@ -1,5 +1,5 @@
 ---
 title: "El rinconcito del bebé"
 url: /pitrufquen/el-rinconcito-del-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

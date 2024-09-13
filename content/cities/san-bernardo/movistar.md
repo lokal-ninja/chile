@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /san-bernardo/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

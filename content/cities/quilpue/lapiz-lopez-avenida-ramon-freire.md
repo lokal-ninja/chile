@@ -1,5 +1,5 @@
 ---
 title: "Lápiz López"
 url: /quilpue/lapiz-lopez-avenida-ramon-freire/
-shop: Schreibwaren
+shop: material de oficina
 ---

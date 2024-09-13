@@ -1,5 +1,5 @@
 ---
 title: "Galería de Cristal"
 url: /vina-del-mar/galeria-de-cristal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

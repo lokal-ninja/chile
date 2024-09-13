@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /providencia/samsonite/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

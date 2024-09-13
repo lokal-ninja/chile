@@ -1,5 +1,5 @@
 ---
 title: "Impresion Digital"
 url: /santiago/impresion-digital/
-shop: Allgemein
+shop: general
 ---

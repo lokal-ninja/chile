@@ -1,5 +1,5 @@
 ---
 title: "K2 Autos"
 url: /lo-barnechea/k2-autos/
-shop: Autohaus
+shop: coche
 ---

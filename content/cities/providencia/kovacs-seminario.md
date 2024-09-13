@@ -1,5 +1,5 @@
 ---
 title: "Kovacs"
 url: /providencia/kovacs-seminario/
-shop: Autohaus
+shop: coche
 ---

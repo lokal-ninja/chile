@@ -1,5 +1,5 @@
 ---
 title: "Limachina"
 url: /limache/limachina/
-shop: Bäckerei
+shop: panadería
 ---

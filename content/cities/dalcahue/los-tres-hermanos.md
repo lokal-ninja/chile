@@ -1,5 +1,5 @@
 ---
 title: "Los Tres Hermanos"
 url: /dalcahue/los-tres-hermanos/
-shop: Möbel
+shop: muebles
 ---

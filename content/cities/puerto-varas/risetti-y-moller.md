@@ -1,5 +1,5 @@
 ---
 title: "Risetti y Moller"
 url: /puerto-varas/risetti-y-moller/
-shop: Kramladen
+shop: tienda de variedades
 ---

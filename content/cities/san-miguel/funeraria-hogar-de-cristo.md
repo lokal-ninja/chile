@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Hogar de Cristo"
 url: /san-miguel/funeraria-hogar-de-cristo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

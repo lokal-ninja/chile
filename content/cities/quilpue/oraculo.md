@@ -1,5 +1,5 @@
 ---
 title: "Oráculo"
 url: /quilpue/oraculo/
-shop: Allgemein
+shop: general
 ---

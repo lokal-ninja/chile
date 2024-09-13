@@ -1,5 +1,5 @@
 ---
 title: "Planet Car"
 url: /quilpue/planet-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

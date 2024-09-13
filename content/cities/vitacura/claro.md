@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /vitacura/claro/
-shop: Handy
+shop: teléfono móvil
 ---

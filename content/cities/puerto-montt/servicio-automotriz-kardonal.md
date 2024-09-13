@@ -1,5 +1,5 @@
 ---
 title: "SERVICIO AUTOMOTRIZ KARDONAL"
 url: /puerto-montt/servicio-automotriz-kardonal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

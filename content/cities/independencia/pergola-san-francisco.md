@@ -1,5 +1,5 @@
 ---
 title: "Pérgola San Francisco"
 url: /independencia/pergola-san-francisco/
-shop: Blumen
+shop: floristería
 ---

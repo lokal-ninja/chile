@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Loa Sur"
 url: /ancud/ferreteria-loa-sur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

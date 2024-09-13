@@ -1,5 +1,5 @@
 ---
 title: "Mary Blanca"
 url: /santiago/mary-blanca/
-shop: Allgemein
+shop: general
 ---

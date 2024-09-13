@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /san-bernardo/mini-market/
-shop: Lebensmittel
+shop: comodidad
 ---

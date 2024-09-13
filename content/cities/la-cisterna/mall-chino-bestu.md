@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino Bestu"
 url: /la-cisterna/mall-chino-bestu/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

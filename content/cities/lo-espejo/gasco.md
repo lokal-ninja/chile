@@ -1,5 +1,5 @@
 ---
 title: "Gasco"
 url: /lo-espejo/gasco/
-shop: Gasflaschen
+shop: gas
 ---

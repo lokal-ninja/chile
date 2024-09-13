@@ -1,5 +1,5 @@
 ---
 title: "Confitería Santiago"
 url: /concepcion/confiteria-santiago/
-shop: Süßwaren
+shop: confitería
 ---

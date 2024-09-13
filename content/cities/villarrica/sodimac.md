@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /villarrica/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan"
 url: /pitrufquen/pan/
-shop: Bäckerei
+shop: panadería
 ---

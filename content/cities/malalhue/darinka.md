@@ -1,5 +1,5 @@
 ---
 title: "Darinka"
 url: /malalhue/darinka/
-shop: Supermarkt
+shop: supermercado
 ---

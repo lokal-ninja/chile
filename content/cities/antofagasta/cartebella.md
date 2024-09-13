@@ -1,5 +1,5 @@
 ---
 title: "Cartebella"
 url: /antofagasta/cartebella/
-shop: Schreibwaren
+shop: material de oficina
 ---

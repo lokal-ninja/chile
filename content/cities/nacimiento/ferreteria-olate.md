@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Olate"
 url: /nacimiento/ferreteria-olate/
-shop: Eisenwaren
+shop: hardware
 ---

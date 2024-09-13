@@ -1,5 +1,5 @@
 ---
 title: "Gabriel"
 url: /santiago/gabriel/
-shop: Lebensmittel
+shop: comodidad
 ---

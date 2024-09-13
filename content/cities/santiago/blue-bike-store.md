@@ -1,5 +1,5 @@
 ---
 title: "Blue Bike Store"
 url: /santiago/blue-bike-store/
-shop: Fahrrad
+shop: bicicleta
 ---

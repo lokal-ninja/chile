@@ -1,5 +1,5 @@
 ---
 title: "Naturalizer"
 url: /nunoa/naturalizer/
-shop: Allgemein
+shop: general
 ---

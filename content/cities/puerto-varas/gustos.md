@@ -1,5 +1,5 @@
 ---
 title: "Gustos"
 url: /puerto-varas/gustos/
-shop: Lebensmittel
+shop: comodidad
 ---

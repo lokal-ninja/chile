@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /illapel/maicao/
-shop: Kosmetik
+shop: cosméticos
 ---

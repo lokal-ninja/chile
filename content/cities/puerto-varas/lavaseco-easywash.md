@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco Easywash"
 url: /puerto-varas/lavaseco-easywash/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /concepcion/bata/
-shop: Schuhe
+shop: zapatos
 ---

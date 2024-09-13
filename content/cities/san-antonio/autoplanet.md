@@ -1,5 +1,5 @@
 ---
 title: "Autoplanet"
 url: /san-antonio/autoplanet/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surtimix"
 url: /santiago/surtimix/
-shop: Drogerie
+shop: farmacia
 ---

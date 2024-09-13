@@ -1,5 +1,5 @@
 ---
 title: "Central Mayorista"
 url: /la-serena/central-mayorista/
-shop: Supermarkt
+shop: supermercado
 ---

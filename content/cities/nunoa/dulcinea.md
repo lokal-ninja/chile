@@ -1,5 +1,5 @@
 ---
 title: "Dulcinea"
 url: /nunoa/dulcinea/
-shop: Bäckerei
+shop: panadería
 ---

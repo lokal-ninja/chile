@@ -1,5 +1,5 @@
 ---
 title: "Teresita"
 url: /puyuhuapi/teresita/
-shop: Bäckerei
+shop: panadería
 ---

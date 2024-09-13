@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /villarrica/entel/
-shop: Handy
+shop: teléfono móvil
 ---

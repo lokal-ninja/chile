@@ -1,5 +1,5 @@
 ---
 title: "Cherry Chile"
 url: /providencia/cherry-chile/
-shop: Allgemein
+shop: general
 ---

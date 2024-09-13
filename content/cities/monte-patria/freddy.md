@@ -1,5 +1,5 @@
 ---
 title: "Freddy"
 url: /monte-patria/freddy/
-shop: Eisenwaren
+shop: hardware
 ---

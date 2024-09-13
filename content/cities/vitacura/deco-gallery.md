@@ -1,5 +1,5 @@
 ---
 title: "Deco Gallery"
 url: /vitacura/deco-gallery/
-shop: Rahmen
+shop: marco
 ---

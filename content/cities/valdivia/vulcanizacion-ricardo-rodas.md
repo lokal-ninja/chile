@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /valdivia/vulcanizacion-ricardo-rodas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

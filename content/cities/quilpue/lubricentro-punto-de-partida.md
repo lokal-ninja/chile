@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Punto de Partida"
 url: /quilpue/lubricentro-punto-de-partida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

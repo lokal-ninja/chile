@@ -1,5 +1,5 @@
 ---
 title: "Carrasco Creditos"
 url: /panguipulli/carrasco-creditos/
-shop: Warenhaus
+shop: grandes almacenes
 ---

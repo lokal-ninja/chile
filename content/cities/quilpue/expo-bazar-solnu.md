@@ -1,5 +1,5 @@
 ---
 title: "Expo Bazar Solnu"
 url: /quilpue/expo-bazar-solnu/
-shop: Kramladen
+shop: tienda de variedades
 ---

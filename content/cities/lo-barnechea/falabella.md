@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /lo-barnechea/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Diamente"
 url: /santiago/el-diamente/
-shop: Autoteile
+shop: piezas de automóviles
 ---

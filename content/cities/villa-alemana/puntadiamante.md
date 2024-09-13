@@ -1,5 +1,5 @@
 ---
 title: "Puntadiamante"
 url: /villa-alemana/puntadiamante/
-shop: Lebensmittel
+shop: comodidad
 ---

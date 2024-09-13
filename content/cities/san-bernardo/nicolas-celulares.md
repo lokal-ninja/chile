@@ -1,5 +1,5 @@
 ---
-title: "Nicolas Celulares"
+title: "Nicolás Celulares"
 url: /san-bernardo/nicolas-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

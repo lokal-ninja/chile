@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /nunoa/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

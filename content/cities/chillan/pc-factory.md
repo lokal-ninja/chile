@@ -1,5 +1,5 @@
 ---
 title: "PC Factory"
 url: /chillan/pc-factory/
-shop: Computer
+shop: ordenador
 ---

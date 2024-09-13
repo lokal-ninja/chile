@@ -1,5 +1,5 @@
 ---
 title: "Repcar"
 url: /santiago/repcar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

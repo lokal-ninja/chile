@@ -1,5 +1,5 @@
 ---
 title: "Panfris Market"
 url: /chillan/panfris-market/
-shop: Lebensmittel
+shop: comodidad
 ---

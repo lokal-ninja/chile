@@ -1,5 +1,5 @@
 ---
 title: "Llabres"
 url: /quinta-normal/llabres/
-shop: Allgemein
+shop: general
 ---

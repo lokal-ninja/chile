@@ -1,5 +1,5 @@
 ---
 title: "Rayolux"
 url: /ovalle/rayolux/
-shop: Dorfladen
+shop: tienda rural
 ---

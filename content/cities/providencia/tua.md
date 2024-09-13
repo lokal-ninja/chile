@@ -1,5 +1,5 @@
 ---
 title: "Tua"
 url: /providencia/tua/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

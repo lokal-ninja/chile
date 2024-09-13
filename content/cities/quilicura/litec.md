@@ -1,5 +1,5 @@
 ---
 title: "Litec"
 url: /quilicura/litec/
-shop: Handy
+shop: teléfono móvil
 ---

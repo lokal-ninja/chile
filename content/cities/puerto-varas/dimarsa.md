@@ -1,5 +1,5 @@
 ---
 title: "Dimarsa"
 url: /puerto-varas/dimarsa/
-shop: Warenhaus
+shop: grandes almacenes
 ---

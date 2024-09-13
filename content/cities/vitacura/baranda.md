@@ -1,5 +1,5 @@
 ---
 title: "Baranda"
 url: /vitacura/baranda/
-shop: Raumausstattung
+shop: decoración interior
 ---

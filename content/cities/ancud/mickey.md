@@ -1,5 +1,5 @@
 ---
 title: "Mickey"
 url: /ancud/mickey/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /providencia/libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "vivero terra nostra"
 url: /calama/vivero-terra-nostra/
-shop: Garten-Center
+shop: centro de jardinería
 ---

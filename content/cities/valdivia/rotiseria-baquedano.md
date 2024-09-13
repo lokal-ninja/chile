@@ -1,5 +1,5 @@
 ---
 title: "Rotisería Baquedano"
 url: /valdivia/rotiseria-baquedano/
-shop: Kramladen
+shop: tienda de variedades
 ---

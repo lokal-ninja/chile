@@ -1,5 +1,5 @@
 ---
 title: "Kayak Chile"
 url: /pucon/kayak-chile/
-shop: Reisebüro
+shop: agencia de viajes
 ---

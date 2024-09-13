@@ -1,5 +1,5 @@
 ---
 title: "Obsesión"
 url: /puerto-varas/obsesion/
-shop: Kramladen
+shop: tienda de variedades
 ---

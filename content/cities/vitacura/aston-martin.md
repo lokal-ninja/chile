@@ -1,5 +1,5 @@
 ---
 title: "Aston Martin"
 url: /vitacura/aston-martin/
-shop: Autohaus
+shop: coche
 ---

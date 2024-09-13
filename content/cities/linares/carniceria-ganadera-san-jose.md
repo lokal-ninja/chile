@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Ganadera San Jose"
 url: /linares/carniceria-ganadera-san-jose/
-shop: Metzgerei
+shop: carnicero
 ---

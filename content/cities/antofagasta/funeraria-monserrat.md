@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Monserrat"
 url: /antofagasta/funeraria-monserrat/
-shop: Bestattungen
+shop: directores de funerarias
 ---

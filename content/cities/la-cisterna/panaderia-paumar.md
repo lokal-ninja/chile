@@ -1,5 +1,5 @@
 ---
 title: "Panadería Paumar"
 url: /la-cisterna/panaderia-paumar/
-shop: Bäckerei
+shop: panadería
 ---

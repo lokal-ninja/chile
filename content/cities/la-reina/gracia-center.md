@@ -1,5 +1,5 @@
 ---
 title: "Gracia Center"
 url: /la-reina/gracia-center/
-shop: Autohaus
+shop: coche
 ---

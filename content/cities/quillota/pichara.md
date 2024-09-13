@@ -1,5 +1,5 @@
 ---
 title: "Pichara"
 url: /quillota/pichara/
-shop: Kosmetik
+shop: cosméticos
 ---

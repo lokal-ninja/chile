@@ -1,5 +1,5 @@
 ---
 title: "Profoto"
 url: /temuco/profoto/
-shop: Foto
+shop: foto
 ---

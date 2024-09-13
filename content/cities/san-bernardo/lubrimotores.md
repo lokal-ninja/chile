@@ -1,5 +1,5 @@
 ---
 title: "Lubrimotores"
 url: /san-bernardo/lubrimotores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

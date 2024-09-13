@@ -1,5 +1,5 @@
 ---
 title: "Copec"
 url: /quinta-normal/copec/
-shop: Lebensmittel
+shop: comodidad
 ---

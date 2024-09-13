@@ -1,5 +1,5 @@
 ---
 title: "Lápiz López"
 url: /puente-alto/lapiz-lopez/
-shop: Schreibwaren
+shop: material de oficina
 ---

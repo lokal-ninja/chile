@@ -1,5 +1,5 @@
 ---
 title: "Cesario"
 url: /villa-alemana/cesario/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

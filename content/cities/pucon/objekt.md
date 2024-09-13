@@ -1,5 +1,5 @@
 ---
 title: "Objekt"
 url: /pucon/objekt/
-shop: Kramladen
+shop: tienda de variedades
 ---

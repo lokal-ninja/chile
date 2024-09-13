@@ -1,5 +1,5 @@
 ---
 title: "Botilería Rostisería"
 url: /providencia/botileria-rostiseria/
-shop: Spirituosen
+shop: alcohol
 ---

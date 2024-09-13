@@ -1,5 +1,5 @@
 ---
 title: "Almacén San Pancracio"
 url: /macul/almacen-san-pancracio/
-shop: Allgemein
+shop: general
 ---

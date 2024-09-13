@@ -1,5 +1,5 @@
 ---
 title: "Factory Nine"
 url: /santiago/factory-nine/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /providencia/castano-antonio-varas/
-shop: Bäckerei
+shop: panadería
 ---

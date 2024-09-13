@@ -1,5 +1,5 @@
 ---
 title: "SuperHouse"
 url: /renca/superhouse/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

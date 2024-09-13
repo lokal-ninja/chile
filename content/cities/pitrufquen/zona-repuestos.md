@@ -1,5 +1,5 @@
 ---
 title: "zona repuestos"
 url: /pitrufquen/zona-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

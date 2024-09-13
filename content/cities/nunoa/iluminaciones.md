@@ -1,5 +1,5 @@
 ---
 title: "Iluminaciónes"
 url: /nunoa/iluminaciones/
-shop: Lampen
+shop: lámparas
 ---

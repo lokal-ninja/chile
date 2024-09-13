@@ -1,5 +1,5 @@
 ---
 title: "Patricio Farias"
 url: /chimbarongo/patricio-farias/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marina II"
 url: /maipu/marina-ii/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don Lalo"
 url: /valdivia/don-lalo/
-shop: Kramladen
+shop: tienda de variedades
 ---

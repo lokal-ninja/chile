@@ -1,5 +1,5 @@
 ---
 title: "Rombo Repuestos"
 url: /ushuaia/rombo-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

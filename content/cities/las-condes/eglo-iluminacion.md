@@ -1,5 +1,5 @@
 ---
 title: "Eglo Iluminación"
 url: /las-condes/eglo-iluminacion/
-shop: Lampen
+shop: lámparas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cife Tapicería"
 url: /quilpue/cife-tapiceria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

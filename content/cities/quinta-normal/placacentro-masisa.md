@@ -1,5 +1,5 @@
 ---
 title: "Placacentro Masisa"
 url: /quinta-normal/placacentro-masisa/
-shop: Baustoffe
+shop: comercio
 ---

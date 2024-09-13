@@ -1,5 +1,5 @@
 ---
 title: "Desarmaduria Copiapó"
 url: /santiago/desarmaduria-copiapo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

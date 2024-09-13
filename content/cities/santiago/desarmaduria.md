@@ -1,5 +1,5 @@
 ---
 title: "Desarmaduria"
 url: /santiago/desarmaduria/
-shop: Allgemein
+shop: general
 ---

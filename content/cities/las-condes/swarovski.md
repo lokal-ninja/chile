@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /las-condes/swarovski/
-shop: Schmuck
+shop: joyería
 ---

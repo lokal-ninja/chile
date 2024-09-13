@@ -1,5 +1,5 @@
 ---
 title: "Economar"
 url: /chonchi/economar/
-shop: Supermarkt
+shop: supermercado
 ---

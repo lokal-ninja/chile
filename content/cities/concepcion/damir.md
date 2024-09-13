@@ -1,5 +1,5 @@
 ---
 title: "Damir"
 url: /concepcion/damir/
-shop: Kleidung
+shop: ropa
 ---

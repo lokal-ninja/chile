@@ -1,5 +1,5 @@
 ---
 title: "Mundovisión"
 url: /quilpue/mundovision/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon de Belleza L'entheric"
 url: /providencia/salon-de-belleza-lentheric/
-shop: Friseur
+shop: peluquería
 ---

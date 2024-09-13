@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop Premium"
 url: /antofagasta/barber-shop-premium/
-shop: Friseur
+shop: peluquería
 ---

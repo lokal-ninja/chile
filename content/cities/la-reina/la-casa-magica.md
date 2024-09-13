@@ -1,5 +1,5 @@
 ---
 title: "La Casa Mágica"
 url: /la-reina/la-casa-magica/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pulku"
 url: /santiago/pulku/
-shop: Wein
+shop: vino
 ---

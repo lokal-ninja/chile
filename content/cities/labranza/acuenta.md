@@ -1,5 +1,5 @@
 ---
 title: "ACuenta"
 url: /labranza/acuenta/
-shop: Supermarkt
+shop: supermercado
 ---

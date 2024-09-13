@@ -1,5 +1,5 @@
 ---
 title: "Calzados Skanetti"
 url: /canete/calzados-skanetti/
-shop: Schuhe
+shop: zapatos
 ---

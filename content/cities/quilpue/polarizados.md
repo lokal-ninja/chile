@@ -1,5 +1,5 @@
 ---
 title: "Polarizados"
 url: /quilpue/polarizados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

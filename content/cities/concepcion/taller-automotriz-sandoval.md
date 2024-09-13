@@ -1,5 +1,5 @@
 ---
 title: "Taller Automotriz Sandoval"
 url: /concepcion/taller-automotriz-sandoval/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

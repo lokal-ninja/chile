@@ -1,5 +1,5 @@
 ---
 title: "Akbar"
 url: /santiago/akbar/
-shop: Tee
+shop: té
 ---

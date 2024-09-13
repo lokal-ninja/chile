@@ -1,5 +1,5 @@
 ---
 title: "THC"
 url: /temuco/thc/
-shop: Kleidung
+shop: ropa
 ---

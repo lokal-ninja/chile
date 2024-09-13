@@ -1,5 +1,5 @@
 ---
 title: "AutoPlanet"
 url: /nunoa/autoplanet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

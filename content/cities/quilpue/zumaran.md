@@ -1,5 +1,5 @@
 ---
 title: "Zumaran"
 url: /quilpue/zumaran/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

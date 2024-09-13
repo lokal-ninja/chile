@@ -1,5 +1,5 @@
 ---
 title: "Donde Benja"
 url: /concepcion/donde-benja/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luigi"
 url: /santiago/luigi/
-shop: Friseur
+shop: peluquería
 ---

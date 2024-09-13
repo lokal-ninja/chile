@@ -1,5 +1,5 @@
 ---
 title: "Roli"
 url: /vallenar/roli/
-shop: Spirituosen
+shop: alcohol
 ---

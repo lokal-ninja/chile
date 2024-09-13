@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /las-condes/sodimac-avenida-las-condes/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

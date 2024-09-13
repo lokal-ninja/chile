@@ -1,5 +1,5 @@
 ---
 title: "Tu Hogar"
 url: /nunoa/tu-hogar/
-shop: Kramladen
+shop: tienda de variedades
 ---

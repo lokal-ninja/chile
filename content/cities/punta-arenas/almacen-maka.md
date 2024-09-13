@@ -1,5 +1,5 @@
 ---
 title: "Almacen Maka"
 url: /punta-arenas/almacen-maka/
-shop: Dorfladen
+shop: tienda rural
 ---

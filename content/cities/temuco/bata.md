@@ -1,5 +1,5 @@
 ---
 title: "Bata"
 url: /temuco/bata/
-shop: Schuhe
+shop: zapatos
 ---

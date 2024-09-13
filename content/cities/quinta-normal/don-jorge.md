@@ -1,5 +1,5 @@
 ---
 title: "Don Jorge"
 url: /quinta-normal/don-jorge/
-shop: Gasflaschen
+shop: gas
 ---

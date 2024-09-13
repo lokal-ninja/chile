@@ -1,5 +1,5 @@
 ---
 title: "Ecomotor"
 url: /santiago/ecomotor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

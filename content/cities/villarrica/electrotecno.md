@@ -1,5 +1,5 @@
 ---
 title: "Electrotecno"
 url: /villarrica/electrotecno/
-shop: Elektronik
+shop: electrónica
 ---

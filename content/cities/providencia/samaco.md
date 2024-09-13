@@ -1,5 +1,5 @@
 ---
 title: "Samaco"
 url: /providencia/samaco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

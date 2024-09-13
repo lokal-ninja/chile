@@ -1,5 +1,5 @@
 ---
 title: "Madagascar Pet Shop"
 url: /providencia/madagascar-pet-shop/
-shop: Tiere
+shop: mascotas
 ---

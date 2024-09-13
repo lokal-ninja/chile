@@ -1,5 +1,5 @@
 ---
 title: "Errecuatro Chile"
 url: /vitacura/errecuatro-chile/
-shop: Kleidung
+shop: ropa
 ---

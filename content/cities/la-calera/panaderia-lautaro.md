@@ -1,5 +1,5 @@
 ---
 title: "Panadería Lautaro"
 url: /la-calera/panaderia-lautaro/
-shop: Bäckerei
+shop: panadería
 ---

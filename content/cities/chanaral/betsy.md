@@ -1,5 +1,5 @@
 ---
 title: "Betsy"
 url: /chanaral/betsy/
-shop: Schreibwaren
+shop: material de oficina
 ---

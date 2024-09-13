@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /nunoa/chevrolet/
-shop: Autohaus
+shop: coche
 ---

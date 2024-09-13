@@ -1,5 +1,5 @@
 ---
 title: "Msf Sale"
 url: /providencia/msf-sale/
-shop: Handy
+shop: teléfono móvil
 ---

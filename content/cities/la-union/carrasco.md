@@ -1,5 +1,5 @@
 ---
 title: "Carrasco"
 url: /la-union/carrasco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

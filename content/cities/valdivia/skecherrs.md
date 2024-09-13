@@ -1,5 +1,5 @@
 ---
 title: "Skecherrs"
 url: /valdivia/skecherrs/
-shop: Schuhe
+shop: zapatos
 ---

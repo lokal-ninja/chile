@@ -1,5 +1,5 @@
 ---
 title: "Librería Petete"
 url: /canete/libreria-petete/
-shop: Schreibwaren
+shop: material de oficina
 ---

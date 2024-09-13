@@ -1,5 +1,5 @@
 ---
 title: "Indra"
 url: /santiago/indra/
-shop: Autoteile
+shop: piezas de automóviles
 ---

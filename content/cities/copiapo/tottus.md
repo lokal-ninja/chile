@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /copiapo/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

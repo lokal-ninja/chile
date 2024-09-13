@@ -1,5 +1,5 @@
 ---
 title: "Upita"
 url: /santiago/upita/
-shop: Lebensmittel
+shop: comodidad
 ---

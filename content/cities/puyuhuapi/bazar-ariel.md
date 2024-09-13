@@ -1,5 +1,5 @@
 ---
 title: "Bazar Ariel"
 url: /puyuhuapi/bazar-ariel/
-shop: Andenken
+shop: regalo
 ---

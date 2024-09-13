@@ -1,5 +1,5 @@
 ---
 title: "Bombas Jabasco"
 url: /santiago/bombas-jabasco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

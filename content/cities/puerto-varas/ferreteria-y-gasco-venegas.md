@@ -1,5 +1,5 @@
 ---
 title: "Ferretería y Gasco Venegas"
 url: /puerto-varas/ferreteria-y-gasco-venegas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

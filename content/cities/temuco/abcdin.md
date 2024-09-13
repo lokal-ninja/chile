@@ -1,5 +1,5 @@
 ---
 title: "ABCDIN"
 url: /temuco/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sombrerería"
 url: /valparaiso/sombrereria/
-shop: Allgemein
+shop: general
 ---

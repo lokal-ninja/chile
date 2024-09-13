@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /valdivia/vulcanizacion-avenida-pedro-montt/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

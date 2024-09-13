@@ -1,5 +1,5 @@
 ---
 title: "Casa Padin"
 url: /ushuaia/casa-padin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

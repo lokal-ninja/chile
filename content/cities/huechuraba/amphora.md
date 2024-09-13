@@ -1,5 +1,5 @@
 ---
 title: "Amphora"
 url: /huechuraba/amphora/
-shop: Kleidung
+shop: ropa
 ---

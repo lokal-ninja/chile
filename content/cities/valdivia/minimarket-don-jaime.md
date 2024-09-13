@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Don jaime"
 url: /valdivia/minimarket-don-jaime/
-shop: Lebensmittel
+shop: comodidad
 ---

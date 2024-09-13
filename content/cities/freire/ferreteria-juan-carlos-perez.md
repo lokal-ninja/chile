@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Juan Carlos Pérez"
 url: /freire/ferreteria-juan-carlos-perez/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

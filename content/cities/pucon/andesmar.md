@@ -1,5 +1,5 @@
 ---
 title: "Andesmar"
 url: /pucon/andesmar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

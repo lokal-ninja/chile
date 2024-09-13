@@ -1,5 +1,5 @@
 ---
 title: "Lubicantes El Rey"
 url: /maipu/lubicantes-el-rey/
-shop: Autoteile
+shop: piezas de automóviles
 ---

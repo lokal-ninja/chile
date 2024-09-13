@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /las-condes/omega/
-shop: Schmuck
+shop: joyería
 ---

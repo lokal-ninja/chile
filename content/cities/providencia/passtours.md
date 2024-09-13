@@ -1,5 +1,5 @@
 ---
 title: "PassTours"
 url: /providencia/passtours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

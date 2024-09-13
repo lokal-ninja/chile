@@ -1,5 +1,5 @@
 ---
 title: "Tommy"
 url: /valparaiso/tommy/
-shop: Lebensmittel
+shop: comodidad
 ---

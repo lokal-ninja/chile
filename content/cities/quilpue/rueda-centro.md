@@ -1,5 +1,5 @@
 ---
 title: "Rueda Centro"
 url: /quilpue/rueda-centro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

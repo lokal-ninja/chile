@@ -1,5 +1,5 @@
 ---
 title: "Auto Planet"
 url: /talca/auto-planet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

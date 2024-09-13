@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /castro/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

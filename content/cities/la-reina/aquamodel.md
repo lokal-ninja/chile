@@ -1,5 +1,5 @@
 ---
 title: "Aquamodel"
 url: /la-reina/aquamodel/
-shop: Pool
+shop: piscina
 ---

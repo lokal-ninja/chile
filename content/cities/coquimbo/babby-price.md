@@ -1,5 +1,5 @@
 ---
 title: "Babby Price"
 url: /coquimbo/babby-price/
-shop: Babysachen
+shop: artículos para bebés
 ---

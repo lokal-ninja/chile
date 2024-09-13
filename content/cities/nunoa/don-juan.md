@@ -1,5 +1,5 @@
 ---
 title: "Don Juan"
 url: /nunoa/don-juan/
-shop: Allgemein
+shop: general
 ---

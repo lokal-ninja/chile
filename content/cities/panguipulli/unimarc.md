@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /panguipulli/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

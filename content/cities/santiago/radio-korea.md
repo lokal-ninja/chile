@@ -1,5 +1,5 @@
 ---
 title: "Radio Korea"
 url: /santiago/radio-korea/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Estay"
 url: /quilpue/estay/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería Cortés"
 url: /puerto-varas/fruteria-cortes/
-shop: Lebensmittel
+shop: comodidad
 ---

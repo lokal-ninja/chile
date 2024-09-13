@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /combarbala/central/
-shop: Bäckerei
+shop: panadería
 ---

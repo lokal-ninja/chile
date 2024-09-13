@@ -1,5 +1,5 @@
 ---
 title: "Mall Power Center"
 url: /quilpue/mall-power-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

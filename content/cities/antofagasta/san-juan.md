@@ -1,5 +1,5 @@
 ---
 title: "San Juán"
 url: /antofagasta/san-juan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mumma"
 url: /providencia/mumma/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /chillan/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

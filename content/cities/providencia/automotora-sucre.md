@@ -1,5 +1,5 @@
 ---
 title: "Automotora Sucre"
 url: /providencia/automotora-sucre/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SKY Airline"
 url: /santiago/sky-airline/
-shop: Reisebüro
+shop: agencia de viajes
 ---

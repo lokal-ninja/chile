@@ -1,5 +1,5 @@
 ---
 title: "Ceramicas la Changa"
 url: /melipilla-pomaire/ceramicas-la-changa/
-shop: Töpferei
+shop: cerámica
 ---

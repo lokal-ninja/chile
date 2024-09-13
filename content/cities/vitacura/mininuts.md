@@ -1,5 +1,5 @@
 ---
 title: "Mininuts"
 url: /vitacura/mininuts/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amancay"
 url: /valparaiso/amancay/
-shop: Lebensmittel
+shop: comodidad
 ---

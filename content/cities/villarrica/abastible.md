@@ -1,5 +1,5 @@
 ---
 title: "Abastible"
 url: /villarrica/abastible/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyotomi"
 url: /vitacura/toyotomi/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piretta"
 url: /vitacura/piretta/
-shop: Autohaus
+shop: coche
 ---

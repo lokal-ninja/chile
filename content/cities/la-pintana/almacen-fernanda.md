@@ -1,5 +1,5 @@
 ---
 title: "Almacén Fernanda"
 url: /la-pintana/almacen-fernanda/
-shop: Lebensmittel
+shop: comodidad
 ---

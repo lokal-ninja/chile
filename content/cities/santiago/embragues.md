@@ -1,5 +1,5 @@
 ---
 title: "Embragues"
 url: /santiago/embragues/
-shop: Autoteile
+shop: piezas de automóviles
 ---

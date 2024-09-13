@@ -1,5 +1,5 @@
 ---
 title: "Aurora"
 url: /quillota/aurora/
-shop: Allgemein
+shop: general
 ---

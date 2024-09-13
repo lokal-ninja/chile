@@ -1,5 +1,5 @@
 ---
 title: "Matess"
 url: /quilpue/matess/
-shop: Autoteile
+shop: piezas de automóviles
 ---

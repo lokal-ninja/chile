@@ -1,5 +1,5 @@
 ---
 title: "Kanapé"
 url: /santiago/kanape/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

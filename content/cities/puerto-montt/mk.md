@@ -1,5 +1,5 @@
 ---
 title: "Mk"
 url: /puerto-montt/mk/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

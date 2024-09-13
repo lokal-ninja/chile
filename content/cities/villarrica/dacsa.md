@@ -1,5 +1,5 @@
 ---
 title: "DACSA"
 url: /villarrica/dacsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

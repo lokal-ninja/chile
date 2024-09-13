@@ -1,5 +1,5 @@
 ---
 title: "Antonio Castillo"
 url: /santiago/antonio-castillo/
-shop: Allgemein
+shop: general
 ---

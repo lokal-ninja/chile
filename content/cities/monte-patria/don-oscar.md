@@ -1,5 +1,5 @@
 ---
 title: "Don Oscar"
 url: /monte-patria/don-oscar/
-shop: Eisenwaren
+shop: hardware
 ---

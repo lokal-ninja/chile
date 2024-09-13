@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /arica/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

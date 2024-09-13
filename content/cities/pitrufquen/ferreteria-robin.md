@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Robín"
 url: /pitrufquen/ferreteria-robin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

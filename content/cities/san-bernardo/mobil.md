@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /san-bernardo/mobil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /vitacura/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

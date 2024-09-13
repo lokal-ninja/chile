@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /antofagasta/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

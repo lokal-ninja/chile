@@ -1,5 +1,5 @@
 ---
 title: "Don Felipe"
 url: /las-condes/don-felipe/
-shop: Lebensmittel
+shop: comodidad
 ---

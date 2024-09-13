@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /iquique/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

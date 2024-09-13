@@ -1,5 +1,5 @@
 ---
 title: "Lecar"
 url: /vina-del-mar/lecar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

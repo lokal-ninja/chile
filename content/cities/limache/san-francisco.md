@@ -1,5 +1,5 @@
 ---
 title: "San Francisco"
 url: /limache/san-francisco/
-shop: Lebensmittel
+shop: comodidad
 ---

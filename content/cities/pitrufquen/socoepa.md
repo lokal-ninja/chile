@@ -1,5 +1,5 @@
 ---
 title: "Socoepa"
 url: /pitrufquen/socoepa/
-shop: Elektronik
+shop: electrónica
 ---

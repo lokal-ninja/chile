@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /la-serena/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /vina-del-mar/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

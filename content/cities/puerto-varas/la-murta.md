@@ -1,5 +1,5 @@
 ---
 title: "La Murta"
 url: /puerto-varas/la-murta/
-shop: Kleidung
+shop: ropa
 ---

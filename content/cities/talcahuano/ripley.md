@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /talcahuano/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

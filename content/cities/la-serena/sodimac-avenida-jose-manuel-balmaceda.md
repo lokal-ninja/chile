@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /la-serena/sodimac-avenida-jose-manuel-balmaceda/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

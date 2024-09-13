@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /quilpue/vulcanizacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

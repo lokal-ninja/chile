@@ -1,5 +1,5 @@
 ---
 title: "New Vegan"
 url: /rancagua/new-vegan/
-shop: Bioladen
+shop: alimentación sana
 ---

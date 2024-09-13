@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel Carlos Valdovinos"
 url: /pedro-aguirre-cerda/santa-isabel-carlos-valdovinos/
-shop: Supermarkt
+shop: supermercado
 ---

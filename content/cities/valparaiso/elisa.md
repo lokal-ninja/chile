@@ -1,5 +1,5 @@
 ---
 title: "Elisa"
 url: /valparaiso/elisa/
-shop: Spirituosen
+shop: alcohol
 ---

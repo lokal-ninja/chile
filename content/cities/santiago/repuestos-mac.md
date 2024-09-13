@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Mac"
 url: /santiago/repuestos-mac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Alternativa"
 url: /nunoa/la-alternativa/
-shop: Eisenwaren
+shop: hardware
 ---

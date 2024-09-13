@@ -1,5 +1,5 @@
 ---
 title: "Óptica Arco Iris"
 url: /villa-alemana/optica-arco-iris/
-shop: Optiker
+shop: óptico
 ---

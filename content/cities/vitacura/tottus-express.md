@@ -1,5 +1,5 @@
 ---
 title: "Tottus Express"
 url: /vitacura/tottus-express/
-shop: Supermarkt
+shop: supermercado
 ---

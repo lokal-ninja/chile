@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización Ruta Internacional"
 url: /lautaro/vulcanizacion-ruta-internacional/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

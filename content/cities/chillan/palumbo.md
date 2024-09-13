@@ -1,5 +1,5 @@
 ---
 title: "Palumbo"
 url: /chillan/palumbo/
-shop: Friseur
+shop: peluquería
 ---

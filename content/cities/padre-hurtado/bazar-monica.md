@@ -1,5 +1,5 @@
 ---
 title: "Bazar Monica"
 url: /padre-hurtado/bazar-monica/
-shop: Lebensmittel
+shop: comodidad
 ---

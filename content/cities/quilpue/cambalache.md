@@ -1,5 +1,5 @@
 ---
 title: "Cambalache"
 url: /quilpue/cambalache/
-shop: Kramladen
+shop: tienda de variedades
 ---

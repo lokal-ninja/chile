@@ -1,5 +1,5 @@
 ---
 title: "Botilleria Kayko"
 url: /san-bernardo/botilleria-kayko/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /las-condes/sodimac-avenida-padre-hurtado-sur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

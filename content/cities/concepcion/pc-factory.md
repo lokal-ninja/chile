@@ -1,5 +1,5 @@
 ---
 title: "PC Factory"
 url: /concepcion/pc-factory/
-shop: Computer
+shop: ordenador
 ---

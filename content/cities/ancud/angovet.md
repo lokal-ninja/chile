@@ -1,5 +1,5 @@
 ---
 title: "Angovet"
 url: /ancud/angovet/
-shop: Supermarkt
+shop: supermercado
 ---

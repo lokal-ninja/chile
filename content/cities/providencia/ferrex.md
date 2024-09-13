@@ -1,5 +1,5 @@
 ---
 title: "Ferrex"
 url: /providencia/ferrex/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

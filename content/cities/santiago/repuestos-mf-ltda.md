@@ -1,5 +1,5 @@
 ---
 title: "Repuestos MF Ltda."
 url: /santiago/repuestos-mf-ltda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

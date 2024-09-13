@@ -1,5 +1,5 @@
 ---
 title: "Ambient Lounge"
 url: /lo-barnechea/ambient-lounge/
-shop: Möbel
+shop: muebles
 ---

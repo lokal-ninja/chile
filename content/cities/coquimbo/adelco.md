@@ -1,5 +1,5 @@
 ---
 title: "Adelco"
 url: /coquimbo/adelco/
-shop: Supermarkt
+shop: supermercado
 ---

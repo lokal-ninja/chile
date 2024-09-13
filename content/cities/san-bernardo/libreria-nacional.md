@@ -1,5 +1,5 @@
 ---
 title: "Librería Nacional"
 url: /san-bernardo/libreria-nacional/
-shop: Bücher
+shop: libros
 ---

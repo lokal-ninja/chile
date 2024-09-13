@@ -1,5 +1,5 @@
 ---
 title: "Eltit"
 url: /pucon/eltit-bernardo-ohiggins/
-shop: Supermarkt
+shop: supermercado
 ---

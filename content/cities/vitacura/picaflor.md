@@ -1,5 +1,5 @@
 ---
 title: "Picaflor"
 url: /vitacura/picaflor/
-shop: Kleidung
+shop: ropa
 ---

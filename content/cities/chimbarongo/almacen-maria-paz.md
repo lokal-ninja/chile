@@ -1,5 +1,5 @@
 ---
 title: "Almacén María Paz"
 url: /chimbarongo/almacen-maria-paz/
-shop: Kramladen
+shop: tienda de variedades
 ---

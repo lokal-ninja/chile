@@ -1,5 +1,5 @@
 ---
 title: "VulcaCentro"
 url: /chimbarongo/vulcacentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

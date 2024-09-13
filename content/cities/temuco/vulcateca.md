@@ -1,5 +1,5 @@
 ---
 title: "Vulcateca"
 url: /temuco/vulcateca/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

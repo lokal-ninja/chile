@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /puente-alto/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

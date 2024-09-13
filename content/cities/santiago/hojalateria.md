@@ -1,5 +1,5 @@
 ---
 title: "Hojalatería"
 url: /santiago/hojalateria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vitel"
 url: /vitacura/vitel/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

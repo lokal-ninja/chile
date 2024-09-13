@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /la-serena/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

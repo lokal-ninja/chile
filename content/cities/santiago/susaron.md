@@ -1,5 +1,5 @@
 ---
 title: "Susaron"
 url: /santiago/susaron/
-shop: Metzgerei
+shop: carnicero
 ---

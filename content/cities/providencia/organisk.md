@@ -1,5 +1,5 @@
 ---
 title: "Organisk"
 url: /providencia/organisk/
-shop: Bioladen
+shop: alimentación sana
 ---

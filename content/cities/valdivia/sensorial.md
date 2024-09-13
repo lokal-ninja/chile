@@ -1,5 +1,5 @@
 ---
 title: "Sensorial"
 url: /valdivia/sensorial/
-shop: Tee
+shop: té
 ---

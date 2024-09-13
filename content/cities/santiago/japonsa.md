@@ -1,5 +1,5 @@
 ---
 title: "Japonsa"
 url: /santiago/japonsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

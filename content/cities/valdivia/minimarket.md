@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /valdivia/minimarket/
-shop: Lebensmittel
+shop: comodidad
 ---

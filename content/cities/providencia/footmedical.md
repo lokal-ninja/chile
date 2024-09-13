@@ -1,5 +1,5 @@
 ---
 title: "FootMedical"
 url: /providencia/footmedical/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

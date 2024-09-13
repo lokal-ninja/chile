@@ -1,5 +1,5 @@
 ---
 title: "Helico"
 url: /providencia/helico/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

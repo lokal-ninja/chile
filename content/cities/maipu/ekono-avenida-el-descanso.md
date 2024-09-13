@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /maipu/ekono-avenida-el-descanso/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers Factory Outlet"
 url: /nunoa/skechers-factory-outlet/
-shop: Schuhe
+shop: zapatos
 ---

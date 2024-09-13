@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /cerrillos/ikea/
-shop: Möbel
+shop: muebles
 ---

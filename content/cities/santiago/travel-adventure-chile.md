@@ -1,5 +1,5 @@
 ---
 title: "Travel Adventure Chile"
 url: /santiago/travel-adventure-chile/
-shop: Reisebüro
+shop: agencia de viajes
 ---

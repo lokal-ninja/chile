@@ -1,5 +1,5 @@
 ---
 title: "Emporio Gepetto"
 url: /capitan-pastene/emporio-gepetto/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /san-bernardo/entel-avenida-presidente-jorge-alessandri-rodriguez/
-shop: Handy
+shop: teléfono móvil
 ---

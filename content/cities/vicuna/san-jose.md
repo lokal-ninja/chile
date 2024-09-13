@@ -1,5 +1,5 @@
 ---
 title: "San José"
 url: /vicuna/san-jose/
-shop: Bestattungen
+shop: directores de funerarias
 ---

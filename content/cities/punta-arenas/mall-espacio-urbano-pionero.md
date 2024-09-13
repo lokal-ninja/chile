@@ -1,5 +1,5 @@
 ---
 title: "Mall Espacio Urbano Pionero"
 url: /punta-arenas/mall-espacio-urbano-pionero/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

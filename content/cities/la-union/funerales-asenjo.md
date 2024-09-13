@@ -1,5 +1,5 @@
 ---
 title: "Funerales Asenjo"
 url: /la-union/funerales-asenjo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

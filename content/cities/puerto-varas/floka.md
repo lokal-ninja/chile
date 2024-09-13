@@ -1,5 +1,5 @@
 ---
 title: "Floka"
 url: /puerto-varas/floka/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

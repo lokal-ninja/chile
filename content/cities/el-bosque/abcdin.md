@@ -1,5 +1,5 @@
 ---
 title: "ABCDIN"
 url: /el-bosque/abcdin/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

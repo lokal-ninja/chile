@@ -1,5 +1,5 @@
 ---
 title: "Koi Motos"
 url: /quilicura/koi-motos/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacen"
 url: /temuco/almacen/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comercial Schmidt"
 url: /nunoa/comercial-schmidt/
-shop: Allgemein
+shop: general
 ---

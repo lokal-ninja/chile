@@ -1,5 +1,5 @@
 ---
 title: "Prodalam"
 url: /valdivia/prodalam/
-shop: Eisenwaren
+shop: hardware
 ---

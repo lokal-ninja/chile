@@ -1,5 +1,5 @@
 ---
 title: "Silvia"
 url: /valdivia/silvia/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blanche"
 url: /providencia/blanche/
-shop: Kosmetik
+shop: cosméticos
 ---

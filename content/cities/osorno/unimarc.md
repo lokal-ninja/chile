@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /osorno/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

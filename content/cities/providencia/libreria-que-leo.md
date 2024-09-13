@@ -1,5 +1,5 @@
 ---
 title: "Librería Que Leo"
 url: /providencia/libreria-que-leo/
-shop: Bücher
+shop: libros
 ---

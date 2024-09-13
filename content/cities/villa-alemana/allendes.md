@@ -1,5 +1,5 @@
 ---
 title: "Allendes"
 url: /villa-alemana/allendes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

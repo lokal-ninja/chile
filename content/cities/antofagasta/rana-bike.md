@@ -1,5 +1,5 @@
 ---
 title: "Rana Bike"
 url: /antofagasta/rana-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

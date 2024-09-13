@@ -1,5 +1,5 @@
 ---
 title: "Power Cars"
 url: /santiago/power-cars/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /panguipulli/maicao/
-shop: Drogerie
+shop: farmacia
 ---

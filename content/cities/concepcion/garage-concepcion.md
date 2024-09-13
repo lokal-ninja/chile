@@ -1,5 +1,5 @@
 ---
 title: "Garage Concepción"
 url: /concepcion/garage-concepcion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

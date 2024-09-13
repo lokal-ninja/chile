@@ -1,5 +1,5 @@
 ---
 title: "ABCDIN"
 url: /nueva-imperial/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

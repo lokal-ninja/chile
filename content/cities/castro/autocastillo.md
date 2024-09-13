@@ -1,5 +1,5 @@
 ---
 title: "AutoCastillo"
 url: /castro/autocastillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

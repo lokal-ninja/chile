@@ -1,5 +1,5 @@
 ---
 title: "Calzados Balagna"
 url: /chimbarongo/calzados-balagna/
-shop: Schuhe
+shop: zapatos
 ---

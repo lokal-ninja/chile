@@ -1,5 +1,5 @@
 ---
 title: "Indra"
 url: /la-florida/indra/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truly Nolen"
 url: /antofagasta/truly-nolen/
-shop: Schädlingsbekämpfung
+shop: control de plagas
 ---

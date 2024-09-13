@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /vina-del-mar/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

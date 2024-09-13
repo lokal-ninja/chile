@@ -1,5 +1,5 @@
 ---
 title: "Liquimax"
 url: /vina-del-mar/liquimax/
-shop: Drogerie
+shop: farmacia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /arica/lider/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretek Bilbao"
 url: /las-condes/ferretek-bilbao/
-shop: Eisenwaren
+shop: hardware
 ---

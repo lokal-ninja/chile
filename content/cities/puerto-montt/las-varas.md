@@ -1,5 +1,5 @@
 ---
 title: "Las Varas"
 url: /puerto-montt/las-varas/
-shop: Bäckerei
+shop: panadería
 ---

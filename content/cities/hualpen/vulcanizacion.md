@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /hualpen/vulcanizacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

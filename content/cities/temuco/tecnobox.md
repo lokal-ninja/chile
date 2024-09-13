@@ -1,5 +1,5 @@
 ---
 title: "Tecnobox"
 url: /temuco/tecnobox/
-shop: Computer
+shop: ordenador
 ---

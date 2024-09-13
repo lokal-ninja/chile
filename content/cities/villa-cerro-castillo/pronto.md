@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
 url: /villa-cerro-castillo/pronto/
-shop: Lebensmittel
+shop: comodidad
 ---

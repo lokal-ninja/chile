@@ -1,5 +1,5 @@
 ---
 title: "Jei-Jei"
 url: /providencia/jei-jei/
-shop: Lebensmittel
+shop: comodidad
 ---

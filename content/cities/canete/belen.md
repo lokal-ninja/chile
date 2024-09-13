@@ -1,5 +1,5 @@
 ---
 title: "Belén"
 url: /canete/belen/
-shop: Hofladen
+shop: granja
 ---

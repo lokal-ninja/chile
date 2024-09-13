@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /estacion-central/ekono/
-shop: Supermarkt
+shop: supermercado
 ---

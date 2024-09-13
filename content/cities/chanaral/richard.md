@@ -1,5 +1,5 @@
 ---
 title: "Richard"
 url: /chanaral/richard/
-shop: Kleidung
+shop: ropa
 ---

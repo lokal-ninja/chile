@@ -1,5 +1,5 @@
 ---
 title: "Mall Vivo El Centro"
 url: /santiago/mall-vivo-el-centro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

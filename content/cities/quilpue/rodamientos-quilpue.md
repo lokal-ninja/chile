@@ -1,5 +1,5 @@
 ---
 title: "Rodamientos Quilpué"
 url: /quilpue/rodamientos-quilpue/
-shop: Autoteile
+shop: piezas de automóviles
 ---

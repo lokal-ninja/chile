@@ -1,5 +1,5 @@
 ---
 title: "Duck Market"
 url: /temuco/duck-market/
-shop: Supermarkt
+shop: supermercado
 ---

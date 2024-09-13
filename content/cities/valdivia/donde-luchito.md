@@ -1,5 +1,5 @@
 ---
 title: "Donde Luchito"
 url: /valdivia/donde-luchito/
-shop: Eisenwaren
+shop: hardware
 ---

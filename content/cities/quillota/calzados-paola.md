@@ -1,5 +1,5 @@
 ---
 title: "Calzados Paola"
 url: /quillota/calzados-paola/
-shop: Schuhe
+shop: zapatos
 ---

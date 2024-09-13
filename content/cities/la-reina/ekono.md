@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /la-reina/ekono/
-shop: Supermarkt
+shop: supermercado
 ---

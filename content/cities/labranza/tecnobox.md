@@ -1,5 +1,5 @@
 ---
 title: "Tecnobox"
 url: /labranza/tecnobox/
-shop: Handy
+shop: teléfono móvil
 ---

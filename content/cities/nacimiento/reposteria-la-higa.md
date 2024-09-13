@@ -1,5 +1,5 @@
 ---
 title: "Repostería La Higa"
 url: /nacimiento/reposteria-la-higa/
-shop: Konditorei
+shop: pastelería
 ---

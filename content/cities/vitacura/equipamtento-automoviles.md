@@ -1,5 +1,5 @@
 ---
 title: "Equipamtento Automoviles"
 url: /vitacura/equipamtento-automoviles/
-shop: Autoteile
+shop: piezas de automóviles
 ---

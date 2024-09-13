@@ -1,5 +1,5 @@
 ---
 title: "Rincon la Negra"
 url: /vitacura/rincon-la-negra/
-shop: Kleidung
+shop: ropa
 ---

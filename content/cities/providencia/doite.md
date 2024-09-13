@@ -1,5 +1,5 @@
 ---
 title: "Doite"
 url: /providencia/doite/
-shop: Outdoor
+shop: exterior
 ---

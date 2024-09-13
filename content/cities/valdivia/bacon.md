@@ -1,5 +1,5 @@
 ---
 title: "Bacon"
 url: /valdivia/bacon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

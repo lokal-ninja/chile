@@ -1,5 +1,5 @@
 ---
 title: "Desarmaduría San Martín"
 url: /quilpue/desarmaduria-san-martin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

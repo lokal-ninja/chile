@@ -1,5 +1,5 @@
 ---
 title: "REY muebleria"
 url: /quillota/rey-muebleria/
-shop: Möbel
+shop: muebles
 ---

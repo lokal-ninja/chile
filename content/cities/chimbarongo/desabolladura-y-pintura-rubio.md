@@ -1,5 +1,5 @@
 ---
 title: "Desabolladura y pintura Rubio"
 url: /chimbarongo/desabolladura-y-pintura-rubio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

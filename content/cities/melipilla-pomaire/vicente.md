@@ -1,5 +1,5 @@
 ---
 title: "Vicente"
 url: /melipilla-pomaire/vicente/
-shop: Töpferei
+shop: cerámica
 ---

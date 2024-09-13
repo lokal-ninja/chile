@@ -1,5 +1,5 @@
 ---
 title: "Ostras Chiloe"
 url: /lo-barnechea/ostras-chiloe/
-shop: Fisch
+shop: marisco
 ---

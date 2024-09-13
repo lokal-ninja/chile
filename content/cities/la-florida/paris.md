@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /la-florida/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pucón Aventura"
 url: /pucon/pucon-aventura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazhars"
 url: /vitacura/bazhars/
-shop: Allgemein
+shop: general
 ---

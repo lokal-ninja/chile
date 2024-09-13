@@ -1,5 +1,5 @@
 ---
 title: "Pernos"
 url: /valdivia/pernos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

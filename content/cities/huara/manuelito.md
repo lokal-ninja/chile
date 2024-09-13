@@ -1,5 +1,5 @@
 ---
 title: "Manuelito"
 url: /huara/manuelito/
-shop: Kramladen
+shop: tienda de variedades
 ---

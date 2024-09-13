@@ -1,5 +1,5 @@
 ---
 title: "Varsovienne"
 url: /las-condes/varsovienne/
-shop: Schokolade
+shop: chocolate
 ---

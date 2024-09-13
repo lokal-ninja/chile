@@ -1,5 +1,5 @@
 ---
 title: "ABCDin"
 url: /coyhaique/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

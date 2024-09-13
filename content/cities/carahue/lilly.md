@@ -1,5 +1,5 @@
 ---
 title: "Lilly"
 url: /carahue/lilly/
-shop: Supermarkt
+shop: supermercado
 ---

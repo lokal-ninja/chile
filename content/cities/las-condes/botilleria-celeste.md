@@ -1,5 +1,5 @@
 ---
 title: "Botilleria Celeste"
 url: /las-condes/botilleria-celeste/
-shop: Spirituosen
+shop: alcohol
 ---

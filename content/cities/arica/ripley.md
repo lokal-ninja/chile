@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /arica/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

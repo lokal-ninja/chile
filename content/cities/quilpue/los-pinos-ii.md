@@ -1,5 +1,5 @@
 ---
 title: "Los Pinos II"
 url: /quilpue/los-pinos-ii/
-shop: Bäckerei
+shop: panadería
 ---

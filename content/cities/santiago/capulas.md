@@ -1,5 +1,5 @@
 ---
 title: "Capulas"
 url: /santiago/capulas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

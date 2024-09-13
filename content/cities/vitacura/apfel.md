@@ -1,5 +1,5 @@
 ---
 title: "Apfel"
 url: /vitacura/apfel/
-shop: Kleidung
+shop: ropa
 ---

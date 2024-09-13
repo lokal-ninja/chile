@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Tenten"
 url: /maullin/ferreteria-tenten/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

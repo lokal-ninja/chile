@@ -1,5 +1,5 @@
 ---
 title: "Feltrex"
 url: /lo-barnechea/feltrex/
-shop: Jalousien
+shop: persianas
 ---

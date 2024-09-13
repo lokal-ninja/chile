@@ -1,5 +1,5 @@
 ---
 title: "Navimag"
 url: /puerto-montt/navimag/
-shop: Reisebüro
+shop: agencia de viajes
 ---

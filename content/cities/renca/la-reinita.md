@@ -1,5 +1,5 @@
 ---
 title: "La Reinita"
 url: /renca/la-reinita/
-shop: Metzgerei
+shop: carnicero
 ---

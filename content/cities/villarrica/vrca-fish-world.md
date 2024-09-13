@@ -1,5 +1,5 @@
 ---
 title: "Vrca fish world"
 url: /villarrica/vrca-fish-world/
-shop: Tiere
+shop: mascotas
 ---

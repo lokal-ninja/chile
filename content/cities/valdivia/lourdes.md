@@ -1,5 +1,5 @@
 ---
 title: "Lourdes"
 url: /valdivia/lourdes/
-shop: Kramladen
+shop: tienda de variedades
 ---

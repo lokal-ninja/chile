@@ -1,5 +1,5 @@
 ---
 title: "Comapa"
 url: /punta-arenas/comapa/
-shop: Reisebüro
+shop: agencia de viajes
 ---

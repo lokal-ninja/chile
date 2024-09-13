@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /iquique/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castaño"
 url: /las-condes/castano-renato-sanchez/
-shop: Bäckerei
+shop: panadería
 ---

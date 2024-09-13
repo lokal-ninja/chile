@@ -1,5 +1,5 @@
 ---
 title: "Potros"
 url: /valparaiso/potros/
-shop: Kleidung
+shop: ropa
 ---

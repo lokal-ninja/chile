@@ -1,5 +1,5 @@
 ---
 title: "Cordoneria Miel"
 url: /los-lagos/cordoneria-miel/
-shop: Textil
+shop: tela
 ---

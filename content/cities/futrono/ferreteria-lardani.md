@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Lardani"
 url: /futrono/ferreteria-lardani/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

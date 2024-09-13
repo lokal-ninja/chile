@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /penalolen/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

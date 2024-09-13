@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Melipil"
 url: /freire/supermercado-melipil/
-shop: Lebensmittel
+shop: comodidad
 ---

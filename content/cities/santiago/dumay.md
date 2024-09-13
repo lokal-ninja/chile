@@ -1,5 +1,5 @@
 ---
 title: "Dumay"
 url: /santiago/dumay/
-shop: Autohaus
+shop: coche
 ---

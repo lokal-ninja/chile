@@ -1,5 +1,5 @@
 ---
 title: "Colloky"
 url: /valdivia/colloky/
-shop: Babysachen
+shop: artículos para bebés
 ---

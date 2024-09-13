@@ -1,5 +1,5 @@
 ---
 title: "Prontomatic"
 url: /providencia/prontomatic-avenida-el-bosque/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /la-union/entel/
-shop: Handy
+shop: teléfono móvil
 ---

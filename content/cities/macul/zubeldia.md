@@ -1,5 +1,5 @@
 ---
 title: "Zubeldia"
 url: /macul/zubeldia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

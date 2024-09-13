@@ -1,5 +1,5 @@
 ---
 title: "Keka"
 url: /recoleta/keka/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vigfor"
 url: /vina-del-mar/vigfor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

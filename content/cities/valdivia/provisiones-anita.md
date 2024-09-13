@@ -1,5 +1,5 @@
 ---
 title: "Provisiones Anita"
 url: /valdivia/provisiones-anita/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Locales comerciales"
 url: /valdivia/locales-comerciales/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bunnys"
 url: /providencia/bunnys/
-shop: Allgemein
+shop: general
 ---

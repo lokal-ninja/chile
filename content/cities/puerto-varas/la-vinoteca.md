@@ -1,5 +1,5 @@
 ---
 title: "La Vinoteca"
 url: /puerto-varas/la-vinoteca/
-shop: Spirituosen
+shop: alcohol
 ---

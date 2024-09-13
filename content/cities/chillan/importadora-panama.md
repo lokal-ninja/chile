@@ -1,5 +1,5 @@
 ---
 title: "Importadora Panamá"
 url: /chillan/importadora-panama/
-shop: Kramladen
+shop: tienda de variedades
 ---

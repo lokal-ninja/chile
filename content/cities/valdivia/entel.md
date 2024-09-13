@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /valdivia/entel/
-shop: Handy
+shop: teléfono móvil
 ---

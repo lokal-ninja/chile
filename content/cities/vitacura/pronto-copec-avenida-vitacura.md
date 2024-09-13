@@ -1,5 +1,5 @@
 ---
 title: "Pronto Copec"
 url: /vitacura/pronto-copec-avenida-vitacura/
-shop: Lebensmittel
+shop: comodidad
 ---

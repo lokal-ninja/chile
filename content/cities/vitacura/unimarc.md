@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /vitacura/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

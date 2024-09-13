@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /illapel/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

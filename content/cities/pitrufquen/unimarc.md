@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /pitrufquen/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stuard"
 url: /temuco/stuard/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Upa!"
 url: /vitacura/upa/
-shop: Lebensmittel
+shop: comodidad
 ---

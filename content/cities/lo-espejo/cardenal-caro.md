@@ -1,5 +1,5 @@
 ---
 title: "Cardenal Caro"
 url: /lo-espejo/cardenal-caro/
-shop: Bäckerei
+shop: panadería
 ---

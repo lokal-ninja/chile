@@ -1,5 +1,5 @@
 ---
 title: "Centro China"
 url: /quillota/centro-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

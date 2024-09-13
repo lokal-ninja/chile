@@ -1,5 +1,5 @@
 ---
 title: "Gimport"
 url: /santiago/gimport/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Freire"
 url: /quillota/panaderia-freire/
-shop: Bäckerei
+shop: panadería
 ---

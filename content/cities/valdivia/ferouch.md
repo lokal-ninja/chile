@@ -1,5 +1,5 @@
 ---
 title: "Ferouch"
 url: /valdivia/ferouch/
-shop: Kleidung
+shop: ropa
 ---

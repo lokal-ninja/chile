@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
 url: /santiago/cerrajeria/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

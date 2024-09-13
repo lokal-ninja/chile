@@ -1,5 +1,5 @@
 ---
 title: "Jamm"
 url: /las-hortencias/jamm/
-shop: Supermarkt
+shop: supermercado
 ---

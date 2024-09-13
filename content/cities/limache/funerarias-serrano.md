@@ -1,5 +1,5 @@
 ---
 title: "Funerarias Serrano"
 url: /limache/funerarias-serrano/
-shop: Bestattungen
+shop: directores de funerarias
 ---

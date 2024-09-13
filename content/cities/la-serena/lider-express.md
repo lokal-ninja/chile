@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /la-serena/lider-express/
-shop: Supermarkt
+shop: supermercado
 ---

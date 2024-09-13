@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Ederich"
 url: /macul/lubricentro-ederich/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

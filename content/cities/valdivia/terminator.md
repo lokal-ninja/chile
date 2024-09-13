@@ -1,5 +1,5 @@
 ---
 title: "Terminator"
 url: /valdivia/terminator/
-shop: Videospiele
+shop: videojuegos
 ---

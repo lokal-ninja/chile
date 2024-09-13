@@ -1,5 +1,5 @@
 ---
 title: "Poveda"
 url: /limache/poveda/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /ushuaia/hyundai/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recasur"
 url: /punta-arenas/recasur/
-shop: Autoteile
+shop: piezas de automóviles
 ---

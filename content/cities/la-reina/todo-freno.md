@@ -1,5 +1,5 @@
 ---
 title: "Todo Freno"
 url: /la-reina/todo-freno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

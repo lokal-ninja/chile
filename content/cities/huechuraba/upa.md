@@ -1,5 +1,5 @@
 ---
 title: "Upa!"
 url: /huechuraba/upa/
-shop: Lebensmittel
+shop: comodidad
 ---

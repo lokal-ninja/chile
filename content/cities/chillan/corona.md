@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /chillan/corona/
-shop: Warenhaus
+shop: grandes almacenes
 ---

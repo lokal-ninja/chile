@@ -1,5 +1,5 @@
 ---
 title: "MUÑOZ Y MUÑOZ"
 url: /lo-prado/munoz-y-munoz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

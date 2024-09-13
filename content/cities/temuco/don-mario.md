@@ -1,5 +1,5 @@
 ---
 title: "Don Mario"
 url: /temuco/don-mario/
-shop: Supermarkt
+shop: supermercado
 ---

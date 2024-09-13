@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /quilpue/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

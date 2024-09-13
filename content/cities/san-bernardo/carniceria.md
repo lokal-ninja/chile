@@ -1,5 +1,5 @@
 ---
 title: "Carniceria"
 url: /san-bernardo/carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tacotronix"
 url: /concepcion/tacotronix-tucapel/
-shop: Computer
+shop: ordenador
 ---

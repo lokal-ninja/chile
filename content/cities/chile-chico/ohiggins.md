@@ -1,5 +1,5 @@
 ---
 title: "O'Higgins"
 url: /chile-chico/ohiggins/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aurus"
 url: /santiago/aurus/
-shop: Allgemein
+shop: general
 ---

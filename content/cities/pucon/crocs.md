@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /pucon/crocs/
-shop: Kleidung
+shop: ropa
 ---

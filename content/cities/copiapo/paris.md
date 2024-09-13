@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /copiapo/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

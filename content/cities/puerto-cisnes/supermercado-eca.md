@@ -1,5 +1,5 @@
 ---
 title: "Supermercado ECA"
 url: /puerto-cisnes/supermercado-eca/
-shop: Supermarkt
+shop: supermercado
 ---

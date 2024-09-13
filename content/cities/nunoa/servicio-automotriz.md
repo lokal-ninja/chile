@@ -1,5 +1,5 @@
 ---
 title: "Servicio Automotriz"
 url: /nunoa/servicio-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabellos de Lujo"
 url: /quilpue/cabellos-de-lujo/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvi"
 url: /quilicura/alvi/
-shop: Supermarkt
+shop: supermercado
 ---

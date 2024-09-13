@@ -1,5 +1,5 @@
 ---
 title: "Baratillo"
 url: /puren/baratillo/
-shop: Supermarkt
+shop: supermercado
 ---

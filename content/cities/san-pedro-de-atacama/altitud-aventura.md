@@ -1,5 +1,5 @@
 ---
 title: "Altitud Aventura"
 url: /san-pedro-de-atacama/altitud-aventura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

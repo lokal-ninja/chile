@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Dallas"
 url: /corte-alto/supermercado-dallas/
-shop: Supermarkt
+shop: supermercado
 ---

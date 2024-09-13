@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Embrague"
 url: /providencia/la-casa-del-embrague/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

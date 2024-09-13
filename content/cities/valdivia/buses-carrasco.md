@@ -1,5 +1,5 @@
 ---
 title: "Buses Carrasco"
 url: /valdivia/buses-carrasco/
-shop: Tickets
+shop: entradas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Station Electronics"
 url: /quilpue/dstation-electronics/
-shop: Radiotechnik
+shop: radiotecnia
 ---

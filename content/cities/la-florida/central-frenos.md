@@ -1,5 +1,5 @@
 ---
 title: "Central Frenos"
 url: /la-florida/central-frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

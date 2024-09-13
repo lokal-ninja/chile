@@ -1,5 +1,5 @@
 ---
 title: "Mall Plaza del Sol"
 url: /quilpue/mall-plaza-del-sol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

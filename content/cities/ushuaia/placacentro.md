@@ -1,5 +1,5 @@
 ---
 title: "Placacentro"
 url: /ushuaia/placacentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

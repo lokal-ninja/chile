@@ -1,5 +1,5 @@
 ---
 title: "BYF"
 url: /santiago/byf/
-shop: Autoteile
+shop: piezas de automóviles
 ---

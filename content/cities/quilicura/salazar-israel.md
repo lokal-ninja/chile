@@ -1,5 +1,5 @@
 ---
 title: "Salazar Israel"
 url: /quilicura/salazar-israel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

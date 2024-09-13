@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /san-bernardo/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PC Factory"
 url: /santiago/pc-factory/
-shop: Computer
+shop: ordenador
 ---

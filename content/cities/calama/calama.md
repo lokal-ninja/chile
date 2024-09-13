@@ -1,5 +1,5 @@
 ---
 title: "Calama"
 url: /calama/calama/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

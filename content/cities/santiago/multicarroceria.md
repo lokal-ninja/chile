@@ -1,5 +1,5 @@
 ---
 title: "Multicarroceria"
 url: /santiago/multicarroceria/
-shop: Autoteile
+shop: piezas de automóviles
 ---

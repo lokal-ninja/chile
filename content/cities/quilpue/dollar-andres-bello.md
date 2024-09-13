@@ -1,5 +1,5 @@
 ---
 title: "Dollar"
 url: /quilpue/dollar-andres-bello/
-shop: Kramladen
+shop: tienda de variedades
 ---

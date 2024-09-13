@@ -1,5 +1,5 @@
 ---
 title: "Sportlife"
 url: /lo-barnechea/sportlife/
-shop: Sport
+shop: deportes
 ---

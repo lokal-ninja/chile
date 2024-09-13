@@ -1,5 +1,5 @@
 ---
 title: "Gaes"
 url: /quilpue/gaes/
-shop: Hörgeräte
+shop: audífonos
 ---

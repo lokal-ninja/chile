@@ -1,5 +1,5 @@
 ---
 title: "Lider"
 url: /penablanca/lider/
-shop: Supermarkt
+shop: supermercado
 ---

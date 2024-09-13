@@ -1,5 +1,5 @@
 ---
 title: "Desarmaduria Betty"
 url: /santiago/desarmaduria-betty/
-shop: Autoteile
+shop: piezas de automóviles
 ---

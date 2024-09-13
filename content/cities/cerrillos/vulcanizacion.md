@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizacion"
 url: /cerrillos/vulcanizacion/
-shop: Allgemein
+shop: general
 ---

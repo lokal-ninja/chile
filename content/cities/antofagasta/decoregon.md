@@ -1,5 +1,5 @@
 ---
 title: "Decoregón"
 url: /antofagasta/decoregon/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sermaco"
 url: /providencia/sermaco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

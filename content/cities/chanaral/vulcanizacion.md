@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /chanaral/vulcanizacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

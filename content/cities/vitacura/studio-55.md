@@ -1,5 +1,5 @@
 ---
 title: "Studio 55"
 url: /vitacura/studio-55/
-shop: Kleidung
+shop: ropa
 ---

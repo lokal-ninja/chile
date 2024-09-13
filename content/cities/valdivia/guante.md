@@ -1,5 +1,5 @@
 ---
 title: "Guante"
 url: /valdivia/guante/
-shop: Schuhe
+shop: zapatos
 ---

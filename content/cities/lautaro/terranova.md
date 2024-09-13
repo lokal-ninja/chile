@@ -1,5 +1,5 @@
 ---
 title: "Terranova"
 url: /lautaro/terranova/
-shop: Supermarkt
+shop: supermercado
 ---

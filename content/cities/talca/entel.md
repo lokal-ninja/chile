@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /talca/entel/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /huechuraba/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

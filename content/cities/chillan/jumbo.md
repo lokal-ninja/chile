@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /chillan/jumbo/
-shop: Supermarkt
+shop: supermercado
 ---

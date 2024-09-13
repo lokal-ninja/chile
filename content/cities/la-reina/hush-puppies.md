@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /la-reina/hush-puppies/
-shop: Schuhe
+shop: zapatos
 ---

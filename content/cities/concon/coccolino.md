@@ -1,5 +1,5 @@
 ---
 title: "Coccolino"
 url: /concon/coccolino/
-shop: Bäckerei
+shop: panadería
 ---

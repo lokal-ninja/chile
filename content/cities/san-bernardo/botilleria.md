@@ -1,5 +1,5 @@
 ---
 title: "Botilleria"
 url: /san-bernardo/botilleria/
-shop: Spirituosen
+shop: alcohol
 ---

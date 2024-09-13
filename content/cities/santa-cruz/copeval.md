@@ -1,5 +1,5 @@
 ---
 title: "Copeval"
 url: /santa-cruz/copeval/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

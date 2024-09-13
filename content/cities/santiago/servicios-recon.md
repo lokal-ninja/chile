@@ -1,5 +1,5 @@
 ---
 title: "Servicios Recon"
 url: /santiago/servicios-recon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

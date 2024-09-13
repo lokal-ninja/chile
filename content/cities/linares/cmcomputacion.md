@@ -1,5 +1,5 @@
 ---
 title: "CMCOMPUTACION"
 url: /linares/cmcomputacion/
-shop: Lebensmittel
+shop: comodidad
 ---

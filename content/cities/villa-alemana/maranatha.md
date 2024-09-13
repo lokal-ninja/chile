@@ -1,5 +1,5 @@
 ---
 title: "Maranatha"
 url: /villa-alemana/maranatha/
-shop: Schreibwaren
+shop: material de oficina
 ---

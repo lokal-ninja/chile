@@ -1,5 +1,5 @@
 ---
 title: "ABCDin"
 url: /linares/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

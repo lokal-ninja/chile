@@ -1,5 +1,5 @@
 ---
 title: "Lan"
 url: /puerto-varas/lan/
-shop: Reisebüro
+shop: agencia de viajes
 ---

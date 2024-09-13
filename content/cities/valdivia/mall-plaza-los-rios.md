@@ -1,5 +1,5 @@
 ---
 title: "Mall Plaza Los Ríos"
 url: /valdivia/mall-plaza-los-rios/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

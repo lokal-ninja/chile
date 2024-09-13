@@ -1,5 +1,5 @@
 ---
 title: "Sotavento"
 url: /puerto-varas/sotavento/
-shop: Bücher
+shop: libros
 ---

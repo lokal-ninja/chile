@@ -1,5 +1,5 @@
 ---
 title: "Casa Imperial"
 url: /san-bernardo/casa-imperial/
-shop: Allgemein
+shop: general
 ---

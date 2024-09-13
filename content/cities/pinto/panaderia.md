@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /pinto/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

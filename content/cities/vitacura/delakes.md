@@ -1,5 +1,5 @@
 ---
 title: "Delakes"
 url: /vitacura/delakes/
-shop: Fisch
+shop: marisco
 ---

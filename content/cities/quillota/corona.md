@@ -1,5 +1,5 @@
 ---
 title: "Corona"
 url: /quillota/corona/
-shop: Warenhaus
+shop: grandes almacenes
 ---

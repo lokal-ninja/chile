@@ -1,5 +1,5 @@
 ---
 title: "Carnes Raul"
 url: /la-pintana/carnes-raul/
-shop: Metzgerei
+shop: carnicero
 ---

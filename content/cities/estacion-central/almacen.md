@@ -1,5 +1,5 @@
 ---
-title: "Almacén"
+title: "Almacen"
 url: /estacion-central/almacen/
-shop: Lebensmittel
+shop: comodidad
 ---

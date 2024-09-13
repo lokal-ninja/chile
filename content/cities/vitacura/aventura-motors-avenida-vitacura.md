@@ -1,5 +1,5 @@
 ---
 title: "Aventura Motors"
 url: /vitacura/aventura-motors-avenida-vitacura/
-shop: Autohaus
+shop: coche
 ---

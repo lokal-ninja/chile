@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /temuco/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

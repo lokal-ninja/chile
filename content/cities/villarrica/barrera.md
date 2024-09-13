@@ -1,5 +1,5 @@
 ---
 title: "Barrera"
 url: /villarrica/barrera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

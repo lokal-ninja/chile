@@ -1,5 +1,5 @@
 ---
 title: "Cugat"
 url: /puerto-montt/cugat/
-shop: Supermarkt
+shop: supermercado
 ---

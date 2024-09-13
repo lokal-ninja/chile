@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /providencia/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

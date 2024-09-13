@@ -1,5 +1,5 @@
 ---
 title: "Amasandería San Lucas"
 url: /antofagasta/amasanderia-san-lucas/
-shop: Lebensmittel
+shop: comodidad
 ---

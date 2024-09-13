@@ -1,5 +1,5 @@
 ---
 title: "Chile Neumáticos"
 url: /nunoa/chile-neumaticos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

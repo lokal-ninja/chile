@@ -1,5 +1,5 @@
 ---
 title: "CasaIdeas"
 url: /providencia/casaideas/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ivan"
 url: /quilpue/ivan/
-shop: Friseur
+shop: peluquería
 ---

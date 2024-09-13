@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /maipu/toyota/
-shop: Autohaus
+shop: coche
 ---

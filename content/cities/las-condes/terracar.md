@@ -1,5 +1,5 @@
 ---
 title: "Terracar"
 url: /las-condes/terracar/
-shop: Autohaus
+shop: coche
 ---

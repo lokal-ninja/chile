@@ -1,5 +1,5 @@
 ---
 title: "Panadería Noble Pan"
 url: /hualpen/panaderia-noble-pan/
-shop: Bäckerei
+shop: panadería
 ---

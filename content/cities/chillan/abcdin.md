@@ -1,5 +1,5 @@
 ---
 title: "Abcdin"
 url: /chillan/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

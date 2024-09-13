@@ -1,5 +1,5 @@
 ---
 title: "Maui"
 url: /arica/maui/
-shop: Kleidung
+shop: ropa
 ---

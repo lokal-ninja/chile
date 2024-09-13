@@ -1,5 +1,5 @@
 ---
 title: "Orquidea"
 url: /lo-barnechea/orquidea/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gatonni"
 url: /papudo/gatonni/
-shop: Eisenwaren
+shop: hardware
 ---

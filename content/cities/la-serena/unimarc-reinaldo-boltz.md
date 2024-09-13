@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /la-serena/unimarc-reinaldo-boltz/
-shop: Supermarkt
+shop: supermercado
 ---

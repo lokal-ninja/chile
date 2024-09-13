@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /vitacura/barbour/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Petaca"
 url: /santiago/la-petaca/
-shop: Spirituosen
+shop: alcohol
 ---

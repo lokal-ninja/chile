@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Unimarc"
 url: /puerto-montt/supermercado-unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

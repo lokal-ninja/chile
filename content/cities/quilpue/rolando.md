@@ -1,5 +1,5 @@
 ---
 title: "Rolando"
 url: /quilpue/rolando/
-shop: Metzgerei
+shop: carnicero
 ---

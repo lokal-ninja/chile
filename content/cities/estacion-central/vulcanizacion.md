@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /estacion-central/vulcanizacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

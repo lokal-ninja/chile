@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth"
 url: /maipu/elizabeth/
-shop: Friseur
+shop: peluquería
 ---

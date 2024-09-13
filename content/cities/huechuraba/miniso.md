@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /huechuraba/miniso/
-shop: Kramladen
+shop: tienda de variedades
 ---

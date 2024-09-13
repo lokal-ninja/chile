@@ -1,5 +1,5 @@
 ---
 title: "Servicio Automotriz EDV"
 url: /temuco/servicio-automotriz-edv/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

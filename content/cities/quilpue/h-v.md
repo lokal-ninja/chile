@@ -1,5 +1,5 @@
 ---
 title: "H.V."
 url: /quilpue/h-v/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

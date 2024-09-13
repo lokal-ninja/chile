@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /ushuaia/samsung/
-shop: Elektronik
+shop: electrónica
 ---

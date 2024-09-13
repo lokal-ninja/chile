@@ -1,5 +1,5 @@
 ---
 title: "Coagra"
 url: /puerto-varas/coagra/
-shop: Landwirtschaftlich
+shop: agraria
 ---

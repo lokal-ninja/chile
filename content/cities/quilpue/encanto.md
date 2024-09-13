@@ -1,5 +1,5 @@
 ---
 title: "Encanto"
 url: /quilpue/encanto/
-shop: Kramladen
+shop: tienda de variedades
 ---

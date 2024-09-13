@@ -1,5 +1,5 @@
 ---
 title: "EmilioBustamante"
 url: /la-reina/emiliobustamante/
-shop: Friseur
+shop: peluquería
 ---

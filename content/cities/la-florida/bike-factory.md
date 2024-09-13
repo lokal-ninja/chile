@@ -1,5 +1,5 @@
 ---
 title: "Bike Factory"
 url: /la-florida/bike-factory/
-shop: Fahrrad
+shop: bicicleta
 ---

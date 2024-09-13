@@ -1,5 +1,5 @@
 ---
 title: "Autobahn"
 url: /nunoa/autobahn/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

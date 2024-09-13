@@ -1,5 +1,5 @@
 ---
 title: "Abcdin"
 url: /concepcion/abcdin/
-shop: Warenhaus
+shop: grandes almacenes
 ---

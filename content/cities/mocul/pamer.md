@@ -1,5 +1,5 @@
 ---
 title: "Pamer"
 url: /mocul/pamer/
-shop: Allgemein
+shop: general
 ---

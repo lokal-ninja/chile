@@ -1,5 +1,5 @@
 ---
 title: "Trento"
 url: /santiago/trento/
-shop: Optiker
+shop: óptico
 ---

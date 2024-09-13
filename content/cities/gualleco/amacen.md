@@ -1,5 +1,5 @@
 ---
 title: "Amacén"
 url: /gualleco/amacen/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Tecnimag"
 url: /dalcahue/repuestos-tecnimag/
-shop: Autoteile
+shop: piezas de automóviles
 ---

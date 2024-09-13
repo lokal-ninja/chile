@@ -1,5 +1,5 @@
 ---
 title: "Herramientas Mirasol"
 url: /llolleo/herramientas-mirasol/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

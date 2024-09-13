@@ -1,5 +1,5 @@
 ---
 title: "Autojam"
 url: /macul/autojam/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

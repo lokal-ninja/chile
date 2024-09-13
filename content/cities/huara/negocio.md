@@ -1,5 +1,5 @@
 ---
 title: "Negocio"
 url: /huara/negocio/
-shop: Supermarkt
+shop: supermercado
 ---

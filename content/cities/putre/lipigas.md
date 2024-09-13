@@ -1,5 +1,5 @@
 ---
 title: "LIpigas"
 url: /putre/lipigas/
-shop: Gasflaschen
+shop: gas
 ---

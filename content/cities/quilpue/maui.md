@@ -1,5 +1,5 @@
 ---
 title: "Maui"
 url: /quilpue/maui/
-shop: Kleidung
+shop: ropa
 ---

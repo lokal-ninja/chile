@@ -1,5 +1,5 @@
 ---
 title: "Pindex"
 url: /penablanca/pindex/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

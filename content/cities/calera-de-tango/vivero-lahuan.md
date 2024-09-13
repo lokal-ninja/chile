@@ -1,5 +1,5 @@
 ---
 title: "Vivero Lahuan"
 url: /calera-de-tango/vivero-lahuan/
-shop: Garten-Center
+shop: centro de jardinería
 ---

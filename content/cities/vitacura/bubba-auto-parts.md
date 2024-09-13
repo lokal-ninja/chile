@@ -1,5 +1,5 @@
 ---
 title: "Bubba Auto Parts"
 url: /vitacura/bubba-auto-parts/
-shop: Autohaus
+shop: coche
 ---

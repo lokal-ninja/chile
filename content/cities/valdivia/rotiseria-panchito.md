@@ -1,5 +1,5 @@
 ---
 title: "Rotisería Panchito"
 url: /valdivia/rotiseria-panchito/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /quilpue/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

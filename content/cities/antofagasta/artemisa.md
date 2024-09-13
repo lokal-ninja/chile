@@ -1,5 +1,5 @@
 ---
 title: "Artemisa"
 url: /antofagasta/artemisa/
-shop: Schreibwaren
+shop: material de oficina
 ---

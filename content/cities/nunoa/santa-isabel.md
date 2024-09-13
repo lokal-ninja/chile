@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /nunoa/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

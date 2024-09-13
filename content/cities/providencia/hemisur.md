@@ -1,5 +1,5 @@
 ---
 title: "Hemisur"
 url: /providencia/hemisur/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

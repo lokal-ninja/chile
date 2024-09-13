@@ -1,5 +1,5 @@
 ---
 title: "Big Player"
 url: /santiago/big-player/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos sla"
 url: /santiago/repuestos-sla/
-shop: Autoteile
+shop: piezas de automóviles
 ---

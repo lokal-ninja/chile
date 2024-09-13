@@ -1,5 +1,5 @@
 ---
 title: "Sanitarios Copiapó"
 url: /santiago/sanitarios-copiapo/
-shop: Allgemein
+shop: general
 ---

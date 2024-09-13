@@ -1,5 +1,5 @@
 ---
 title: "Starrental"
 url: /nunoa/starrental/
-shop: Reisebüro
+shop: agencia de viajes
 ---

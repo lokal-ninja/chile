@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria FAMA"
 url: /punta-arenas/ferreteria-fama/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

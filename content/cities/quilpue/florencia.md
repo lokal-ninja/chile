@@ -1,5 +1,5 @@
 ---
 title: "Florencia"
 url: /quilpue/florencia/
-shop: Raumausstattung
+shop: decoración interior
 ---

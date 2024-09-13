@@ -1,5 +1,5 @@
 ---
 title: "Umara"
 url: /vitacura/umara/
-shop: Kosmetik
+shop: cosméticos
 ---

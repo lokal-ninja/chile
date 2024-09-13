@@ -1,5 +1,5 @@
 ---
 title: "LoFLORi"
 url: /la-reina/loflori/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

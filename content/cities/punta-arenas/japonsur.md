@@ -1,5 +1,5 @@
 ---
 title: "Japonsur"
 url: /punta-arenas/japonsur/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

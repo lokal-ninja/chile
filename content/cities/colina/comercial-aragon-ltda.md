@@ -1,5 +1,5 @@
 ---
 title: "Comercial Aragón Ltda"
 url: /colina/comercial-aragon-ltda/
-shop: Baustoffe
+shop: comercio
 ---

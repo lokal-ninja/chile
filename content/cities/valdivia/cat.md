@@ -1,5 +1,5 @@
 ---
 title: "CAT"
 url: /valdivia/cat/
-shop: Kleidung
+shop: ropa
 ---

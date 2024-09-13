@@ -1,5 +1,5 @@
 ---
 title: "Pistachos"
 url: /quilpue/pistachos/
-shop: Lebensmittel
+shop: comodidad
 ---

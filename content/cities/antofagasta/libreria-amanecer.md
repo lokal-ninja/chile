@@ -1,5 +1,5 @@
 ---
 title: "Librería Amanecer"
 url: /antofagasta/libreria-amanecer/
-shop: Schreibwaren
+shop: material de oficina
 ---

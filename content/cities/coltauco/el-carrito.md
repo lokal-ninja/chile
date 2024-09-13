@@ -1,5 +1,5 @@
 ---
 title: "El Carrito"
 url: /coltauco/el-carrito/
-shop: Kiosk
+shop: quiosco
 ---

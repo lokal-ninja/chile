@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /las-condes/santa-isabel-avenida-apoquindo/
-shop: Supermarkt
+shop: supermercado
 ---

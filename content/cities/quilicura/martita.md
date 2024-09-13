@@ -1,5 +1,5 @@
 ---
 title: "Martita"
 url: /quilicura/martita/
-shop: Lebensmittel
+shop: comodidad
 ---

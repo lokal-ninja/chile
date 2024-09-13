@@ -1,5 +1,5 @@
 ---
 title: "Fernapet"
 url: /concepcion/fernapet/
-shop: Allgemein
+shop: general
 ---

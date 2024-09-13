@@ -1,5 +1,5 @@
 ---
 title: "Paseo del Fuego Shopping Center"
 url: /ushuaia/paseo-del-fuego-shopping-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

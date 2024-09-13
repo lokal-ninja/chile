@@ -1,5 +1,5 @@
 ---
 title: "Panadería El León"
 url: /villarrica/panaderia-el-leon/
-shop: Bäckerei
+shop: panadería
 ---

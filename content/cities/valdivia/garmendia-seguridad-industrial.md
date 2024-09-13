@@ -1,5 +1,5 @@
 ---
 title: "Garmendia Seguridad Industrial"
 url: /valdivia/garmendia-seguridad-industrial/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

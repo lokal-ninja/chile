@@ -1,5 +1,5 @@
 ---
 title: "Varoli"
 url: /salamanca/varoli/
-shop: Supermarkt
+shop: supermercado
 ---

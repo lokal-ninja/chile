@@ -1,5 +1,5 @@
 ---
 title: "Johnson's"
 url: /arica/johnsons/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Olmos"
 url: /quilpue/repuestos-olmos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Navarro"
 url: /valdivia/repuestos-navarro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

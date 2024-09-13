@@ -1,5 +1,5 @@
 ---
 title: "Almacen y Rotiseria Gloria"
 url: /puente-alto/almacen-y-rotiseria-gloria/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Javini"
 url: /puerto-varas/javini/
-shop: Kramladen
+shop: tienda de variedades
 ---

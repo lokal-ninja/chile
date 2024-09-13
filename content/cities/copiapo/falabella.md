@@ -1,5 +1,5 @@
 ---
 title: "Falabella"
 url: /copiapo/falabella/
-shop: Warenhaus
+shop: grandes almacenes
 ---

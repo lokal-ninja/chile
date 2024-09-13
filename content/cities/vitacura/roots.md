@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /vitacura/roots/
-shop: Kleidung
+shop: ropa
 ---

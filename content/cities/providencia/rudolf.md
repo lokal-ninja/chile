@@ -1,5 +1,5 @@
 ---
 title: "Rudolf"
 url: /providencia/rudolf/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

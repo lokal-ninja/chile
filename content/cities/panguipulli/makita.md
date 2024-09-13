@@ -1,5 +1,5 @@
 ---
 title: "Makita"
 url: /panguipulli/makita/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

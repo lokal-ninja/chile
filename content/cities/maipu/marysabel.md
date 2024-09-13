@@ -1,5 +1,5 @@
 ---
 title: "Marysabel"
 url: /maipu/marysabel/
-shop: Kiosk
+shop: quiosco
 ---

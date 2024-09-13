@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /lo-barnechea/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

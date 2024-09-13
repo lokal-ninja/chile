@@ -1,5 +1,5 @@
 ---
 title: "Mallplaza Trébol"
 url: /talcahuano/mallplaza-trebol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

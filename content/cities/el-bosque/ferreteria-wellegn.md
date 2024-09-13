@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Wellegn"
 url: /el-bosque/ferreteria-wellegn/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

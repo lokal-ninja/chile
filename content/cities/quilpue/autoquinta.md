@@ -1,5 +1,5 @@
 ---
 title: "AutoQuinta"
 url: /quilpue/autoquinta/
-shop: Autohaus
+shop: coche
 ---

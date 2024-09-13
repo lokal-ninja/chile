@@ -1,5 +1,5 @@
 ---
 title: "Autoplanet"
 url: /las-condes/autoplanet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

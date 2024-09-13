@@ -1,5 +1,5 @@
 ---
 title: "Vitepal"
 url: /vitacura/vitepal/
-shop: Autoteile
+shop: piezas de automóviles
 ---

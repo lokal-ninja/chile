@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /concepcion/unimarc-tucapel/
-shop: Supermarkt
+shop: supermercado
 ---

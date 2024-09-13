@@ -1,5 +1,5 @@
 ---
 title: "MTS Placacentro"
 url: /villarrica/mts-placacentro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San Joaquín"
 url: /limache/san-joaquin/
-shop: Hofladen
+shop: granja
 ---

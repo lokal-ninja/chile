@@ -1,5 +1,5 @@
 ---
 title: "Nacional"
 url: /la-reina/nacional/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabaquería"
 url: /castro/tabaqueria/
-shop: Tabak
+shop: tabaco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anastassia"
 url: /antofagasta/anastassia/
-shop: Kleidung
+shop: ropa
 ---

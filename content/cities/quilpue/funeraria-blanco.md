@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Blanco"
 url: /quilpue/funeraria-blanco/
-shop: Bestattungen
+shop: directores de funerarias
 ---

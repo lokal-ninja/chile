@@ -1,5 +1,5 @@
 ---
 title: "Permentin Pet Center"
 url: /la-reina/permentin-pet-center/
-shop: Tiere
+shop: mascotas
 ---

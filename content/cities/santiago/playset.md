@@ -1,5 +1,5 @@
 ---
 title: "Playset"
 url: /santiago/playset/
-shop: Spiele
+shop: juegos
 ---

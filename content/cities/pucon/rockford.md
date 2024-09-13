@@ -1,5 +1,5 @@
 ---
 title: "Rockford"
 url: /pucon/rockford/
-shop: Kleidung
+shop: ropa
 ---

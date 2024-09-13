@@ -1,5 +1,5 @@
 ---
 title: "Sausalito"
 url: /vina-del-mar/sausalito-avenida-valparaiso/
-shop: Bäckerei
+shop: panadería
 ---

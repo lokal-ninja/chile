@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Higuerillas"
 url: /concon/ferreteria-higuerillas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multicentro"
 url: /linares/multicentro-independencia/
-shop: Warenhaus
+shop: grandes almacenes
 ---

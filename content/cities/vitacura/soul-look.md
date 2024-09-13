@@ -1,5 +1,5 @@
 ---
 title: "Soul Look"
 url: /vitacura/soul-look/
-shop: Friseur
+shop: peluquería
 ---

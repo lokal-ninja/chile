@@ -1,5 +1,5 @@
 ---
 title: "El Ovejero"
 url: /punta-arenas/el-ovejero/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavaseco Italiano"
 url: /las-condes/lavaseco-italiano/
-shop: Wäscherei
+shop: lavandería
 ---

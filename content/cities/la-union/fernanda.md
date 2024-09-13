@@ -1,5 +1,5 @@
 ---
 title: "Fernanda"
 url: /la-union/fernanda/
-shop: Friseur
+shop: peluquería
 ---

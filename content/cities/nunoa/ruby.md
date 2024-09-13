@@ -1,5 +1,5 @@
 ---
 title: "Ruby"
 url: /nunoa/ruby/
-shop: Lebensmittel
+shop: comodidad
 ---

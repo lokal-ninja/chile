@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /pucon/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

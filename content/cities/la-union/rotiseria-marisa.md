@@ -1,5 +1,5 @@
 ---
 title: "Rotisería Marisa"
 url: /la-union/rotiseria-marisa/
-shop: Kramladen
+shop: tienda de variedades
 ---

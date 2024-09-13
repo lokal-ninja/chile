@@ -1,5 +1,5 @@
 ---
 title: "Pasarela"
 url: /san-bernardo/pasarela/
-shop: Schuhe
+shop: zapatos
 ---

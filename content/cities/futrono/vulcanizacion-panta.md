@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizacion Panta"
 url: /futrono/vulcanizacion-panta/
-shop: Allgemein
+shop: general
 ---

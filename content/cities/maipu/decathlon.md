@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /maipu/decathlon/
-shop: Sport
+shop: deportes
 ---

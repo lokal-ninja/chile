@@ -1,5 +1,5 @@
 ---
 title: "La Toscana"
 url: /vitacura/la-toscana/
-shop: Kleidung
+shop: ropa
 ---

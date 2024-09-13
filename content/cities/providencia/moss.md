@@ -1,5 +1,5 @@
 ---
 title: "Moss"
 url: /providencia/moss/
-shop: Kleidung
+shop: ropa
 ---

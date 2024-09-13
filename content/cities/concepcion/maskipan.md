@@ -1,5 +1,5 @@
 ---
 title: "Maskipan"
 url: /concepcion/maskipan/
-shop: Bäckerei
+shop: panadería
 ---

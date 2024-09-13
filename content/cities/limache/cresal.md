@@ -1,5 +1,5 @@
 ---
 title: "Cresal"
 url: /limache/cresal/
-shop: Autoteile
+shop: piezas de automóviles
 ---

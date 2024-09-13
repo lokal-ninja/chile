@@ -1,5 +1,5 @@
 ---
 title: "Dimarsa"
 url: /ancud/dimarsa/
-shop: Warenhaus
+shop: grandes almacenes
 ---

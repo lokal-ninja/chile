@@ -1,5 +1,5 @@
 ---
 title: "Lito Motos"
 url: /nunoa/lito-motos/
-shop: Motorrad
+shop: motocicleta
 ---

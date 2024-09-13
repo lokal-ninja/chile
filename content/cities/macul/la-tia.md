@@ -1,5 +1,5 @@
 ---
 title: "La Tia"
 url: /macul/la-tia/
-shop: Kramladen
+shop: tienda de variedades
 ---

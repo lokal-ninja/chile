@@ -1,5 +1,5 @@
 ---
 title: "Clean Service"
 url: /la-union/clean-service/
-shop: Wäscherei
+shop: lavandería
 ---

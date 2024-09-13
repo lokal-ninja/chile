@@ -1,5 +1,5 @@
 ---
 title: "Mk"
 url: /antofagasta/mk/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

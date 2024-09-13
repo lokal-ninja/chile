@@ -1,5 +1,5 @@
 ---
 title: "Combel"
 url: /santiago/combel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

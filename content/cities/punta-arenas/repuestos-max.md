@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Max"
 url: /punta-arenas/repuestos-max/
-shop: Autoteile
+shop: piezas de automóviles
 ---

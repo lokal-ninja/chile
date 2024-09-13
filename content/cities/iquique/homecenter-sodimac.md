@@ -1,5 +1,5 @@
 ---
 title: "Homecenter Sodimac"
 url: /iquique/homecenter-sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

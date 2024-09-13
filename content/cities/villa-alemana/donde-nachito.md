@@ -1,5 +1,5 @@
 ---
 title: "Donde Nachito"
 url: /villa-alemana/donde-nachito/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /calama/tricot/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardón"
 url: /ushuaia/cardon/
-shop: Kleidung
+shop: ropa
 ---

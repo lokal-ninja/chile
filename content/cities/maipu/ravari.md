@@ -1,5 +1,5 @@
 ---
 title: "Ravari"
 url: /maipu/ravari/
-shop: Dorfladen
+shop: tienda rural
 ---

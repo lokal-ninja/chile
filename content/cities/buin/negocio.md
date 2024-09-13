@@ -1,5 +1,5 @@
 ---
 title: "Negocio"
 url: /buin/negocio/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "almacén"
 url: /labranza/almacen/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasteleria Dulce Refugio"
 url: /las-condes/pasteleria-dulce-refugio/
-shop: Bäckerei
+shop: panadería
 ---

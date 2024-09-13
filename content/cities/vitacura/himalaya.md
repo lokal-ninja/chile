@@ -1,5 +1,5 @@
 ---
 title: "Himalaya"
 url: /vitacura/himalaya/
-shop: Möbel
+shop: muebles
 ---

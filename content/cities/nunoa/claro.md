@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /nunoa/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top"
 url: /valdivia/top/
-shop: Kleidung
+shop: ropa
 ---

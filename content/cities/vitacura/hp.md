@@ -1,5 +1,5 @@
 ---
 title: "HP"
 url: /vitacura/hp/
-shop: Computer
+shop: ordenador
 ---

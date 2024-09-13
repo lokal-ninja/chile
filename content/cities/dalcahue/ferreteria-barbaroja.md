@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Barbaroja"
 url: /dalcahue/ferreteria-barbaroja/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

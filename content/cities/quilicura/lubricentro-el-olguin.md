@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro El Olguín"
 url: /quilicura/lubricentro-el-olguin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería El Encanto"
 url: /las-cruces-ek-tabo/carniceria-el-encanto/
-shop: Metzgerei
+shop: carnicero
 ---

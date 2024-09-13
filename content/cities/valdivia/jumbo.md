@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /valdivia/jumbo/
-shop: Supermarkt
+shop: supermercado
 ---

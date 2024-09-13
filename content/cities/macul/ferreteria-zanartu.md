@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Zañartu"
 url: /macul/ferreteria-zanartu/
-shop: Eisenwaren
+shop: hardware
 ---

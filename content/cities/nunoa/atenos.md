@@ -1,5 +1,5 @@
 ---
 title: "Atenos"
 url: /nunoa/atenos/
-shop: Schreibwaren
+shop: material de oficina
 ---

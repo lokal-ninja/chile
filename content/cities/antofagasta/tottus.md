@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /antofagasta/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

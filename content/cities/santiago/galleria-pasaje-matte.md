@@ -1,5 +1,5 @@
 ---
 title: "Gallería Pasaje Matte"
 url: /santiago/galleria-pasaje-matte/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

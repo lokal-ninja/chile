@@ -1,5 +1,5 @@
 ---
 title: "Portal Centro"
 url: /talca/portal-centro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

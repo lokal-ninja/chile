@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /osorno/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

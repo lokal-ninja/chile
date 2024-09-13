@@ -1,5 +1,5 @@
 ---
 title: "CasayPlanta"
 url: /concon/casayplanta/
-shop: Garten-Center
+shop: centro de jardinería
 ---

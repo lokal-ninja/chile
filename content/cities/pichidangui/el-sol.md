@@ -1,5 +1,5 @@
 ---
 title: "El Sol"
 url: /pichidangui/el-sol/
-shop: Spirituosen
+shop: alcohol
 ---

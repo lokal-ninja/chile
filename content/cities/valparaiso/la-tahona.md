@@ -1,5 +1,5 @@
 ---
 title: "La Tahona"
 url: /valparaiso/la-tahona/
-shop: Bäckerei
+shop: panadería
 ---

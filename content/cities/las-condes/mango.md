@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /las-condes/mango/
-shop: Kleidung
+shop: ropa
 ---

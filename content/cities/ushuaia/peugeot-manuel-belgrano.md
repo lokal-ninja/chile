@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /ushuaia/peugeot-manuel-belgrano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

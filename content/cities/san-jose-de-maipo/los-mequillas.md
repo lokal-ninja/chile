@@ -1,5 +1,5 @@
 ---
 title: "Los Mequillas"
 url: /san-jose-de-maipo/los-mequillas/
-shop: Spirituosen
+shop: alcohol
 ---

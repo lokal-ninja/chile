@@ -1,5 +1,5 @@
 ---
 title: "Ely"
 url: /santiago/ely/
-shop: Lebensmittel
+shop: comodidad
 ---

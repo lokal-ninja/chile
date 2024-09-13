@@ -1,5 +1,5 @@
 ---
 title: "Skorpios"
 url: /las-condes/skorpios/
-shop: Reisebüro
+shop: agencia de viajes
 ---

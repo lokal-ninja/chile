@@ -1,5 +1,5 @@
 ---
 title: "Expo Falabella"
 url: /penalolen/expo-falabella/
-shop: Kramladen
+shop: tienda de variedades
 ---

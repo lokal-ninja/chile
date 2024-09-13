@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Garachena"
 url: /vitacura/ferreteria-garachena/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galeria Artesanal"
 url: /villarrica/galeria-artesanal/
-shop: Basteln
+shop: artesanía
 ---

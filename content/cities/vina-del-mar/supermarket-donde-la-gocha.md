@@ -1,5 +1,5 @@
 ---
 title: "SuperMarket Donde La Gocha"
 url: /vina-del-mar/supermarket-donde-la-gocha/
-shop: Lebensmittel
+shop: comodidad
 ---

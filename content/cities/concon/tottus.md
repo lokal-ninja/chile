@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /concon/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

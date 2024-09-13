@@ -1,5 +1,5 @@
 ---
 title: "Paris Tecnológico"
 url: /santiago/paris-tecnologico/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

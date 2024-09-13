@@ -1,5 +1,5 @@
 ---
 title: "Hankook"
 url: /santiago/hankook/
-shop: Autoteile
+shop: piezas de automóviles
 ---

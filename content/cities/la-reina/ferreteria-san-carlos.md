@@ -1,5 +1,5 @@
 ---
 title: "Ferretería San carlos"
 url: /la-reina/ferreteria-san-carlos/
-shop: Eisenwaren
+shop: hardware
 ---

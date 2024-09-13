@@ -1,5 +1,5 @@
 ---
 title: "PC Ma"
 url: /santiago/pc-ma/
-shop: Computer
+shop: ordenador
 ---

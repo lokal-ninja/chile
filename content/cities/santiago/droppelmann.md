@@ -1,5 +1,5 @@
 ---
 title: "Droppelmann"
 url: /santiago/droppelmann/
-shop: Allgemein
+shop: general
 ---

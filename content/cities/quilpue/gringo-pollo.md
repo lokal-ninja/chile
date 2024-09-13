@@ -1,5 +1,5 @@
 ---
 title: "Gringo Pollo"
 url: /quilpue/gringo-pollo/
-shop: Metzgerei
+shop: carnicero
 ---

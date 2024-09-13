@@ -1,5 +1,5 @@
 ---
 title: "Mellita"
 url: /arica/mellita/
-shop: Kramladen
+shop: tienda de variedades
 ---

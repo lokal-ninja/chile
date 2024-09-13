@@ -1,5 +1,5 @@
 ---
 title: "Romano"
 url: /vitacura/romano/
-shop: Allgemein
+shop: general
 ---

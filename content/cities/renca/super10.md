@@ -1,5 +1,5 @@
 ---
 title: "Super10"
 url: /renca/super10/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fashion's Park"
 url: /nunoa/fashions-park/
-shop: Warenhaus
+shop: grandes almacenes
 ---

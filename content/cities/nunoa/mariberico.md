@@ -1,5 +1,5 @@
 ---
 title: "Maribérico"
 url: /nunoa/mariberico/
-shop: Fisch
+shop: marisco
 ---

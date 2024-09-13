@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /quilpue/head/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mall Despacito"
 url: /villa-alemana/mall-despacito/
-shop: Kramladen
+shop: tienda de variedades
 ---

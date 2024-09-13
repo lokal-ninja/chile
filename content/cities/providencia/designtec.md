@@ -1,5 +1,5 @@
 ---
 title: "DesignTec"
 url: /providencia/designtec/
-shop: Basteln
+shop: artesanía
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruval"
 url: /punta-arenas/fruval/
-shop: Gemüse & Obst
+shop: frutería
 ---

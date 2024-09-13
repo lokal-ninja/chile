@@ -1,5 +1,5 @@
 ---
 title: "Yeyita"
 url: /valdivia/yeyita/
-shop: Bäckerei
+shop: panadería
 ---

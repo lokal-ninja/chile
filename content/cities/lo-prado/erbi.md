@@ -1,5 +1,5 @@
 ---
 title: "Erbi"
 url: /lo-prado/erbi/
-shop: Supermarkt
+shop: supermercado
 ---

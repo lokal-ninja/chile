@@ -1,5 +1,5 @@
 ---
 title: "Construmart"
 url: /hualpen/construmart/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

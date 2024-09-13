@@ -1,5 +1,5 @@
 ---
 title: "Multicentro"
 url: /linares/multicentro/
-shop: Warenhaus
+shop: grandes almacenes
 ---

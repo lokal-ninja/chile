@@ -1,5 +1,5 @@
 ---
 title: "SmartMovil"
 url: /puerto-varas/smartmovil/
-shop: Elektronik
+shop: electrónica
 ---

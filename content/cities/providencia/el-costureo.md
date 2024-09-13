@@ -1,5 +1,5 @@
 ---
 title: "El Costureo"
 url: /providencia/el-costureo/
-shop: Schneiderei
+shop: sastre
 ---

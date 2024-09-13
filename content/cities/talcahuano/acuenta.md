@@ -1,5 +1,5 @@
 ---
 title: "Acuenta"
 url: /talcahuano/acuenta/
-shop: Supermarkt
+shop: supermercado
 ---

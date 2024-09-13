@@ -1,5 +1,5 @@
 ---
 title: "Chilemat"
 url: /panguipulli/chilemat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

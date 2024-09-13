@@ -1,5 +1,5 @@
 ---
 title: "Colun"
 url: /providencia/colun/
-shop: Milch
+shop: lácteos
 ---

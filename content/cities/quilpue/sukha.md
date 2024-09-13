@@ -1,5 +1,5 @@
 ---
 title: "Sukha"
 url: /quilpue/sukha/
-shop: Hanf
+shop: cannabis
 ---

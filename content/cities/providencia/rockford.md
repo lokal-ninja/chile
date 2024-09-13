@@ -1,5 +1,5 @@
 ---
 title: "Rockford"
 url: /providencia/rockford/
-shop: Outdoor
+shop: exterior
 ---

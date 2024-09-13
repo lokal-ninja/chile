@@ -1,5 +1,5 @@
 ---
 title: "fiambrería Iberia"
 url: /quilpue/fiambreria-iberia/
-shop: Bäckerei
+shop: panadería
 ---

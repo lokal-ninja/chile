@@ -1,5 +1,5 @@
 ---
 title: "Tío Pepe"
 url: /quilpue/tio-pepe/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /santiago/bridgestone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

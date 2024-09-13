@@ -1,5 +1,5 @@
 ---
 title: "Rebels Golf"
 url: /lo-barnechea/rebels-golf/
-shop: Golf
+shop: golf
 ---

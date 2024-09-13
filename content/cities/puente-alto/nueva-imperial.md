@@ -1,5 +1,5 @@
 ---
 title: "Nueva Imperial"
 url: /puente-alto/nueva-imperial/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar Mónica"
 url: /puente-alto/bazar-monica/
-shop: Kramladen
+shop: tienda de variedades
 ---

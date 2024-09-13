@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Balmaceda"
 url: /cauquenes/supermercado-balmaceda/
-shop: Supermarkt
+shop: supermercado
 ---

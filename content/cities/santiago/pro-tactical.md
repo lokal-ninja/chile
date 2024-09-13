@@ -1,5 +1,5 @@
 ---
 title: "Pro Tactical"
 url: /santiago/pro-tactical/
-shop: Allgemein
+shop: general
 ---

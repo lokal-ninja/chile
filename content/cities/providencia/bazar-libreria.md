@@ -1,5 +1,5 @@
 ---
 title: "Bazar Librería"
 url: /providencia/bazar-libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

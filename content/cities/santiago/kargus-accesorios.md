@@ -1,5 +1,5 @@
 ---
 title: "Kargus Accesorios"
 url: /santiago/kargus-accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

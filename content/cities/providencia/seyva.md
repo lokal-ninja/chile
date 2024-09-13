@@ -1,5 +1,5 @@
 ---
 title: "Seyva"
 url: /providencia/seyva/
-shop: Lebensmittel
+shop: comodidad
 ---

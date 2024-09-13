@@ -1,5 +1,5 @@
 ---
 title: "Taller Peugeot"
 url: /la-union/taller-peugeot/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

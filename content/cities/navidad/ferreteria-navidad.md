@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Navidad"
 url: /navidad/ferreteria-navidad/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería El Aguilucho"
 url: /providencia/carniceria-el-aguilucho/
-shop: Metzgerei
+shop: carnicero
 ---

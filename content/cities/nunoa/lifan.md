@@ -1,5 +1,5 @@
 ---
 title: "Lifan"
 url: /nunoa/lifan/
-shop: Autohaus
+shop: coche
 ---

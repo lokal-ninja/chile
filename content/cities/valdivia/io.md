@@ -1,5 +1,5 @@
 ---
 title: "IO"
 url: /valdivia/io/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andesmar"
 url: /puerto-varas/andesmar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

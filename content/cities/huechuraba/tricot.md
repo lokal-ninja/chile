@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /huechuraba/tricot/
-shop: Kleidung
+shop: ropa
 ---

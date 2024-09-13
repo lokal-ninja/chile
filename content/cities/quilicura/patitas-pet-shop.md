@@ -1,5 +1,5 @@
 ---
 title: "Patitas Pet Shop"
 url: /quilicura/patitas-pet-shop/
-shop: Tiere
+shop: mascotas
 ---

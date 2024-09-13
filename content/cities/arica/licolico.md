@@ -1,5 +1,5 @@
 ---
 title: "Licolico"
 url: /arica/licolico/
-shop: Bäckerei
+shop: panadería
 ---

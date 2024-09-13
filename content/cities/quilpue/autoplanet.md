@@ -1,5 +1,5 @@
 ---
 title: "AutoPlanet"
 url: /quilpue/autoplanet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mundo"
 url: /concepcion/mundo/
-shop: Handy
+shop: teléfono móvil
 ---

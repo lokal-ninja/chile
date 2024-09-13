@@ -1,5 +1,5 @@
 ---
 title: "Idini"
 url: /ancud/idini/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

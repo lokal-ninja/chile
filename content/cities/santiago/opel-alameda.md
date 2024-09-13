@@ -1,5 +1,5 @@
 ---
 title: "Opel Alameda"
 url: /santiago/opel-alameda/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

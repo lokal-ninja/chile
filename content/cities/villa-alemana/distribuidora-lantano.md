@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Lantano"
 url: /villa-alemana/distribuidora-lantano/
-shop: Schreibwaren
+shop: material de oficina
 ---

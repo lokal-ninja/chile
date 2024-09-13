@@ -1,5 +1,5 @@
 ---
 title: "Las Campanitas"
 url: /nacimiento/las-campanitas/
-shop: Kramladen
+shop: tienda de variedades
 ---

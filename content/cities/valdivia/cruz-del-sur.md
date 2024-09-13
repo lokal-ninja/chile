@@ -1,5 +1,5 @@
 ---
 title: "Cruz del Sur"
 url: /valdivia/cruz-del-sur/
-shop: Tickets
+shop: entradas
 ---

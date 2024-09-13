@@ -1,5 +1,5 @@
 ---
 title: "Taller Rosales"
 url: /talca/taller-rosales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

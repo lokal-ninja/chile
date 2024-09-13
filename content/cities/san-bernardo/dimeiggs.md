@@ -1,5 +1,5 @@
 ---
 title: "Dimeiggs"
 url: /san-bernardo/dimeiggs/
-shop: Schreibwaren
+shop: material de oficina
 ---

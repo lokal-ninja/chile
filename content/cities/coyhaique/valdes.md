@@ -1,5 +1,5 @@
 ---
 title: "Valdes"
 url: /coyhaique/valdes/
-shop: Supermarkt
+shop: supermercado
 ---

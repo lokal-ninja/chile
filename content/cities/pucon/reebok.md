@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /pucon/reebok/
-shop: Kleidung
+shop: ropa
 ---

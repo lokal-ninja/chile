@@ -1,5 +1,5 @@
 ---
 title: "Mamba Bike"
 url: /rancagua/mamba-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

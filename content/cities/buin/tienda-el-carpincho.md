@@ -1,5 +1,5 @@
 ---
 title: "Tienda El Carpincho"
 url: /buin/tienda-el-carpincho/
-shop: Allgemein
+shop: general
 ---

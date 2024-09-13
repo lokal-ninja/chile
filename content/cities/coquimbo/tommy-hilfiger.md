@@ -1,5 +1,5 @@
 ---
 title: "Tommy Hilfiger"
 url: /coquimbo/tommy-hilfiger/
-shop: Kleidung
+shop: ropa
 ---

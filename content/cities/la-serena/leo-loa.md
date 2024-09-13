@@ -1,5 +1,5 @@
 ---
 title: "Leo Loa"
 url: /la-serena/leo-loa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

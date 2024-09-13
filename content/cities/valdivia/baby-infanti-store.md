@@ -1,5 +1,5 @@
 ---
 title: "Baby infanti Store"
 url: /valdivia/baby-infanti-store/
-shop: Babysachen
+shop: artículos para bebés
 ---

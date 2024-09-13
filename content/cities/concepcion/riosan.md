@@ -1,5 +1,5 @@
 ---
 title: "Riosan"
 url: /concepcion/riosan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Portales"
 url: /quilpue/casa-portales/
-shop: Eisenwaren
+shop: hardware
 ---

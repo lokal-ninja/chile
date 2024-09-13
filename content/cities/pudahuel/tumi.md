@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /pudahuel/tumi/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

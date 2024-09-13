@@ -1,5 +1,5 @@
 ---
 title: "CIDEF"
 url: /nunoa/cidef/
-shop: Autohaus
+shop: coche
 ---

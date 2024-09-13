@@ -1,5 +1,5 @@
 ---
 title: "Todo Modas"
 url: /quilpue/todo-modas/
-shop: Kleidung
+shop: ropa
 ---

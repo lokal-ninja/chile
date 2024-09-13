@@ -1,5 +1,5 @@
 ---
 title: "Frenos Flash"
 url: /recoleta/frenos-flash/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CentroRepuestos"
 url: /santiago/centrorepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

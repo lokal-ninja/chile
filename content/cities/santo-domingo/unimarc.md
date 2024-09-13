@@ -1,5 +1,5 @@
 ---
 title: "Unimarc"
 url: /santo-domingo/unimarc/
-shop: Supermarkt
+shop: supermercado
 ---

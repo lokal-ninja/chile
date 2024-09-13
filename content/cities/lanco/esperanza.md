@@ -1,5 +1,5 @@
 ---
 title: "Esperanza"
 url: /lanco/esperanza/
-shop: Kramladen
+shop: tienda de variedades
 ---

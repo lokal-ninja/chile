@@ -1,5 +1,5 @@
 ---
 title: "Pucará"
 url: /villarrica/pucara/
-shop: Lebensmittel
+shop: comodidad
 ---

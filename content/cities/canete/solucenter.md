@@ -1,5 +1,5 @@
 ---
 title: "Solucenter"
 url: /canete/solucenter/
-shop: Eisenwaren
+shop: hardware
 ---

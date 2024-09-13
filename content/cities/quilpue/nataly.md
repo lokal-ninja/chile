@@ -1,5 +1,5 @@
 ---
 title: "Nataly"
 url: /quilpue/nataly/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Graneria De La Quinta"
 url: /concon/la-graneria-de-la-quinta/
-shop: Kramladen
+shop: tienda de variedades
 ---

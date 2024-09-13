@@ -1,5 +1,5 @@
 ---
 title: "aCuenta"
 url: /villarrica/acuenta/
-shop: Supermarkt
+shop: supermercado
 ---

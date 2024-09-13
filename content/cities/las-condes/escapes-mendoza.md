@@ -1,5 +1,5 @@
 ---
 title: "Escapes Mendoza"
 url: /las-condes/escapes-mendoza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macroprint"
 url: /quilpue/macroprint/
-shop: Kopieren
+shop: copyshop
 ---

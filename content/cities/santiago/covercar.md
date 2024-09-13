@@ -1,5 +1,5 @@
 ---
 title: "Covercar"
 url: /santiago/covercar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

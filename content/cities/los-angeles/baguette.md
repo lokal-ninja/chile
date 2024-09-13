@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
 url: /los-angeles/baguette/
-shop: Bäckerei
+shop: panadería
 ---

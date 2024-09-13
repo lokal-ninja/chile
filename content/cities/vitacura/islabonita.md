@@ -1,5 +1,5 @@
 ---
 title: "Islabonita"
 url: /vitacura/islabonita/
-shop: Kleidung
+shop: ropa
 ---

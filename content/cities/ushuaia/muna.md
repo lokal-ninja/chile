@@ -1,5 +1,5 @@
 ---
 title: "Muna"
 url: /ushuaia/muna/
-shop: Kleidung
+shop: ropa
 ---

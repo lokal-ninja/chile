@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes"
 url: /la-reina/lubricantes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

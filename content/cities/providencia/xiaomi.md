@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi"
 url: /providencia/xiaomi/
-shop: Handy
+shop: teléfono móvil
 ---

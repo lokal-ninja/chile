@@ -1,5 +1,5 @@
 ---
 title: "González Patissier Chocolates"
 url: /ushuaia/gonzalez-patissier-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

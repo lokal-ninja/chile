@@ -1,5 +1,5 @@
 ---
 title: "San Cristóbal"
 url: /quilpue/san-cristobal/
-shop: Bestattungen
+shop: directores de funerarias
 ---

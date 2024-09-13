@@ -1,5 +1,5 @@
 ---
 title: "Pronto Copec"
 url: /la-reina/pronto-copec/
-shop: Lebensmittel
+shop: comodidad
 ---

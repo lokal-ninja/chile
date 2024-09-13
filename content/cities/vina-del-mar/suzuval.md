@@ -1,5 +1,5 @@
 ---
 title: "Suzuval"
 url: /vina-del-mar/suzuval/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

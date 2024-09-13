@@ -1,5 +1,5 @@
 ---
 title: "Reloj"
 url: /providencia/reloj/
-shop: Uhren
+shop: relojes
 ---

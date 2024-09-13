@@ -1,5 +1,5 @@
 ---
 title: "Santa Isabel"
 url: /coronel/santa-isabel/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoplanet"
 url: /san-joaquin/autoplanet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

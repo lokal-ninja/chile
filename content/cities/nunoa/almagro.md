@@ -1,5 +1,5 @@
 ---
 title: "Almagro"
 url: /nunoa/almagro/
-shop: Spirituosen
+shop: alcohol
 ---

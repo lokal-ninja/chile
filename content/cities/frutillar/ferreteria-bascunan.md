@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Bascuñán"
 url: /frutillar/ferreteria-bascunan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

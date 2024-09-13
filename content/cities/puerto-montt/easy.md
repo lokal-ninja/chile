@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /puerto-montt/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

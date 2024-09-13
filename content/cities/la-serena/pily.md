@@ -1,5 +1,5 @@
 ---
 title: "Pily"
 url: /la-serena/pily/
-shop: Lebensmittel
+shop: comodidad
 ---

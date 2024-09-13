@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /castro/entel/
-shop: Handy
+shop: teléfono móvil
 ---

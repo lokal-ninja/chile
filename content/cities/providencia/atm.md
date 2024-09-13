@@ -1,5 +1,5 @@
 ---
 title: "ATM"
 url: /providencia/atm/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

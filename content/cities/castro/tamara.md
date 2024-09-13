@@ -1,5 +1,5 @@
 ---
 title: "Tamara"
 url: /castro/tamara/
-shop: Friseur
+shop: peluquería
 ---

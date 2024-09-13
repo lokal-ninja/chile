@@ -1,5 +1,5 @@
 ---
 title: "Crisol"
 url: /valdivia/crisol/
-shop: Lebensmittel
+shop: comodidad
 ---

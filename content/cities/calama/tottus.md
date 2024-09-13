@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /calama/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

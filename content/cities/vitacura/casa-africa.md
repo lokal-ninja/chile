@@ -1,5 +1,5 @@
 ---
 title: "Casa Africa"
 url: /vitacura/casa-africa/
-shop: Raumausstattung
+shop: decoración interior
 ---

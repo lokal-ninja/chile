@@ -1,5 +1,5 @@
 ---
 title: "GMO"
 url: /quilpue/gmo/
-shop: Optiker
+shop: óptico
 ---

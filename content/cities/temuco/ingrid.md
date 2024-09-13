@@ -1,5 +1,5 @@
 ---
 title: "Ingrid"
 url: /temuco/ingrid/
-shop: Friseur
+shop: peluquería
 ---

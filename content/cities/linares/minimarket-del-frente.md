@@ -1,5 +1,5 @@
 ---
 title: "MInimarket del Frente"
 url: /linares/minimarket-del-frente/
-shop: Lebensmittel
+shop: comodidad
 ---

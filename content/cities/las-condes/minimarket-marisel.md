@@ -1,5 +1,5 @@
 ---
 title: "Minimarket Marisel"
 url: /las-condes/minimarket-marisel/
-shop: Lebensmittel
+shop: comodidad
 ---

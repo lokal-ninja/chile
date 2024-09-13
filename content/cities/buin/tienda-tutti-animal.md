@@ -1,5 +1,5 @@
 ---
 title: "Tienda Tutti Animal"
 url: /buin/tienda-tutti-animal/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mi Reina"
 url: /valdivia/mi-reina/
-shop: Spirituosen
+shop: alcohol
 ---

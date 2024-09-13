@@ -1,5 +1,5 @@
 ---
 title: "Lily"
 url: /labranza/lily/
-shop: Supermarkt
+shop: supermercado
 ---

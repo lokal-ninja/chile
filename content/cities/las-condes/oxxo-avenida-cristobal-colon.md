@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /las-condes/oxxo-avenida-cristobal-colon/
-shop: Lebensmittel
+shop: comodidad
 ---

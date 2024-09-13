@@ -1,5 +1,5 @@
 ---
 title: "Mostachos"
 url: /antofagasta/mostachos/
-shop: Friseur
+shop: peluquería
 ---

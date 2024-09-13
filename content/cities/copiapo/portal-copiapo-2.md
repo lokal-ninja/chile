@@ -1,5 +1,5 @@
 ---
 title: "Portal Copiapó"
 url: /copiapo/portal-copiapo-2/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donde Chuck"
 url: /limache/donde-chuck/
-shop: Lebensmittel
+shop: comodidad
 ---

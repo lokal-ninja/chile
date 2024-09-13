@@ -1,5 +1,5 @@
 ---
 title: "A Cuenta"
 url: /chillan/a-cuenta/
-shop: Supermarkt
+shop: supermercado
 ---

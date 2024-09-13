@@ -1,5 +1,5 @@
 ---
 title: "Sirian"
 url: /puerto-montt/sirian/
-shop: Eisenwaren
+shop: hardware
 ---

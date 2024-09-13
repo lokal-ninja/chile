@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /talca/claro/
-shop: Handy
+shop: teléfono móvil
 ---

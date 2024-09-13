@@ -1,5 +1,5 @@
 ---
 title: "Chaitur"
 url: /chaiten/chaitur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

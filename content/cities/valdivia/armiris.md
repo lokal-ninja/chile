@@ -1,5 +1,5 @@
 ---
 title: "Armiris"
 url: /valdivia/armiris/
-shop: Kleidung
+shop: ropa
 ---

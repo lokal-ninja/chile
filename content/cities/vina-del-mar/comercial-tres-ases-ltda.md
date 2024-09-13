@@ -1,5 +1,5 @@
 ---
 title: "Comercial Tres Ases LTDA."
 url: /vina-del-mar/comercial-tres-ases-ltda/
-shop: Kramladen
+shop: tienda de variedades
 ---

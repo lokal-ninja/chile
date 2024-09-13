@@ -1,5 +1,5 @@
 ---
 title: "Provisiones Martin"
 url: /quilpue/provisiones-martin/
-shop: Lebensmittel
+shop: comodidad
 ---

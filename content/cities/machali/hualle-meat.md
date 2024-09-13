@@ -1,5 +1,5 @@
 ---
 title: "Hualle Meat"
 url: /machali/hualle-meat/
-shop: Metzgerei
+shop: carnicero
 ---

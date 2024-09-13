@@ -1,5 +1,5 @@
 ---
 title: "Com. Fajardo González"
 url: /limache/com-fajardo-gonzalez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

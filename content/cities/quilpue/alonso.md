@@ -1,5 +1,5 @@
 ---
 title: "Alonso"
 url: /quilpue/alonso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

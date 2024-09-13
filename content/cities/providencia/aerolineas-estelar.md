@@ -1,5 +1,5 @@
 ---
 title: "Aerolineas Estelar"
 url: /providencia/aerolineas-estelar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

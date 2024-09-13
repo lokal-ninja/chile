@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /providencia/levis/
-shop: Kleidung
+shop: ropa
 ---

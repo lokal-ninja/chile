@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas"
 url: /la-reina/parabrisas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

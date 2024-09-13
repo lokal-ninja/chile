@@ -1,5 +1,5 @@
 ---
 title: "Todo Tintas"
 url: /quilpue/todo-tintas/
-shop: Schreibwaren
+shop: material de oficina
 ---

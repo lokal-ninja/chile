@@ -1,5 +1,5 @@
 ---
 title: "Carnes Molina"
 url: /la-reina/carnes-molina/
-shop: Metzgerei
+shop: carnicero
 ---

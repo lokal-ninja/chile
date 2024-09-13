@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /concepcion/jumbo-barros-arana/
-shop: Supermarkt
+shop: supermercado
 ---

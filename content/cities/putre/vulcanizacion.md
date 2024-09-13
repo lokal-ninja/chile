@@ -1,5 +1,5 @@
 ---
 title: "Vulcanización"
 url: /putre/vulcanizacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

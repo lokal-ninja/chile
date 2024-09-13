@@ -1,5 +1,5 @@
 ---
 title: "La Mundial"
 url: /loncoche/la-mundial/
-shop: Supermarkt
+shop: supermercado
 ---

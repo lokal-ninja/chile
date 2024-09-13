@@ -1,5 +1,5 @@
 ---
 title: "Servicio AUDI"
 url: /vitacura/servicio-audi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

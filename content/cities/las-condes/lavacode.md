@@ -1,5 +1,5 @@
 ---
 title: "Lavacode"
 url: /las-condes/lavacode/
-shop: Wäscherei
+shop: lavandería
 ---

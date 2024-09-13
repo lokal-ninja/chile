@@ -1,5 +1,5 @@
 ---
 title: "Odisea"
 url: /santiago/odisea/
-shop: Bücher
+shop: libros
 ---

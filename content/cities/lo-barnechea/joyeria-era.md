@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Era"
 url: /lo-barnechea/joyeria-era/
-shop: Schmuck
+shop: joyería
 ---

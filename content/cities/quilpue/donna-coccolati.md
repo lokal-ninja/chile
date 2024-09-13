@@ -1,5 +1,5 @@
 ---
 title: "Donna Coccolati"
 url: /quilpue/donna-coccolati/
-shop: Modehaus
+shop: tienda
 ---

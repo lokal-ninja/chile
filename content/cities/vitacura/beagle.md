@@ -1,5 +1,5 @@
 ---
 title: "Beagle"
 url: /vitacura/beagle/
-shop: Allgemein
+shop: general
 ---

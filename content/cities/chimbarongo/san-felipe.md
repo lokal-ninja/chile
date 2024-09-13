@@ -1,5 +1,5 @@
 ---
 title: "San Felipe"
 url: /chimbarongo/san-felipe/
-shop: Kramladen
+shop: tienda de variedades
 ---

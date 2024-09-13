@@ -1,5 +1,5 @@
 ---
 title: "El Trebol"
 url: /nueva-imperial/el-trebol/
-shop: Supermarkt
+shop: supermercado
 ---

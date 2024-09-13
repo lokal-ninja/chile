@@ -1,5 +1,5 @@
 ---
 title: "DeliMarket"
 url: /temuco/delimarket/
-shop: Supermarkt
+shop: supermercado
 ---

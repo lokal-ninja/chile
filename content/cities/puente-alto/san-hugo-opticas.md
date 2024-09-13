@@ -1,5 +1,5 @@
 ---
 title: "San Hugo Opticas"
 url: /puente-alto/san-hugo-opticas/
-shop: Optiker
+shop: óptico
 ---

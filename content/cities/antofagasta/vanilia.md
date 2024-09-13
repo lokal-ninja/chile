@@ -1,5 +1,5 @@
 ---
 title: "Vanilia"
 url: /antofagasta/vanilia/
-shop: Bäckerei
+shop: panadería
 ---

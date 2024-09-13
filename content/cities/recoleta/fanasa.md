@@ -1,5 +1,5 @@
 ---
 title: "Fanasa"
 url: /recoleta/fanasa/
-shop: Allgemein
+shop: general
 ---

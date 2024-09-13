@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /la-reina/ford/
-shop: Autohaus
+shop: coche
 ---

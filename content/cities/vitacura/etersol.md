@@ -1,5 +1,5 @@
 ---
 title: "Etersol"
 url: /vitacura/etersol/
-shop: Teppiche
+shop: alfombra
 ---

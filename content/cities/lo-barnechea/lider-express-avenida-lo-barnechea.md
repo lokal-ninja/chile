@@ -1,5 +1,5 @@
 ---
 title: "Lider Express"
 url: /lo-barnechea/lider-express-avenida-lo-barnechea/
-shop: Supermarkt
+shop: supermercado
 ---

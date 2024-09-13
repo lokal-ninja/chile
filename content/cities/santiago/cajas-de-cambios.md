@@ -1,5 +1,5 @@
 ---
 title: "Cajas de Cambios"
 url: /santiago/cajas-de-cambios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

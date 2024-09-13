@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /santiago/mary/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copelec"
 url: /chillan/copelec/
-shop: Warenhaus
+shop: grandes almacenes
 ---

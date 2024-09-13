@@ -1,5 +1,5 @@
 ---
 title: "Rosita"
 url: /nunoa/rosita-avenida-diego-de-almagro/
-shop: Bäckerei
+shop: panadería
 ---

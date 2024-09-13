@@ -1,5 +1,5 @@
 ---
 title: "Derco Center"
 url: /maipu/derco-center/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

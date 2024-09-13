@@ -1,5 +1,5 @@
 ---
 title: "abc din"
 url: /quilpue/abc-din/
-shop: Warenhaus
+shop: grandes almacenes
 ---

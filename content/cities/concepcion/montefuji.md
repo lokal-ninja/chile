@@ -1,5 +1,5 @@
 ---
 title: "MonteFuji"
 url: /concepcion/montefuji/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

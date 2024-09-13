@@ -1,5 +1,5 @@
 ---
 title: "Maicao"
 url: /villarrica/maicao/
-shop: Parfümerie
+shop: perfumería
 ---

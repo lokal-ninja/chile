@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Bernardita"
 url: /valdivia/funeraria-bernardita/
-shop: Bestattungen
+shop: directores de funerarias
 ---

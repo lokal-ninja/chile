@@ -1,5 +1,5 @@
 ---
 title: "Espejos"
 url: /santiago/espejos/
-shop: Allgemein
+shop: general
 ---

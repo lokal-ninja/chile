@@ -1,5 +1,5 @@
 ---
 title: "Surprice"
 url: /coquimbo/surprice/
-shop: Kleidung
+shop: ropa
 ---

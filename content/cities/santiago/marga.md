@@ -1,5 +1,5 @@
 ---
 title: "Marga"
 url: /santiago/marga/
-shop: Fahrrad
+shop: bicicleta
 ---

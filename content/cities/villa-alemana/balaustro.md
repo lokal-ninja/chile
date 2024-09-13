@@ -1,5 +1,5 @@
 ---
 title: "Balaustro"
 url: /villa-alemana/balaustro/
-shop: Kleidung
+shop: ropa
 ---

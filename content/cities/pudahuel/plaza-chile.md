@@ -1,5 +1,5 @@
 ---
 title: "Plaza Chile"
 url: /pudahuel/plaza-chile/
-shop: Warenhaus
+shop: grandes almacenes
 ---

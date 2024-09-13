@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /concepcion/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

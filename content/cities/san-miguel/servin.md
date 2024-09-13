@@ -1,5 +1,5 @@
 ---
 title: "Servin"
 url: /san-miguel/servin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

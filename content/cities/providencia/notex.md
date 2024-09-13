@@ -1,5 +1,5 @@
 ---
 title: "Notex"
 url: /providencia/notex/
-shop: Computer
+shop: ordenador
 ---

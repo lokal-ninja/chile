@@ -1,5 +1,5 @@
 ---
 title: "Dumay"
 url: /providencia/dumay/
-shop: Autohaus
+shop: coche
 ---

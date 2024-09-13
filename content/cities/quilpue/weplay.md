@@ -1,5 +1,5 @@
 ---
 title: "Weplay"
 url: /quilpue/weplay/
-shop: Videospiele
+shop: videojuegos
 ---

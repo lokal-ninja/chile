@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /providencia/barbershop/
-shop: Friseur
+shop: peluquería
 ---

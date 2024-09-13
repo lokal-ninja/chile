@@ -1,5 +1,5 @@
 ---
 title: "Cafuné"
 url: /antofagasta/cafune/
-shop: Kosmetik
+shop: cosméticos
 ---

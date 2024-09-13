@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
 url: /puerto-varas/hush-puppies/
-shop: Schuhe
+shop: zapatos
 ---

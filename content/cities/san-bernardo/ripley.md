@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /san-bernardo/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

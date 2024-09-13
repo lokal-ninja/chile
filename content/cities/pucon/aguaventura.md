@@ -1,5 +1,5 @@
 ---
 title: "Aguaventura"
 url: /pucon/aguaventura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

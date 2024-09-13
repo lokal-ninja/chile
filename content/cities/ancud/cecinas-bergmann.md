@@ -1,5 +1,5 @@
 ---
 title: "Cecinas Bergmann"
 url: /ancud/cecinas-bergmann/
-shop: Metzgerei
+shop: carnicero
 ---

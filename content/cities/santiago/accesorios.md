@@ -1,5 +1,5 @@
 ---
 title: "Accesorios"
 url: /santiago/accesorios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

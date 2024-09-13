@@ -1,5 +1,5 @@
 ---
 title: "Carolina Herrera"
 url: /vitacura/carolina-herrera/
-shop: Modehaus
+shop: tienda
 ---

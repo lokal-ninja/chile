@@ -1,5 +1,5 @@
 ---
 title: "Buses Ivergrama"
 url: /valdivia/buses-ivergrama/
-shop: Tickets
+shop: entradas
 ---

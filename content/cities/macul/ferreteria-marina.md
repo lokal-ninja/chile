@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Marina"
 url: /macul/ferreteria-marina/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fereteria"
 url: /lo-barnechea/fereteria/
-shop: Eisenwaren
+shop: hardware
 ---

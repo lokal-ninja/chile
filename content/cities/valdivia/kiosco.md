@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /valdivia/kiosco/
-shop: Kiosk
+shop: quiosco
 ---

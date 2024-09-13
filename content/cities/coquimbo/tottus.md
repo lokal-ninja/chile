@@ -1,5 +1,5 @@
 ---
 title: "Tottus"
 url: /coquimbo/tottus/
-shop: Supermarkt
+shop: supermercado
 ---

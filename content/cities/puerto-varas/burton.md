@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /puerto-varas/burton/
-shop: Kleidung
+shop: ropa
 ---

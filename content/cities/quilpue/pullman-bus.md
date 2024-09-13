@@ -1,5 +1,5 @@
 ---
 title: "Pullman Bus"
 url: /quilpue/pullman-bus/
-shop: Tickets
+shop: entradas
 ---

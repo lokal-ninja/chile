@@ -1,5 +1,5 @@
 ---
 title: "Rayuela"
 url: /ushuaia/rayuela-paseo-san-martin/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Oelckers"
 url: /hornopiren/supermercado-oelckers/
-shop: Supermarkt
+shop: supermercado
 ---

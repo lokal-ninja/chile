@@ -1,5 +1,5 @@
 ---
 title: "Covepa"
 url: /castro/covepa/
-shop: Landwirtschaftlich
+shop: agraria
 ---

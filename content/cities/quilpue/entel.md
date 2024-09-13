@@ -1,5 +1,5 @@
 ---
 title: "entel"
 url: /quilpue/entel/
-shop: Handy
+shop: teléfono móvil
 ---

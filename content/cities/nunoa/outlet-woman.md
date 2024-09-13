@@ -1,5 +1,5 @@
 ---
 title: "Outlet Woman"
 url: /nunoa/outlet-woman/
-shop: Kleidung
+shop: ropa
 ---

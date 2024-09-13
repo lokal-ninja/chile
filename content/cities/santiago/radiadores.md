@@ -1,5 +1,5 @@
 ---
 title: "Radiadores"
 url: /santiago/radiadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

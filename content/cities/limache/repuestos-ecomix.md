@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Ecomix"
 url: /limache/repuestos-ecomix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

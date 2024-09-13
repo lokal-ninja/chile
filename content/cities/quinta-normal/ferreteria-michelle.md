@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Michelle"
 url: /quinta-normal/ferreteria-michelle/
-shop: Eisenwaren
+shop: hardware
 ---

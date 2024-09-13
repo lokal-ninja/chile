@@ -1,5 +1,5 @@
 ---
 title: "Astara Retail"
 url: /conchali/astara-retail/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sodimac"
 url: /vina-del-mar/sodimac/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

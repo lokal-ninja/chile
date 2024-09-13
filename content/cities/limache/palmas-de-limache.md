@@ -1,5 +1,5 @@
 ---
 title: "Palmas de Limache"
 url: /limache/palmas-de-limache/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

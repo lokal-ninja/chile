@@ -1,5 +1,5 @@
 ---
 title: "Vispi"
 url: /vitacura/vispi/
-shop: Babysachen
+shop: artículos para bebés
 ---

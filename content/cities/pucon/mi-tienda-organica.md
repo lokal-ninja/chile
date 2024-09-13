@@ -1,5 +1,5 @@
 ---
 title: "Mi Tienda Orgánica"
 url: /pucon/mi-tienda-organica/
-shop: Supermarkt
+shop: supermercado
 ---

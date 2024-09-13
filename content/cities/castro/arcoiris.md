@@ -1,5 +1,5 @@
 ---
 title: "Arcoiris"
 url: /castro/arcoiris/
-shop: Supermarkt
+shop: supermercado
 ---

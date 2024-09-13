@@ -1,5 +1,5 @@
 ---
 title: "Carmona y Cía."
 url: /la-serena/carmona-y-cia/
-shop: Autohaus
+shop: coche
 ---

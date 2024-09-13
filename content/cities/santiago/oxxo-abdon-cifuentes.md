@@ -1,5 +1,5 @@
 ---
 title: "Oxxo"
 url: /santiago/oxxo-abdon-cifuentes/
-shop: Lebensmittel
+shop: comodidad
 ---

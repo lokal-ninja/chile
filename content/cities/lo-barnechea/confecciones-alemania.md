@@ -1,5 +1,5 @@
 ---
 title: "Confecciones Alemania"
 url: /lo-barnechea/confecciones-alemania/
-shop: Süßwaren
+shop: confitería
 ---

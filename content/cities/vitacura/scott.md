@@ -1,5 +1,5 @@
 ---
 title: "Scott"
 url: /vitacura/scott/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /valdivia/minimarket-ignacio-de-la-carrera/
-shop: Lebensmittel
+shop: comodidad
 ---

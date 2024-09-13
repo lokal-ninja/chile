@@ -1,5 +1,5 @@
 ---
 title: "SyD"
 url: /providencia/syd/
-shop: Handy
+shop: teléfono móvil
 ---

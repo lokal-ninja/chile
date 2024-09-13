@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /san-bernardo/claro/
-shop: Handy
+shop: teléfono móvil
 ---

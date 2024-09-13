@@ -1,5 +1,5 @@
 ---
 title: "Teletrak"
 url: /quinta-normal/teletrak/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

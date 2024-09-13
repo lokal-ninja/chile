@@ -1,5 +1,5 @@
 ---
 title: "Polarizado Black Truck"
 url: /santiago/polarizado-black-truck/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Devir Chile"
 url: /providencia/tienda-devir-chile/
-shop: Allgemein
+shop: general
 ---

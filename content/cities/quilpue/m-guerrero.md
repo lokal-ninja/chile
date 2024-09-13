@@ -1,5 +1,5 @@
 ---
 title: "M. Guerrero"
 url: /quilpue/m-guerrero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

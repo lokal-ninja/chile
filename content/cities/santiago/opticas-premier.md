@@ -1,5 +1,5 @@
 ---
 title: "Opticas Premier"
 url: /santiago/opticas-premier/
-shop: Optiker
+shop: óptico
 ---

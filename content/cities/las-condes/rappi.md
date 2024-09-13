@@ -1,5 +1,5 @@
 ---
 title: "Rappi"
 url: /las-condes/rappi/
-shop: Lebensmittel
+shop: comodidad
 ---

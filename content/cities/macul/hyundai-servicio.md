@@ -1,5 +1,5 @@
 ---
 title: "Hyundai Servicio"
 url: /macul/hyundai-servicio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

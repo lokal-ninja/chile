@@ -1,5 +1,5 @@
 ---
 title: "La Felicidad"
 url: /quilpue/la-felicidad/
-shop: Lebensmittel
+shop: comodidad
 ---

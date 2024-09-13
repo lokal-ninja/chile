@@ -1,5 +1,5 @@
 ---
 title: "Katari Bike"
 url: /antofagasta/katari-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

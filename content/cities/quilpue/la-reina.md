@@ -1,5 +1,5 @@
 ---
 title: "La Reina"
 url: /quilpue/la-reina/
-shop: Lebensmittel
+shop: comodidad
 ---

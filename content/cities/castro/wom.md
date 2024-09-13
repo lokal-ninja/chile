@@ -1,5 +1,5 @@
 ---
 title: "WOM"
 url: /castro/wom/
-shop: Handy
+shop: teléfono móvil
 ---

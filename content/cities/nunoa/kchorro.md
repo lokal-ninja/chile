@@ -1,5 +1,5 @@
 ---
 title: "kchorro"
 url: /nunoa/kchorro/
-shop: Tiersalon
+shop: peluquería canina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audiomúsica"
 url: /providencia/audiomusica/
-shop: Instrumente
+shop: instrumento musical
 ---

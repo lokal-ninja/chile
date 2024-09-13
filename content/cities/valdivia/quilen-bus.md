@@ -1,5 +1,5 @@
 ---
 title: "Quilen Bus"
 url: /valdivia/quilen-bus/
-shop: Tickets
+shop: entradas
 ---

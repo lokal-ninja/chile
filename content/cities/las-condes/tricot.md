@@ -1,5 +1,5 @@
 ---
 title: "Tricot"
 url: /las-condes/tricot/
-shop: Warenhaus
+shop: grandes almacenes
 ---

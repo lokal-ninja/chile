@@ -1,5 +1,5 @@
 ---
 title: "Paseo Araucarias"
 url: /limache/paseo-araucarias/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Los Amigos"
 url: /el-quisco/supermercado-los-amigos/
-shop: Dorfladen
+shop: tienda rural
 ---

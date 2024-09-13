@@ -1,5 +1,5 @@
 ---
 title: "Neumaticos San Jorge"
 url: /valdivia/neumaticos-san-jorge/
-shop: Reifen
+shop: neumáticos
 ---

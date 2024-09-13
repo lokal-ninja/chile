@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /rancagua/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

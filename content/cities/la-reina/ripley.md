@@ -1,5 +1,5 @@
 ---
 title: "Ripley"
 url: /la-reina/ripley/
-shop: Warenhaus
+shop: grandes almacenes
 ---

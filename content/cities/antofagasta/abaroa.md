@@ -1,5 +1,5 @@
 ---
 title: "Abaroa"
 url: /antofagasta/abaroa/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

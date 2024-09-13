@@ -1,5 +1,5 @@
 ---
 title: "Maui"
 url: /penalolen/maui/
-shop: Kleidung
+shop: ropa
 ---

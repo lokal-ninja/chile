@@ -1,5 +1,5 @@
 ---
 title: "Nata's"
 url: /providencia/natas/
-shop: Bäckerei
+shop: panadería
 ---

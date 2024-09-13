@@ -1,5 +1,5 @@
 ---
 title: "VINET"
 url: /temuco/vinet/
-shop: Autohaus
+shop: coche
 ---

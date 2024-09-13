@@ -1,5 +1,5 @@
 ---
 title: "Glamurosa Estética Integral"
 url: /concon/glamurosa-estetica-integral/
-shop: Kosmetik
+shop: cosméticos
 ---

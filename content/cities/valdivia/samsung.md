@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /valdivia/samsung/
-shop: Handy
+shop: teléfono móvil
 ---

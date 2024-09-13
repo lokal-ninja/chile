@@ -1,5 +1,5 @@
 ---
 title: "Imperial"
 url: /penalolen/imperial/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

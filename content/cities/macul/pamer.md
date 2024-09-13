@@ -1,5 +1,5 @@
 ---
 title: "Pamer"
 url: /macul/pamer/
-shop: Spirituosen
+shop: alcohol
 ---

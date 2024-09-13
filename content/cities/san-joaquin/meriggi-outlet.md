@@ -1,5 +1,5 @@
 ---
 title: "Meriggi - Outlet"
 url: /san-joaquin/meriggi-outlet/
-shop: Gardinen
+shop: cortina
 ---

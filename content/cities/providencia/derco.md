@@ -1,5 +1,5 @@
 ---
 title: "Derco"
 url: /providencia/derco/
-shop: Autohaus
+shop: coche
 ---

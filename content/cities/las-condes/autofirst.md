@@ -1,5 +1,5 @@
 ---
 title: "Autofirst"
 url: /las-condes/autofirst/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

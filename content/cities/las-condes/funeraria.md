@@ -1,5 +1,5 @@
 ---
 title: "Funeraria"
 url: /las-condes/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

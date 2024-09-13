@@ -1,5 +1,5 @@
 ---
 title: "Pasteleria Doña Peta"
 url: /santiago/pasteleria-dona-peta/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schiller"
 url: /quilpue/schiller-buenos-aires/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /concepcion/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

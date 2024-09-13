@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /providencia/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

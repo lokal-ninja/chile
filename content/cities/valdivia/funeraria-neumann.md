@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Neumann"
 url: /valdivia/funeraria-neumann/
-shop: Bestattungen
+shop: directores de funerarias
 ---

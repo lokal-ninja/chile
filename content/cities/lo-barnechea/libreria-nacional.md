@@ -1,5 +1,5 @@
 ---
 title: "Libreria Nacional"
 url: /lo-barnechea/libreria-nacional/
-shop: Bücher
+shop: libros
 ---

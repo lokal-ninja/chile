@@ -1,5 +1,5 @@
 ---
 title: "Confecciones Kanalé"
 url: /antofagasta/confecciones-kanale/
-shop: Kleidung
+shop: ropa
 ---

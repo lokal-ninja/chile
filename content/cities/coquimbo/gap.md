@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /coquimbo/gap/
-shop: Kleidung
+shop: ropa
 ---

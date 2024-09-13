@@ -1,5 +1,5 @@
 ---
 title: "Topmedic"
 url: /providencia/topmedic/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Las Violetas"
 url: /providencia/supermercado-las-violetas/
-shop: Lebensmittel
+shop: comodidad
 ---

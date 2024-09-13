@@ -1,5 +1,5 @@
 ---
 title: "París"
 url: /osorno/paris/
-shop: Warenhaus
+shop: grandes almacenes
 ---

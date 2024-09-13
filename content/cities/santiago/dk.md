@@ -1,5 +1,5 @@
 ---
 title: "DK"
 url: /santiago/dk/
-shop: Autoteile
+shop: piezas de automóviles
 ---

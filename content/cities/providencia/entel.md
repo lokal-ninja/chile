@@ -1,5 +1,5 @@
 ---
 title: "Entel"
 url: /providencia/entel/
-shop: Handy
+shop: teléfono móvil
 ---

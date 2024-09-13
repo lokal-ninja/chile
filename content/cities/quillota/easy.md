@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /quillota/easy/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---
