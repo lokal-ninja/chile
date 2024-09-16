@@ -1,11 +1,11 @@
 id: 1092239501
-type: way
+type: node
 latitude: -38.73551
 longitude: -72.58849
 postcode: ""
 city: Temuco
-street: "Manuel Bulnes"
-housenumber: 204
+street: Manuel Bulnes
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

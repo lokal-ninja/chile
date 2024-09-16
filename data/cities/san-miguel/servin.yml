@@ -1,11 +1,11 @@
 id: 451434640
-type: way
+type: node
 latitude: -33.50636
 longitude: -70.64314
 postcode: ""
 city: San Miguel
-street: "Avenida Departamental"
-housenumber: 614
+street: Avenida Departamental
+housenumber: "614"
 phone: "+56225112020"
 opening_hours: ""
-website: "https://lubricentroservin.cl/"
+website: https://lubricentroservin.cl/

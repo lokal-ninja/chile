@@ -1,11 +1,11 @@
 id: 601901771
-type: way
+type: node
 latitude: -33.57496
 longitude: -70.6914
 postcode: ""
 city: El Bosque
-street: "Gran Avenida José Miguel Carrera"
-housenumber: 13125
+street: Gran Avenida José Miguel Carrera
+housenumber: "13125"
 phone: ""
 opening_hours: ""
 website: ""

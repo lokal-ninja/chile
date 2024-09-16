@@ -1,11 +1,11 @@
 id: 263495034
-type: way
+type: node
 latitude: -33.43321
 longitude: -70.77085
 postcode: ""
 city: Pudahuel
-street: "Avenida El Tranque"
-housenumber: 1292
+street: Avenida El Tranque
+housenumber: "1292"
 phone: ""
 opening_hours: ""
-website: "http://www.ekono.cl/"
+website: http://www.ekono.cl/

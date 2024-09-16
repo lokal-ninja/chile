@@ -1,11 +1,11 @@
 id: 571156320
-type: way
+type: node
 latitude: -33.01734
 longitude: -71.55703
 postcode: ""
 city: Viña del Mar
-street: "5 Poniente"
-housenumber: 413
+street: 5 Poniente
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

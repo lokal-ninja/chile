@@ -1,11 +1,11 @@
 id: 899624589
-type: way
+type: node
 latitude: -54.80822
 longitude: -68.30965
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Avenida Maipú"
-housenumber: 857
+street: Avenida Maipú
+housenumber: "857"
 phone: ""
 opening_hours: ""
 website: ""

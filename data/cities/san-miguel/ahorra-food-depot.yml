@@ -1,11 +1,11 @@
 id: 450812208
-type: way
+type: node
 latitude: -33.51319
 longitude: -70.65792
 postcode: ""
 city: San Miguel
-street: "Gran Avenida José Miguel Carrera"
-housenumber: 6279
+street: Gran Avenida José Miguel Carrera
+housenumber: "6279"
 phone: ""
 opening_hours: ""
 website: ""

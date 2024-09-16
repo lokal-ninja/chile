@@ -1,11 +1,11 @@
 id: 545582792
-type: way
+type: node
 latitude: -33.02432
 longitude: -71.55456
 postcode: ""
 city: Viña del Mar
-street: "Álvarez"
-housenumber: 730
+street: Álvarez
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

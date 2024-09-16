@@ -1,11 +1,11 @@
 id: 830831448
-type: way
+type: node
 latitude: -54.80794
 longitude: -68.31555
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Manuel Belgrano"
-housenumber: 220
+street: Manuel Belgrano
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

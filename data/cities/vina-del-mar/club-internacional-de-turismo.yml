@@ -1,11 +1,11 @@
 id: 725452614
-type: way
+type: node
 latitude: -33.01782
 longitude: -71.5494
 postcode: ""
 city: Viña del Mar
-street: "1 Oriente"
-housenumber: 475
+street: 1 Oriente
+housenumber: "475"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 371296095
-type: way
+type: node
 latitude: -33.46391
 longitude: -70.70495
 postcode: ""
 city: Santiago
-street: "Avenida Las Rejas Sur"
-housenumber: 854
+street: Avenida Las Rejas Sur
+housenumber: "854"
 phone: ""
 opening_hours: ""
 website: ""

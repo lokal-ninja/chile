@@ -1,11 +1,11 @@
 id: 323931835
-type: way
+type: node
 latitude: -38.73154
 longitude: -72.57457
 postcode: ""
 city: Temuco
-street: "Avenida Barros Arana"
-housenumber: 308
+street: Avenida Barros Arana
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

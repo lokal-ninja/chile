@@ -1,11 +1,11 @@
 id: 1211354086
-type: way
+type: node
 latitude: -33.49116
 longitude: -70.54026
 postcode: ""
 city: Peñalolén
-street: "Avenida Las Perdices"
-housenumber: 2990
+street: Avenida Las Perdices
+housenumber: "2990"
 phone: ""
 opening_hours: ""
 website: ""

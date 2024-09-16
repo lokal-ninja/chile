@@ -1,11 +1,11 @@
 id: 1040083954
-type: way
+type: node
 latitude: -41.46682
 longitude: -72.96145
 postcode: ""
 city: Puerto Montt
-street: "Santa Inés"
-housenumber: 1047
+street: Santa Inés
+housenumber: "1047"
 phone: ""
 opening_hours: ""
 website: ""

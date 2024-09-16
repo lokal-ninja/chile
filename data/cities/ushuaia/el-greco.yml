@@ -1,11 +1,11 @@
 id: 829063753
-type: way
+type: node
 latitude: -54.80628
 longitude: -68.30639
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "25 de Mayo"
-housenumber: 155
+street: 25 de Mayo
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

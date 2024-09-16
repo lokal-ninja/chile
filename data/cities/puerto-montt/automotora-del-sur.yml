@@ -1,11 +1,11 @@
 id: 978188808
-type: way
+type: node
 latitude: -41.46282
 longitude: -72.94011
 postcode: ""
 city: Puerto Montt
-street: "Rupanco"
-housenumber: 7788
+street: Rupanco
+housenumber: "7788"
 phone: ""
 opening_hours: ""
 website: ""

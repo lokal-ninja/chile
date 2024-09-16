@@ -1,11 +1,11 @@
 id: 742345375
-type: way
+type: node
 latitude: -33.37498
 longitude: -70.71896
 postcode: ""
 city: Quilicura
-street: "Avenida Américo Vespucio"
-housenumber: 1641
+street: Avenida Américo Vespucio
+housenumber: "1641"
 phone: ""
 opening_hours: ""
 website: ""

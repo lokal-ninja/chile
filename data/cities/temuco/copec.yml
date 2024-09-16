@@ -1,11 +1,11 @@
 id: 426692999
-type: way
+type: node
 latitude: -38.73459
 longitude: -72.57805
 postcode: ""
 city: Temuco
-street: "Avenida Balmaceda"
-housenumber: 1615
+street: Avenida Balmaceda
+housenumber: "1615"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

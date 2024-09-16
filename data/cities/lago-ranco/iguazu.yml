@@ -1,11 +1,11 @@
 id: 1154166422
-type: way
+type: node
 latitude: -40.32464
 longitude: -72.48127
 postcode: ""
 city: Lago Ranco
-street: "Concepción"
-housenumber: 341
+street: Concepción
+housenumber: "341"
 phone: ""
 opening_hours: ""
-website: "https://supermercado.delranco.cl/iguazu"
+website: https://supermercado.delranco.cl/iguazu

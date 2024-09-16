@@ -1,11 +1,11 @@
 id: 155378746
-type: way
+type: node
 latitude: -36.61542
 longitude: -72.09382
 postcode: ""
 city: Chillán
-street: "Central"
-housenumber: 93
+street: Central
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

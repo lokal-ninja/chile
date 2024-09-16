@@ -1,11 +1,11 @@
 id: 810359632
-type: way
+type: node
 latitude: -33.45166
 longitude: -70.6482
 postcode: ""
 city: Santiago
-street: "Arturo Prat"
-housenumber: 544
+street: Arturo Prat
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

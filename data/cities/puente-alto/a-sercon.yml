@@ -1,11 +1,11 @@
 id: 638386240
-type: way
+type: node
 latitude: -33.61794
 longitude: -70.62257
 postcode: ""
 city: Puente Alto
-street: "Avenida Eyzaguirre"
-housenumber: 3805
-phone: "+56 22 780 3637"
+street: Avenida Eyzaguirre
+housenumber: "3805"
+phone: +56 22 780 3637
 opening_hours: ""
 website: ""

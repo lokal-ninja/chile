@@ -1,11 +1,11 @@
 id: 916669453
-type: way
+type: node
 latitude: -38.74213
 longitude: -72.63945
 postcode: ""
 city: Temuco
-street: "Avenida Las Encinas"
-housenumber: 02470
+street: Avenida Las Encinas
+housenumber: "02470"
 phone: ""
 opening_hours: ""
 website: ""

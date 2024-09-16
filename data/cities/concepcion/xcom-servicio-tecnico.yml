@@ -4,8 +4,8 @@ latitude: -36.82752
 longitude: -73.05621
 postcode: "4030603"
 city: Concepcion
-street: "Freire"
-housenumber: 247
+street: Freire
+housenumber: "247"
 phone: "+56412909725"
-opening_hours: "10:00-19:00"
-website: "https://www.xcom.cl/"
+opening_hours: 10:00-19:00
+website: https://www.xcom.cl/

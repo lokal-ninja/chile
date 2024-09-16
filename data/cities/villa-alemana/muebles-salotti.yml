@@ -1,11 +1,11 @@
 id: 1080419442
-type: way
+type: node
 latitude: -33.03957
 longitude: -71.37563
 postcode: ""
 city: Villa Alemana
-street: "Madrid"
-housenumber: 895
+street: Madrid
+housenumber: "895"
 phone: ""
 opening_hours: ""
 website: ""

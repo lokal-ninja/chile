@@ -1,11 +1,11 @@
 id: 445535350
-type: way
+type: node
 latitude: -33.38608
 longitude: -70.56111
 postcode: ""
 city: Vitacura
-street: "Avenida Vitacura"
-housenumber: 7649
+street: Avenida Vitacura
+housenumber: "7649"
 phone: ""
 opening_hours: ""
 website: ""

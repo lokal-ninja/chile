@@ -1,11 +1,11 @@
 id: 1188206635
-type: way
+type: node
 latitude: -38.99275
 longitude: -72.63453
 postcode: ""
 city: Pitrufquén
-street: "Pedro León Gallo Sur"
-housenumber: 1055
+street: Pedro León Gallo Sur
+housenumber: "1055"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

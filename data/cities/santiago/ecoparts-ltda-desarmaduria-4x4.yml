@@ -4,8 +4,8 @@ latitude: -33.45396
 longitude: -70.64401
 postcode: ""
 city: Santiago
-street: "Avenida Santa Rosa"
-housenumber: 745
+street: Avenida Santa Rosa
+housenumber: "745"
 phone: "+56226352639"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"
-website: "https://www.ecoparts.cl/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00
+website: https://www.ecoparts.cl/

@@ -1,11 +1,11 @@
 id: 116544533
-type: way
+type: node
 latitude: -36.81776
 longitude: -73.03326
 postcode: ""
 city: Concepción
-street: "Avenida San Juan Bosco"
-housenumber: 2084
+street: Avenida San Juan Bosco
+housenumber: "2084"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.lider.cl"
+opening_hours: 08:00-21:00
+website: https://www.lider.cl

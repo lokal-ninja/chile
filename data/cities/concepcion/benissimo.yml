@@ -1,11 +1,11 @@
 id: 1215633630
-type: way
+type: node
 latitude: -36.82876
 longitude: -73.04949
 postcode: ""
 city: Concepción
-street: "San Martín"
-housenumber: 634
+street: San Martín
+housenumber: "634"
 phone: ""
 opening_hours: ""
 website: ""

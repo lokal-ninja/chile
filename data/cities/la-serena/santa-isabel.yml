@@ -1,11 +1,11 @@
 id: 369888413
-type: way
+type: node
 latitude: -29.9032
 longitude: -71.24792
 postcode: ""
 city: La Serena
-street: "Cienfuegos"
-housenumber: 509
+street: Cienfuegos
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

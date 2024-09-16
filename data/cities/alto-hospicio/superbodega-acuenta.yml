@@ -1,11 +1,11 @@
 id: 417889907
-type: way
+type: node
 latitude: -20.27484
 longitude: -70.09508
 postcode: ""
 city: Alto Hospicio
-street: "Santa Paula"
-housenumber: 27
+street: Santa Paula
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

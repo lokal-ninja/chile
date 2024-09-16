@@ -1,11 +1,11 @@
 id: 436322093
-type: way
+type: node
 latitude: -39.81356
 longitude: -73.24204
 postcode: ""
 city: Valdivia
-street: "Chacabuco"
-housenumber: 555
+street: Chacabuco
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

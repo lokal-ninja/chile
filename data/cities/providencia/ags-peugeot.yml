@@ -1,11 +1,11 @@
 id: 446010458
-type: way
+type: node
 latitude: -33.44329
 longitude: -70.59924
 postcode: ""
 city: Providencia
-street: "Avenida Los Leones"
-housenumber: 2664
+street: Avenida Los Leones
+housenumber: "2664"
 phone: ""
 opening_hours: ""
 website: ""

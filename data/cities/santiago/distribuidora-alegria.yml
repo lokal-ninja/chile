@@ -1,11 +1,11 @@
 id: 1025085395
-type: way
+type: node
 latitude: -33.46963
 longitude: -70.63397
 postcode: ""
 city: Santiago
-street: "Sierra Bella"
-housenumber: 1897
+street: Sierra Bella
+housenumber: "1897"
 phone: ""
 opening_hours: ""
 website: ""

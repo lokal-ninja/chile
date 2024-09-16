@@ -1,11 +1,11 @@
 id: 779162261
-type: way
+type: node
 latitude: -38.53296
 longitude: -72.43582
 postcode: ""
 city: Lautaro
-street: "Bernardo O'Higgins"
-housenumber: 964
+street: Bernardo O'Higgins
+housenumber: "964"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -33.45601
 longitude: -70.64389
 postcode: ""
 city: Santiago
-street: "Avenida Santa Rosa"
-housenumber: 905
-phone: "+562 22225682"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.erbi.cl/santiago5.html"
+street: Avenida Santa Rosa
+housenumber: "905"
+phone: +562 22225682
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.erbi.cl/santiago5.html

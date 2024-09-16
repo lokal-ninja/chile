@@ -1,11 +1,11 @@
 id: 400341014
-type: way
+type: node
 latitude: -36.59867
 longitude: -72.09934
 postcode: ""
 city: Chillán
-street: "Avenida Ecuador"
-housenumber: 599
+street: Avenida Ecuador
+housenumber: "599"
 phone: ""
 opening_hours: ""
 website: ""

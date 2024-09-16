@@ -1,11 +1,11 @@
 id: 557133913
-type: way
+type: node
 latitude: -32.9295
 longitude: -71.51744
 postcode: "2510000"
 city: Concón
-street: "Manantiales"
-housenumber: 955
+street: Manantiales
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

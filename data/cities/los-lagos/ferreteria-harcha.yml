@@ -1,11 +1,11 @@
 id: 505191869
-type: way
+type: node
 latitude: -39.86225
 longitude: -72.81594
 postcode: ""
 city: Los Lagos
-street: "San Martín"
-housenumber: 167
+street: San Martín
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

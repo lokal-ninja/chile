@@ -1,11 +1,11 @@
 id: 1118166221
-type: way
+type: node
 latitude: -39.81215
 longitude: -73.2481
 postcode: ""
 city: Valdivia
-street: "Avenida Arturo Prat"
-housenumber: 
+street: Avenida Arturo Prat
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

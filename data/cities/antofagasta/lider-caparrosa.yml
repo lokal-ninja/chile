@@ -1,11 +1,11 @@
 id: 217176084
-type: way
+type: node
 latitude: -23.56375
 longitude: -70.3908
 postcode: "1200000"
 city: Antofagasta
-street: "Caparrosa"
-housenumber: 355
+street: Caparrosa
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

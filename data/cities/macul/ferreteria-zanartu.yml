@@ -1,11 +1,11 @@
 id: 447311522
-type: way
+type: node
 latitude: -33.47293
 longitude: -70.60657
 postcode: ""
 city: Macul
-street: "Avenida Pedro de Valdivia"
-housenumber: 5333
+street: Avenida Pedro de Valdivia
+housenumber: "5333"
 phone: ""
 opening_hours: ""
 website: ""

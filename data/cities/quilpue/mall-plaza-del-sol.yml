@@ -1,11 +1,11 @@
 id: 177372364
-type: way
+type: node
 latitude: -33.04657
 longitude: -71.44146
 postcode: ""
 city: Quilpué
-street: "Diego Portales"
-housenumber: 822
-phone: "+56 32 272 2020"
-opening_hours: "Mo-Su 11:00-22:30"
-website: "https://www.mallplazadelsol.cl/"
+street: Diego Portales
+housenumber: "822"
+phone: +56 32 272 2020
+opening_hours: Mo-Su 11:00-22:30
+website: https://www.mallplazadelsol.cl/

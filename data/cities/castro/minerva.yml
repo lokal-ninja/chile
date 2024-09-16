@@ -1,11 +1,11 @@
 id: 342234451
-type: way
+type: node
 latitude: -42.47355
 longitude: -73.77526
 postcode: ""
 city: Castro
-street: "Camilo Henríquez"
-housenumber: 566
+street: Camilo Henríquez
+housenumber: "566"
 phone: ""
 opening_hours: ""
 website: ""

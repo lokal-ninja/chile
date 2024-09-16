@@ -1,11 +1,11 @@
 id: 445969954
-type: way
+type: node
 latitude: -33.59654
 longitude: -70.70093
 postcode: ""
 city: Santiago
-street: "José Joaquín Pérez"
-housenumber: 673
+street: José Joaquín Pérez
+housenumber: "673"
 phone: ""
 opening_hours: ""
 website: ""

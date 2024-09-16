@@ -1,11 +1,11 @@
 id: 545582789
-type: way
+type: node
 latitude: -33.02458
 longitude: -71.55743
 postcode: ""
 city: Viña del Mar
-street: "Villanelo"
-housenumber: 236
+street: Villanelo
+housenumber: "236"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-21:00"
-website: "https://www.santaisabel.cl/"
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-21:00
+website: https://www.santaisabel.cl/

@@ -1,11 +1,11 @@
 id: 1007360148
-type: way
+type: node
 latitude: -33.04286
 longitude: -71.35997
 postcode: ""
 city: Villa Alemana
-street: "Baquedano"
-housenumber: 841
+street: Baquedano
+housenumber: "841"
 phone: ""
 opening_hours: ""
 website: ""

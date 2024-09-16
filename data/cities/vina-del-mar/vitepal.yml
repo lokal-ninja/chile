@@ -1,11 +1,11 @@
 id: 700206369
-type: way
+type: node
 latitude: -33.00272
 longitude: -71.54396
 postcode: ""
 city: Viña del Mar
-street: "Avenida Alessandri"
-housenumber: 1055
+street: Avenida Alessandri
+housenumber: "1055"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 141650732
-type: way
+type: node
 latitude: -29.97602
 longitude: -71.29844
 postcode: ""
 city: Coquimbo
-street: "Avenida La Cantera"
-housenumber: 2325
+street: Avenida La Cantera
+housenumber: "2325"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00"
+opening_hours: Mo-Fr 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1189442485
-type: way
+type: node
 latitude: -36.84436
 longitude: -73.09783
 postcode: ""
 city: San Pedro de la Paz
-street: "Los Canelos"
-housenumber: 103
+street: Los Canelos
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

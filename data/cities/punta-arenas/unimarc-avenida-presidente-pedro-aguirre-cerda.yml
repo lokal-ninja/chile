@@ -1,11 +1,11 @@
 id: 567969869
-type: way
+type: node
 latitude: -53.17161
 longitude: -70.94428
 postcode: ""
 city: Punta Arenas
-street: "Avenida Presidente Pedro Aguirre Cerda"
-housenumber: 413
+street: Avenida Presidente Pedro Aguirre Cerda
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

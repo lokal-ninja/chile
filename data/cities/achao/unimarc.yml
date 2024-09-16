@@ -1,11 +1,11 @@
 id: 444435954
-type: way
+type: node
 latitude: -42.47019
 longitude: -73.48863
 postcode: ""
 city: Achao
-street: "Delicias"
-housenumber: 06
+street: Delicias
+housenumber: "06"
 phone: ""
 opening_hours: ""
 website: ""

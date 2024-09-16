@@ -1,11 +1,11 @@
 id: 450109654
-type: way
+type: node
 latitude: -33.43894
 longitude: -70.69381
 postcode: ""
 city: Quinta Normal
-street: "San Pablo"
-housenumber: 4326
+street: San Pablo
+housenumber: "4326"
 phone: ""
 opening_hours: ""
 website: ""

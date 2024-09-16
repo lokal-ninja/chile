@@ -1,11 +1,11 @@
 id: 687210392
-type: way
+type: node
 latitude: -36.82602
 longitude: -73.04796
 postcode: ""
 city: Concepción
-street: "Barros Arana"
-housenumber: 802
+street: Barros Arana
+housenumber: "802"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; PH 11:00-18:30"
+opening_hours: Mo-Sa 09:30-19:30; PH 11:00-18:30
 website: ""

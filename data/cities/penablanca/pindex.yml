@@ -1,11 +1,11 @@
 id: 1295074228
-type: way
+type: node
 latitude: -33.04574
 longitude: -71.35597
 postcode: ""
 city: Peñablanca
-street: "Avenida Victoria"
-housenumber: 0487
+street: Avenida Victoria
+housenumber: "0487"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 433406550
-type: way
+type: node
 latitude: -40.2972
 longitude: -73.08001
 postcode: ""
 city: La Unión
-street: "Comercio"
-housenumber: 682
+street: Comercio
+housenumber: "682"
 phone: ""
 opening_hours: ""
 website: ""

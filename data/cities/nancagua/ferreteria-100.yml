@@ -1,11 +1,11 @@
 id: 699510791
-type: way
+type: node
 latitude: -34.65215
 longitude: -71.20478
 postcode: ""
 city: Nancagua
-street: "José Domingo Jaramillo"
-housenumber: 143
+street: José Domingo Jaramillo
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

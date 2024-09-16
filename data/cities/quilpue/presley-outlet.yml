@@ -1,11 +1,11 @@
 id: 422126969
-type: way
+type: node
 latitude: -33.04801
 longitude: -71.44304
 postcode: ""
 city: Quilpué
-street: "Diego Portales"
-housenumber: 715
+street: Diego Portales
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

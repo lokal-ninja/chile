@@ -1,11 +1,11 @@
 id: 446188745
-type: way
+type: node
 latitude: -33.41723
 longitude: -70.65692
 postcode: ""
 city: Independencia
-street: "Avenida Independencia"
-housenumber: 1120
+street: Avenida Independencia
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

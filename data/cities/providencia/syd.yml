@@ -5,7 +5,7 @@ longitude: -70.60326
 postcode: ""
 city: Providencia
 street: ""
-housenumber: 100
-phone: "+56 2 2946 5090"
+housenumber: "100"
+phone: +56 2 2946 5090
 opening_hours: ""
-website: "https://syd.cl/"
+website: https://syd.cl/

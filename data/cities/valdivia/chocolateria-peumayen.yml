@@ -4,8 +4,8 @@ latitude: -39.81541
 longitude: -73.24617
 postcode: ""
 city: Valdivia
-street: "Arauco"
-housenumber: 241
+street: Arauco
+housenumber: "241"
 phone: "+56632241051"
-opening_hours: "Mo-Fr 09:15-20:00; Sa 10:00-19:30"
-website: "https://www.chocolateriapeumayen.cl/"
+opening_hours: Mo-Fr 09:15-20:00; Sa 10:00-19:30
+website: https://www.chocolateriapeumayen.cl/

@@ -1,11 +1,11 @@
 id: 891714937
-type: way
+type: node
 latitude: -40.30007
 longitude: -73.05746
 postcode: "5220000"
 city: La Unión
-street: "Las Camelias"
-housenumber: 2
+street: Las Camelias
+housenumber: "2"
 phone: "+56983440918"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1025325765
-type: way
+type: node
 latitude: -33.47247
 longitude: -70.63448
 postcode: ""
 city: Santiago
-street: "Franklin"
-housenumber: 460
+street: Franklin
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

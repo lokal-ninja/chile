@@ -1,11 +1,11 @@
 id: 433449742
-type: way
+type: node
 latitude: -40.29806
 longitude: -73.07375
 postcode: ""
 city: La Unión
-street: "Francisco Bilbao"
-housenumber: 968
+street: Francisco Bilbao
+housenumber: "968"
 phone: ""
 opening_hours: ""
 website: ""

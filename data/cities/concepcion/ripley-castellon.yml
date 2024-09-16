@@ -1,11 +1,11 @@
 id: 826948564
-type: way
+type: node
 latitude: -36.82486
 longitude: -73.04757
 postcode: ""
 city: Concepción
-street: "Castellón"
-housenumber: 520
+street: Castellón
+housenumber: "520"
 phone: ""
-opening_hours: "Mo-Su 09:30-19:30"
+opening_hours: Mo-Su 09:30-19:30
 website: ""

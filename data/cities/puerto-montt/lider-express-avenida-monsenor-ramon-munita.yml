@@ -1,11 +1,11 @@
 id: 1016273200
-type: way
+type: node
 latitude: -41.45536
 longitude: -72.93412
 postcode: ""
 city: Puerto Montt
-street: "Avenida Monseñor Ramón Munita"
-housenumber: 1625
+street: Avenida Monseñor Ramón Munita
+housenumber: "1625"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

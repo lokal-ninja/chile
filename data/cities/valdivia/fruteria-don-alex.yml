@@ -1,11 +1,11 @@
 id: 437523625
-type: way
+type: node
 latitude: -39.82664
 longitude: -73.23646
 postcode: ""
 city: Valdivia
-street: "Avenida Pedro Montt"
-housenumber: 1749
+street: Avenida Pedro Montt
+housenumber: "1749"
 phone: ""
 opening_hours: ""
 website: ""

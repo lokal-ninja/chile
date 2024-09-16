@@ -1,11 +1,11 @@
 id: 96310624
-type: way
+type: node
 latitude: -41.31675
 longitude: -72.98641
 postcode: ""
 city: Puerto Varas
-street: "Avenida Gramado"
-housenumber: 560
+street: Avenida Gramado
+housenumber: "560"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 147217523
-type: way
+type: node
 latitude: -41.4621
 longitude: -72.94801
 postcode: ""
 city: Puerto Montt
-street: "Avenida Presidente Ibáñez"
-housenumber: 650
+street: Avenida Presidente Ibáñez
+housenumber: "650"
 phone: ""
-opening_hours: "Mo-Su 08:30-19:30"
+opening_hours: Mo-Su 08:30-19:30
 website: ""

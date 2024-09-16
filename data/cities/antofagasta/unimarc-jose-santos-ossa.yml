@@ -1,11 +1,11 @@
 id: 111473531
-type: way
+type: node
 latitude: -23.65226
 longitude: -70.39641
 postcode: ""
 city: Antofagasta
-street: "José Santos Ossa"
-housenumber: 2350
+street: José Santos Ossa
+housenumber: "2350"
 phone: ""
 opening_hours: ""
 website: ""

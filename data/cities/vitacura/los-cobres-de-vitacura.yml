@@ -1,11 +1,11 @@
 id: 544675552
-type: way
+type: node
 latitude: -33.38759
 longitude: -70.56691
 postcode: ""
 city: Vitacura
-street: "Avenida Vitacura"
-housenumber: 6780
-phone: "+56 2 2219 1623"
+street: Avenida Vitacura
+housenumber: "6780"
+phone: +56 2 2219 1623
 opening_hours: ""
-website: "http://www.loscobresdevitacura.cl"
+website: http://www.loscobresdevitacura.cl

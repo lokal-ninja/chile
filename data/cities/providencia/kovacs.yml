@@ -1,11 +1,11 @@
 id: 447143209
-type: way
+type: node
 latitude: -33.44545
 longitude: -70.62926
 postcode: ""
 city: Providencia
-street: "Seminario"
-housenumber: 385
+street: Seminario
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

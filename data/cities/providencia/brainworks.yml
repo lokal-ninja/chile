@@ -1,11 +1,11 @@
 id: 638106449
-type: way
+type: node
 latitude: -33.44552
 longitude: -70.63041
 postcode: ""
 city: Providencia
-street: "Pasaje Beltrán"
-housenumber: 330
+street: Pasaje Beltrán
+housenumber: "330"
 phone: "+56227911539"
 opening_hours: ""
-website: "https://www.brainworks.cl/brainworks.html"
+website: https://www.brainworks.cl/brainworks.html

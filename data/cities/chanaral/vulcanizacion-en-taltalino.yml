@@ -1,11 +1,11 @@
 id: 542827591
-type: way
+type: node
 latitude: -26.33917
 longitude: -70.61515
 postcode: ""
 city: Chañaral
-street: "José Antonio Moreno"
-housenumber: 101
+street: José Antonio Moreno
+housenumber: "101"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

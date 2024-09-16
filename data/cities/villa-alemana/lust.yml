@@ -1,11 +1,11 @@
 id: 727923875
-type: way
+type: node
 latitude: -33.0458
 longitude: -71.35343
 postcode: ""
 city: Villa Alemana
-street: "Manuel Montt"
-housenumber: 440
+street: Manuel Montt
+housenumber: "440"
 phone: "+56993110137"
 opening_hours: ""
 website: ""

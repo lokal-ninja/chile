@@ -1,11 +1,11 @@
 id: 628618379
-type: way
+type: node
 latitude: -39.80231
 longitude: -73.2161
 postcode: ""
 city: Valdivia
-street: "Pedro Aguirre Cerda"
-housenumber: 1319
+street: Pedro Aguirre Cerda
+housenumber: "1319"
 phone: "+56983608779"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:30
 website: ""

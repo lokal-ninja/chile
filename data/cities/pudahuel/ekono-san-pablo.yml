@@ -1,11 +1,11 @@
 id: 263495032
-type: way
+type: node
 latitude: -33.44114
 longitude: -70.76221
 postcode: ""
 city: Pudahuel
-street: "San Pablo"
-housenumber: 9091
+street: San Pablo
+housenumber: "9091"
 phone: ""
 opening_hours: ""
-website: "http://www.ekono.cl/"
+website: http://www.ekono.cl/

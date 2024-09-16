@@ -1,11 +1,11 @@
 id: 444605981
-type: way
+type: node
 latitude: -33.47773
 longitude: -70.75692
 postcode: ""
 city: Santiago
-street: "Avenida Américo Vespucio"
-housenumber: 1076
+street: Avenida Américo Vespucio
+housenumber: "1076"
 phone: ""
 opening_hours: ""
 website: ""

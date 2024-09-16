@@ -1,11 +1,11 @@
 id: 264538965
-type: way
+type: node
 latitude: -41.46017
 longitude: -72.93856
 postcode: ""
 city: Puerto Montt
-street: "Avenida Sargento Silva"
-housenumber: 751
+street: Avenida Sargento Silva
+housenumber: "751"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1234768061
-type: way
+type: node
 latitude: -33.44594
 longitude: -70.62914
 postcode: ""
 city: Providencia
-street: "Seminario"
-housenumber: 
+street: Seminario
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

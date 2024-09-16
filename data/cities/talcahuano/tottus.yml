@@ -1,11 +1,11 @@
 id: 1201792692
-type: way
+type: node
 latitude: -36.791
 longitude: -73.06439
 postcode: ""
 city: Talcahuano
-street: "Avenida Jorge Alessandri"
-housenumber: 3177
+street: Avenida Jorge Alessandri
+housenumber: "3177"
 phone: ""
-opening_hours: "Mo-Su 08:30-21:30"
+opening_hours: Mo-Su 08:30-21:30
 website: ""

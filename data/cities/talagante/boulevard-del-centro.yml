@@ -1,11 +1,11 @@
 id: 1240663548
-type: way
+type: node
 latitude: -33.66349
 longitude: -70.929
 postcode: ""
 city: Talagante
-street: "Avenida Libertador Bernardo O'Higgins"
-housenumber: 1065
+street: Avenida Libertador Bernardo O'Higgins
+housenumber: "1065"
 phone: ""
 opening_hours: ""
-website: "https://boulevarddelcentro.cl/"
+website: https://boulevarddelcentro.cl/

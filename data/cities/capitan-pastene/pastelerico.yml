@@ -1,11 +1,11 @@
 id: 1167896395
-type: way
+type: node
 latitude: -38.19611
 longitude: -72.99305
 postcode: "4740000"
 city: Capitán Pastene
-street: "Pedro Montt"
-housenumber: 793
+street: Pedro Montt
+housenumber: "793"
 phone: "+56944790580"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://pastelerico.cl/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://pastelerico.cl/

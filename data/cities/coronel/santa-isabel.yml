@@ -1,11 +1,11 @@
 id: 1106120253
-type: way
+type: node
 latitude: -37.02506
 longitude: -73.14814
 postcode: ""
 city: Coronel
-street: "Manuel Montt"
-housenumber: 221
+street: Manuel Montt
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

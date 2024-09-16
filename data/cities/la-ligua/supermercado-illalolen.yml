@@ -1,11 +1,11 @@
 id: 466688084
-type: way
+type: node
 latitude: -32.44835
 longitude: -71.2314
 postcode: ""
 city: La Ligua
-street: "Pedro Polanco"
-housenumber: 283
+street: Pedro Polanco
+housenumber: "283"
 phone: ""
 opening_hours: ""
 website: ""

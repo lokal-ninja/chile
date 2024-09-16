@@ -1,11 +1,11 @@
 id: 1297209923
-type: way
+type: node
 latitude: -33.446
 longitude: -70.62544
 postcode: ""
 city: Providencia
-street: "Avenida Italia"
-housenumber: 1235
+street: Avenida Italia
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

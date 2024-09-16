@@ -1,11 +1,11 @@
 id: 337451474
-type: way
+type: node
 latitude: -38.71559
 longitude: -72.62737
 postcode: ""
 city: Temuco
-street: "Avenida Pedro de Valdivia"
-housenumber: 02195
+street: Avenida Pedro de Valdivia
+housenumber: "02195"
 phone: ""
 opening_hours: ""
 website: ""

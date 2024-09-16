@@ -1,11 +1,11 @@
 id: 1036346050
-type: way
+type: node
 latitude: -36.74196
 longitude: -72.47517
 postcode: ""
 city: Quillón
-street: "Cayumanqui"
-housenumber: 347
+street: Cayumanqui
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

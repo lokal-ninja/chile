@@ -1,11 +1,11 @@
 id: 707509647
-type: way
+type: node
 latitude: -33.04622
 longitude: -71.36554
 postcode: ""
 city: Villa Alemana
-street: "Avenida Victoria"
-housenumber: 97
+street: Avenida Victoria
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

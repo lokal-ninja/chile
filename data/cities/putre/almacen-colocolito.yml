@@ -1,11 +1,11 @@
 id: 625691381
-type: way
+type: node
 latitude: -18.19642
 longitude: -69.55814
 postcode: ""
 city: Putre
-street: "Serrano"
-housenumber: 401
+street: Serrano
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1070499405
-type: way
+type: node
 latitude: -29.90304
 longitude: -71.24957
 postcode: ""
 city: La Serena
-street: "Gregorio Cordovez"
-housenumber: 540
+street: Gregorio Cordovez
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

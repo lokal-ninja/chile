@@ -1,11 +1,11 @@
 id: 1039075536
-type: way
+type: node
 latitude: -33.04424
 longitude: -71.38307
 postcode: ""
 city: Villa Alemana
-street: "Avenida Valparaíso"
-housenumber: 1370
+street: Avenida Valparaíso
+housenumber: "1370"
 phone: ""
 opening_hours: ""
 website: ""

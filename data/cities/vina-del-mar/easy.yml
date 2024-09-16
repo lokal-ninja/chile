@@ -4,8 +4,8 @@ latitude: -33.03582
 longitude: -71.52334
 postcode: ""
 city: Viña del Mar
-street: "1 Norte"
-housenumber: 2901
+street: 1 Norte
+housenumber: "2901"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH 09:00-20:00"
-website: "https://www.easy.cl/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH 09:00-20:00
+website: https://www.easy.cl/

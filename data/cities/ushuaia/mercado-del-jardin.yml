@@ -1,11 +1,11 @@
 id: 829386848
-type: way
+type: node
 latitude: -54.80695
 longitude: -68.30676
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Paseo San Martín"
-housenumber: 638
+street: Paseo San Martín
+housenumber: "638"
 phone: ""
 opening_hours: ""
 website: ""

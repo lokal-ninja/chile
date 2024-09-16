@@ -1,11 +1,11 @@
 id: 1271585849
-type: way
+type: node
 latitude: -34.71085
 longitude: -71.05105
 postcode: "3090000"
 city: Chimbarongo
-street: "Rosendo Jaramillo"
-housenumber: 363
+street: Rosendo Jaramillo
+housenumber: "363"
 phone: "+56957122874"
-opening_hours: "10:00-19:00"
-website: "https://www.jugueteriasebastianandres.cl/"
+opening_hours: 10:00-19:00
+website: https://www.jugueteriasebastianandres.cl/

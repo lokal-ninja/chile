@@ -1,11 +1,11 @@
 id: 447265171
-type: way
+type: node
 latitude: -33.46082
 longitude: -70.63879
 postcode: ""
 city: Santiago
-street: "Carmen"
-housenumber: 
+street: Carmen
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

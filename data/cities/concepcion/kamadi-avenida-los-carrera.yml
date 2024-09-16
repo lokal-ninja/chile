@@ -1,11 +1,11 @@
 id: 317581272
-type: way
+type: node
 latitude: -36.8158
 longitude: -73.03444
 postcode: ""
 city: Concepción
-street: "Avenida Los Carrera"
-housenumber: 2081
-phone: "+56 412 620 880"
-opening_hours: "Mo-Fr 10:00-23:25; Fr-Sa 10:00-00:50"
-website: "https://kamadi.cl"
+street: Avenida Los Carrera
+housenumber: "2081"
+phone: +56 412 620 880
+opening_hours: Mo-Fr 10:00-23:25; Fr-Sa 10:00-00:50
+website: https://kamadi.cl

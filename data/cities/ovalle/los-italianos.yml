@@ -1,11 +1,11 @@
 id: 656530072
-type: way
+type: node
 latitude: -30.60055
 longitude: -71.19961
 postcode: ""
 city: Ovalle
-street: "Libertad"
-housenumber: 239
+street: Libertad
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

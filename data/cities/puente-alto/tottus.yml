@@ -1,11 +1,11 @@
 id: 330405536
-type: way
+type: node
 latitude: -33.59713
 longitude: -70.57719
 postcode: ""
 city: Puente Alto
-street: "Avenida Concha y Toro"
-housenumber: 1477
+street: Avenida Concha y Toro
+housenumber: "1477"
 phone: ""
 opening_hours: ""
 website: ""

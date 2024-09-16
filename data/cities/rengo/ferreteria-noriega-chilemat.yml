@@ -1,11 +1,11 @@
 id: 1178586594
-type: way
+type: node
 latitude: -34.41259
 longitude: -70.86335
 postcode: ""
 city: Rengo
-street: "Carlos Condell"
-housenumber: 487
+street: Carlos Condell
+housenumber: "487"
 phone: "+56722514568"
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

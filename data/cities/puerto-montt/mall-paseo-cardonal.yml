@@ -1,11 +1,11 @@
 id: 449456288
-type: way
+type: node
 latitude: -41.4713
 longitude: -72.96589
 postcode: ""
 city: Puerto Montt
-street: "Cardonal"
-housenumber: 1433
+street: Cardonal
+housenumber: "1433"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"
-website: "http://pasmar.cl/mall-paseo-cardonal/"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-21:00
+website: http://pasmar.cl/mall-paseo-cardonal/

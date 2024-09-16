@@ -1,11 +1,11 @@
 id: 1219551439
-type: way
+type: node
 latitude: -33.50318
 longitude: -70.66399
 postcode: "8920241"
 city: San Miguel
-street: "Segunda Avenida"
-housenumber: 1562
+street: Segunda Avenida
+housenumber: "1562"
 phone: "+56999428383"
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

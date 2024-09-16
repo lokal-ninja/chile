@@ -1,11 +1,11 @@
 id: 422538592
-type: way
+type: node
 latitude: -33.40435
 longitude: -70.5678
 postcode: ""
 city: Las Condes
-street: "Avenida Manquehue Norte"
-housenumber: 457
+street: Avenida Manquehue Norte
+housenumber: "457"
 phone: ""
 opening_hours: ""
 website: ""

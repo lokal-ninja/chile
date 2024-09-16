@@ -1,11 +1,11 @@
 id: 401417388
-type: way
+type: node
 latitude: -33.41844
 longitude: -70.66502
 postcode: ""
 city: Independencia
-street: "Avenida Fermín Vivaceta"
-housenumber: 1030
+street: Avenida Fermín Vivaceta
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

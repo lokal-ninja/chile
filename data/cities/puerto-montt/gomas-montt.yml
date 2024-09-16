@@ -1,11 +1,11 @@
 id: 1124692433
-type: way
+type: node
 latitude: -41.46535
 longitude: -72.95619
 postcode: ""
 city: Puerto Montt
-street: "Avenida Circunvalación"
-housenumber: 305
+street: Avenida Circunvalación
+housenumber: "305"
 phone: ""
 opening_hours: ""
-website: "https://www.gomasmontt.cl/"
+website: https://www.gomasmontt.cl/

@@ -1,11 +1,11 @@
 id: 1012494667
-type: way
+type: node
 latitude: -41.45635
 longitude: -72.92833
 postcode: ""
 city: Puerto Montt
-street: "Mataveri"
-housenumber: 500
+street: Mataveri
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

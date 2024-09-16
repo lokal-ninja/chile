@@ -1,11 +1,11 @@
 id: 720030432
-type: way
+type: node
 latitude: -33.04709
 longitude: -71.40749
 postcode: ""
 city: Quilpué
-street: "Avenida Ramón Freire"
-housenumber: 646
+street: Avenida Ramón Freire
+housenumber: "646"
 phone: ""
 opening_hours: ""
 website: ""

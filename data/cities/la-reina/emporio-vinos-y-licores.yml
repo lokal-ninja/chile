@@ -1,11 +1,11 @@
 id: 450765238
-type: way
+type: node
 latitude: -33.43141
 longitude: -70.55763
 postcode: ""
 city: La Reina
-street: "Alcalde Alejandro Chadwick"
-housenumber: 2528
-phone: "+56 9 9874 4967"
-opening_hours: "Mo-Su 10:00-21:00"
+street: Alcalde Alejandro Chadwick
+housenumber: "2528"
+phone: +56 9 9874 4967
+opening_hours: Mo-Su 10:00-21:00
 website: ""

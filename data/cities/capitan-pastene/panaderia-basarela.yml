@@ -1,11 +1,11 @@
 id: 1118727692
-type: way
+type: node
 latitude: -38.19349
 longitude: -72.98909
 postcode: "4740000"
 city: Capitán Pastene
-street: "Manuel Rodríguez"
-housenumber: 495
+street: Manuel Rodríguez
+housenumber: "495"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

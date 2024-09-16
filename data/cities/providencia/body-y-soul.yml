@@ -1,11 +1,11 @@
 id: 296684574
-type: way
+type: node
 latitude: -33.43772
 longitude: -70.62555
 postcode: ""
 city: Providencia
-street: "Avenida Salvador"
-housenumber: 431
+street: Avenida Salvador
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

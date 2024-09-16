@@ -1,11 +1,11 @@
 id: 939054010
-type: way
+type: node
 latitude: -39.28304
 longitude: -71.95131
 postcode: "4920000"
 city: Pucón
-street: "Camino Internacional"
-housenumber: 2000
+street: Camino Internacional
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

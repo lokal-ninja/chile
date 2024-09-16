@@ -1,11 +1,11 @@
 id: 171335698
-type: way
+type: node
 latitude: -33.44353
 longitude: -70.61975
 postcode: ""
 city: Providencia
-street: "Avenida José Manuel Infante"
-housenumber: 1368
+street: Avenida José Manuel Infante
+housenumber: "1368"
 phone: ""
-opening_hours: "mo-fr 08:30-18:30; sa 09:00-13:00"
-website: "http://www.senefa.cl"
+opening_hours: mo-fr 08:30-18:30; sa 09:00-13:00
+website: http://www.senefa.cl

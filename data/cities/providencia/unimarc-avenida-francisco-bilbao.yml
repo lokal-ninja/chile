@@ -1,11 +1,11 @@
 id: 180396584
-type: way
+type: node
 latitude: -33.43763
 longitude: -70.60671
 postcode: ""
 city: Providencia
-street: "Avenida Francisco Bilbao"
-housenumber: 2050
+street: Avenida Francisco Bilbao
+housenumber: "2050"
 phone: ""
 opening_hours: ""
 website: ""

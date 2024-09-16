@@ -1,11 +1,11 @@
 id: 858313160
-type: way
+type: node
 latitude: -33.37828
 longitude: -70.67218
 postcode: ""
 city: Conchali
-street: "Pedro Fontova"
-housenumber: 5346
+street: Pedro Fontova
+housenumber: "5346"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

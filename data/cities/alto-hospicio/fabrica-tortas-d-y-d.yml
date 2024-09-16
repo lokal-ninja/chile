@@ -1,11 +1,11 @@
 id: 550749022
-type: way
+type: node
 latitude: -20.28214
 longitude: -70.08693
 postcode: ""
 city: Alto Hospicio
-street: "Pasaje Wipala"
-housenumber: 4206
+street: Pasaje Wipala
+housenumber: "4206"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

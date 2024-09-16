@@ -1,11 +1,11 @@
 id: 449590627
-type: way
+type: node
 latitude: -33.45347
 longitude: -70.64478
 postcode: ""
 city: Santiago
-street: "Avenida 10 de Julio"
-housenumber: 728
+street: Avenida 10 de Julio
+housenumber: "728"
 phone: ""
 opening_hours: ""
 website: ""

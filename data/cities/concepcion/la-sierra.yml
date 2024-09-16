@@ -1,11 +1,11 @@
 id: 125109922
-type: way
+type: node
 latitude: -36.82654
 longitude: -73.05335
 postcode: ""
 city: Concepción
-street: "Rengo"
-housenumber: 599
+street: Rengo
+housenumber: "599"
 phone: ""
-opening_hours: "Mo-Fr 09:15-18-30; Sa 10:15-14:00"
+opening_hours: Mo-Fr 09:15-18-30; Sa 10:15-14:00
 website: ""

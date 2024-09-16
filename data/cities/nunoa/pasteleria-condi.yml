@@ -1,11 +1,11 @@
 id: 1212601278
-type: way
+type: node
 latitude: -33.45295
 longitude: -70.60667
 postcode: ""
 city: Ñuñoa
-street: "Capitán Orella"
-housenumber: 2331
+street: Capitán Orella
+housenumber: "2331"
 phone: ""
 opening_hours: ""
 website: ""

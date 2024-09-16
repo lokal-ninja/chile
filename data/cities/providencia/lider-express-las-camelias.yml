@@ -1,11 +1,11 @@
 id: 40520280
-type: way
+type: node
 latitude: -33.42304
 longitude: -70.5968
 postcode: ""
 city: Providencia
-street: "Las Camelias"
-housenumber: 2875
+street: Las Camelias
+housenumber: "2875"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.lider.cl/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.lider.cl/

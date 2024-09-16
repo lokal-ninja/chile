@@ -1,11 +1,11 @@
 id: 192544103
-type: way
+type: node
 latitude: -23.64844
 longitude: -70.39637
 postcode: ""
 city: Antofagasta
-street: "Carlos Condell"
-housenumber: 2639
+street: Carlos Condell
+housenumber: "2639"
 phone: ""
 opening_hours: ""
 website: ""

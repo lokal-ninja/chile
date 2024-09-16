@@ -1,11 +1,11 @@
 id: 51519343
-type: way
+type: node
 latitude: -38.7536
 longitude: -72.61698
 postcode: ""
 city: Temuco
-street: "Francisco Salazar"
-housenumber: 01650
+street: Francisco Salazar
+housenumber: "01650"
 phone: ""
-opening_hours: "09:00-22:30"
+opening_hours: 09:00-22:30
 website: ""

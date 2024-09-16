@@ -1,11 +1,11 @@
 id: 785344683
-type: way
+type: node
 latitude: -27.3785
 longitude: -70.31875
 postcode: ""
 city: Copiapó
-street: "Avenida Copayapu"
-housenumber: 2029
+street: Avenida Copayapu
+housenumber: "2029"
 phone: ""
 opening_hours: ""
 website: ""

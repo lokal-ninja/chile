@@ -1,11 +1,11 @@
 id: 181147872
-type: way
+type: node
 latitude: -36.82662
 longitude: -73.05392
 postcode: ""
 city: Concepción
-street: "Freire"
-housenumber: 455
+street: Freire
+housenumber: "455"
 phone: ""
-opening_hours: "09:00-21:00"
+opening_hours: 09:00-21:00
 website: ""

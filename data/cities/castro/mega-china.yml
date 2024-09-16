@@ -1,11 +1,11 @@
 id: 273042743
-type: way
+type: node
 latitude: -42.48294
 longitude: -73.76418
 postcode: ""
 city: Castro
-street: "Blanco Encalada"
-housenumber: 334
+street: Blanco Encalada
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

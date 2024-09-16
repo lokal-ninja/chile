@@ -1,11 +1,11 @@
 id: 1230905781
-type: way
+type: node
 latitude: -37.09221
 longitude: -73.157
 postcode: ""
 city: Lota
-street: "Pedro Aguirre Cerda"
-housenumber: 602
+street: Pedro Aguirre Cerda
+housenumber: "602"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-20:00; PH 09:00-20:00"
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-20:00; PH 09:00-20:00
 website: ""

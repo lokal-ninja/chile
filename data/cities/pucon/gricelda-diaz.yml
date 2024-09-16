@@ -1,11 +1,11 @@
 id: 603512685
-type: way
+type: node
 latitude: -39.28729
 longitude: -71.94019
 postcode: "4920000"
 city: Pucón
-street: "Los Lirios"
-housenumber: 81
+street: Los Lirios
+housenumber: "81"
 phone: ""
-opening_hours: "10:00-22:00"
+opening_hours: 10:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 446224289
-type: way
+type: node
 latitude: -33.59622
 longitude: -70.70644
 postcode: ""
 city: San Bernardo
-street: "Avenida San José"
-housenumber: 701
+street: Avenida San José
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

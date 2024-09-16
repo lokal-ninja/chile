@@ -1,11 +1,11 @@
 id: 449467336
-type: way
+type: node
 latitude: -33.44146
 longitude: -70.61524
 postcode: ""
 city: Providencia
-street: "Avenida Manuel Montt"
-housenumber: 1487
-phone: "2251 0191"
+street: Avenida Manuel Montt
+housenumber: "1487"
+phone: 2251 0191
 opening_hours: ""
 website: ""

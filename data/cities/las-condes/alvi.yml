@@ -1,11 +1,11 @@
 id: 194211363
-type: way
+type: node
 latitude: -33.37896
 longitude: -70.52824
 postcode: ""
 city: Las Condes
-street: "Avenida Las Condes"
-housenumber: 11097
+street: Avenida Las Condes
+housenumber: "11097"
 phone: ""
 opening_hours: ""
 website: ""

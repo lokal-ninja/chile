@@ -1,11 +1,11 @@
 id: 116223551
-type: way
+type: node
 latitude: -41.4729
 longitude: -72.94839
 postcode: ""
 city: Puerto Montt
-street: "Urmeneta"
-housenumber: 855
+street: Urmeneta
+housenumber: "855"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:30"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:30
 website: ""

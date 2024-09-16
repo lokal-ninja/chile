@@ -1,11 +1,11 @@
 id: 870990602
-type: way
+type: node
 latitude: -54.83049
 longitude: -68.35496
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Los Ñires"
-housenumber: 2273
+street: Los Ñires
+housenumber: "2273"
 phone: ""
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/166-ushuaia"
+website: https://www.laanonima.com.ar/sucursales/166-ushuaia

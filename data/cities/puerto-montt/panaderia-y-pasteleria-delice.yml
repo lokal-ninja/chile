@@ -1,11 +1,11 @@
 id: 1016002732
-type: way
+type: node
 latitude: -41.46639
 longitude: -72.96006
 postcode: ""
 city: Puerto Montt
-street: "San Antonio"
-housenumber: 1026
+street: San Antonio
+housenumber: "1026"
 phone: ""
 opening_hours: ""
 website: ""

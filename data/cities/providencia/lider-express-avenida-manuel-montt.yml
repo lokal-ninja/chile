@@ -1,11 +1,11 @@
 id: 45331840
-type: way
+type: node
 latitude: -33.42931
 longitude: -70.61991
 postcode: ""
 city: Providencia
-street: "Avenida Manuel Montt"
-housenumber: 80
+street: Avenida Manuel Montt
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:30"
+opening_hours: Mo-Su 08:00-22:30
 website: ""

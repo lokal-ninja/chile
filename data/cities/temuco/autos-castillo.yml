@@ -1,11 +1,11 @@
 id: 920459208
-type: way
+type: node
 latitude: -38.74388
 longitude: -72.60734
 postcode: ""
 city: Temuco
-street: "Avenida Caupolicán"
-housenumber: 0395
+street: Avenida Caupolicán
+housenumber: "0395"
 phone: ""
 opening_hours: ""
 website: ""

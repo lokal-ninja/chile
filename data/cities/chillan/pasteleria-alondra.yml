@@ -1,11 +1,11 @@
 id: 554358583
-type: way
+type: node
 latitude: -36.61971
 longitude: -72.08617
 postcode: ""
 city: Chillán
-street: "Avenida Los Puelches"
-housenumber: 1248
+street: Avenida Los Puelches
+housenumber: "1248"
 phone: ""
 opening_hours: ""
 website: ""

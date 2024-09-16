@@ -1,11 +1,11 @@
 id: 1124692437
-type: way
+type: node
 latitude: -41.46626
 longitude: -72.95756
 postcode: ""
 city: Puerto Montt
-street: "Avenida Circunvalación"
-housenumber: 269
+street: Avenida Circunvalación
+housenumber: "269"
 phone: ""
 opening_hours: ""
-website: "https://www.milanfabjanovic.cl/"
+website: https://www.milanfabjanovic.cl/

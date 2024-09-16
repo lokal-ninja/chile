@@ -1,11 +1,11 @@
 id: 978580692
-type: way
+type: node
 latitude: -41.4595
 longitude: -72.9609
 postcode: ""
 city: Puerto Montt
-street: "Avenida Parque Industrial"
-housenumber: 557
+street: Avenida Parque Industrial
+housenumber: "557"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-14:00
 website: ""

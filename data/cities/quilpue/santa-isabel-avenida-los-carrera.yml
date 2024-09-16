@@ -1,11 +1,11 @@
 id: 172343418
-type: way
+type: node
 latitude: -33.04771
 longitude: -71.44245
 postcode: ""
 city: Quilpué
-street: "Avenida Los Carrera"
-housenumber: 811
+street: Avenida Los Carrera
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

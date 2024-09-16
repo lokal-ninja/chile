@@ -1,11 +1,11 @@
 id: 980388173
-type: way
+type: node
 latitude: -41.4538
 longitude: -72.96238
 postcode: ""
 city: Puerto Montt
-street: "Andina"
-housenumber: 103
+street: Andina
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

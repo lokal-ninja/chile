@@ -1,11 +1,11 @@
 id: 964016711
-type: way
+type: node
 latitude: -41.32367
 longitude: -72.98573
 postcode: ""
 city: Puerto Varas
-street: "San Francisco"
-housenumber: 1176
+street: San Francisco
+housenumber: "1176"
 phone: ""
 opening_hours: ""
 website: ""

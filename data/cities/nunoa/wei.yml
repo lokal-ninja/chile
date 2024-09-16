@@ -1,11 +1,11 @@
 id: 313205113
-type: way
+type: node
 latitude: -33.44583
 longitude: -70.60563
 postcode: ""
 city: Ñuñoa
-street: "Avenida Pedro de Valdivia"
-housenumber: 2550
+street: Avenida Pedro de Valdivia
+housenumber: "2550"
 phone: ""
 opening_hours: ""
-website: "https://www.wei.cl/"
+website: https://www.wei.cl/

@@ -1,11 +1,11 @@
 id: 1111861193
-type: way
+type: node
 latitude: -30.60605
 longitude: -71.20827
 postcode: ""
 city: Ovalle
-street: "Portales"
-housenumber: 340
+street: Portales
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

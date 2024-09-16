@@ -1,11 +1,11 @@
 id: 231987004
-type: way
+type: node
 latitude: -36.60914
 longitude: -72.1012
 postcode: ""
 city: Chillán
-street: "El Roble"
-housenumber: 713
+street: El Roble
+housenumber: "713"
 phone: ""
 opening_hours: ""
 website: ""

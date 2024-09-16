@@ -1,11 +1,11 @@
 id: 830831428
-type: way
+type: node
 latitude: -54.80723
 longitude: -68.31151
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Gobernador Deloqui"
-housenumber: 942
+street: Gobernador Deloqui
+housenumber: "942"
 phone: ""
 opening_hours: ""
 website: ""

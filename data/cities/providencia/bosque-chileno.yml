@@ -1,11 +1,11 @@
 id: 190593478
-type: way
+type: node
 latitude: -33.43672
 longitude: -70.60238
 postcode: ""
 city: Providencia
-street: "Avenida Suecia"
-housenumber: 1830
+street: Avenida Suecia
+housenumber: "1830"
 phone: "+56977027208"
 opening_hours: ""
-website: "https://bosquechileno.cl/"
+website: https://bosquechileno.cl/

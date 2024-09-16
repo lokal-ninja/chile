@@ -1,11 +1,11 @@
 id: 367168037
-type: way
+type: node
 latitude: -41.12682
 longitude: -73.05848
 postcode: ""
 city: frutillar
-street: "Carlos Richter"
-housenumber: 199
+street: Carlos Richter
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

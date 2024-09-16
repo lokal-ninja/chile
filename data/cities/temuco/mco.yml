@@ -1,11 +1,11 @@
 id: 912765236
-type: way
+type: node
 latitude: -38.75853
 longitude: -72.64889
 postcode: ""
 city: Temuco
-street: "Avenida Manuel Recabarren"
-housenumber: 03450
+street: Avenida Manuel Recabarren
+housenumber: "03450"
 phone: ""
 opening_hours: ""
 website: ""

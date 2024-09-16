@@ -1,11 +1,11 @@
 id: 231987001
-type: way
+type: node
 latitude: -36.60914
 longitude: -72.09997
 postcode: ""
 city: Chillán
-street: "Isabel Riquelme"
-housenumber: 671
+street: Isabel Riquelme
+housenumber: "671"
 phone: ""
 opening_hours: ""
 website: ""

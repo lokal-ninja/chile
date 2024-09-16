@@ -1,11 +1,11 @@
 id: 245318932
-type: way
+type: node
 latitude: -38.74194
 longitude: -72.60624
 postcode: ""
 city: Temuco
-street: "Bernardo O'Higgins"
-housenumber: 0160
+street: Bernardo O'Higgins
+housenumber: "0160"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa,Su 09:00-21:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa,Su 09:00-21:00
 website: ""

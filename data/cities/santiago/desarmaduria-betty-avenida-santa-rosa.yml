@@ -1,11 +1,11 @@
 id: 449729238
-type: way
+type: node
 latitude: -33.45427
 longitude: -70.64412
 postcode: ""
 city: Santiago
-street: "Avenida Santa Rosa"
-housenumber: 783
+street: Avenida Santa Rosa
+housenumber: "783"
 phone: ""
 opening_hours: ""
 website: ""

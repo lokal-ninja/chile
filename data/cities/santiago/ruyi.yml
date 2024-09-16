@@ -1,11 +1,11 @@
 id: 1069648749
-type: way
+type: node
 latitude: -33.43933
 longitude: -70.66517
 postcode: ""
 city: Santiago
-street: "Catedral"
-housenumber: 2032
+street: Catedral
+housenumber: "2032"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 400705074
-type: way
+type: node
 latitude: -38.76007
 longitude: -72.59119
 postcode: ""
 city: Padre Las Casas
-street: "Huichahue"
-housenumber: 185
+street: Huichahue
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

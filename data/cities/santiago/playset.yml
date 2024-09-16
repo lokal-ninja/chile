@@ -4,8 +4,8 @@ latitude: -33.4515
 longitude: -70.6273
 postcode: ""
 city: Santiago
-street: "Seminario"
-housenumber: 768
+street: Seminario
+housenumber: "768"
 phone: ""
-opening_hours: "Mo-Fr 12:00-21:00"
-website: "https://www.playset.cl/"
+opening_hours: Mo-Fr 12:00-21:00
+website: https://www.playset.cl/

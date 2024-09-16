@@ -1,11 +1,11 @@
 id: 304259476
-type: way
+type: node
 latitude: -42.47636
 longitude: -73.76782
 postcode: ""
 city: Castro
-street: "Galvarino Riveros"
-housenumber: 567
+street: Galvarino Riveros
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

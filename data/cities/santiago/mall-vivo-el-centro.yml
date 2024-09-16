@@ -1,11 +1,11 @@
 id: 162933518
-type: way
+type: node
 latitude: -33.43563
 longitude: -70.65145
 postcode: ""
 city: Santiago
-street: "Puente"
-housenumber: 689
+street: Puente
+housenumber: "689"
 phone: ""
 opening_hours: ""
 website: ""

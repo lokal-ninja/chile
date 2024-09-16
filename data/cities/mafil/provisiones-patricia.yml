@@ -1,11 +1,11 @@
 id: 948790008
-type: way
+type: node
 latitude: -39.7
 longitude: -72.87595
 postcode: ""
 city: Máfil
-street: "San Ignacio"
-housenumber: 129
+street: San Ignacio
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

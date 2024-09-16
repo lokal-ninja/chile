@@ -1,11 +1,11 @@
 id: 899614845
-type: way
+type: node
 latitude: -54.81791
 longitude: -68.33565
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Concejal Rubinos del Río"
-housenumber: 188
-phone: "+54 290 144-4460"
+street: Concejal Rubinos del Río
+housenumber: "188"
+phone: +54 290 144-4460
 opening_hours: ""
-website: "https://www.laanonima.com.ar/sucursales/056-ushuaia"
+website: https://www.laanonima.com.ar/sucursales/056-ushuaia

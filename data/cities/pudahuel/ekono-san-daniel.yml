@@ -1,11 +1,11 @@
 id: 263495033
-type: way
+type: node
 latitude: -33.43125
 longitude: -70.75824
 postcode: ""
 city: Pudahuel
-street: "San Daniel"
-housenumber: 8960
+street: San Daniel
+housenumber: "8960"
 phone: ""
 opening_hours: ""
-website: "http://www.ekono.cl/"
+website: http://www.ekono.cl/

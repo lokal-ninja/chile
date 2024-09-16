@@ -1,11 +1,11 @@
 id: 543555277
-type: way
+type: node
 latitude: -29.90282
 longitude: -71.24985
 postcode: ""
 city: La Serena
-street: "José Manuel Balmaceda"
-housenumber: 460
+street: José Manuel Balmaceda
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 333901800
-type: way
+type: node
 latitude: -42.38025
 longitude: -73.64761
 postcode: ""
 city: Dalcahue
-street: "Pedro Montt"
-housenumber: 
+street: Pedro Montt
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

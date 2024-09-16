@@ -1,11 +1,11 @@
 id: 475109130
-type: way
+type: node
 latitude: -42.91583
 longitude: -72.71127
 postcode: ""
 city: Chaitén
-street: "Bernardo O'Higgins"
-housenumber: 67
-phone: "+56 9 74685608"
+street: Bernardo O'Higgins
+housenumber: "67"
+phone: +56 9 74685608
 opening_hours: ""
-website: "https://chaitur.com/"
+website: https://chaitur.com/

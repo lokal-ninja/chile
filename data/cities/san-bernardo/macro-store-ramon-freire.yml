@@ -1,11 +1,11 @@
 id: 883622786
-type: way
+type: node
 latitude: -33.59416
 longitude: -70.70449
 postcode: ""
 city: San Bernardo
-street: "Ramón Freire"
-housenumber: 564
+street: Ramón Freire
+housenumber: "564"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

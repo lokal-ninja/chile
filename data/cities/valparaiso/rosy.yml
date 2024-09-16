@@ -1,11 +1,11 @@
 id: 553637249
-type: way
+type: node
 latitude: -33.03191
 longitude: -71.64225
 postcode: ""
 city: Valparaíso
-street: "Avenida Pacífico"
-housenumber: 404
+street: Avenida Pacífico
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

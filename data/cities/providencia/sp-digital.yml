@@ -1,11 +1,11 @@
 id: 605384005
-type: way
+type: node
 latitude: -33.42412
 longitude: -70.61861
 postcode: ""
 city: Providencia
-street: "Padre Mariano"
-housenumber: 356
+street: Padre Mariano
+housenumber: "356"
 phone: "+56226567043"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.spdigital.cl/"
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.spdigital.cl/

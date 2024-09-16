@@ -1,11 +1,11 @@
 id: 1099417580
-type: way
+type: node
 latitude: -36.80278
 longitude: -73.07579
 postcode: ""
 city: Hualpén
-street: "Arteaga Alemparte"
-housenumber: 9221
-phone: "+56995533122;+56232930880"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:30-20:00; Su 09:00-17:30"
-website: "https://www.construmart.cl"
+street: Arteaga Alemparte
+housenumber: "9221"
+phone: +56995533122;+56232930880
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:30-20:00; Su 09:00-17:30
+website: https://www.construmart.cl

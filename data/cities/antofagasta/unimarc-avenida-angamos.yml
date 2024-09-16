@@ -1,11 +1,11 @@
 id: 188369784
-type: way
+type: node
 latitude: -23.67559
 longitude: -70.4083
 postcode: ""
 city: Antofagasta
-street: "Avenida Angamos"
-housenumber: 0159
+street: Avenida Angamos
+housenumber: "0159"
 phone: ""
 opening_hours: ""
 website: ""

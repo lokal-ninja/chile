@@ -1,11 +1,11 @@
 id: 562585855
-type: way
+type: node
 latitude: -41.40394
 longitude: -72.91532
 postcode: ""
 city: Puerto Montt
-street: "Avenida Gabriela Mistral"
-housenumber: 900
+street: Avenida Gabriela Mistral
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

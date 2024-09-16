@@ -1,11 +1,11 @@
 id: 288248267
-type: way
+type: node
 latitude: -33.02566
 longitude: -71.553
 postcode: ""
 city: Viña del Mar
-street: "Plaza Sucre"
-housenumber: 290
+street: Plaza Sucre
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

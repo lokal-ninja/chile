@@ -1,11 +1,11 @@
 id: 450613607
-type: way
+type: node
 latitude: -33.45399
 longitude: -70.55153
 postcode: ""
 city: La Reina
-street: "Pepe Vila"
-housenumber: 304
+street: Pepe Vila
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

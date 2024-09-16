@@ -1,11 +1,11 @@
 id: 1195273338
-type: way
+type: node
 latitude: -36.84542
 longitude: -73.09819
 postcode: ""
 city: San Pedro de la Paz
-street: "Los Pinos"
-housenumber: 1345
+street: Los Pinos
+housenumber: "1345"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 612339228
-type: way
+type: node
 latitude: -29.96735
 longitude: -71.26427
 postcode: ""
 city: Coquimbo
-street: "Avenida Arturo Alessandri"
-housenumber: 1150
+street: Avenida Arturo Alessandri
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

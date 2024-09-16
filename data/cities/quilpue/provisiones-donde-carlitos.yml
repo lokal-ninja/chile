@@ -1,11 +1,11 @@
 id: 682017356
-type: way
+type: node
 latitude: -33.05478
 longitude: -71.462
 postcode: ""
 city: Quilpué
-street: "Charles Darwin"
-housenumber: 01228
+street: Charles Darwin
+housenumber: "01228"
 phone: ""
 opening_hours: ""
 website: ""

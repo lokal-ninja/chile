@@ -4,8 +4,8 @@ latitude: -33.45854
 longitude: -70.63279
 postcode: ""
 city: Santiago
-street: "Avenida Portugal"
-housenumber: 1245
-phone: "+56 2 29047411"
-opening_hours: "Mo-Fr 10:00-20:00"
-website: "https://incoludido.cl"
+street: Avenida Portugal
+housenumber: "1245"
+phone: +56 2 29047411
+opening_hours: Mo-Fr 10:00-20:00
+website: https://incoludido.cl

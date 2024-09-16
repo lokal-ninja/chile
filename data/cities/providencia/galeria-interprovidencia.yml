@@ -1,11 +1,11 @@
 id: 447727820
-type: way
+type: node
 latitude: -33.42282
 longitude: -70.61
 postcode: ""
 city: Providencia
-street: "Avenida Nueva Providencia"
-housenumber: 2169
+street: Avenida Nueva Providencia
+housenumber: "2169"
 phone: ""
 opening_hours: ""
 website: ""

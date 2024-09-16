@@ -1,11 +1,11 @@
 id: 136018292
-type: way
+type: node
 latitude: -39.82259
 longitude: -73.24697
 postcode: ""
 city: Valdivia
-street: "Sotomayor"
-housenumber: 1175
-phone: "+56 9 81641505"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-19:00"
+street: Sotomayor
+housenumber: "1175"
+phone: +56 9 81641505
+opening_hours: Mo-Sa 08:00-12:00,14:00-19:00
 website: ""

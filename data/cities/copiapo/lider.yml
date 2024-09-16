@@ -1,11 +1,11 @@
 id: 318417711
-type: way
+type: node
 latitude: -27.39023
 longitude: -70.30073
 postcode: ""
 city: Copiapó
-street: "Avenida Los Carrera /El Inca"
-housenumber: 3791
+street: Avenida Los Carrera /El Inca
+housenumber: "3791"
 phone: ""
-opening_hours: "08:30-21:30"
-website: "https://www.lider.cl/"
+opening_hours: 08:30-21:30
+website: https://www.lider.cl/

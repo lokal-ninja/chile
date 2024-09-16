@@ -1,11 +1,11 @@
 id: 550355440
-type: way
+type: node
 latitude: -35.24447
 longitude: -71.98228
 postcode: ""
 city: Gualleco
-street: "Pedro Antonio González"
-housenumber: 6
+street: Pedro Antonio González
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

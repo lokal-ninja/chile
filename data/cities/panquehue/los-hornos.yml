@@ -1,11 +1,11 @@
 id: 636029221
-type: way
+type: node
 latitude: -32.7724
 longitude: -70.8367
 postcode: "2210000"
 city: Panquehue
-street: "Antofagasta"
-housenumber: 
+street: Antofagasta
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

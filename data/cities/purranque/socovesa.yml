@@ -1,11 +1,11 @@
 id: 548553877
-type: way
+type: node
 latitude: -40.91208
 longitude: -73.1595
 postcode: ""
 city: Purranque
-street: "Pedro Montt"
-housenumber: 174
+street: Pedro Montt
+housenumber: "174"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

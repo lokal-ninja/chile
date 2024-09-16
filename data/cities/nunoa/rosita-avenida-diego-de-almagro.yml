@@ -1,11 +1,11 @@
 id: 450673913
-type: way
+type: node
 latitude: -33.43671
 longitude: -70.58192
 postcode: ""
 city: Ñuñoa
-street: "Avenida Diego de Almagro"
-housenumber: 4688
+street: Avenida Diego de Almagro
+housenumber: "4688"
 phone: ""
 opening_hours: ""
 website: ""

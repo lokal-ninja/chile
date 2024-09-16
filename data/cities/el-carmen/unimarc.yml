@@ -1,11 +1,11 @@
 id: 1184278415
-type: way
+type: node
 latitude: -36.89873
 longitude: -72.02488
 postcode: ""
 city: El Carmen
-street: "Esmeralda"
-housenumber: 550
+street: Esmeralda
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

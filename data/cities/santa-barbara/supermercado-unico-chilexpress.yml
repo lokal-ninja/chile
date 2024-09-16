@@ -4,8 +4,8 @@ latitude: -37.67004
 longitude: -72.01947
 postcode: "4510000"
 city: Santa Bárbara
-street: "Arturo Prat"
-housenumber: 700
+street: Arturo Prat
+housenumber: "700"
 phone: "+56432524250"
-opening_hours: "09:00-20:30"
-website: "http://www.supermercadounico.cl;https://www.chilexpress.cl/"
+opening_hours: 09:00-20:30
+website: http://www.supermercadounico.cl;https://www.chilexpress.cl/

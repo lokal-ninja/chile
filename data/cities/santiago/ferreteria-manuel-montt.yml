@@ -1,11 +1,11 @@
 id: 449427661
-type: way
+type: node
 latitude: -33.43948
 longitude: -70.61522
 postcode: ""
 city: Santiago
-street: "Avenida Manuel Montt"
-housenumber: 1284
+street: Avenida Manuel Montt
+housenumber: "1284"
 phone: ""
 opening_hours: ""
 website: ""

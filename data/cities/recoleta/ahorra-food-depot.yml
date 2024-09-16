@@ -1,11 +1,11 @@
 id: 1238765054
-type: way
+type: node
 latitude: -33.39508
 longitude: -70.62583
 postcode: ""
 city: Recoleta
-street: "Avenida El Salto"
-housenumber: 3430
+street: Avenida El Salto
+housenumber: "3430"
 phone: ""
 opening_hours: ""
 website: ""

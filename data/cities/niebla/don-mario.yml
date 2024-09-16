@@ -1,11 +1,11 @@
 id: 514835813
-type: way
+type: node
 latitude: -39.86684
 longitude: -73.39433
 postcode: ""
 city: Niebla
-street: "Avenida Conde de Castellar"
-housenumber: 996
+street: Avenida Conde de Castellar
+housenumber: "996"
 phone: "+56933392985"
 opening_hours: ""
 website: ""

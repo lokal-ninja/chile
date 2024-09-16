@@ -1,11 +1,11 @@
 id: 1150859711
-type: way
+type: node
 latitude: -33.53744
 longitude: -70.61927
 postcode: ""
 city: La Granja
-street: "Avenida San Gregorio"
-housenumber: 0632
+street: Avenida San Gregorio
+housenumber: "0632"
 phone: ""
 opening_hours: ""
 website: ""

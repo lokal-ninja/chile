@@ -1,11 +1,11 @@
 id: 25107441
-type: way
+type: node
 latitude: -33.42349
 longitude: -70.61041
 postcode: ""
 city: Providencia
-street: "Avenida Nueva Providencia"
-housenumber: 2155
+street: Avenida Nueva Providencia
+housenumber: "2155"
 phone: ""
 opening_hours: ""
 website: ""

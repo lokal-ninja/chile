@@ -1,11 +1,11 @@
 id: 777775187
-type: way
+type: node
 latitude: -39.82011
 longitude: -73.24367
 postcode: ""
 city: Valdivia
-street: "Clemente Escobar"
-housenumber: 939
+street: Clemente Escobar
+housenumber: "939"
 phone: "+5696455199"
 opening_hours: ""
 website: ""

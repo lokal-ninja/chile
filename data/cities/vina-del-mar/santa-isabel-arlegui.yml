@@ -1,11 +1,11 @@
 id: 315363696
-type: way
+type: node
 latitude: -33.02505
 longitude: -71.54847
 postcode: ""
 city: Viña del Mar
-street: "Arlegui"
-housenumber: 948
+street: Arlegui
+housenumber: "948"
 phone: ""
 opening_hours: ""
 website: ""

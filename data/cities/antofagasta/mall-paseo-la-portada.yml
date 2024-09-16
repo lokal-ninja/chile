@@ -1,11 +1,11 @@
 id: 903871099
-type: way
+type: node
 latitude: -23.56619
 longitude: -70.38926
 postcode: "1200000"
 city: Antofagasta
-street: "Avenida Pedro Aguirre Cerda"
-housenumber: 10578
+street: Avenida Pedro Aguirre Cerda
+housenumber: "10578"
 phone: ""
 opening_hours: ""
-website: "http://www.paseoschile.cl/pagina/informacion_paseo_la_portada"
+website: http://www.paseoschile.cl/pagina/informacion_paseo_la_portada

@@ -1,11 +1,11 @@
 id: 632536465
-type: way
+type: node
 latitude: -40.91582
 longitude: -73.1594
 postcode: ""
 city: Purranque
-street: "Santo Domingo"
-housenumber: 148
+street: Santo Domingo
+housenumber: "148"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

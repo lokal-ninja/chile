@@ -1,11 +1,11 @@
 id: 829421503
-type: way
+type: node
 latitude: -54.80783
 longitude: -68.30963
 postcode: ""
 city: Ushuaia
-street: "Paseo San Martín"
-housenumber: 860
+street: Paseo San Martín
+housenumber: "860"
 phone: ""
 opening_hours: ""
 website: ""

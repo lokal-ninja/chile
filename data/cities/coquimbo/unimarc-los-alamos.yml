@@ -1,11 +1,11 @@
 id: 136886872
-type: way
+type: node
 latitude: -29.98838
 longitude: -71.33632
 postcode: ""
 city: Coquimbo
-street: "Los Álamos"
-housenumber: 580
+street: Los Álamos
+housenumber: "580"
 phone: ""
 opening_hours: ""
 website: ""

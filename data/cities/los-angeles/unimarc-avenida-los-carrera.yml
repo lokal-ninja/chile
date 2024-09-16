@@ -1,11 +1,11 @@
 id: 1018534595
-type: way
+type: node
 latitude: -37.48814
 longitude: -72.34273
 postcode: ""
 city: Los Angeles
-street: "Avenida Los Carrera"
-housenumber: 1380
+street: Avenida Los Carrera
+housenumber: "1380"
 phone: ""
 opening_hours: ""
 website: ""

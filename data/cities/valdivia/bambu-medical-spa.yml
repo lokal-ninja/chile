@@ -1,11 +1,11 @@
 id: 394987130
-type: way
+type: node
 latitude: -39.81725
 longitude: -73.24262
 postcode: ""
 city: Valdivia
-street: "Beauchef"
-housenumber: 658
+street: Beauchef
+housenumber: "658"
 phone: "+56632515016"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.bambumedicalspa.cl"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.bambumedicalspa.cl

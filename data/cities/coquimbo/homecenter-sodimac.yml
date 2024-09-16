@@ -1,11 +1,11 @@
 id: 199697406
-type: way
+type: node
 latitude: -29.96762
 longitude: -71.3213
 postcode: ""
 city: Coquimbo
-street: "Ruta 5 Norte"
-housenumber: 849
+street: Ruta 5 Norte
+housenumber: "849"
 phone: ""
 opening_hours: ""
 website: ""

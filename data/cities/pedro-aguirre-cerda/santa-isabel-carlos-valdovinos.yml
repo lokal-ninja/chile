@@ -1,11 +1,11 @@
 id: 319554384
-type: way
+type: node
 latitude: -33.47984
 longitude: -70.66277
 postcode: "8460077"
 city: Pedro Aguirre Cerda
-street: "Avenida Alcalde Carlos Valdovinos"
-housenumber: 2020
+street: Avenida Alcalde Carlos Valdovinos
+housenumber: "2020"
 phone: "+566004002000"
-opening_hours: "Mo-Sa 08:30-22:00; Su,PH 09:00-22:00"
-website: "https://www.santaisabel.cl/"
+opening_hours: Mo-Sa 08:30-22:00; Su,PH 09:00-22:00
+website: https://www.santaisabel.cl/

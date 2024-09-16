@@ -1,11 +1,11 @@
 id: 899614836
-type: way
+type: node
 latitude: -54.81794
 longitude: -68.33633
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Kuanip"
-housenumber: 786
+street: Kuanip
+housenumber: "786"
 phone: ""
 opening_hours: ""
 website: ""

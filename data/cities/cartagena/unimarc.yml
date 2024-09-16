@@ -1,11 +1,11 @@
 id: 740553355
-type: way
+type: node
 latitude: -33.54719
 longitude: -71.60329
 postcode: ""
 city: Cartagena
-street: "Mariano Casanova"
-housenumber: 306
+street: Mariano Casanova
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

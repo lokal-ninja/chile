@@ -1,11 +1,11 @@
 id: 445990020
-type: way
+type: node
 latitude: -33.34925
 longitude: -70.74232
 postcode: ""
 city: Quilicura
-street: "Avenida Las Torres Oriente"
-housenumber: 90
+street: Avenida Las Torres Oriente
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 440257517
-type: way
+type: node
 latitude: -33.33038
 longitude: -70.70225
 postcode: ""
 city: Quilicura
-street: "Avenida San Ignacio"
-housenumber: 500
+street: Avenida San Ignacio
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.araucopremiumoutletbuenaventura.cl/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.araucopremiumoutletbuenaventura.cl/

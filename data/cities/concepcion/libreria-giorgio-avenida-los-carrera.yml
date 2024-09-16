@@ -1,11 +1,11 @@
 id: 340216204
-type: way
+type: node
 latitude: -36.82396
 longitude: -73.05445
 postcode: ""
 city: Concepción
-street: "Avenida Los Carrera"
-housenumber: 511
+street: Avenida Los Carrera
+housenumber: "511"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:20; Sa 11:00-18:00"
+opening_hours: Mo-Fr 09:30-19:20; Sa 11:00-18:00
 website: ""

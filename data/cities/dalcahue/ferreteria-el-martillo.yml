@@ -1,11 +1,11 @@
 id: 330255070
-type: way
+type: node
 latitude: -42.37948
 longitude: -73.65339
 postcode: ""
 city: Dalcahue
-street: "Ramón Freire"
-housenumber: 415
+street: Ramón Freire
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

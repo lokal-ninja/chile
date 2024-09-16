@@ -1,11 +1,11 @@
 id: 690969859
-type: way
+type: node
 latitude: -32.87884
 longitude: -71.24713
 postcode: ""
 city: Quillota
-street: "Bernardo O'Higgins"
-housenumber: 176
+street: Bernardo O'Higgins
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

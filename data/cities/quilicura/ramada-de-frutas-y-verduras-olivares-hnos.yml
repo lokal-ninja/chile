@@ -1,11 +1,11 @@
 id: 343820087
-type: way
+type: node
 latitude: -33.35751
 longitude: -70.73381
 postcode: ""
 city: Quilicura
-street: "Lo Ovalle"
-housenumber: 240
+street: Lo Ovalle
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

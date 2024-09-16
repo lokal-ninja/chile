@@ -1,11 +1,11 @@
 id: 1225551294
-type: way
+type: node
 latitude: -36.82847
 longitude: -73.04881
 postcode: ""
 city: Concepción
-street: "Aníbal Pinto"
-housenumber: 299
-phone: "+56 233288740"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-14:00"
-website: "https://www.antartica.cl/"
+street: Aníbal Pinto
+housenumber: "299"
+phone: +56 233288740
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-14:00
+website: https://www.antartica.cl/

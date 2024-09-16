@@ -1,11 +1,11 @@
 id: 356656059
-type: way
+type: node
 latitude: -37.79775
 longitude: -73.3976
 postcode: "4030000"
 city: Cañete
-street: "Villagrán"
-housenumber: 1075
+street: Villagrán
+housenumber: "1075"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

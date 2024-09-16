@@ -1,11 +1,11 @@
 id: 127258347
-type: way
+type: node
 latitude: -38.7141
 longitude: -72.5635
 postcode: ""
 city: Temuco
-street: "Los Reyes Católicos"
-housenumber: 01550
+street: Los Reyes Católicos
+housenumber: "01550"
 phone: ""
 opening_hours: ""
 website: ""

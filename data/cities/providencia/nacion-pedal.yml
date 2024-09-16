@@ -4,8 +4,8 @@ latitude: -33.42888
 longitude: -70.6193
 postcode: ""
 city: Providencia
-street: "Manuel Barros Borgoño"
-housenumber: 20
-phone: "+56 2 22351266"
-opening_hours: "Mo-Fr 10:00-15:00, 16:00-18:00; Sa 11:00-15:00"
-website: "https://www.nacionpedal.com/"
+street: Manuel Barros Borgoño
+housenumber: "20"
+phone: +56 2 22351266
+opening_hours: Mo-Fr 10:00-15:00, 16:00-18:00; Sa 11:00-15:00
+website: https://www.nacionpedal.com/

@@ -1,11 +1,11 @@
 id: 660755037
-type: way
+type: node
 latitude: -45.58267
 longitude: -72.05236
 postcode: ""
 city: Coyhaique
-street: "Victoria"
-housenumber: 758
+street: Victoria
+housenumber: "758"
 phone: ""
 opening_hours: ""
-website: "https://hiperpatagonico.cl/"
+website: https://hiperpatagonico.cl/

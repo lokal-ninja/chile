@@ -1,11 +1,11 @@
 id: 542958817
-type: way
+type: node
 latitude: -33.43944
 longitude: -70.64852
 postcode: ""
 city: Santiago
-street: "Huérfanos"
-housenumber: 830
+street: Huérfanos
+housenumber: "830"
 phone: ""
 opening_hours: ""
-website: "https://vivoimperio.cl/"
+website: https://vivoimperio.cl/

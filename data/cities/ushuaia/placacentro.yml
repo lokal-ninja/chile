@@ -1,11 +1,11 @@
 id: 251281838
-type: way
+type: node
 latitude: -54.80171
 longitude: -68.30343
 postcode: "9410"
 city: Ushuaia
-street: "17 de Mayo"
-housenumber: 540
+street: 17 de Mayo
+housenumber: "540"
 phone: ""
 opening_hours: ""
-website: "http://www.placacentro.com/per/locales/argentina/tierra-del-fuego/ushuaia/"
+website: http://www.placacentro.com/per/locales/argentina/tierra-del-fuego/ushuaia/

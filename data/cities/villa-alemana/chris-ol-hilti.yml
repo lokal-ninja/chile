@@ -1,11 +1,11 @@
 id: 1292738847
-type: way
+type: node
 latitude: -33.04785
 longitude: -71.3519
 postcode: ""
 city: Villa Alemana
-street: "Canal Trinidad"
-housenumber: 763
+street: Canal Trinidad
+housenumber: "763"
 phone: ""
 opening_hours: ""
 website: ""

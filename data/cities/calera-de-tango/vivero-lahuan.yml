@@ -1,11 +1,11 @@
 id: 1231938449
-type: way
+type: node
 latitude: -33.59085
 longitude: -70.78588
 postcode: ""
 city: Calera de Tango
-street: "El Copihue"
-housenumber: 4280
+street: El Copihue
+housenumber: "4280"
 phone: "+56956677554"
-opening_hours: "Tu-Fr 14:00-17:30; Sa-Su 11:00-15:00"
-website: "https://lahuan.cl"
+opening_hours: Tu-Fr 14:00-17:30; Sa-Su 11:00-15:00
+website: https://lahuan.cl

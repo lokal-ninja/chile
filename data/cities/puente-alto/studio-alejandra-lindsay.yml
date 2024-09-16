@@ -1,11 +1,11 @@
 id: 1292781850
-type: way
+type: node
 latitude: -33.61558
 longitude: -70.62577
 postcode: "8167485"
 city: Puente Alto
-street: "Los Tiuques"
-housenumber: 3976
+street: Los Tiuques
+housenumber: "3976"
 phone: ""
 opening_hours: ""
 website: ""

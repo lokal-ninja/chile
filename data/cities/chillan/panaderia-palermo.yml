@@ -1,11 +1,11 @@
 id: 588405235
-type: way
+type: node
 latitude: -36.62001
 longitude: -72.11153
 postcode: "3780000"
 city: Chillán
-street: "Palermo"
-housenumber: 286
+street: Palermo
+housenumber: "286"
 phone: ""
 opening_hours: ""
 website: ""

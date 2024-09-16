@@ -1,11 +1,11 @@
 id: 450651538
-type: way
+type: node
 latitude: -33.42443
 longitude: -70.61581
 postcode: ""
 city: Providencia
-street: "La Concepción"
-housenumber: 131
+street: La Concepción
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

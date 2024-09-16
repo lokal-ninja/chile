@@ -1,11 +1,11 @@
 id: 206274813
-type: way
+type: node
 latitude: -39.83707
 longitude: -73.23124
 postcode: ""
 city: Valdivia
-street: "Avenida Francia"
-housenumber: 2651
+street: Avenida Francia
+housenumber: "2651"
 phone: ""
 opening_hours: ""
 website: ""

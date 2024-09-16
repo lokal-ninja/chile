@@ -1,11 +1,11 @@
 id: 235175147
-type: way
+type: node
 latitude: -40.29331
 longitude: -73.07971
 postcode: ""
 city: La Unión
-street: "Serrano"
-housenumber: 830
+street: Serrano
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 995755029
-type: way
+type: node
 latitude: -33.04488
 longitude: -71.35319
 postcode: ""
 city: Villa Alemana
-street: "Yolanda"
-housenumber: 540
+street: Yolanda
+housenumber: "540"
 phone: ""
-opening_hours: "Mo-Th 12:30-00:55; Fr-Sa 12:30-02:55; Su 12:30-23:55"
+opening_hours: Mo-Th 12:30-00:55; Fr-Sa 12:30-02:55; Su 12:30-23:55
 website: ""

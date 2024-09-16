@@ -1,11 +1,11 @@
 id: 630334718
-type: way
+type: node
 latitude: -40.9526
 longitude: -73.16062
 postcode: ""
 city: Corte Alto
-street: "Manuel Rodriguez"
-housenumber: 
+street: Manuel Rodriguez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 625785474
-type: way
+type: node
 latitude: -33.04496
 longitude: -71.37262
 postcode: ""
 city: Villa Alemana
-street: "San Martín"
-housenumber: 95
+street: San Martín
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

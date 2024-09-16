@@ -1,11 +1,11 @@
 id: 630637992
-type: way
+type: node
 latitude: -40.95175
 longitude: -73.16229
 postcode: ""
 city: Corte Alto
-street: "O'Higgins"
-housenumber: 
+street: O'Higgins
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

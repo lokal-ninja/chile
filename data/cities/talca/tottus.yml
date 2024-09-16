@@ -1,11 +1,11 @@
 id: 384353913
-type: way
+type: node
 latitude: -35.444
 longitude: -71.68865
 postcode: ""
 city: Talca
-street: "Avenida Colín"
-housenumber: 0665
+street: Avenida Colín
+housenumber: "0665"
 phone: ""
 opening_hours: ""
 website: ""

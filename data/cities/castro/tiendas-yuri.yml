@@ -1,11 +1,11 @@
 id: 273067629
-type: way
+type: node
 latitude: -42.47695
 longitude: -73.76411
 postcode: ""
 city: Castro
-street: "San Martín"
-housenumber: 790
+street: San Martín
+housenumber: "790"
 phone: ""
 opening_hours: ""
 website: ""

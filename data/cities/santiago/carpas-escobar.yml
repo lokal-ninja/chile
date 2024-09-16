@@ -1,11 +1,11 @@
 id: 449610564
-type: way
+type: node
 latitude: -33.46915
 longitude: -70.64531
 postcode: ""
 city: Santiago
-street: "Ñuble"
-housenumber: 895
+street: Ñuble
+housenumber: "895"
 phone: ""
 opening_hours: ""
-website: "https://www.carpasescobar.cl/"
+website: https://www.carpasescobar.cl/

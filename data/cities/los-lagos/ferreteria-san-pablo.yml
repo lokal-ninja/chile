@@ -1,11 +1,11 @@
 id: 550008378
-type: way
+type: node
 latitude: -39.8617
 longitude: -72.81103
 postcode: ""
 city: Los Lagos
-street: "Quinchilca"
-housenumber: 245
+street: Quinchilca
+housenumber: "245"
 phone: ""
 opening_hours: ""
 website: ""

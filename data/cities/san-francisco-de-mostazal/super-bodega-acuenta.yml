@@ -1,11 +1,11 @@
 id: 911576414
-type: way
+type: node
 latitude: -33.97762
 longitude: -70.71022
 postcode: ""
 city: San Francisco de Mostazal
-street: "Luco"
-housenumber: 365
+street: Luco
+housenumber: "365"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

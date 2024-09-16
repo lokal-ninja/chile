@@ -1,11 +1,11 @@
 id: 917053899
-type: way
+type: node
 latitude: -38.73569
 longitude: -72.64231
 postcode: ""
 city: Temuco
-street: "Avenida Gabriela Mistral"
-housenumber: 2621
+street: Avenida Gabriela Mistral
+housenumber: "2621"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

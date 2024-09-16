@@ -1,11 +1,11 @@
 id: 626913408
-type: way
+type: node
 latitude: -38.95339
 longitude: -72.62604
 postcode: ""
 city: Freire
-street: "Avenida Juan Schleyer"
-housenumber: 381
+street: Avenida Juan Schleyer
+housenumber: "381"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 173391096
-type: way
+type: node
 latitude: -33.3556
 longitude: -70.72825
 postcode: ""
 city: Quilicura
-street: "Avenida Bernardo O'Higgins"
-housenumber: 358
+street: Avenida Bernardo O'Higgins
+housenumber: "358"
 phone: ""
 opening_hours: ""
 website: ""

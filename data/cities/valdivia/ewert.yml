@@ -1,11 +1,11 @@
 id: 1313292696
-type: way
+type: node
 latitude: -39.82324
 longitude: -73.24853
 postcode: ""
 city: Valdivia
-street: "Vicente Pérez Rosales"
-housenumber: 1319
+street: Vicente Pérez Rosales
+housenumber: "1319"
 phone: "+56985131090"
 opening_hours: ""
 website: ""

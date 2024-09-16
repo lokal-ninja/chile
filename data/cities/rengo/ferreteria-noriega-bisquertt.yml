@@ -1,11 +1,11 @@
 id: 1178597360
-type: way
+type: node
 latitude: -34.40775
 longitude: -70.86429
 postcode: ""
 city: Rengo
-street: "Avenida José Bisquert"
-housenumber: 326
+street: Avenida José Bisquert
+housenumber: "326"
 phone: "+56722514568"
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

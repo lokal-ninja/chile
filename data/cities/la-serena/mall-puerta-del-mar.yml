@@ -1,11 +1,11 @@
 id: 85505078
-type: way
+type: node
 latitude: -29.90055
 longitude: -71.25715
 postcode: ""
 city: La Serena
-street: "Avenida Francisco de Aguirre"
-housenumber: 2
+street: Avenida Francisco de Aguirre
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

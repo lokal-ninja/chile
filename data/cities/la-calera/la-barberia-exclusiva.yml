@@ -1,11 +1,11 @@
 id: 1043657926
-type: way
+type: node
 latitude: -32.78733
 longitude: -71.18944
 postcode: "2290000"
 city: La Calera
-street: "José Joaquín Pérez"
-housenumber: 289
+street: José Joaquín Pérez
+housenumber: "289"
 phone: "+56998861123"
 opening_hours: ""
-website: "https://andresdebarber.setmore.com"
+website: https://andresdebarber.setmore.com

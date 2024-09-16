@@ -1,11 +1,11 @@
 id: 1173185371
-type: way
+type: node
 latitude: -36.21191
 longitude: -71.60395
 postcode: ""
 city: Las Camelias
-street: "Los Cuarteles"
-housenumber: 266
+street: Los Cuarteles
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

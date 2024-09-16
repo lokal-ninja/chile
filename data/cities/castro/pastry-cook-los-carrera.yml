@@ -1,11 +1,11 @@
 id: 273078806
-type: way
+type: node
 latitude: -42.47935
 longitude: -73.76701
 postcode: ""
 city: Castro
-street: "Los Carrera"
-housenumber: 596
+street: Los Carrera
+housenumber: "596"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 273067670
-type: way
+type: node
 latitude: -42.4834
 longitude: -73.764
 postcode: ""
 city: Castro
-street: "Esmeralda"
-housenumber: 260
+street: Esmeralda
+housenumber: "260"
 phone: ""
-opening_hours: "08:00-24:00"
+opening_hours: 08:00-24:00
 website: ""

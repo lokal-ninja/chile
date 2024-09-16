@@ -1,11 +1,11 @@
 id: 965713973
-type: way
+type: node
 latitude: -41.32936
 longitude: -72.96156
 postcode: ""
 city: Puerto Varas
-street: "Avenida Los Colonos"
-housenumber: 1176
+street: Avenida Los Colonos
+housenumber: "1176"
 phone: ""
 opening_hours: ""
 website: ""

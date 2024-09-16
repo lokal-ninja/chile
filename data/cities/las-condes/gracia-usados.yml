@@ -1,11 +1,11 @@
 id: 273253593
-type: way
+type: node
 latitude: -33.43079
 longitude: -70.56985
 postcode: ""
 city: Las Condes
-street: "Avenida Francisco Bilbao"
-housenumber: 5100
+street: Avenida Francisco Bilbao
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

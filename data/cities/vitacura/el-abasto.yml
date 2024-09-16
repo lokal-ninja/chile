@@ -1,11 +1,11 @@
 id: 276779906
-type: way
+type: node
 latitude: -33.39523
 longitude: -70.57948
 postcode: ""
 city: Vitacura
-street: "Avenida Vitacura"
-housenumber: 5447
+street: Avenida Vitacura
+housenumber: "5447"
 phone: "+56222194607"
 opening_hours: ""
-website: "http://www.elabastocarnes.cl/"
+website: http://www.elabastocarnes.cl/

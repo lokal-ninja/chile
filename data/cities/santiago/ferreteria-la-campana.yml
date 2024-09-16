@@ -1,11 +1,11 @@
 id: 606515913
-type: way
+type: node
 latitude: -33.45123
 longitude: -70.63361
 postcode: ""
 city: Santiago
-street: "Fray Camilo Henríquez"
-housenumber: 685
+street: Fray Camilo Henríquez
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

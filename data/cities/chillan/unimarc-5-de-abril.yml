@@ -1,11 +1,11 @@
 id: 231986996
-type: way
+type: node
 latitude: -36.61005
 longitude: -72.10301
 postcode: ""
 city: Chillán
-street: "5 de Abril"
-housenumber: 754
+street: 5 de Abril
+housenumber: "754"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00"
+opening_hours: Mo-Fr 08:00-21:00
 website: ""

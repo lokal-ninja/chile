@@ -1,11 +1,11 @@
 id: 450239031
-type: way
+type: node
 latitude: -33.44331
 longitude: -70.62016
 postcode: ""
 city: Providencia
-street: "Avenida José Manuel Infante"
-housenumber: 1337
+street: Avenida José Manuel Infante
+housenumber: "1337"
 phone: ""
 opening_hours: ""
 website: ""

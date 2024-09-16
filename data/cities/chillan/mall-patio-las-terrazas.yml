@@ -1,11 +1,11 @@
 id: 231986997
-type: way
+type: node
 latitude: -36.60829
 longitude: -72.10215
 postcode: ""
 city: Chillán
-street: "Constitución"
-housenumber: 664
+street: Constitución
+housenumber: "664"
 phone: ""
 opening_hours: ""
 website: ""

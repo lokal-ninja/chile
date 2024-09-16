@@ -1,11 +1,11 @@
 id: 243988545
-type: way
+type: node
 latitude: -33.41832
 longitude: -70.60377
 postcode: ""
 city: Providencia
-street: "Avenida Providencia"
-housenumber: 2562
+street: Avenida Providencia
+housenumber: "2562"
 phone: ""
 opening_hours: ""
 website: ""

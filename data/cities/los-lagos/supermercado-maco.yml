@@ -1,11 +1,11 @@
 id: 931878033
-type: way
+type: node
 latitude: -39.86268
 longitude: -72.8181
 postcode: ""
 city: Los Lagos
-street: "Patricio Lynch"
-housenumber: 131
-phone: "2 63 461930"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://supermaco.cl/"
+street: Patricio Lynch
+housenumber: "131"
+phone: 2 63 461930
+opening_hours: Mo-Sa 09:00-19:00
+website: https://supermaco.cl/

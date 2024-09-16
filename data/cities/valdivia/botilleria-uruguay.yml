@@ -1,11 +1,11 @@
 id: 844401069
-type: way
+type: node
 latitude: -39.82553
 longitude: -73.21332
 postcode: ""
 city: Valdivia
-street: "Uruguay"
-housenumber: 32
+street: Uruguay
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

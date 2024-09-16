@@ -1,11 +1,11 @@
 id: 257040187
-type: way
+type: node
 latitude: -33.41643
 longitude: -70.59782
 postcode: ""
 city: Las Condes
-street: "Augusto Leguia Norte"
-housenumber: 34
+street: Augusto Leguia Norte
+housenumber: "34"
 phone: "+56223350398"
 opening_hours: ""
-website: "https://www.erickayser.cl/"
+website: https://www.erickayser.cl/

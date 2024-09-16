@@ -1,11 +1,11 @@
 id: 1122819968
-type: way
+type: node
 latitude: -29.93201
 longitude: -71.25929
 postcode: ""
 city: La Serena
-street: "Avenida José Manuel Balmaceda"
-housenumber: 3436
+street: Avenida José Manuel Balmaceda
+housenumber: "3436"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 448190524
-type: way
+type: node
 latitude: -33.45024
 longitude: -70.64218
 postcode: ""
 city: Santiago
-street: "Santa Isabel"
-housenumber: 548
+street: Santa Isabel
+housenumber: "548"
 phone: ""
 opening_hours: ""
 website: ""

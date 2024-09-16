@@ -1,11 +1,11 @@
 id: 858342525
-type: way
+type: node
 latitude: -33.42346
 longitude: -70.5535
 postcode: ""
 city: Las Condes
-street: "Avenida Tomás Moro"
-housenumber: 1590
+street: Avenida Tomás Moro
+housenumber: "1590"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:30"
+opening_hours: Mo-Sa 08:00-21:30
 website: ""

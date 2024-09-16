@@ -1,11 +1,11 @@
 id: 448180877
-type: way
+type: node
 latitude: -33.43428
 longitude: -70.65355
 postcode: ""
 city: Santiago
-street: "Bandera"
-housenumber: 814
+street: Bandera
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

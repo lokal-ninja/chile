@@ -1,11 +1,11 @@
 id: 508541625
-type: way
+type: node
 latitude: -32.44653
 longitude: -71.23357
 postcode: "2030000"
 city: La Ligua
-street: "Vicuña Mackenna"
-housenumber: 431
+street: Vicuña Mackenna
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

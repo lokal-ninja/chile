@@ -1,11 +1,11 @@
 id: 549999615
-type: way
+type: node
 latitude: -39.8621
 longitude: -72.81501
 postcode: ""
 city: Los Lagos
-street: "Balmaceda Norte"
-housenumber: 68
+street: Balmaceda Norte
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

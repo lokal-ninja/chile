@@ -1,11 +1,11 @@
 id: 1183725676
-type: way
+type: node
 latitude: -33.86884
 longitude: -70.74718
 postcode: ""
 city: Hospital
-street: "Diego Portales"
-housenumber: 59
+street: Diego Portales
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

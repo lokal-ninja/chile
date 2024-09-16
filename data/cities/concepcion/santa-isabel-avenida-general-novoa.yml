@@ -1,11 +1,11 @@
 id: 550859426
-type: way
+type: node
 latitude: -36.81914
 longitude: -73.02445
 postcode: ""
 city: Concepción
-street: "Avenida General Novoa"
-housenumber: 530
+street: Avenida General Novoa
+housenumber: "530"
 phone: ""
-opening_hours: "08:30-21:00"
-website: "https://www.santaisabel.cl/"
+opening_hours: 08:30-21:00
+website: https://www.santaisabel.cl/

@@ -1,11 +1,11 @@
 id: 988444840
-type: way
+type: node
 latitude: -33.427
 longitude: -70.64514
 postcode: ""
 city: Santiago
-street: "Manzano"
-housenumber: 482
+street: Manzano
+housenumber: "482"
 phone: ""
 opening_hours: ""
 website: ""

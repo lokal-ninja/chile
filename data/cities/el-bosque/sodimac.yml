@@ -1,11 +1,11 @@
 id: 168523161
-type: way
+type: node
 latitude: -33.55271
 longitude: -70.67795
 postcode: ""
 city: El Bosque
-street: "Gran Avenida José Miguel Carrera"
-housenumber: 10375
+street: Gran Avenida José Miguel Carrera
+housenumber: "10375"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

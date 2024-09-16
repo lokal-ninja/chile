@@ -1,11 +1,11 @@
 id: 1215633648
-type: way
+type: node
 latitude: -36.82929
 longitude: -73.05048
 postcode: ""
 city: Concepción
-street: "Exeter"
-housenumber: 541
+street: Exeter
+housenumber: "541"
 phone: ""
 opening_hours: ""
 website: ""

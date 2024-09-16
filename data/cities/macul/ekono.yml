@@ -1,11 +1,11 @@
 id: 186984738
-type: way
+type: node
 latitude: -33.47999
 longitude: -70.58899
 postcode: ""
 city: MACUL
-street: "Los Olmos"
-housenumber: 4117
+street: Los Olmos
+housenumber: "4117"
 phone: ""
 opening_hours: ""
 website: ""

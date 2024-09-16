@@ -1,11 +1,11 @@
 id: 693103422
-type: way
+type: node
 latitude: -32.877
 longitude: -71.24478
 postcode: "2260000"
 city: Quillota
-street: "Prat"
-housenumber: 176
+street: Prat
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

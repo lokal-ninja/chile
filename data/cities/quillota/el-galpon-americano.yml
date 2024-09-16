@@ -1,11 +1,11 @@
 id: 1075397780
-type: way
+type: node
 latitude: -32.87834
 longitude: -71.24265
 postcode: "2260000"
 city: Quillota
-street: "Condell"
-housenumber: 131
+street: Condell
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

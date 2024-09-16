@@ -1,11 +1,11 @@
 id: 627449559
-type: way
+type: node
 latitude: -33.02432
 longitude: -71.55659
 postcode: ""
 city: Viña del Mar
-street: "Avenida Valparaíso"
-housenumber: 429
+street: Avenida Valparaíso
+housenumber: "429"
 phone: ""
 opening_hours: ""
 website: ""

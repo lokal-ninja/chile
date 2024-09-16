@@ -1,11 +1,11 @@
 id: 112715694
-type: way
+type: node
 latitude: -23.66097
 longitude: -70.40295
 postcode: ""
 city: Antofagasta
-street: "Avenida José Miguel Carrera"
-housenumber: 1527
+street: Avenida José Miguel Carrera
+housenumber: "1527"
 phone: ""
 opening_hours: ""
 website: ""

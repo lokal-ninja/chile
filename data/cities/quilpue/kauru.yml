@@ -1,11 +1,11 @@
 id: 932913130
-type: way
+type: node
 latitude: -33.05226
 longitude: -71.44445
 postcode: ""
 city: Quilpué
-street: "Buenos Aires"
-housenumber: 615
+street: Buenos Aires
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 778423467
-type: way
+type: node
 latitude: -39.82826
 longitude: -73.24701
 postcode: ""
 city: Valdivia
-street: "Santiago Bueras"
-housenumber: 392
+street: Santiago Bueras
+housenumber: "392"
 phone: ""
 opening_hours: ""
 website: ""

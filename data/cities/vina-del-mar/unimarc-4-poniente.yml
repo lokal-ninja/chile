@@ -1,11 +1,11 @@
 id: 93171628
-type: way
+type: node
 latitude: -33.01527
 longitude: -71.55421
 postcode: ""
 city: Viña del Mar
-street: "4 Poniente"
-housenumber: 630
+street: 4 Poniente
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

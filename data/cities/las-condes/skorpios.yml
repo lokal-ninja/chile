@@ -1,11 +1,11 @@
 id: 543944857
-type: way
+type: node
 latitude: -33.41523
 longitude: -70.59814
 postcode: ""
 city: Las Condes
-street: "Augusto Leguia Norte"
-housenumber: 118
-phone: "+56 2 2477 1900"
+street: Augusto Leguia Norte
+housenumber: "118"
+phone: +56 2 2477 1900
 opening_hours: ""
-website: "http://www.skorpios.cl"
+website: http://www.skorpios.cl

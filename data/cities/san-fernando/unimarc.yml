@@ -1,11 +1,11 @@
 id: 637026065
-type: way
+type: node
 latitude: -34.58927
 longitude: -70.98486
 postcode: ""
 city: San Fernando
-street: "Avenida Manuel Rodríguez"
-housenumber: 954
+street: Avenida Manuel Rodríguez
+housenumber: "954"
 phone: ""
 opening_hours: ""
 website: ""

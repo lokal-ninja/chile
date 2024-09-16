@@ -1,11 +1,11 @@
 id: 1307278258
-type: way
+type: node
 latitude: -39.81585
 longitude: -73.23728
 postcode: ""
 city: Valdivia
-street: "Avenida Ramón Picarte"
-housenumber: 881
+street: Avenida Ramón Picarte
+housenumber: "881"
 phone: ""
 opening_hours: ""
 website: ""

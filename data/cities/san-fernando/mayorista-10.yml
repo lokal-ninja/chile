@@ -1,11 +1,11 @@
 id: 168522755
-type: way
+type: node
 latitude: -34.58628
 longitude: -70.98627
 postcode: ""
 city: San Fernando
-street: "Chillán"
-housenumber: 745
+street: Chillán
+housenumber: "745"
 phone: ""
 opening_hours: ""
 website: ""

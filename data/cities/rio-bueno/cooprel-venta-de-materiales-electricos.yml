@@ -1,11 +1,11 @@
 id: 1312066427
-type: way
+type: node
 latitude: -40.34045
 longitude: -72.95508
 postcode: ""
 city: Río Bueno
-street: "Pedro Lagos"
-housenumber: 1164
+street: Pedro Lagos
+housenumber: "1164"
 phone: "642344117"
 opening_hours: ""
 website: ""

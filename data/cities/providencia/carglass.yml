@@ -1,11 +1,11 @@
 id: 447251395
-type: way
+type: node
 latitude: -33.4476
 longitude: -70.63001
 postcode: ""
 city: Providencia
-street: "Avenida General Bustamante"
-housenumber: 534
+street: Avenida General Bustamante
+housenumber: "534"
 phone: ""
 opening_hours: ""
 website: ""

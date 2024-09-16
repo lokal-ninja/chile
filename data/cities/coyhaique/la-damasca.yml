@@ -1,11 +1,11 @@
 id: 866354680
-type: way
+type: node
 latitude: -45.5732
 longitude: -72.06701
 postcode: ""
 city: Coyhaique
-street: "Francisco Bilbao"
-housenumber: 584
+street: Francisco Bilbao
+housenumber: "584"
 phone: ""
 opening_hours: ""
-website: "https://www.ladamasca.cl/"
+website: https://www.ladamasca.cl/

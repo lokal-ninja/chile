@@ -1,11 +1,11 @@
 id: 555856989
-type: way
+type: node
 latitude: -34.5847
 longitude: -70.99055
 postcode: ""
 city: San Fernando
-street: "Carampangue"
-housenumber: 753
+street: Carampangue
+housenumber: "753"
 phone: ""
 opening_hours: ""
 website: ""

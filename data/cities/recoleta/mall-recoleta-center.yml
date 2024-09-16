@@ -1,11 +1,11 @@
 id: 1173749019
-type: way
+type: node
 latitude: -33.42947
 longitude: -70.64769
 postcode: ""
 city: Recoleta
-street: "Avenida Recoleta"
-housenumber: 320
+street: Avenida Recoleta
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

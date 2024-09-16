@@ -1,11 +1,11 @@
 id: 206342226
-type: way
+type: node
 latitude: -37.80228
 longitude: -73.40046
 postcode: ""
 city: Cañete
-street: "Saavedra"
-housenumber: 525
+street: Saavedra
+housenumber: "525"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00; Su,PH 09:00-20:00; "
+opening_hours: 'Mo-Sa 08:30-21:00; Su,PH 09:00-20:00; '
 website: ""

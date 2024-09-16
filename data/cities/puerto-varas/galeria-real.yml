@@ -1,11 +1,11 @@
 id: 281211448
-type: way
+type: node
 latitude: -41.31841
 longitude: -72.98377
 postcode: ""
 city: Puerto Varas
-street: "San Pedro"
-housenumber: 519
+street: San Pedro
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

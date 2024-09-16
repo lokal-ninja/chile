@@ -1,11 +1,11 @@
 id: 272344717
-type: way
+type: node
 latitude: -33.31376
 longitude: -71.40898
 postcode: ""
 city: Casablanca
-street: "Avenida Constitución"
-housenumber: 640
+street: Avenida Constitución
+housenumber: "640"
 phone: ""
-opening_hours: "10:30-13:30,17:00-21:00"
+opening_hours: 10:30-13:30,17:00-21:00
 website: ""

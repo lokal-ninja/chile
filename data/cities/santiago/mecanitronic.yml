@@ -1,11 +1,11 @@
 id: 449456934
-type: way
+type: node
 latitude: -33.45416
 longitude: -70.65327
 postcode: ""
 city: Santiago
 street: ""
-housenumber: 1339
+housenumber: "1339"
 phone: ""
 opening_hours: ""
 website: ""

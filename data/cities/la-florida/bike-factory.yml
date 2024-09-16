@@ -1,11 +1,11 @@
 id: 674785006
-type: way
+type: node
 latitude: -33.44514
 longitude: -70.64938
 postcode: ""
 city: La Florida
-street: "Tepa"
-housenumber: 842
+street: Tepa
+housenumber: "842"
 phone: "+56951333630"
-opening_hours: "Mo-Fr 11:00-19:00"
-website: "https://www.bikefactory.cl/"
+opening_hours: Mo-Fr 11:00-19:00
+website: https://www.bikefactory.cl/

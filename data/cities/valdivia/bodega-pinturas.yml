@@ -1,11 +1,11 @@
 id: 771222200
-type: way
+type: node
 latitude: -39.81505
 longitude: -73.22402
 postcode: ""
 city: Valdivia
-street: "Pedro Aguirre Cerda"
-housenumber: 242
+street: Pedro Aguirre Cerda
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

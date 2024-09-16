@@ -1,11 +1,11 @@
 id: 783515134
-type: way
+type: node
 latitude: -39.83335
 longitude: -73.23996
 postcode: ""
 city: Valdivia
-street: "Avenida Simpson"
-housenumber: 776
+street: Avenida Simpson
+housenumber: "776"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 870626791
-type: way
+type: node
 latitude: -54.80873
 longitude: -68.31496
-postcode: "V9410"
+postcode: V9410
 city: Ushuaia
-street: "Avenida San Martín"
-housenumber: 1237
+street: Avenida San Martín
+housenumber: "1237"
 phone: ""
 opening_hours: ""
 website: ""

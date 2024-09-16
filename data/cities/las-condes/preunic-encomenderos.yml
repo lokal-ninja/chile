@@ -1,11 +1,11 @@
 id: 450391272
-type: way
+type: node
 latitude: -33.41751
 longitude: -70.60214
 postcode: ""
 city: Las Condes
-street: "Encomenderos"
-housenumber: 64
+street: Encomenderos
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 449297697
-type: way
+type: node
 latitude: -33.42526
 longitude: -70.59102
 postcode: ""
 city: Las Condes
-street: "La Niña"
-housenumber: 3086
+street: La Niña
+housenumber: "3086"
 phone: "+56222071530"
-opening_hours: "Tu-Su 10:00-18:00"
-website: "https://www.anahit.cl/"
+opening_hours: Tu-Su 10:00-18:00
+website: https://www.anahit.cl/

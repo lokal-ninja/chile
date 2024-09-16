@@ -1,11 +1,11 @@
 id: 135623146
-type: way
+type: node
 latitude: -38.71725
 longitude: -72.65127
 postcode: ""
 city: Temuco
-street: "Avenida Los Creadores"
-housenumber: 0191
+street: Avenida Los Creadores
+housenumber: "0191"
 phone: ""
 opening_hours: ""
 website: ""

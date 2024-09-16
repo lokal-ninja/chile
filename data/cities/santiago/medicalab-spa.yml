@@ -4,8 +4,8 @@ latitude: -33.44129
 longitude: -70.64828
 postcode: ""
 city: Santiago
-street: "San Antonio"
-housenumber: 114
+street: San Antonio
+housenumber: "114"
 phone: "+56948793705"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://medicalab.cl/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://medicalab.cl/
