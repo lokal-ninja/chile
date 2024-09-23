@@ -1,5 +1,5 @@
 ---
 title: "Almacen y Bazar"
-url: /puente-alto/almacen-y-bazar-rio-colorado/
+url: /puente-alto/almacen-y-bazar-santa-elvira/
 shop: comodidad
 ---
