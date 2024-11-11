@@ -1,6 +1,6 @@
 ---
 title: Puente Alto
 url: /puente-alto/
-latitude: -33.571
-longitude: -70.557
+latitude: -33.6
+longitude: -70.575
 ---
