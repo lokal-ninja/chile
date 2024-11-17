@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /puerto-varas/head/
-shop: ropa
+shop: deportes
 ---
