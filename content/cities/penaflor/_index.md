@@ -1,6 +1,6 @@
 ---
 title: Peñaflor
 url: /penaflor/
-latitude: -33.611
-longitude: -70.902
+latitude: -33.605
+longitude: -70.852
 ---
