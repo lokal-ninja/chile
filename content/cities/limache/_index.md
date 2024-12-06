@@ -1,6 +1,6 @@
 ---
 title: Limache
 url: /limache/
-latitude: -32.985
-longitude: -71.277
+latitude: -32.984
+longitude: -71.275
 ---
