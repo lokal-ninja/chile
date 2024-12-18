@@ -1,5 +1,5 @@
 ---
 title: "Punto Copec"
-url: /castro/punto-copec-ruta-5-sur/
+url: /castro/punto-copec-galvarino-riveros/
 shop: comodidad
 ---
