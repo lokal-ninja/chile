@@ -1,6 +1,6 @@
 ---
 title: Paine
 url: /paine/
-latitude: -33.809
-longitude: -70.742
+latitude: -33.817
+longitude: -70.739
 ---
