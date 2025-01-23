@@ -1,6 +1,6 @@
 ---
 title: Longaví
 url: /longavi/
-latitude: -35.967
-longitude: -71.683
+latitude: -35.963
+longitude: -71.682
 ---

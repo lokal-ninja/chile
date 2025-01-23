@@ -1,5 +1,5 @@
 ---
-title: "Optica A. Sanzana"
+title: "Óptica A. Sanzana"
 url: /valdivia/optica-a-sanzana/
 shop: óptico
 ---
