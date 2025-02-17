@@ -1,6 +1,6 @@
 ---
 title: Puyuhuapi
 url: /puyuhuapi/
-latitude: -44.325
-longitude: -72.559
+latitude: -44.324
+longitude: -72.557
 ---

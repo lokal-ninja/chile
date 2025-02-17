@@ -1,6 +1,6 @@
 ---
 title: Puerto Varas
 url: /puerto-varas/
-latitude: -41.317
-longitude: -72.985
+latitude: -41.318
+longitude: -72.982
 ---
