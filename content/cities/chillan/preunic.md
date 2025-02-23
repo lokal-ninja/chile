@@ -1,5 +1,5 @@
 ---
 title: "Preunic"
 url: /chillan/preunic/
-shop: general
+shop: farmacia
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coronel
 url: /coronel/
-latitude: -37.026
-longitude: -73.148
+latitude: -37.013
+longitude: -73.159
 ---
