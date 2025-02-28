@@ -1,6 +1,6 @@
 ---
 title: Rancagua
 url: /rancagua/
-latitude: -34.187
-longitude: -70.725
+latitude: -34.185
+longitude: -70.724
 ---
