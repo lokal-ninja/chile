@@ -1,6 +1,6 @@
 ---
 title: Castro
 url: /castro/
-latitude: -42.48
-longitude: -73.762
+latitude: -42.481
+longitude: -73.765
 ---

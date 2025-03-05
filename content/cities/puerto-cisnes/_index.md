@@ -1,6 +1,6 @@
 ---
 title: Puerto Cisnes
 url: /puerto-cisnes/
-latitude: -44.724
-longitude: -72.684
+latitude: -44.733
+longitude: -72.681
 ---
