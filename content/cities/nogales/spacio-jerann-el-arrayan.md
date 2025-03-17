@@ -1,5 +1,5 @@
 ---
 title: "Spacio Jerann"
 url: /nogales/spacio-jerann-el-arrayan/
-shop: erótico
+shop: cosméticos
 ---

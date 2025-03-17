@@ -1,6 +1,6 @@
 ---
 title: Loncoche
 url: /loncoche/
-latitude: -39.37
-longitude: -72.631
+latitude: -39.367
+longitude: -72.63
 ---
