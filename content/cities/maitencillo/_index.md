@@ -1,6 +1,6 @@
 ---
 title: Maitencillo
 url: /maitencillo/
-latitude: -32.645
+latitude: -32.646
 longitude: -71.425
 ---
