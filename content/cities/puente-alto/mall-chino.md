@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino"
 url: /puente-alto/mall-chino/
-shop: comodidad
+shop: tienda de variedades
 ---
