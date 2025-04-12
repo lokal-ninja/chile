@@ -1,5 +1,5 @@
 ---
 title: "Amphora"
 url: /valdivia/amphora/
-shop: tienda
+shop: ropa
 ---

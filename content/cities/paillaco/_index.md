@@ -1,6 +1,6 @@
 ---
 title: Paillaco
 url: /paillaco/
-latitude: -40.071
-longitude: -72.873
+latitude: -40.072
+longitude: -72.874
 ---

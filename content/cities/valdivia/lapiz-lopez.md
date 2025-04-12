@@ -1,5 +1,5 @@
 ---
 title: "Lapiz Lopez"
 url: /valdivia/lapiz-lopez/
-shop: general
+shop: material de oficina
 ---

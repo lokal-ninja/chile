@@ -1,5 +1,5 @@
 ---
-title: "COLUN"
+title: "Colun"
 url: /paillaco/colun/
-shop: hágalo usted mismo
+shop: lácteos
 ---
