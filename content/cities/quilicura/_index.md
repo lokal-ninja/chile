@@ -1,6 +1,6 @@
 ---
 title: Quilicura
 url: /quilicura/
-latitude: -33.354
-longitude: -70.75
+latitude: -33.367
+longitude: -70.734
 ---
