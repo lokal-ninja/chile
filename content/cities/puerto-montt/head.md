@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /puerto-montt/head/
-shop: deportes
+shop: bolsas y maletas
 ---

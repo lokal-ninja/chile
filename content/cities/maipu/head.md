@@ -1,5 +1,5 @@
 ---
 title: "Head"
 url: /maipu/head/
-shop: deportes
+shop: bolsas y maletas
 ---

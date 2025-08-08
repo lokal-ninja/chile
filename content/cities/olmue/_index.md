@@ -1,6 +1,6 @@
 ---
 title: Olmué
 url: /olmue/
-latitude: -32.993
-longitude: -71.168
+latitude: -32.991
+longitude: -71.164
 ---

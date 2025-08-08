@@ -1,5 +1,5 @@
 ---
 title: "La Librería"
 url: /puerto-varas/la-libreria/
-shop: tienda de variedades
+shop: material de oficina
 ---
