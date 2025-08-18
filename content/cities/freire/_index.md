@@ -1,6 +1,6 @@
 ---
 title: Freire
 url: /freire/
-latitude: -38.956
-longitude: -72.627
+latitude: -38.963
+longitude: -72.629
 ---
