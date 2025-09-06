@@ -1,6 +1,6 @@
 ---
 title: Rosario
 url: /rosario/
-latitude: -34.356
-longitude: -70.846
+latitude: -34.348
+longitude: -70.838
 ---
