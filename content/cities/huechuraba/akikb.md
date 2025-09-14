@@ -1,5 +1,5 @@
 ---
-title: "AkiKB"
+title: "akiKB"
 url: /huechuraba/akikb/
 shop: alquiler
 ---
