@@ -1,6 +1,6 @@
 ---
 title: Hualpén
 url: /hualpen/
-latitude: -36.78
-longitude: -73.106
+latitude: -36.798
+longitude: -73.107
 ---
