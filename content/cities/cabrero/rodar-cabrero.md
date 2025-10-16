@@ -1,5 +1,5 @@
 ---
-title: "RODAR CABRERO"
+title: "Rodar Cabrero"
 url: /cabrero/rodar-cabrero/
 shop: piezas de automóviles
 ---
