@@ -1,5 +1,5 @@
 ---
 title: "Lider"
-url: /calama/lider-balmaceda/
+url: /calama/lider-huaytiquina/
 shop: supermercado
 ---

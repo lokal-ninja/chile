@@ -1,5 +1,5 @@
 ---
 title: "El Trébol"
-url: /temuco/el-trebol-vicuna-mackenna/
+url: /temuco/el-trebol-manuel-bulnes/
 shop: supermercado
 ---
