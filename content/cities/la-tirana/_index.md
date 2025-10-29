@@ -1,6 +1,6 @@
 ---
 title: La Tirana
 url: /la-tirana/
-latitude: -20.334
-longitude: -69.663
+latitude: -20.335
+longitude: -69.657
 ---
