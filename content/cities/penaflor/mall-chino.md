@@ -1,5 +1,5 @@
 ---
 title: "Mall Chino"
 url: /penaflor/mall-chino/
-shop: centro comercial
+shop: tienda de variedades
 ---

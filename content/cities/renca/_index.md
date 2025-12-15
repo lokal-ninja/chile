@@ -1,6 +1,6 @@
 ---
 title: Renca
 url: /renca/
-latitude: -33.405
-longitude: -70.709
+latitude: -33.399
+longitude: -70.755
 ---

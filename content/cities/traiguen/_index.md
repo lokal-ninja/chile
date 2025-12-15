@@ -1,6 +1,6 @@
 ---
-title: Traiguén
+title: traiguen
 url: /traiguen/
-latitude: -38.253
+latitude: -38.249
 longitude: -72.668
 ---
