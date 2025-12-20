@@ -1,6 +1,6 @@
 ---
 title: Arica
 url: /arica/
-latitude: -18.48
-longitude: -70.317
+latitude: -18.475
+longitude: -70.315
 ---

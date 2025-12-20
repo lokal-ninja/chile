@@ -1,5 +1,5 @@
 ---
-title: "Líder"
+title: "Lider"
 url: /iquique/lider/
 shop: supermercado
 ---
