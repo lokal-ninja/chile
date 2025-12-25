@@ -1,5 +1,5 @@
 ---
 title: "Importadora Buen Amigo"
 url: /concepcion/importadora-buen-amigo/
-shop: supermercado
+shop: menaje del hogar
 ---
