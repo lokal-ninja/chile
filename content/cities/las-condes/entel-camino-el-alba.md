@@ -1,5 +1,5 @@
 ---
 title: "Entel"
-url: /las-condes/entel-avenida-las-condes/
+url: /las-condes/entel-camino-el-alba/
 shop: teléfono móvil
 ---

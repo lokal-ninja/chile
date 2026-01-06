@@ -1,5 +1,5 @@
 ---
 title: "Lider"
-url: /nunoa/lider-avenida-macul/
+url: /san-pedro-de-la-paz/lider/
 shop: supermercado
 ---
