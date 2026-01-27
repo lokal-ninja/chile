@@ -1,5 +1,5 @@
 ---
-title: "Supermercado el Trébol"
+title: "Supermercado El Trébol"
 url: /lautaro/supermercado-el-trebol/
 shop: supermercado
 ---
