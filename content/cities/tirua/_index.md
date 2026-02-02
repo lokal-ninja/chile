@@ -1,6 +1,6 @@
 ---
-title: Tirúa
+title: Tirua
 url: /tirua/
-latitude: -38.339
-longitude: -73.491
+latitude: -38.343
+longitude: -73.495
 ---
