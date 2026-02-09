@@ -1,6 +1,6 @@
 ---
 title: Olivar
 url: /olivar/
-latitude: -34.216
-longitude: -70.807
+latitude: -34.207
+longitude: -70.764
 ---
