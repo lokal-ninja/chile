@@ -1,6 +1,6 @@
 ---
 title: Algarrobo
 url: /algarrobo/
-latitude: -33.367
-longitude: -71.674
+latitude: -33.369
+longitude: -71.669
 ---
