@@ -1,5 +1,5 @@
 ---
 title: "Casa Tronco"
 url: /puerto-varas/casa-tronco/
-shop: ropa
+shop: exterior
 ---
