@@ -1,5 +1,5 @@
 ---
-title: "Almacén"
+title: "Almacen"
 url: /el-bosque/almacen/
 shop: comodidad
 ---
