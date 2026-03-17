@@ -1,6 +1,6 @@
 ---
 title: Coyhaique
 url: /coyhaique/
-latitude: -45.575
-longitude: -72.072
+latitude: -45.578
+longitude: -72.074
 ---
