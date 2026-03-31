@@ -1,5 +1,5 @@
 ---
-title: "Urzua"
+title: "Urzúa"
 url: /vitacura/urzua/
 shop: general
 ---

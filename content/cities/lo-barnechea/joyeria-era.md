@@ -1,5 +1,5 @@
 ---
-title: "Joyeria Era"
+title: "Joyería Era"
 url: /lo-barnechea/joyeria-era/
 shop: joyería
 ---
