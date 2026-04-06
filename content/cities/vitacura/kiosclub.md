@@ -1,5 +1,5 @@
 ---
-title: "Kiosclub"
+title: "KiosClub"
 url: /vitacura/kiosclub/
 shop: comodidad
 ---
