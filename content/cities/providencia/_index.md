@@ -1,6 +1,6 @@
 ---
 title: Providencia
 url: /providencia/
-latitude: -33.428
-longitude: -70.618
+latitude: -33.422
+longitude: -70.609
 ---
