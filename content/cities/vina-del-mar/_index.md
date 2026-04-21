@@ -1,6 +1,6 @@
 ---
 title: Viña del Mar
 url: /vina-del-mar/
-latitude: -32.98
-longitude: -71.53
+latitude: -33.014
+longitude: -71.551
 ---
