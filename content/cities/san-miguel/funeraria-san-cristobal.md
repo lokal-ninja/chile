@@ -1,5 +1,5 @@
 ---
-title: "Funeraria San Cristobal"
+title: "Funeraria San Cristóbal"
 url: /san-miguel/funeraria-san-cristobal/
 shop: directores de funerarias
 ---

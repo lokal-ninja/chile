@@ -1,5 +1,5 @@
 ---
-title: "Almacen La Esquina"
+title: "Almacén La Esquina"
 url: /penalolen/almacen-la-esquina/
 shop: comodidad
 ---

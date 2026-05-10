@@ -1,5 +1,5 @@
 ---
-title: "Botilleria El Africano"
+title: "Botillería El Africano"
 url: /san-miguel/botilleria-el-africano/
 shop: alcohol
 ---
