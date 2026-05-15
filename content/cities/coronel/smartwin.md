@@ -1,5 +1,5 @@
 ---
 title: "Smartwin"
 url: /coronel/smartwin/
-shop: comercio
+shop: hardware
 ---
