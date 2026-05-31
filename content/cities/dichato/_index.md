@@ -1,6 +1,6 @@
 ---
 title: Dichato
 url: /dichato/
-latitude: -36.548
-longitude: -72.935
+latitude: -36.547
+longitude: -72.934
 ---
