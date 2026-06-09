@@ -1,6 +1,6 @@
 ---
 title: Quilpué
 url: /quilpue/
-latitude: -33.045
-longitude: -71.42
+latitude: -33.047
+longitude: -71.442
 ---

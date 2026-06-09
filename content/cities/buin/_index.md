@@ -2,5 +2,5 @@
 title: Buin
 url: /buin/
 latitude: -33.731
-longitude: -70.742
+longitude: -70.741
 ---
