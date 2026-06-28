@@ -1,6 +1,6 @@
 ---
 title: Linares
 url: /linares/
-latitude: -35.842
-longitude: -71.607
+latitude: -35.847
+longitude: -71.599
 ---
