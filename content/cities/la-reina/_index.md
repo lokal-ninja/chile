@@ -1,6 +1,6 @@
 ---
 title: La Reina
 url: /la-reina/
-latitude: -33.44
-longitude: -70.557
+latitude: -33.441
+longitude: -70.544
 ---

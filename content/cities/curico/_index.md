@@ -1,6 +1,6 @@
 ---
 title: Curicó
 url: /curico/
-latitude: -34.957
-longitude: -71.196
+latitude: -34.981
+longitude: -71.239
 ---
