@@ -1,6 +1,6 @@
 ---
 title: Carahue
 url: /carahue/
-latitude: -38.713
-longitude: -73.167
+latitude: -38.712
+longitude: -73.165
 ---
