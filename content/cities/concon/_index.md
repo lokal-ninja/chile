@@ -1,6 +1,6 @@
 ---
 title: Concón
 url: /concon/
-latitude: -32.934
-longitude: -71.531
+latitude: -32.94
+longitude: -71.546
 ---
