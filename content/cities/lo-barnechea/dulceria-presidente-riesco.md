@@ -1,5 +1,5 @@
 ---
-title: "Dulceria Presidente Riesco"
+title: "Dulcería Presidente Riesco"
 url: /lo-barnechea/dulceria-presidente-riesco/
 shop: panadería
 ---
