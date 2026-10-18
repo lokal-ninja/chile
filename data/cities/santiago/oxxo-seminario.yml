@@ -7,5 +7,5 @@ city: Santiago
 street: Seminario
 housenumber: "768"
 phone: ""
-opening_hours: Mo-Fr 7:15-22:00 Sa 08:00-22:00
+opening_hours: Mo-Fr 07:15-22:00;Sa 08:00-22:00
 website: ""
