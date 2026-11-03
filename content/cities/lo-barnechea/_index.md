@@ -1,6 +1,6 @@
 ---
 title: Lo Barnechea
 url: /lo-barnechea/
-latitude: -33.358
-longitude: -70.515
+latitude: -33.359
+longitude: -70.516
 ---
